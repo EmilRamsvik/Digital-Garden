@@ -1,0 +1,5 @@
+Vinden er kjølig og biter seg igjennom jakken. Himmelen er grå og kjedelig og kan forveksles med murblokkene rundt parken. Til å med parken har svunnet hen og ikledd seg en vinterdrakt som ennå ikke er snø
+
+Jeg går og går rundt omkring langs veiene, uten noen store planer eller mål som neste skritt skal ta meg mot. På en måte er det befriende, jeg trenger ikke å tenke på hva neste dag skal bringe eller hva som kan forhindre min vei mot et hypotestisk mål. Mål er   vår intrikate måte å drive oss selv fremover, selv om uansett kommer skuffelsen. Om vi når våre mål så blir vi skuffet av at det var for lett eller enkelt, om vi ikke klarer det blir motivasjonen skutt ihjel av en kanonade av negative tanker. Du kan ikke tape om du ikke spiller tenker jeg halveis ned i runde 3 rundt dammen. 
+
+Den ene benken er dekket av rim, vinteren er rett rundt hjørnet. På en måte er denne tiden en god tid, selv om mørket snart faller over parken så alt for tidlig og alt er grått. Det er på måten en tid der man kan fokusere på seg selv og ikke bli for stresset av å ikke måtte gjøre alle tingene man skulle gjøre på en gang. Ingen er redd for å miste noe de
