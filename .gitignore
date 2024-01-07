@@ -1,11 +1,11 @@
 # Dependency directories
-node_modules/
+node_modules/*
 
 # Production build files
 build/*
 
 # Docusaurus local development
-.docusaurus/
+.docusaurus/*
 
 # System files
 .DS_Store
