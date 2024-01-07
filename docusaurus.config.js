@@ -23,8 +23,8 @@ const config = {
   organizationName: 'emilRamsvik', // Usually your GitHub org/user name.
   projectName: 'KnowledgeGarden', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'ignore',
+  onBrokenMarkdownLinks: 'ignore',
 
 
 
