@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2024-01-07T20:21
+updated: 2024-01-07T20:50
 ---
 
 #### [Made to Stick](Book%20Reviews/Made%20to%20Stick.md)
@@ -145,7 +145,7 @@ updated: 2024-01-07T20:21
 *Pages*: 304
 *Language*: English
 
-#### [ Red Famine](Book%20Reviews/%20Red%20Famine.md)
+#### [Red Famine](Book%20Reviews/Red%20Famine.md)
 *Author:* Anne Applebaum
 *Pages*: 338
 *Language*: English
@@ -269,7 +269,7 @@ updated: 2024-01-07T20:21
 *Pages*: 246
 *Language*: English
 
-#### [Personal/Books/Book Reviews/On Palestine|On Palestine](Book%20Reviews/Personal/Books/Book%20Reviews/On%20Palestine|On%20Palestine.md)
+#### [On Palestine](Book%20Reviews/On%20Palestine.md)
 *Author:* Noam Chomsky, Illian Pappe
 *Pages*: 224
 *Language*: English
@@ -374,7 +374,7 @@ updated: 2024-01-07T20:21
 *Pages*: 320
 *Language*: English
 
-#### [Personal/Books/Book Reviews/Black Boy|Black Boy](Book%20Reviews/Personal/Books/Book%20Reviews/Black%20Boy|Black%20Boy.md)
+#### [Black Boy](Book%20Reviews/Black%20Boy.md)
 *Author:* Richard Wright
 *Pages*: 419
 *Language*: English
