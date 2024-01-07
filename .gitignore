@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Production build files
+build/
+
+# Docusaurus local development
+.docusaurus/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: Environment files
+.env
+.env.local
