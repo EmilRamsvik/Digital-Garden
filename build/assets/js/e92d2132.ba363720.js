@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[99374],{99467:i=>{i.exports=JSON.parse('{"label":"processes","permalink":"/docs/tags/processes","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Thinking/Thinking","title":"Thinking","description":"- Normalization of Deviance","permalink":"/docs/Thinking/"}],"unlisted":false}')}}]);

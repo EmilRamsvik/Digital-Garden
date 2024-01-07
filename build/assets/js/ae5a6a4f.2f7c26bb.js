@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[4921],{41419:s=>{s.exports=JSON.parse('{"label":"post-modernism","permalink":"/docs/tags/post-modernism","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Philosophy/Philosophy","title":"Philosophy","description":"System Building","permalink":"/docs/Philosophy/"}],"unlisted":false}')}}]);

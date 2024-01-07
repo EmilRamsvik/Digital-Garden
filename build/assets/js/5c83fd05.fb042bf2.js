@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[36997],{79656:a=>{a.exports=JSON.parse('{"label":"laos","permalink":"/docs/tags/laos","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Travel/Places/Laos","title":"Description","description":"Vientiane","permalink":"/docs/Travel/Places/Laos"}],"unlisted":false}')}}]);

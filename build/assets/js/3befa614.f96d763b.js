@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[79459],{78447:e=>{e.exports=JSON.parse('{"label":"ux","permalink":"/docs/tags/ux","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Design/Design","title":"Design","description":"Atomic Design","permalink":"/docs/Design/"}],"unlisted":false}')}}]);

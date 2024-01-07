@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[47432],{40068:a=>{a.exports=JSON.parse('{"label":"amazon","permalink":"/docs/tags/amazon","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Cloud/AWS","title":"AWS","description":"- SST AWS for Typescript in 100 seconds","permalink":"/docs/Cloud/AWS"}],"unlisted":false}')}}]);

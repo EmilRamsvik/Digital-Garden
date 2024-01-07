@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[31430],{40258:s=>{s.exports=JSON.parse('{"label":"relaxing","permalink":"/docs/tags/relaxing","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Music/Music","title":"Music","description":"Spotify","permalink":"/docs/Music/"}],"unlisted":false}')}}]);

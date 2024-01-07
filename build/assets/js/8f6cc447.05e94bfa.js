@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[10945],{20513:l=>{l.exports=JSON.parse('{"label":"cliud","permalink":"/docs/tags/cliud","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Cloud/Cloud","title":"Cloud","description":"Virtual Networks","permalink":"/docs/Cloud/"}],"unlisted":false}')}}]);

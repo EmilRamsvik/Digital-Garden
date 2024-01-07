@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[15059],{83080:s=>{s.exports=JSON.parse('{"label":"journaling","permalink":"/docs/tags/journaling","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Iphone/Apps","title":"Apps","description":"Streaks","permalink":"/docs/Iphone/Apps"}],"unlisted":false}')}}]);
