@@ -1,0 +1,45 @@
+{
+  "label": "mathematics",
+  "permalink": "/docs/tags/mathematics",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "Mathematics/Chaos",
+      "title": "Chaos",
+      "description": "I discovered chaos partly through two main venues. The first is the teachings and works of Nassim Niclas Taleb, which are mainly concerned with uncertainty and rare events that pose risks.",
+      "permalink": "/docs/Mathematics/Chaos"
+    },
+    {
+      "id": "Mathematics/Mathematics",
+      "title": "Mathematics",
+      "description": "Winning starts with knowing what game you're playing. Game theory is a fascinating concept, and one of the most important \"case studies\" is the prisoner's dilemma. Understanding mathematical optimal strategies is essential when understanding how the world works.",
+      "permalink": "/docs/Mathematics/"
+    },
+    {
+      "id": "Books/Book Reviews/Moneyball",
+      "title": "Moneyball",
+      "description": "How statistics revolutionized baseball. Goes into detail about the famous (now movie) season of the Oakland A´s season and why and how they succeeded despite a pitiful budget. It highlights our human faults and how some can benefit greatly from exploiting other people´s biases.",
+      "permalink": "/docs/Books/Book Reviews/Moneyball"
+    },
+    {
+      "id": "Books/Book Reviews/The Creativity Code",
+      "title": "The Creativity Code",
+      "description": "This book is about how creativity is entering a new age where AI and machine learning enhances and sometimes surpass human creativity. It is about what creativity is at its core. And it is about how",
+      "permalink": "/docs/Books/Book Reviews/The Creativity Code"
+    },
+    {
+      "id": "Books/Book Reviews/The Man from the Future The Visionary Life of John von Neumann",
+      "title": "The Man from the Future The Visionary Life of John von Neumann",
+      "description": "This book is about the fascinating life of John von Neumann. It describes the work and the ramifications of the work he ventured on. Things like game theory, the biology of cell automata, economics, physics, mathematics, and computer science are all fields either founded or drastically influenced by the work of John von Neumann.",
+      "permalink": "/docs/Books/Book Reviews/The Man from the Future The Visionary Life of John von Neumann"
+    },
+    {
+      "id": "Books/Book Reviews/The Quants",
+      "title": "The Quants",
+      "description": "This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work. However, the real world is not a model, and quants are also humans, as the financial crisis showed.",
+      "permalink": "/docs/Books/Book Reviews/The Quants"
+    }
+  ],
+  "unlisted": false
+}

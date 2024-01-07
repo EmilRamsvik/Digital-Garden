@@ -1,0 +1,15 @@
+{
+  "label": "sports",
+  "permalink": "/docs/tags/sports",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Moneyball",
+      "title": "Moneyball",
+      "description": "How statistics revolutionized baseball. Goes into detail about the famous (now movie) season of the Oakland A´s season and why and how they succeeded despite a pitiful budget. It highlights our human faults and how some can benefit greatly from exploiting other people´s biases.",
+      "permalink": "/docs/Books/Book Reviews/Moneyball"
+    }
+  ],
+  "unlisted": false
+}

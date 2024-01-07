@@ -1,0 +1,57 @@
+{
+  "id": "Music/Music",
+  "title": "Music",
+  "description": "Spotify",
+  "source": "@site/docs/Music/Music.md",
+  "sourceDirName": "Music",
+  "slug": "/Music/",
+  "permalink": "/docs/Music/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Music/Music.md",
+  "tags": [
+    {
+      "label": "classical-music",
+      "permalink": "/docs/tags/classical-music"
+    },
+    {
+      "label": "music",
+      "permalink": "/docs/tags/music"
+    },
+    {
+      "label": "relaxing",
+      "permalink": "/docs/tags/relaxing"
+    },
+    {
+      "label": "sound",
+      "permalink": "/docs/tags/sound"
+    },
+    {
+      "label": "concentration",
+      "permalink": "/docs/tags/concentration"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "May 31, 2023",
+    "tags": [
+      "classical-music",
+      "music",
+      "relaxing",
+      "sound",
+      "concentration"
+    ],
+    "Finished": false,
+    "created": "2024-01-06T15:01",
+    "updated": "2024-01-06T15:01"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Motivation",
+    "permalink": "/docs/Motivation/"
+  },
+  "next": {
+    "title": "Discover and Sharing",
+    "permalink": "/docs/Music/Discover and Sharing"
+  }
+}

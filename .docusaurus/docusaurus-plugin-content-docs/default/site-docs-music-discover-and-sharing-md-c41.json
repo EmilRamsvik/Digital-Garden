@@ -1,0 +1,52 @@
+{
+  "id": "Music/Discover and Sharing",
+  "title": "Discover and Sharing",
+  "description": "I try to expand my musical horizon as much as possible. So that I can have music for all my moods and situations. Most of all, the music I discover is either through Spotify or YouTube, but sometimes I think that the best experiences are going to a festival or concert and getting introduced to new artists.",
+  "source": "@site/docs/Music/Discover and Sharing.md",
+  "sourceDirName": "Music",
+  "slug": "/Music/Discover and Sharing",
+  "permalink": "/docs/Music/Discover and Sharing",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Music/Discover and Sharing.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "music",
+      "permalink": "/docs/tags/music"
+    },
+    {
+      "label": "sharing",
+      "permalink": "/docs/tags/sharing"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "2023-06-05T00:00:00.000Z",
+    "Finished": false,
+    "tags": [
+      "article",
+      "digital-garden",
+      "music",
+      "sharing"
+    ],
+    "created": "2024-01-06T15:01",
+    "updated": "2024-01-06T15:01"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Music",
+    "permalink": "/docs/Music/"
+  },
+  "next": {
+    "title": "Obsidian",
+    "permalink": "/docs/Obsidian/"
+  }
+}

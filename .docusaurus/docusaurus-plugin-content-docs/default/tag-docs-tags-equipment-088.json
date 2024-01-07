@@ -1,0 +1,15 @@
+{
+  "label": "equipment",
+  "permalink": "/docs/tags/equipment",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Food/Equipment",
+      "title": "Equipment",
+      "description": "In this article, I list the most important tools I use in the kitchen.  My philosophy for tools can be found in the tools section [[Tools]]",
+      "permalink": "/docs/Food/Equipment"
+    }
+  ],
+  "unlisted": false
+}

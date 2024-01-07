@@ -1,0 +1,51 @@
+{
+  "label": "#fantasy",
+  "permalink": "/docs/tags/fantasy",
+  "allTagsPath": "/docs/tags",
+  "count": 7,
+  "items": [
+    {
+      "id": "Books/Book Reviews/A little Hatred",
+      "title": "A little Hatred",
+      "description": "The thrilling sequel to the first Law and its follow-up books. Set in an industrial revolution age, class struggle, money, and power are keywords. The characters are fascinating and funny in that you can see their faults even by following their perspective.",
+      "permalink": "/docs/Books/Book Reviews/A little Hatred"
+    },
+    {
+      "id": "Books/Book Reviews/Best served Cold",
+      "title": "Best served Cold",
+      "description": "The book is set in a different place than the first law, but a lot of the characters from the first law series are there and it is very much connected. It follows a mercenary woman and her quest for revenge. It is filled with betrayals.",
+      "permalink": "/docs/Books/Book Reviews/Best served Cold"
+    },
+    {
+      "id": "Books/Book Reviews/Eisenhorn",
+      "title": "Eisenhorn",
+      "description": "A fantasy set in the 40k universe. The book is about the adventures of Eisenhorn the Inquisitor and his retinue. It is fantasy through and through but fun and engaging through 3 stories.",
+      "permalink": "/docs/Books/Book Reviews/Eisenhorn"
+    },
+    {
+      "id": "Books/Book Reviews/Red Country",
+      "title": "Red Country",
+      "description": "It is a fantasy book that takes inspiration from the Wild West area, with impulses from a lot of different settings from previous books. Mostly a story about traveling and challenges, as well as a few twists and turns. Mostly a book that is easy to read.",
+      "permalink": "/docs/Books/Book Reviews/Red Country"
+    },
+    {
+      "id": "Books/Book Reviews/The blade Itself",
+      "title": "The blade Itself",
+      "description": "This is the introductory. book in the first law series/world. It is the begining of the adventure of the main heroes of the first law triology. Most of it pertains to mundane tasks and world building.",
+      "permalink": "/docs/Books/Book Reviews/The blade Itself"
+    },
+    {
+      "id": "Books/Book Reviews/The Trouble with Peace",
+      "title": "The Trouble with Peace",
+      "description": "Manipulation, rebellion, and weak characters. This book has a good way of describing a changing society and its interests and their manipulations. You can see how characters shaped by honor lose to those who will stop at nothing to gain power.",
+      "permalink": "/docs/Books/Book Reviews/The Trouble with Peace"
+    },
+    {
+      "id": "Books/Book Reviews/The Wisdom of Crowds",
+      "title": "The Wisdom of Crowds",
+      "description": "Last book (for now) in the first law series. It is a good and interesting fantasy book in that it emulates the French Revolution. I quite liked it and how it portrays a turbulent age where power dictates the fate of life.",
+      "permalink": "/docs/Books/Book Reviews/The Wisdom of Crowds"
+    }
+  ],
+  "unlisted": false
+}

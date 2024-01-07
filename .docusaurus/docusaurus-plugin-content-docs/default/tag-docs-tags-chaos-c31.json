@@ -1,0 +1,21 @@
+{
+  "label": "chaos",
+  "permalink": "/docs/tags/chaos",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Alchemy",
+      "title": "Alchemy",
+      "description": "This book is about the lack of knowledge and the dangers of trying to be \"too\" scientific.  It goes into the different aspects of human nature that is difficult to explain.",
+      "permalink": "/docs/Books/Book Reviews/Alchemy"
+    },
+    {
+      "id": "Mathematics/Chaos",
+      "title": "Chaos",
+      "description": "I discovered chaos partly through two main venues. The first is the teachings and works of Nassim Niclas Taleb, which are mainly concerned with uncertainty and rare events that pose risks.",
+      "permalink": "/docs/Mathematics/Chaos"
+    }
+  ],
+  "unlisted": false
+}

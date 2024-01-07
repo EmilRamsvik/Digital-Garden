@@ -1,0 +1,33 @@
+{
+  "label": "data-engineering",
+  "permalink": "/docs/tags/data-engineering",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "AI/Data Drift",
+      "title": "Data Drift",
+      "description": "Data drift refers to the phenomenon where the statistical properties of a dataset used for machine learning or analysis change over time. This alteration can be due to various factors such as shifts in data collection processes, changes in the underlying distribution of the data, or modifications in the environment from which the data originates. Detecting and addressing data drift is crucial to maintaining the performance and reliability of machine learning models and analytical systems.",
+      "permalink": "/docs/AI/Data Drift"
+    },
+    {
+      "id": "Books/Book Reviews/Designing Machine Learning Systems",
+      "title": "Designing Machine Learning Systems",
+      "description": "This book covers the fundamentals of designing machine learning systems. It goes through the entire lifecycle of a machine learning system and then discusses the ecosystem and the challenges and cases that need to be considered.",
+      "permalink": "/docs/Books/Book Reviews/Designing Machine Learning Systems"
+    },
+    {
+      "id": "AI/Data Science/Feature Engineering",
+      "title": "Feature Engineering",
+      "description": "Dummy vs One-hot",
+      "permalink": "/docs/AI/Data Science/Feature Engineering"
+    },
+    {
+      "id": "Books/Book Reviews/Fundamentals of Data Engineering",
+      "title": "Fundamentals of Data Engineering",
+      "description": "This book covers the fundamentals of data engineering and how to solve problems. of data engineering without going to much into detail of the programming. It introduces concepts such as data warehouse and Kafka and data pipelines and ETL.",
+      "permalink": "/docs/Books/Book Reviews/Fundamentals of Data Engineering"
+    }
+  ],
+  "unlisted": false
+}

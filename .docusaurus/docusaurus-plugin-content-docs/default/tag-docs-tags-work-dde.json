@@ -1,0 +1,51 @@
+{
+  "label": "work",
+  "permalink": "/docs/tags/work",
+  "allTagsPath": "/docs/tags",
+  "count": 7,
+  "items": [
+    {
+      "id": "Working/Agile",
+      "title": "Aglie",
+      "description": "Planning Poker",
+      "permalink": "/docs/Working/Agile"
+    },
+    {
+      "id": "Books/Book Reviews/Extreme Ownership",
+      "title": "Extreme Ownership",
+      "description": "Leif and Jocko go through their combat experiences in combat and the lessons in leadership that they have learned from them. They break down concepts, explain why they are important for the SEALS, and highlight them in the business context as well.",
+      "permalink": "/docs/Books/Book Reviews/Extreme Ownership"
+    },
+    {
+      "id": "Mac/Mac",
+      "title": "Mac",
+      "description": "I switched from Windows to Mac in 2021 and used it privately until 2022 when I switched to a Mac for work as well.",
+      "permalink": "/docs/Mac/"
+    },
+    {
+      "id": "Books/Book Reviews/Peopleware",
+      "title": "Peopleware",
+      "description": "This book addresses the elephant in the software room, that people, not tech, are the obstacle. Tech is just there to be applied; solving the problem requires a lot of people and knowledge to go the right way. It also addresses how to solve this problem for humans.",
+      "permalink": "/docs/Books/Book Reviews/Peopleware"
+    },
+    {
+      "id": "Productivity/Productivity",
+      "title": "Productivity",
+      "description": "I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible.",
+      "permalink": "/docs/Productivity/"
+    },
+    {
+      "id": "Working/Remote Work",
+      "title": "Remote Work",
+      "description": "I did some remote working when I was at Bali, working primarily on my side projects. I felt like it is very difficult to motivate oneself if one does not have a social society or connection. It was fun however to experience new places.",
+      "permalink": "/docs/Working/Remote Work"
+    },
+    {
+      "id": "Working/Working",
+      "title": "Working",
+      "description": "I have currently worked in different types of work. From being a driver to being a moving operator, to a warehouse Employee,  and finally, a Data Scientist.",
+      "permalink": "/docs/Working/"
+    }
+  ],
+  "unlisted": false
+}

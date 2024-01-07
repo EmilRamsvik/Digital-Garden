@@ -1,0 +1,15 @@
+{
+  "label": "ci-cd",
+  "permalink": "/docs/tags/ci-cd",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "DevOps/DevOps",
+      "title": "DevOps",
+      "description": "-",
+      "permalink": "/docs/DevOps/"
+    }
+  ],
+  "unlisted": false
+}

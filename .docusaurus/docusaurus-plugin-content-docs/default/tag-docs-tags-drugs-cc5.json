@@ -1,0 +1,15 @@
+{
+  "label": "drugs",
+  "permalink": "/docs/tags/drugs",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Food/Coffee",
+      "title": "Coffee",
+      "description": "Coffee is probably the drug I am most comfortable using. Caffeine is something I am definitely addicted to, and I am comfortable with that.",
+      "permalink": "/docs/Food/Coffee"
+    }
+  ],
+  "unlisted": false
+}

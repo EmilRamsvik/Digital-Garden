@@ -1,0 +1,51 @@
+{
+  "id": "AI/Data Science/Recommendation Systems",
+  "title": "Recommendation Systems",
+  "description": "There are two types of recommendation systems",
+  "source": "@site/docs/AI/Data Science/Recommendation Systems.md",
+  "sourceDirName": "AI/Data Science",
+  "slug": "/AI/Data Science/Recommendation Systems",
+  "permalink": "/docs/AI/Data Science/Recommendation Systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AI/Data Science/Recommendation Systems.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "data-science",
+      "permalink": "/docs/tags/data-science"
+    },
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "digital-garden",
+      "data-science",
+      "python"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-06T15:04"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "ML Design Sprint",
+    "permalink": "/docs/AI/Data Science/ML Design Sprint"
+  },
+  "next": {
+    "title": "NLP",
+    "permalink": "/docs/AI/Language/NLP or LLM"
+  }
+}

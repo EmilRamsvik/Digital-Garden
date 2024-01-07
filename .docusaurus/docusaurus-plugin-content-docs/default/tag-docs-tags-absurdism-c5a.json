@@ -1,0 +1,27 @@
+{
+  "label": "absurdism",
+  "permalink": "/docs/tags/absurdism",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Philosophy/Philosophy",
+      "title": "Philosophy",
+      "description": "System Building",
+      "permalink": "/docs/Philosophy/"
+    },
+    {
+      "id": "Books/Book Reviews/The Myth of Sisyphus",
+      "title": "The Myth of Sisyphus",
+      "description": "Albert Camus is talking about the existence of good and the absence of meaning. The goal is to rebel against the existentialist.",
+      "permalink": "/docs/Books/Book Reviews/The Myth of Sisyphus"
+    },
+    {
+      "id": "Books/Book Reviews/The Stranger",
+      "title": "The Stranger",
+      "description": "One of Albert Camus's greatest works. It tells the story of the main character from such a distant and objective point that the reader gets taken by the meaninglessness of it all. It is a damning view of the way we strive for meaning in an absurd universe.",
+      "permalink": "/docs/Books/Book Reviews/The Stranger"
+    }
+  ],
+  "unlisted": false
+}

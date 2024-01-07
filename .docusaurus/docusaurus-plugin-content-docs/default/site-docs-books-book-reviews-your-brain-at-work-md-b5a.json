@@ -1,0 +1,78 @@
+{
+  "id": "Books/Book Reviews/Your Brain at Work",
+  "title": "Your Brain at Work",
+  "description": "This book is about how you can understand and work on your performance by understanding how the brain works. The book goes through different scenarios and explains why the persons in the scenario do what they do and what they can do to achieve better results.  The book contains helpful hints about how to \"hack\" your brain to achieve better results and improve your life.",
+  "source": "@site/docs/Books/Book Reviews/Your Brain at Work.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Your Brain at Work",
+  "permalink": "/docs/Books/Book Reviews/Your Brain at Work",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Your Brain at Work.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    },
+    {
+      "label": "brain",
+      "permalink": "/docs/tags/brain"
+    },
+    {
+      "label": "performance",
+      "permalink": "/docs/tags/performance"
+    },
+    {
+      "label": "studying",
+      "permalink": "/docs/tags/studying"
+    },
+    {
+      "label": "motivation",
+      "permalink": "/docs/tags/motivation"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    },
+    {
+      "label": "programming",
+      "permalink": "/docs/tags/programming"
+    },
+    {
+      "label": "self-improvement",
+      "permalink": "/docs/tags/self-improvement"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 304,
+    "Date Finished": "May 07, 2023",
+    "Author": "David Rock",
+    "tags": [
+      "books",
+      "non-fiction",
+      "brain",
+      "performance",
+      "studying",
+      "motivation",
+      "productivity",
+      "programming",
+      "self-improvement"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Word by Word",
+    "permalink": "/docs/Books/Book Reviews/Word by Word"
+  },
+  "next": {
+    "title": "Zen & The Art of Motorcycle Maintenance",
+    "permalink": "/docs/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance"
+  }
+}

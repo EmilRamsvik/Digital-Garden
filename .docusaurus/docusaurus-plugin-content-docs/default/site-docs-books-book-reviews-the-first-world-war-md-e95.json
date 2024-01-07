@@ -1,0 +1,64 @@
+{
+  "id": "Books/Book Reviews/The First World War",
+  "title": "The First World War",
+  "description": "This book is about the history of the great world war. It covers the major strategic themes and goes in-depth on the conflicts outside of the Western front. It is a book that focuses on the war and only the war.",
+  "source": "@site/docs/Books/Book Reviews/The First World War.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The First World War",
+  "permalink": "/docs/Books/Book Reviews/The First World War",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The First World War.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "history",
+      "permalink": "/docs/tags/history"
+    },
+    {
+      "label": "great-world-war",
+      "permalink": "/docs/tags/great-world-war"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    },
+    {
+      "label": "leadership",
+      "permalink": "/docs/tags/leadership"
+    },
+    {
+      "label": "management",
+      "permalink": "/docs/tags/management"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 400,
+    "Date Finished": "Jun 24, 2023",
+    "Author": "Hew Strachan",
+    "Finished": true,
+    "tags": [
+      "books",
+      "history",
+      "great-world-war",
+      "non-fiction",
+      "leadership",
+      "management"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Dictator's Handbook",
+    "permalink": "/docs/Books/Book Reviews/The Dictator's Handbook"
+  },
+  "next": {
+    "title": "The Man from the Future The Visionary Life of John von Neumann",
+    "permalink": "/docs/Books/Book Reviews/The Man from the Future The Visionary Life of John von Neumann"
+  }
+}

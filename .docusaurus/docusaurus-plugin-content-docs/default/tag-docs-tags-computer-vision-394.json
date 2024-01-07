@@ -1,0 +1,15 @@
+{
+  "label": "#computer-vision",
+  "permalink": "/docs/tags/computer-vision",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "AI/Data Science/Data Science",
+      "title": "Data Science",
+      "description": "What is data science? It is a bunch of different jobs bunched together and given the tie of AI to make a company sound innovative.",
+      "permalink": "/docs/AI/Data Science/"
+    }
+  ],
+  "unlisted": false
+}

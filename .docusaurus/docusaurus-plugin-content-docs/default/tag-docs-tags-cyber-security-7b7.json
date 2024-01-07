@@ -1,0 +1,15 @@
+{
+  "label": "cyber-security",
+  "permalink": "/docs/tags/cyber-security",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "CyberSecurity/CyberSecurity",
+      "title": "CyberSecurity",
+      "description": "Penetration testing is essentially simulating attacks and investigating the consequences of said attacks. The end goal is not to get hacked.",
+      "permalink": "/docs/CyberSecurity/"
+    }
+  ],
+  "unlisted": false
+}

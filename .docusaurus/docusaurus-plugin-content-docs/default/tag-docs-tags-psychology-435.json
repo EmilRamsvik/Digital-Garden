@@ -1,0 +1,21 @@
+{
+  "label": "psychology",
+  "permalink": "/docs/tags/psychology",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Hooked",
+      "title": "Hooked",
+      "description": "Tags: #books #non-fiction #development #psychology #apps",
+      "permalink": "/docs/Books/Book Reviews/Hooked"
+    },
+    {
+      "id": "Books/Book Reviews/I Moved Your Cheese",
+      "title": "I Moved Your Cheese",
+      "description": "This book is a fairy tale about mice and labyrinths. The characters of Max, Big, and Zed are musing on the fact that the mice are all in the maze and looking for cheese when there is no one asking why the cheese is always being moved around.",
+      "permalink": "/docs/Books/Book Reviews/I Moved Your Cheese"
+    }
+  ],
+  "unlisted": false
+}

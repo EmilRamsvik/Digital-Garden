@@ -1,0 +1,21 @@
+{
+  "label": "system-thinking",
+  "permalink": "/docs/tags/system-thinking",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Thinking/Thinking",
+      "title": "Thinking",
+      "description": "Here, I write about ways of thinking about the world and the whys and hows. I am fascinated by how we as a species behave and act and how we can improve as a species.",
+      "permalink": "/docs/Thinking/"
+    },
+    {
+      "id": "Books/Book Reviews/Thinking in Systems",
+      "title": "Thinking in Systems",
+      "description": "This book is about understanding and conveying how the system works and how you can use systems thinking to understand the world differently. Systems have mechanisms that govern their behavior, and system thinking allows you to model how the system behaves when manipulating it.",
+      "permalink": "/docs/Books/Book Reviews/Thinking in Systems"
+    }
+  ],
+  "unlisted": false
+}

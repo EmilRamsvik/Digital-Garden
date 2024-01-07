@@ -1,0 +1,21 @@
+{
+  "label": "design-thinking",
+  "permalink": "/docs/tags/design-thinking",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "AI/AI Strategy",
+      "title": "AI Strategy",
+      "description": "AI strategy is about having a clear view of how to enable the organization to utilize AI capabilities. An AI strategy should encompass the following subsets of strategies.",
+      "permalink": "/docs/AI/AI Strategy"
+    },
+    {
+      "id": "Thinking/Thinking",
+      "title": "Thinking",
+      "description": "Here, I write about ways of thinking about the world and the whys and hows. I am fascinated by how we as a species behave and act and how we can improve as a species.",
+      "permalink": "/docs/Thinking/"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,21 @@
+{
+  "label": "religion",
+  "permalink": "/docs/tags/religion",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Philosophy/Religion",
+      "title": "Religion",
+      "description": "Religion: A Resilient Concept",
+      "permalink": "/docs/Philosophy/Religion"
+    },
+    {
+      "id": "Books/Book Reviews/The Brothers Karamazov",
+      "title": "The Brothers Karamazov",
+      "description": "It is a book that involves morality, love, and spirituality. It is a crime story with the morals of the characters being put on trial.",
+      "permalink": "/docs/Books/Book Reviews/The Brothers Karamazov"
+    }
+  ],
+  "unlisted": false
+}

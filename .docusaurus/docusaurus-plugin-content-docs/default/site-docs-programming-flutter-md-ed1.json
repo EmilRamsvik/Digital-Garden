@@ -1,0 +1,61 @@
+{
+  "id": "Programming/Flutter",
+  "title": "Dart",
+  "description": "To my knowledge, Dart is a beautiful language that is completely null-safe.",
+  "source": "@site/docs/Programming/Flutter.md",
+  "sourceDirName": "Programming",
+  "slug": "/Programming/Flutter",
+  "permalink": "/docs/Programming/Flutter",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Programming/Flutter.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "mobile-development",
+      "permalink": "/docs/tags/mobile-development"
+    },
+    {
+      "label": "programming",
+      "permalink": "/docs/tags/programming"
+    },
+    {
+      "label": "development",
+      "permalink": "/docs/tags/development"
+    },
+    {
+      "label": "flutter",
+      "permalink": "/docs/tags/flutter"
+    },
+    {
+      "label": "#dart",
+      "permalink": "/docs/tags/dart"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "article",
+      "mobile-development",
+      "programming",
+      "development",
+      "flutter",
+      "#dart"
+    ],
+    "finished": false,
+    "created": "2023-05-30T13:28:00.000Z",
+    "updated": "2024-01-07T17:19"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Programming",
+    "permalink": "/docs/Programming/"
+  },
+  "next": {
+    "title": "Javascript",
+    "permalink": "/docs/Programming/Javascript"
+  }
+}

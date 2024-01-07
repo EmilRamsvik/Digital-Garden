@@ -1,0 +1,50 @@
+{
+  "id": "Economics/Economics",
+  "title": "Economics",
+  "description": "It is often called the dismal science. More than any other science, it is one of the most challenging sciences, as it is almost impossible to conduct experiments.",
+  "source": "@site/docs/Economics/Economics.md",
+  "sourceDirName": "Economics",
+  "slug": "/Economics/",
+  "permalink": "/docs/Economics/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Economics/Economics.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "economics",
+      "permalink": "/docs/tags/economics"
+    },
+    {
+      "label": "political-science",
+      "permalink": "/docs/tags/political-science"
+    },
+    {
+      "label": "finance",
+      "permalink": "/docs/tags/finance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "article",
+      "economics",
+      "political-science",
+      "finance"
+    ],
+    "created": "2023-06-04T14:00:00.000Z",
+    "updated": "2024-01-07T16:40"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "GitHub Actions",
+    "permalink": "/docs/DevOps/GitHub Actions"
+  },
+  "next": {
+    "title": "Investing",
+    "permalink": "/docs/Economics/Investing"
+  }
+}

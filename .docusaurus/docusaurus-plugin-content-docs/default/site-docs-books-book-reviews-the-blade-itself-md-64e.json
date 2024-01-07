@@ -1,0 +1,53 @@
+{
+  "id": "Books/Book Reviews/The blade Itself",
+  "title": "The blade Itself",
+  "description": "This is the introductory. book in the first law series/world. It is the begining of the adventure of the main heroes of the first law triology. Most of it pertains to mundane tasks and world building.",
+  "source": "@site/docs/Books/Book Reviews/The blade Itself.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The blade Itself",
+  "permalink": "/docs/Books/Book Reviews/The blade Itself",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The blade Itself.md",
+  "tags": [
+    {
+      "label": "fiction",
+      "permalink": "/docs/tags/fiction"
+    },
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "the-first-law-series",
+      "permalink": "/docs/tags/the-first-law-series"
+    },
+    {
+      "label": "fantasy",
+      "permalink": "/docs/tags/fantasy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 515,
+    "Date Finished": "2023-04-01T00:00:00.000Z",
+    "Author": "Joe Abercrombie",
+    "tags": [
+      "fiction",
+      "books",
+      "the-first-law-series",
+      "fantasy"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Wisdom of Crowds",
+    "permalink": "/docs/Books/Book Reviews/The Wisdom of Crowds"
+  },
+  "next": {
+    "title": "The organized mind",
+    "permalink": "/docs/Books/Book Reviews/The organized mind"
+  }
+}

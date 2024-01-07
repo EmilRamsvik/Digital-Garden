@@ -1,0 +1,21 @@
+{
+  "label": "personal-finance",
+  "permalink": "/docs/tags/personal-finance",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Living/Living",
+      "title": "Living",
+      "description": "What is living?",
+      "permalink": "/docs/Living/"
+    },
+    {
+      "id": "Books/Book Reviews/Personal MBA",
+      "title": "Personal MBA",
+      "description": "A book with small but interesting stories and lessons. It is meant to concretize a master in business and administration into a single magnum opus. Its lessons are short but interesting.",
+      "permalink": "/docs/Books/Book Reviews/Personal MBA"
+    }
+  ],
+  "unlisted": false
+}

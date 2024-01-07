@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[47738],{75404:e=>{e.exports=JSON.parse('{"label":"ci-cd","permalink":"/docs/tags/ci-cd","allTagsPath":"/docs/tags","count":1,"items":[{"id":"DevOps/DevOps","title":"DevOps","description":"-","permalink":"/docs/DevOps/"}],"unlisted":false}')}}]);

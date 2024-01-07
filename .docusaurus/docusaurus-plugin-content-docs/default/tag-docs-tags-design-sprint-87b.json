@@ -1,0 +1,21 @@
+{
+  "label": "design-sprint",
+  "permalink": "/docs/tags/design-sprint",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Design/Design",
+      "title": "Design",
+      "description": "Atomic Design",
+      "permalink": "/docs/Design/"
+    },
+    {
+      "id": "AI/Data Science/ML Design Sprint",
+      "title": "ML Design Sprint",
+      "description": "The ML Design Sprint is a modification of the design sprint workshop, where the goal is to give the project relevant context on the problem, the data, and the resources available. The goal of the ML Design Sprint is to decide on the goal of the model, the input features of the model, and how the model should be evaluated. The design sprint brings together Subject Matter Experts, Users, Product Owners Data Scientists, and ML Engineers together to quickly understand the problem, the potential solutions, and the risks. ML Design Sprint should shorten the duration of the scoping and exploratory analysis phases by bringing the analysts and experts together.",
+      "permalink": "/docs/AI/Data Science/ML Design Sprint"
+    }
+  ],
+  "unlisted": false
+}

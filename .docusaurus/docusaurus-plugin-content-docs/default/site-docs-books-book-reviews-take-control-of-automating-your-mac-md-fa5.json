@@ -1,0 +1,69 @@
+{
+  "id": "Books/Book Reviews/Take Control of Automating Your Mac",
+  "title": "Take Control of Automating Your Mac",
+  "description": "This book is about cool and fast ways you can automate your Mac experience. It goes over the most important things you can automate, with a strong focus on Mac apps. It goes deeper into automation such as Keyboard Maestro",
+  "source": "@site/docs/Books/Book Reviews/Take Control of Automating Your Mac.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Take Control of Automating Your Mac",
+  "permalink": "/docs/Books/Book Reviews/Take Control of Automating Your Mac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Take Control of Automating Your Mac.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "mac",
+      "permalink": "/docs/tags/mac"
+    },
+    {
+      "label": "productivity-hack",
+      "permalink": "/docs/tags/productivity-hack"
+    },
+    {
+      "label": "automation",
+      "permalink": "/docs/tags/automation"
+    },
+    {
+      "label": "alfred",
+      "permalink": "/docs/tags/alfred"
+    },
+    {
+      "label": "keyboard-maestro",
+      "permalink": "/docs/tags/keyboard-maestro"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 353,
+    "Date Finished": "May 22, 2023",
+    "Author": "Joe Kissel",
+    "Finished": true,
+    "tags": [
+      "books",
+      "mac",
+      "productivity-hack",
+      "automation",
+      "alfred",
+      "keyboard-maestro",
+      "productivity"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Stoner",
+    "permalink": "/docs/Books/Book Reviews/Stoner"
+  },
+  "next": {
+    "title": "The Blind Watchmaker",
+    "permalink": "/docs/Books/Book Reviews/The Blind Watchmaker"
+  }
+}

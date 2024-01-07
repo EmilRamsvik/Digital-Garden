@@ -1,0 +1,21 @@
+{
+  "label": "focus",
+  "permalink": "/docs/tags/focus",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Productivity/Productivity",
+      "title": "Productivity",
+      "description": "I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible.",
+      "permalink": "/docs/Productivity/"
+    },
+    {
+      "id": "Writing/Writing",
+      "title": "Writing",
+      "description": "Writing is hard.  It takes time, effort and experience. It is something that takes effort to even start.",
+      "permalink": "/docs/Writing/"
+    }
+  ],
+  "unlisted": false
+}

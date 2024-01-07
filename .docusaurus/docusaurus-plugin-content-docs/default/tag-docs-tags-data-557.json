@@ -1,0 +1,27 @@
+{
+  "label": "#data",
+  "permalink": "/docs/tags/data",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "AI/Data Drift",
+      "title": "Data Drift",
+      "description": "Data drift refers to the phenomenon where the statistical properties of a dataset used for machine learning or analysis change over time. This alteration can be due to various factors such as shifts in data collection processes, changes in the underlying distribution of the data, or modifications in the environment from which the data originates. Detecting and addressing data drift is crucial to maintaining the performance and reliability of machine learning models and analytical systems.",
+      "permalink": "/docs/AI/Data Drift"
+    },
+    {
+      "id": "Database/Database",
+      "title": "Database",
+      "description": "In the context of business, everything is a database. Databases are the bedrock of how we design things nowadays.",
+      "permalink": "/docs/Database/"
+    },
+    {
+      "id": "Cloud/GCP",
+      "title": "GCP",
+      "description": "Firebase and Flutter is a very cool combo. It has great material on how to work with and helpful docs. It makes creating a simple crud app in Flutter super easy.",
+      "permalink": "/docs/Cloud/GCP"
+    }
+  ],
+  "unlisted": false
+}

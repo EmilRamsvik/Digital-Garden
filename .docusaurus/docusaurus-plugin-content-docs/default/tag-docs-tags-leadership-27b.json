@@ -1,0 +1,33 @@
+{
+  "label": "leadership",
+  "permalink": "/docs/tags/leadership",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Extreme Ownership",
+      "title": "Extreme Ownership",
+      "description": "Leif and Jocko go through their combat experiences in combat and the lessons in leadership that they have learned from them. They break down concepts, explain why they are important for the SEALS, and highlight them in the business context as well.",
+      "permalink": "/docs/Books/Book Reviews/Extreme Ownership"
+    },
+    {
+      "id": "Working/Management",
+      "title": "Management",
+      "description": "- Some work on the management from an engineering perspective",
+      "permalink": "/docs/Working/Management"
+    },
+    {
+      "id": "Books/Book Reviews/Peopleware",
+      "title": "Peopleware",
+      "description": "This book addresses the elephant in the software room, that people, not tech, are the obstacle. Tech is just there to be applied; solving the problem requires a lot of people and knowledge to go the right way. It also addresses how to solve this problem for humans.",
+      "permalink": "/docs/Books/Book Reviews/Peopleware"
+    },
+    {
+      "id": "Books/Book Reviews/The First World War",
+      "title": "The First World War",
+      "description": "This book is about the history of the great world war. It covers the major strategic themes and goes in-depth on the conflicts outside of the Western front. It is a book that focuses on the war and only the war.",
+      "permalink": "/docs/Books/Book Reviews/The First World War"
+    }
+  ],
+  "unlisted": false
+}

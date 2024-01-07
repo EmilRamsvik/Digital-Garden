@@ -1,0 +1,27 @@
+{
+  "label": "agile",
+  "permalink": "/docs/tags/agile",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Working/Agile",
+      "title": "Aglie",
+      "description": "Planning Poker",
+      "permalink": "/docs/Working/Agile"
+    },
+    {
+      "id": "DevOps/DevOps",
+      "title": "DevOps",
+      "description": "-",
+      "permalink": "/docs/DevOps/"
+    },
+    {
+      "id": "Working/Management",
+      "title": "Management",
+      "description": "- Some work on the management from an engineering perspective",
+      "permalink": "/docs/Working/Management"
+    }
+  ],
+  "unlisted": false
+}

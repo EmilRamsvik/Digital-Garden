@@ -1,0 +1,30 @@
+{
+  "id": "Books/Book Reviews/Payments Systems in the US",
+  "title": "Payments Systems in the US",
+  "description": "Tags: #books #payment #finance #programming",
+  "source": "@site/docs/Books/Book Reviews/Payments Systems in the US.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Payments Systems in the US",
+  "permalink": "/docs/Books/Book Reviews/Payments Systems in the US",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Payments Systems in the US.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 202,
+    "Date Finished": "Jul 05, 2023",
+    "Author": "Carol Coye Benson",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "On Palestine",
+    "permalink": "/docs/Books/Book Reviews/On Palestine"
+  },
+  "next": {
+    "title": "Peopleware",
+    "permalink": "/docs/Books/Book Reviews/Peopleware"
+  }
+}

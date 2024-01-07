@@ -1,0 +1,15 @@
+{
+  "label": "ui",
+  "permalink": "/docs/tags/ui",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Design/Design",
+      "title": "Design",
+      "description": "Atomic Design",
+      "permalink": "/docs/Design/"
+    }
+  ],
+  "unlisted": false
+}

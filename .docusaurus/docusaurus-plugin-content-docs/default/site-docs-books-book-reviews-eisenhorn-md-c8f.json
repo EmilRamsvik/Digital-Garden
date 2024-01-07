@@ -1,0 +1,53 @@
+{
+  "id": "Books/Book Reviews/Eisenhorn",
+  "title": "Eisenhorn",
+  "description": "A fantasy set in the 40k universe. The book is about the adventures of Eisenhorn the Inquisitor and his retinue. It is fantasy through and through but fun and engaging through 3 stories.",
+  "source": "@site/docs/Books/Book Reviews/Eisenhorn.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Eisenhorn",
+  "permalink": "/docs/Books/Book Reviews/Eisenhorn",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Eisenhorn.md",
+  "tags": [
+    {
+      "label": "fiction",
+      "permalink": "/docs/tags/fiction"
+    },
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "fantasy",
+      "permalink": "/docs/tags/fantasy"
+    },
+    {
+      "label": "science-fiction",
+      "permalink": "/docs/tags/science-fiction"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 768,
+    "Date Finished": "May 30, 2023",
+    "Author": "Dan Abnett",
+    "tags": [
+      "fiction",
+      "books",
+      "fantasy",
+      "science-fiction"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Economics in One Lesson",
+    "permalink": "/docs/Books/Book Reviews/Economics in One Lesson"
+  },
+  "next": {
+    "title": "Expert Python Programming",
+    "permalink": "/docs/Books/Book Reviews/Expert Python Programming"
+  }
+}

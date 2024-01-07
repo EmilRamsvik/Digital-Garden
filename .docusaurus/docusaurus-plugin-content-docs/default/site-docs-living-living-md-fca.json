@@ -1,0 +1,66 @@
+{
+  "id": "Living/Living",
+  "title": "Living",
+  "description": "What is living?",
+  "source": "@site/docs/Living/Living.md",
+  "sourceDirName": "Living",
+  "slug": "/Living/",
+  "permalink": "/docs/Living/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Living/Living.md",
+  "tags": [
+    {
+      "label": "dating",
+      "permalink": "/docs/tags/dating"
+    },
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "living",
+      "permalink": "/docs/tags/living"
+    },
+    {
+      "label": "personal-finance",
+      "permalink": "/docs/tags/personal-finance"
+    },
+    {
+      "label": "life",
+      "permalink": "/docs/tags/life"
+    },
+    {
+      "label": "motivation",
+      "permalink": "/docs/tags/motivation"
+    },
+    {
+      "label": "love",
+      "permalink": "/docs/tags/love"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": false,
+    "tags": [
+      "dating",
+      "article",
+      "living",
+      "personal-finance",
+      "life",
+      "motivation",
+      "love"
+    ],
+    "created": "2024-08-28T15:09:00.000Z",
+    "updated": "2024-01-07T18:17"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Talks",
+    "permalink": "/docs/Learning/Talks"
+  },
+  "next": {
+    "title": "Home",
+    "permalink": "/docs/Living/Home"
+  }
+}

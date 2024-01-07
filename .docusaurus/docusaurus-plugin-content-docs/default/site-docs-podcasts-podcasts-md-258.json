@@ -1,0 +1,57 @@
+{
+  "id": "Podcasts/Podcasts",
+  "title": "Podcasts",
+  "description": "I think podcasts are a cool way of getting to know more, it has some similar attributes to lectures in a way that information is vocally submitted.",
+  "source": "@site/docs/Podcasts/Podcasts.md",
+  "sourceDirName": "Podcasts",
+  "slug": "/Podcasts/",
+  "permalink": "/docs/Podcasts/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Podcasts/Podcasts.md",
+  "tags": [
+    {
+      "label": "podcasts",
+      "permalink": "/docs/tags/podcasts"
+    },
+    {
+      "label": "long-form-podcasts",
+      "permalink": "/docs/tags/long-form-podcasts"
+    },
+    {
+      "label": "taking",
+      "permalink": "/docs/tags/taking"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    },
+    {
+      "label": "politics",
+      "permalink": "/docs/tags/politics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "2023-05-27T00:00:00.000Z",
+    "tags": [
+      "podcasts",
+      "long-form-podcasts",
+      "taking",
+      "science",
+      "politics"
+    ],
+    "Finished": false,
+    "created": "2023-10-29T15:32",
+    "updated": "2024-01-06T16:19"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Religion",
+    "permalink": "/docs/Philosophy/Religion"
+  },
+  "next": {
+    "title": "Politics",
+    "permalink": "/docs/Politics/"
+  }
+}

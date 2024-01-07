@@ -1,0 +1,59 @@
+{
+  "id": "Books/Book Reviews/I Moved Your Cheese",
+  "title": "I Moved Your Cheese",
+  "description": "This book is a fairy tale about mice and labyrinths. The characters of Max, Big, and Zed are musing on the fact that the mice are all in the maze and looking for cheese when there is no one asking why the cheese is always being moved around.",
+  "source": "@site/docs/Books/Book Reviews/I Moved Your Cheese.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/I Moved Your Cheese",
+  "permalink": "/docs/Books/Book Reviews/I Moved Your Cheese",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/I Moved Your Cheese.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "book-review",
+      "permalink": "/docs/tags/book-review"
+    },
+    {
+      "label": "psychology",
+      "permalink": "/docs/tags/psychology"
+    },
+    {
+      "label": "philosophy",
+      "permalink": "/docs/tags/philosophy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 120,
+    "Author": "Deepak Malhotra",
+    "finished": true,
+    "tags": [
+      "books",
+      "digital-garden",
+      "book-review",
+      "psychology",
+      "philosophy"
+    ],
+    "Date Finished": "2024-01-01T00:00:00.000Z",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "How the war was Won",
+    "permalink": "/docs/Books/Book Reviews/How the war was Won"
+  },
+  "next": {
+    "title": "Imagined Communities",
+    "permalink": "/docs/Books/Book Reviews/Imagined Communities"
+  }
+}

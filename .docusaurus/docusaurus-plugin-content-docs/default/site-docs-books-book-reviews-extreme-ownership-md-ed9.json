@@ -1,0 +1,64 @@
+{
+  "id": "Books/Book Reviews/Extreme Ownership",
+  "title": "Extreme Ownership",
+  "description": "Leif and Jocko go through their combat experiences in combat and the lessons in leadership that they have learned from them. They break down concepts, explain why they are important for the SEALS, and highlight them in the business context as well.",
+  "source": "@site/docs/Books/Book Reviews/Extreme Ownership.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Extreme Ownership",
+  "permalink": "/docs/Books/Book Reviews/Extreme Ownership",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Extreme Ownership.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "leadership",
+      "permalink": "/docs/tags/leadership"
+    },
+    {
+      "label": "work",
+      "permalink": "/docs/tags/work"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    },
+    {
+      "label": "management",
+      "permalink": "/docs/tags/management"
+    },
+    {
+      "label": "warfare",
+      "permalink": "/docs/tags/warfare"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 320,
+    "Date Finished": "2023-04-16T00:00:00.000Z",
+    "Author": "Jocko Willink, Leif Babin",
+    "finished": true,
+    "tags": [
+      "books",
+      "leadership",
+      "work",
+      "productivity",
+      "management",
+      "warfare"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Expert Python Programming",
+    "permalink": "/docs/Books/Book Reviews/Expert Python Programming"
+  },
+  "next": {
+    "title": "Fifteen Hours",
+    "permalink": "/docs/Books/Book Reviews/Fifteen Hours"
+  }
+}

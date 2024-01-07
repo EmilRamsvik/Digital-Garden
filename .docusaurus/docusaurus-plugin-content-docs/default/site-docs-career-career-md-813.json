@@ -1,0 +1,52 @@
+{
+  "id": "Career/Career",
+  "title": "Career",
+  "description": "Here I write about career and about how to better oneself in one's career.",
+  "source": "@site/docs/Career/Career.md",
+  "sourceDirName": "Career",
+  "slug": "/Career/",
+  "permalink": "/docs/Career/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Career/Career.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "career",
+      "permalink": "/docs/tags/career"
+    },
+    {
+      "label": "engineering",
+      "permalink": "/docs/tags/engineering"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": false,
+    "tags": [
+      "article",
+      "digital-garden",
+      "career",
+      "engineering"
+    ],
+    "Date Started": null,
+    "created": "2024-01-06T15:01",
+    "updated": "2024-01-06T15:04"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Poems",
+    "permalink": "/docs/Books/Literature/Poems"
+  },
+  "next": {
+    "title": "Cloud",
+    "permalink": "/docs/Cloud/"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "Books/Book Reviews/Thinking in Systems",
+  "title": "Thinking in Systems",
+  "description": "This book is about understanding and conveying how the system works and how you can use systems thinking to understand the world differently. Systems have mechanisms that govern their behavior, and system thinking allows you to model how the system behaves when manipulating it.",
+  "source": "@site/docs/Books/Book Reviews/Thinking in Systems.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Thinking in Systems",
+  "permalink": "/docs/Books/Book Reviews/Thinking in Systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Thinking in Systems.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    },
+    {
+      "label": "engineering",
+      "permalink": "/docs/tags/engineering"
+    },
+    {
+      "label": "engineering/management",
+      "permalink": "/docs/tags/engineering-management"
+    },
+    {
+      "label": "system-thinking",
+      "permalink": "/docs/tags/system-thinking"
+    },
+    {
+      "label": "political-science",
+      "permalink": "/docs/tags/political-science"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 217,
+    "Date Finished": "2023-03-01T00:00:00.000Z",
+    "Author": "Donatella H. Meadows",
+    "finished": true,
+    "tags": [
+      "books",
+      "non-fiction",
+      "productivity",
+      "science",
+      "engineering",
+      "engineering/management",
+      "system-thinking",
+      "political-science"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The organized mind",
+    "permalink": "/docs/Books/Book Reviews/The organized mind"
+  },
+  "next": {
+    "title": "Washington's Spies. The Story of America's First Spy Ring",
+    "permalink": "/docs/Books/Book Reviews/Washington's Spies. The Story of America's First Spy Ring"
+  }
+}

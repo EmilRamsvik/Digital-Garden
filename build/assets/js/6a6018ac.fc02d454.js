@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[46746],{34907:e=>{e.exports=JSON.parse('{"label":"scrum","permalink":"/docs/tags/scrum","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Working/Agile","title":"Aglie","description":"Planning Poker","permalink":"/docs/Working/Agile"}],"unlisted":false}')}}]);

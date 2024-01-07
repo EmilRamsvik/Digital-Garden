@@ -1,0 +1,55 @@
+{
+  "id": "Food/Recipes/Recipes",
+  "title": "Philosophy",
+  "description": "I think following recipes automatically is a sign of an unimaginative mind, and as such one should try to experiment and expand the palette. I have structured my favorite and interesting recipes as a dynamic document with my thoughts and musing on the recipes. I want to be able to continuously update my recipes with more interesting",
+  "source": "@site/docs/Food/Recipes/Recipes.md",
+  "sourceDirName": "Food/Recipes",
+  "slug": "/Food/Recipes/",
+  "permalink": "/docs/Food/Recipes/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food/Recipes/Recipes.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "food",
+      "permalink": "/docs/tags/food"
+    },
+    {
+      "label": "recipe",
+      "permalink": "/docs/tags/recipe"
+    },
+    {
+      "label": "cooking",
+      "permalink": "/docs/tags/cooking"
+    },
+    {
+      "label": "health",
+      "permalink": "/docs/tags/health"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "May 27, 2023",
+    "Finished": null,
+    "tags": [
+      "article",
+      "food",
+      "recipe",
+      "cooking",
+      "health"
+    ]
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Kitchen",
+    "permalink": "/docs/Food/Kitchen"
+  },
+  "next": {
+    "title": "Aglio e Olio",
+    "permalink": "/docs/Food/Recipes/Aglio e Olio"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "label": "dataview",
+  "permalink": "/docs/tags/dataview",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Mac/Obsidian",
+      "title": "Obsidian",
+      "description": "Obsidian is the tool I use for storing information and writing down the experiences and knowledge I accumulate.",
+      "permalink": "/docs/Mac/Obsidian"
+    }
+  ],
+  "unlisted": false
+}

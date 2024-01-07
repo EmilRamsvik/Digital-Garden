@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[39563],{67045:i=>{i.exports=JSON.parse('{"label":"living","permalink":"/docs/tags/living","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Living","title":"Living","description":"What is living?","permalink":"/docs/Living"}],"unlisted":false}')}}]);

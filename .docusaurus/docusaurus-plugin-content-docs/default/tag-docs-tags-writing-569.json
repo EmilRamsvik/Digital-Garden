@@ -1,0 +1,15 @@
+{
+  "label": "writing",
+  "permalink": "/docs/tags/writing",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Writing/Writing",
+      "title": "Writing",
+      "description": "Writing is hard.  It takes time, effort and experience. It is something that takes effort to even start.",
+      "permalink": "/docs/Writing/"
+    }
+  ],
+  "unlisted": false
+}

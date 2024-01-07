@@ -1,0 +1,33 @@
+{
+  "label": "computer-science",
+  "permalink": "/docs/tags/computer-science",
+  "allTagsPath": "/docs/tags",
+  "count": 4,
+  "items": [
+    {
+      "id": "Programming/Javascript",
+      "title": "Javascript",
+      "description": "Javascript is the most popular language in the world, so you should at least have some knowledge of how it works and how it functions.",
+      "permalink": "/docs/Programming/Javascript"
+    },
+    {
+      "id": "Mac/Mac",
+      "title": "Mac",
+      "description": "I switched from Windows to Mac in 2021 and used it privately until 2022 when I switched to a Mac for work as well.",
+      "permalink": "/docs/Mac/"
+    },
+    {
+      "id": "Programming/Programming",
+      "title": "Programming",
+      "description": "I think an underrated aspect of programming is understanding computers, for engineers and self-taught programmers, it might be difficult to understand the intricacies of computers.",
+      "permalink": "/docs/Programming/"
+    },
+    {
+      "id": "Books/Book Reviews/The Creativity Code",
+      "title": "The Creativity Code",
+      "description": "This book is about how creativity is entering a new age where AI and machine learning enhances and sometimes surpass human creativity. It is about what creativity is at its core. And it is about how",
+      "permalink": "/docs/Books/Book Reviews/The Creativity Code"
+    }
+  ],
+  "unlisted": false
+}

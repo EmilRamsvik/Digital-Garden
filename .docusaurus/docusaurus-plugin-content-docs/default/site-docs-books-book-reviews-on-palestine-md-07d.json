@@ -1,0 +1,58 @@
+{
+  "id": "Books/Book Reviews/On Palestine",
+  "title": "On Palestine",
+  "description": "This book is a critique of the horrendous way Israel has treated the Palestinians. It delves into all the classical arguments on the situations and dispels them. Their main argument is that Palestinians have as much of a right to their land as the Israelis.",
+  "source": "@site/docs/Books/Book Reviews/On Palestine.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/On Palestine",
+  "permalink": "/docs/Books/Book Reviews/On Palestine",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/On Palestine.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    },
+    {
+      "label": "palestine",
+      "permalink": "/docs/tags/palestine"
+    },
+    {
+      "label": "israel",
+      "permalink": "/docs/tags/israel"
+    },
+    {
+      "label": "apartheid",
+      "permalink": "/docs/tags/apartheid"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 224,
+    "Date Finished": "May 17, 2023",
+    "Author": "Noam Chomsky, Ilan Pappe",
+    "tags": [
+      "books",
+      "non-fiction",
+      "palestine",
+      "israel",
+      "apartheid"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Nonviolent Communication",
+    "permalink": "/docs/Books/Book Reviews/Nonviolent Communication"
+  },
+  "next": {
+    "title": "Payments Systems in the US",
+    "permalink": "/docs/Books/Book Reviews/Payments Systems in the US"
+  }
+}

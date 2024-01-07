@@ -1,0 +1,84 @@
+{
+  "id": "Books/Book Reviews/Practical Recommendation Systems",
+  "title": "Practical Recommendation Systems",
+  "description": "This book is an easy and good introduction to recommendation systems. It is meant to introduce the concept of recommendation systems and, from there, give concepts and methods on how to make them. This book is about usage rather than the theoretical background.",
+  "source": "@site/docs/Books/Book Reviews/Practical Recommendation Systems.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Practical Recommendation Systems",
+  "permalink": "/docs/Books/Book Reviews/Practical Recommendation Systems",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Practical Recommendation Systems.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "book-review",
+      "permalink": "/docs/tags/book-review"
+    },
+    {
+      "label": "product-recommendation",
+      "permalink": "/docs/tags/product-recommendation"
+    },
+    {
+      "label": "ranking-systems",
+      "permalink": "/docs/tags/ranking-systems"
+    },
+    {
+      "label": "machine-learning",
+      "permalink": "/docs/tags/machine-learning"
+    },
+    {
+      "label": "bayesian",
+      "permalink": "/docs/tags/bayesian"
+    },
+    {
+      "label": "recommender-systems",
+      "permalink": "/docs/tags/recommender-systems"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    },
+    {
+      "label": "statistics",
+      "permalink": "/docs/tags/statistics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 432,
+    "Author": "Kim Falk",
+    "finished": true,
+    "tags": [
+      "books",
+      "digital-garden",
+      "book-review",
+      "product-recommendation",
+      "ranking-systems",
+      "machine-learning",
+      "bayesian",
+      "recommender-systems",
+      "science",
+      "statistics"
+    ],
+    "Date Finished": "2024-01-01T00:00:00.000Z",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Practical MLOps",
+    "permalink": "/docs/Books/Book Reviews/Practical MLOps"
+  },
+  "next": {
+    "title": "Pricing and Revenue Optimization",
+    "permalink": "/docs/Books/Book Reviews/Pricing and Revenue Optimization"
+  }
+}

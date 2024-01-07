@@ -1,0 +1,56 @@
+{
+  "id": "Food/Drink",
+  "title": "Drink",
+  "description": "-",
+  "source": "@site/docs/Food/Drink.md",
+  "sourceDirName": "Food",
+  "slug": "/Food/Drink",
+  "permalink": "/docs/Food/Drink",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food/Drink.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "#alcohol",
+      "permalink": "/docs/tags/alcohol"
+    },
+    {
+      "label": "#drinks",
+      "permalink": "/docs/tags/drinks"
+    },
+    {
+      "label": "#food",
+      "permalink": "/docs/tags/food"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": false,
+    "tags": [
+      "article",
+      "digital-garden",
+      "#alcohol",
+      "#drinks",
+      "#food"
+    ],
+    "created": "2023-12-29T11:00",
+    "updated": "2024-01-07T16:47"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Coffee",
+    "permalink": "/docs/Food/Coffee"
+  },
+  "next": {
+    "title": "Equipment",
+    "permalink": "/docs/Food/Equipment"
+  }
+}

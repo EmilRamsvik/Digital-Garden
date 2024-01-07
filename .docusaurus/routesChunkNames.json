@@ -1,0 +1,2320 @@
+{
+  "/__docusaurus/debug-aef": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/__docusaurus/debug/config-9a4": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/__docusaurus/debug/content-0f1": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-95b": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/__docusaurus/debug/metadata-1fa": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/__docusaurus/debug/registry-c3b": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/__docusaurus/debug/routes-e1a": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-907-4bb"
+    }
+  },
+  "/markdown-page-840": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-11-c-d4e"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-547": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-3-f-5-5b8"
+    }
+  },
+  "/docs-f2e": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs/tags-0cc": {
+    "__comp": "__comp---theme-doc-tags-list-page-372-89e",
+    "tags": "tags---docs-tags-559-5e5"
+  },
+  "/docs/tags/absurdism-aa6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-absurdismbc-6-380"
+  },
+  "/docs/tags/activities-6c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-activities-99-f-965"
+  },
+  "/docs/tags/advertising-08f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-advertisingbfd-480"
+  },
+  "/docs/tags/agile-b71": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-agiled-0-a-7dd"
+  },
+  "/docs/tags/agriculture-8b8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-agricultureb-2-b-84f"
+  },
+  "/docs/tags/ai-91c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-aie-7-e-1ea"
+  },
+  "/docs/tags/alcohol-be2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-alcoholc-15-b6e"
+  },
+  "/docs/tags/alfred-349": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-alfred-11-c-068"
+  },
+  "/docs/tags/alfred-workflow-e67": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-alfred-workflowf-43-891"
+  },
+  "/docs/tags/amazon-c29": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-amazonaa-7-3d5"
+  },
+  "/docs/tags/american-history-18f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-american-historyb-8-b-5a8"
+  },
+  "/docs/tags/american-revolution-bcf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-american-revolution-45-f-e4d"
+  },
+  "/docs/tags/analytics-cc6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-analyticse-5-a-f05"
+  },
+  "/docs/tags/animals-468": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-animalse-5-b-aae"
+  },
+  "/docs/tags/anti-fragile-95b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-anti-fragile-222-183"
+  },
+  "/docs/tags/apartheid-7bd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-apartheid-36-e-19f"
+  },
+  "/docs/tags/api-38c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-api-87-a-926"
+  },
+  "/docs/tags/app-development-ce4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-app-development-25-f-1ac"
+  },
+  "/docs/tags/apps-abe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-apps-4-f-0-f40"
+  },
+  "/docs/tags/article-f2f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-article-603-ece"
+  },
+  "/docs/tags/atheism-391": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-atheismd-32-538"
+  },
+  "/docs/tags/autobiography-784": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-autobiography-1-c-4-16f"
+  },
+  "/docs/tags/automation-f18": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-automation-3-b-3-fc0"
+  },
+  "/docs/tags/aws-856": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-aws-762-9c1"
+  },
+  "/docs/tags/azure-dc9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-azure-81-e-386"
+  },
+  "/docs/tags/backend-908": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-backend-082-e92"
+  },
+  "/docs/tags/baking-cc4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-bakingebe-9e7"
+  },
+  "/docs/tags/bayesian-a24": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-bayesian-0-fc-995"
+  },
+  "/docs/tags/behavioural-economics-d45": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-behavioural-economics-67-a-044"
+  },
+  "/docs/tags/bezos-c5e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-bezos-7-c-8-5b7"
+  },
+  "/docs/tags/biography-fbb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-biographye-60-c1a"
+  },
+  "/docs/tags/biology-438": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-biologyee-4-f1a"
+  },
+  "/docs/tags/black-swan-6ca": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-black-swan-57-f-704"
+  },
+  "/docs/tags/blog-63a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-blogf-92-4ea"
+  },
+  "/docs/tags/body-082": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-body-8-c-5-088"
+  },
+  "/docs/tags/book-list-411": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-book-listbb-0-a5b"
+  },
+  "/docs/tags/book-review-1b4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-book-reviewde-7-bee"
+  },
+  "/docs/tags/books-e10": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-booksc-61-bf2"
+  },
+  "/docs/tags/brain-5db": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-brainaba-95b"
+  },
+  "/docs/tags/bread-8f2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-bread-2-b-5-e07"
+  },
+  "/docs/tags/breathing-8a6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-breathingff-3-533"
+  },
+  "/docs/tags/business-112": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-businessc-9-b-9c3"
+  },
+  "/docs/tags/calling-bullshit-a36": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-calling-bullshit-8-df-501"
+  },
+  "/docs/tags/capitalism-814": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-capitalisme-85-e76"
+  },
+  "/docs/tags/career-fd6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-career-3-e-2-de1"
+  },
+  "/docs/tags/chaos-02d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-chaos-0-c-1-00b"
+  },
+  "/docs/tags/cheap-food-07d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cheap-food-57-e-c95"
+  },
+  "/docs/tags/chicken-085": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-chicken-8-b-4-444"
+  },
+  "/docs/tags/ci-cd-56c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ci-cda-95-394"
+  },
+  "/docs/tags/classical-music-307": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-classical-music-36-e-5b9"
+  },
+  "/docs/tags/classics-1d0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-classics-767-559"
+  },
+  "/docs/tags/clean-code-36a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-clean-code-4-c-6-cab"
+  },
+  "/docs/tags/cli-37d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cli-544-a4b"
+  },
+  "/docs/tags/climate-crisis-308": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-climate-crisisdd-9-3a8"
+  },
+  "/docs/tags/cliud-b29": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cliud-8-f-6-81f"
+  },
+  "/docs/tags/cloud-b07": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-clouda-1-b-450"
+  },
+  "/docs/tags/code-scanning-dc3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-code-scanning-55-f-1ca"
+  },
+  "/docs/tags/cognitive-biases-8c3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cognitive-biasesbac-3c1"
+  },
+  "/docs/tags/cold-showers-42a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cold-showersb-00-4af"
+  },
+  "/docs/tags/communication-65f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-communication-0-ae-568"
+  },
+  "/docs/tags/communism-dd9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-communism-144-d5b"
+  },
+  "/docs/tags/computer-science-212": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-computer-scienced-3-c-279"
+  },
+  "/docs/tags/computer-vision-8c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-computer-visionad-2-8b2"
+  },
+  "/docs/tags/computers-400": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-computers-370-250"
+  },
+  "/docs/tags/concentration-bd7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-concentration-4-a-2-c41"
+  },
+  "/docs/tags/containers-1e6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-containers-83-e-6ba"
+  },
+  "/docs/tags/contrarianism-886": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-contrarianismdcb-b96"
+  },
+  "/docs/tags/conway-f6a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-conway-5-be-590"
+  },
+  "/docs/tags/cooking-8ed": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cookingb-6-d-eae"
+  },
+  "/docs/tags/courses-674": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-courses-7-d-9-878"
+  },
+  "/docs/tags/crime-series-5de": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-crime-seriesa-71-23b"
+  },
+  "/docs/tags/cyber-security-302": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-cyber-securitye-8-d-fc2"
+  },
+  "/docs/tags/dart-d54": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dart-496-5b7"
+  },
+  "/docs/tags/data-9a1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-1-fc-e8d"
+  },
+  "/docs/tags/data-data-drift-b6b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-data-drift-101-45d"
+  },
+  "/docs/tags/data-data-management-d19": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-data-managemente-61-a1a"
+  },
+  "/docs/tags/data-drift-659": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-driftead-919"
+  },
+  "/docs/tags/data-engineering-7bf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-engineering-353-593"
+  },
+  "/docs/tags/data-science-179": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-science-5-d-3-50d"
+  },
+  "/docs/tags/data-strategy-4db": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-strategyccf-b46"
+  },
+  "/docs/tags/data-warehouse-eb9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-data-warehousecfa-deb"
+  },
+  "/docs/tags/database-7e4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-databaseabf-153"
+  },
+  "/docs/tags/database-relational-database-64c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-database-relational-databaseff-8-f42"
+  },
+  "/docs/tags/database-sql-94a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-database-sql-85-a-41e"
+  },
+  "/docs/tags/dataview-d2f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dataview-733-3c6"
+  },
+  "/docs/tags/dating-b8c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-datinga-56-c2b"
+  },
+  "/docs/tags/dating-apps-309": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dating-apps-8-a-3-e27"
+  },
+  "/docs/tags/debate-bf5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-debatef-5-e-cf9"
+  },
+  "/docs/tags/decision-making-8e4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-decision-making-625-d71"
+  },
+  "/docs/tags/decison-be5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-decisona-7-e-088"
+  },
+  "/docs/tags/deep-work-2a7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-deep-work-1-ff-c6e"
+  },
+  "/docs/tags/denim-philosophy-8a9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-denim-philosophy-2-a-6-83a"
+  },
+  "/docs/tags/design-43c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-designb-75-e18"
+  },
+  "/docs/tags/design-patterns-79e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-design-patterns-6-ac-7f5"
+  },
+  "/docs/tags/design-sprint-adb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-design-sprint-0-f-3-e67"
+  },
+  "/docs/tags/design-thinking-e17": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-design-thinking-896-fd3"
+  },
+  "/docs/tags/development-181": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-development-4-ec-629"
+  },
+  "/docs/tags/devops-4ec": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-devops-7-a-9-74c"
+  },
+  "/docs/tags/dictionary-db8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dictionaryce-8-899"
+  },
+  "/docs/tags/diet-3a2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-diete-05-fd2"
+  },
+  "/docs/tags/digital-garden-f61": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-digital-gardenb-7-a-3df"
+  },
+  "/docs/tags/digital-nomad-ac9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-digital-nomadf-2-e-9b1"
+  },
+  "/docs/tags/distractions-7de": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-distractions-448-53b"
+  },
+  "/docs/tags/drama-94d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dramaf-8-e-fa0"
+  },
+  "/docs/tags/drinks-794": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-drinks-1-f-8-b0c"
+  },
+  "/docs/tags/drinks-non-alcoholic-4f5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-drinks-non-alcoholicc-91-e95"
+  },
+  "/docs/tags/drugs-b00": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-drugs-757-064"
+  },
+  "/docs/tags/dystopia-871": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-dystopia-5-f-9-1ba"
+  },
+  "/docs/tags/economics-80f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-economics-53-c-e4d"
+  },
+  "/docs/tags/embedding-cc7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-embedding-95-f-76e"
+  },
+  "/docs/tags/encoding-307": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-encodingd-46-1c4"
+  },
+  "/docs/tags/endurance-4ef": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-endurance-478-1ac"
+  },
+  "/docs/tags/energy-c90": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-energy-3-e-9-7a7"
+  },
+  "/docs/tags/engineering-8a5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-engineering-52-a-fb4"
+  },
+  "/docs/tags/engineering-management-279": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-engineering-managementaac-833"
+  },
+  "/docs/tags/english-language-918": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-english-language-344-d78"
+  },
+  "/docs/tags/enterprise-data-warehouse-041": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-enterprise-data-warehouse-946-6db"
+  },
+  "/docs/tags/entertainment-8a4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-entertainmentd-8-b-8c7"
+  },
+  "/docs/tags/entropy-34a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-entropy-24-a-44e"
+  },
+  "/docs/tags/environmentalism-998": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-environmentalismfa-8-5ad"
+  },
+  "/docs/tags/equipment-326": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-equipmentb-25-6dd"
+  },
+  "/docs/tags/espionage-2b6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-espionage-561-ec5"
+  },
+  "/docs/tags/etl-e7e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-etl-1-fd-4dd"
+  },
+  "/docs/tags/evolution-f38": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-evolution-462-c9c"
+  },
+  "/docs/tags/exercise-c0e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-exerciseb-2-f-4b1"
+  },
+  "/docs/tags/exploration-828": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-explorationa-71-9e0"
+  },
+  "/docs/tags/extensialism-370": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-extensialism-662-b18"
+  },
+  "/docs/tags/facism-3c3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-facismd-89-49a"
+  },
+  "/docs/tags/famine-9c9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-faminec-8-f-938"
+  },
+  "/docs/tags/fantasy-0a5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-fantasyaa-7-a2d"
+  },
+  "/docs/tags/fast-api-9f1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-fast-api-872-9f8"
+  },
+  "/docs/tags/favorite-recipe-019": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-favorite-recipe-2-ce-7ca"
+  },
+  "/docs/tags/feast-meal-beb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-feast-mealfbf-674"
+  },
+  "/docs/tags/feature-engineering-9b3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-feature-engineering-6-f-5-e34"
+  },
+  "/docs/tags/fiction-d5d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-fiction-81-d-8e6"
+  },
+  "/docs/tags/finance-b93": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-financec-69-646"
+  },
+  "/docs/tags/firebase-a4c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-firebaseaa-2-1e9"
+  },
+  "/docs/tags/flexibility-ca3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-flexibilityb-7-a-710"
+  },
+  "/docs/tags/flutter-dff": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-flutter-318-a6f"
+  },
+  "/docs/tags/focus-9d5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-focus-3-a-0-f93"
+  },
+  "/docs/tags/food-449": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-food-46-e-222"
+  },
+  "/docs/tags/food-prep-ed3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-food-prep-623-28d"
+  },
+  "/docs/tags/front-end-b53": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-front-enda-41-a0c"
+  },
+  "/docs/tags/game-theory-b9a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-game-theory-205-2af"
+  },
+  "/docs/tags/gcp-79f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-gcp-77-c-483"
+  },
+  "/docs/tags/git-994": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-git-7-b-6-99f"
+  },
+  "/docs/tags/github-326": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-githubc-17-9df"
+  },
+  "/docs/tags/github-actions-557": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-github-actions-6-c-8-26c"
+  },
+  "/docs/tags/github-reusable-workflows-6dd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-github-reusable-workflows-2-a-9-185"
+  },
+  "/docs/tags/goku-684": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-goku-0-f-4-e4a"
+  },
+  "/docs/tags/gpt-087": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-gptc-43-85a"
+  },
+  "/docs/tags/great-world-war-bf1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-great-world-warfad-33a"
+  },
+  "/docs/tags/habits-7ad": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-habitse-34-0fc"
+  },
+  "/docs/tags/hacking-bc4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-hackinge-31-f04"
+  },
+  "/docs/tags/health-c14": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-healthe-99-739"
+  },
+  "/docs/tags/historical-drama-930": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-historical-dramaa-1-c-e39"
+  },
+  "/docs/tags/history-4cc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-history-20-d-4dd"
+  },
+  "/docs/tags/history-military-b4c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-history-military-709-831"
+  },
+  "/docs/tags/hobbies-882": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-hobbiesf-55-956"
+  },
+  "/docs/tags/holomodor-320": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-holomodor-13-c-281"
+  },
+  "/docs/tags/home-77e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-home-180-6ea"
+  },
+  "/docs/tags/hotkeys-243": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-hotkeys-074-ab5"
+  },
+  "/docs/tags/ice-baths-046": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ice-baths-7-e-0-fb1"
+  },
+  "/docs/tags/ideating-6e2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ideating-871-031"
+  },
+  "/docs/tags/indian-2e6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-indian-03-a-463"
+  },
+  "/docs/tags/indonesia-6d2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-indonesiacf-8-dd5"
+  },
+  "/docs/tags/industralization-9f0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-industralization-5-f-2-44a"
+  },
+  "/docs/tags/interesting-reading-272": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-interesting-reading-420-1f4"
+  },
+  "/docs/tags/investing-60c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-investing-5-aa-59c"
+  },
+  "/docs/tags/iphone-747": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-iphone-360-021"
+  },
+  "/docs/tags/israel-2c5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-israele-51-322"
+  },
+  "/docs/tags/italian-e21": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-italiand-78-f8e"
+  },
+  "/docs/tags/japan-6cc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-japan-61-d-bb0"
+  },
+  "/docs/tags/javascript-273": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-javascripte-8-b-a38"
+  },
+  "/docs/tags/jim-crow-cc6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-jim-crow-3-ac-101"
+  },
+  "/docs/tags/journaling-0e5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-journalingd-4-d-1ae"
+  },
+  "/docs/tags/journalism-72d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-journalism-6-d-1-768"
+  },
+  "/docs/tags/keyboard-ef4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-keyboard-3-ef-58e"
+  },
+  "/docs/tags/keyboard-maestro-946": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-keyboard-maestro-5-a-1-a58"
+  },
+  "/docs/tags/keyboard-shortcuts-a4f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-keyboard-shortcuts-26-a-e5b"
+  },
+  "/docs/tags/kitchen-e0f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-kitchen-529-2c5"
+  },
+  "/docs/tags/knife-d15": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-knife-106-d20"
+  },
+  "/docs/tags/knowledge-25b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-knowledgeb-9-f-c6b"
+  },
+  "/docs/tags/knowledge-wiki-48b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-knowledge-wiki-609-3ce"
+  },
+  "/docs/tags/language-44f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-languagea-31-941"
+  },
+  "/docs/tags/laos-5b5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-laos-5-c-8-176"
+  },
+  "/docs/tags/large-language-models-739": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-large-language-modelsb-3-c-1a6"
+  },
+  "/docs/tags/leadership-5e6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-leadershipe-71-e3e"
+  },
+  "/docs/tags/learning-35e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-learningd-4-a-79b"
+  },
+  "/docs/tags/lectures-f36": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-lectures-889-9ed"
+  },
+  "/docs/tags/lexicography-25c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-lexicography-321-77f"
+  },
+  "/docs/tags/life-888": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-life-1-ae-19d"
+  },
+  "/docs/tags/literature-0bd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-literature-463-b1a"
+  },
+  "/docs/tags/living-718": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-livinge-67-f38"
+  },
+  "/docs/tags/llm-ab8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-llmfe-6-9bb"
+  },
+  "/docs/tags/logistics-fca": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-logistics-68-f-0f1"
+  },
+  "/docs/tags/long-form-podcasts-231": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-long-form-podcasts-59-a-2d8"
+  },
+  "/docs/tags/love-aaa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-love-4-a-1-7c8"
+  },
+  "/docs/tags/m-4cf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-m-1-f-1-1de"
+  },
+  "/docs/tags/mac-72a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-macb-48-13e"
+  },
+  "/docs/tags/machine-learning-83a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-machine-learningc-24-de8"
+  },
+  "/docs/tags/management-2d3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-management-853-829"
+  },
+  "/docs/tags/maritime-3c4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-maritime-33-c-909"
+  },
+  "/docs/tags/markdown-1a3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-markdowndcd-f59"
+  },
+  "/docs/tags/marketing-e54": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-marketing-682-629"
+  },
+  "/docs/tags/mathematics-dbc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mathematicsfe-4-8f8"
+  },
+  "/docs/tags/mathematics-game-theory-04c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mathematics-game-theorya-33-461"
+  },
+  "/docs/tags/meal-prep-dde": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-meal-prep-634-4a2"
+  },
+  "/docs/tags/meditation-a66": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-meditation-208-0e7"
+  },
+  "/docs/tags/memoir-f08": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-memoira-44-ae4"
+  },
+  "/docs/tags/mental-hurdles-eb1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mental-hurdlesdae-6b0"
+  },
+  "/docs/tags/microsoft-36e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-microsoft-268-fca"
+  },
+  "/docs/tags/military-970": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-militarydc-4-f85"
+  },
+  "/docs/tags/mind-c2c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mindcd-7-88a"
+  },
+  "/docs/tags/mindfulness-654": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mindfulness-8-ab-170"
+  },
+  "/docs/tags/missing-quotes-a6d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-missing-quotes-052-e3d"
+  },
+  "/docs/tags/mlops-459": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mlops-8-d-7-922"
+  },
+  "/docs/tags/mobile-development-900": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-mobile-development-49-d-cf4"
+  },
+  "/docs/tags/money-c55": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-money-080-9a6"
+  },
+  "/docs/tags/motivation-064": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-motivation-2-a-6-3d9"
+  },
+  "/docs/tags/music-497": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-musicada-f89"
+  },
+  "/docs/tags/nationalism-338": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nationalism-1-a-3-1fb"
+  },
+  "/docs/tags/natural-language-89f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-natural-languaged-84-6a6"
+  },
+  "/docs/tags/neo-conservatism-fcf": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-neo-conservatism-683-5a8"
+  },
+  "/docs/tags/neural-networks-21c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-neural-networks-17-d-ecd"
+  },
+  "/docs/tags/neuroscience-071": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-neuroscienceff-8-2f0"
+  },
+  "/docs/tags/nlp-e53": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nlp-148-ba0"
+  },
+  "/docs/tags/non-fiction-ddd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-non-fiction-8-c-3-a9e"
+  },
+  "/docs/tags/non-linearities-951": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-non-linearities-8-bb-882"
+  },
+  "/docs/tags/norwegian-books-c82": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-norwegian-books-77-d-5fa"
+  },
+  "/docs/tags/norwegian-language-7d5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-norwegian-language-1-c-9-957"
+  },
+  "/docs/tags/notes-f55": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-notes-0-bd-9c4"
+  },
+  "/docs/tags/notetaking-93f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-notetaking-62-a-2b3"
+  },
+  "/docs/tags/nutrition-e23": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-nutrition-67-c-509"
+  },
+  "/docs/tags/obsidian-d7d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-obsidian-45-b-82e"
+  },
+  "/docs/tags/oil-2fe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-oil-5-b-0-23c"
+  },
+  "/docs/tags/one-hot-encoding-e5c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-one-hot-encoding-95-c-1ff"
+  },
+  "/docs/tags/optimimization-589": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-optimimization-3-ac-b17"
+  },
+  "/docs/tags/orwell-11d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-orwell-810-012"
+  },
+  "/docs/tags/pakistani-67a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pakistani-933-2fd"
+  },
+  "/docs/tags/palestine-fab": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-palestined-15-113"
+  },
+  "/docs/tags/pandas-3ea": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pandas-1-cd-6d7"
+  },
+  "/docs/tags/pasta-719": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pasta-181-38c"
+  },
+  "/docs/tags/performance-364": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-performance-9-e-4-f68"
+  },
+  "/docs/tags/period-drama-94e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-period-drama-690-320"
+  },
+  "/docs/tags/personal-569": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-personalf-6-c-ff7"
+  },
+  "/docs/tags/personal-development-745": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-personal-developmentf-66-bcb"
+  },
+  "/docs/tags/personal-finance-efc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-personal-finance-24-b-f96"
+  },
+  "/docs/tags/philosophy-35e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-philosophyfdc-227"
+  },
+  "/docs/tags/phone-a1e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-phonefca-101"
+  },
+  "/docs/tags/physics-394": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-physics-5-f-1-bff"
+  },
+  "/docs/tags/physics-quantum-physics-0a1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-physics-quantum-physicsbdf-a1e"
+  },
+  "/docs/tags/places-015": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-placesf-31-a9a"
+  },
+  "/docs/tags/plants-648": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-plantsd-67-666"
+  },
+  "/docs/tags/podcasts-69b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-podcasts-05-c-070"
+  },
+  "/docs/tags/poetics-2b6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-poeticsa-75-a49"
+  },
+  "/docs/tags/political-science-352": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-political-science-074-7ed"
+  },
+  "/docs/tags/politics-05e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-politics-278-056"
+  },
+  "/docs/tags/post-modernism-6f8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-post-modernismae-5-a29"
+  },
+  "/docs/tags/postgresql-530": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-postgresql-617-1b4"
+  },
+  "/docs/tags/power-3e6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-power-43-f-502"
+  },
+  "/docs/tags/prices-23e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pricesb-79-d65"
+  },
+  "/docs/tags/processes-dee": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-processese-92-b93"
+  },
+  "/docs/tags/product-management-61c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-product-management-24-d-209"
+  },
+  "/docs/tags/product-recommendation-c88": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-product-recommendation-7-f-6-8f7"
+  },
+  "/docs/tags/productivity-4fd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-productivity-783-40e"
+  },
+  "/docs/tags/productivity-hack-fdc": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-productivity-hackbc-6-b2a"
+  },
+  "/docs/tags/programming-778": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-programmingc-29-b3e"
+  },
+  "/docs/tags/psychology-dc3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-psychology-17-c-0da"
+  },
+  "/docs/tags/python-d96": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-pythond-01-9b3"
+  },
+  "/docs/tags/quantitative-analysis-87d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-quantitative-analysisec-0-c47"
+  },
+  "/docs/tags/quick-food-84c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-quick-foodca-7-c4c"
+  },
+  "/docs/tags/quotes-0b1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-quotes-030-0b1"
+  },
+  "/docs/tags/ranking-systems-db8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ranking-systemsd-51-4b1"
+  },
+  "/docs/tags/react-7c3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-reactb-0-b-b86"
+  },
+  "/docs/tags/reading-fe4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-readingbcf-c14"
+  },
+  "/docs/tags/recipe-c14": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-recipeefe-2f3"
+  },
+  "/docs/tags/recipes-d48": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-recipes-88-b-288"
+  },
+  "/docs/tags/recommender-systems-871": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-recommender-systemscfa-ce7"
+  },
+  "/docs/tags/relationships-e60": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-relationships-577-7c7"
+  },
+  "/docs/tags/relaxing-0d3": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-relaxing-1-da-bd5"
+  },
+  "/docs/tags/religion-350": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-religion-5-e-1-c66"
+  },
+  "/docs/tags/remote-work-725": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-remote-work-3-a-0-92d"
+  },
+  "/docs/tags/responsibility-ef6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-responsibilityd-92-71a"
+  },
+  "/docs/tags/revolution-b5c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-revolution-21-e-91e"
+  },
+  "/docs/tags/rice-5f4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ricec-89-90a"
+  },
+  "/docs/tags/rights-819": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-rights-01-e-3a0"
+  },
+  "/docs/tags/roman-5be": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-romandc-7-b67"
+  },
+  "/docs/tags/russian-litterature-824": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-russian-litterature-4-f-2-67c"
+  },
+  "/docs/tags/rust-f29": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-rust-3-d-1-5e1"
+  },
+  "/docs/tags/sapporo-4e0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sapporof-32-eae"
+  },
+  "/docs/tags/satire-1f9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-satire-274-0a7"
+  },
+  "/docs/tags/scepticism-e4f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-scepticism-4-d-5-d2b"
+  },
+  "/docs/tags/science-217": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-science-291-db0"
+  },
+  "/docs/tags/science-fiction-582": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-science-fiction-580-ab4"
+  },
+  "/docs/tags/scientific-method-ac4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-scientific-method-104-484"
+  },
+  "/docs/tags/scrum-76b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-scrum-6-a-6-d91"
+  },
+  "/docs/tags/seafood-c42": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-seafood-896-67d"
+  },
+  "/docs/tags/seeds-0e2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-seeds-6-d-4-b41"
+  },
+  "/docs/tags/self-help-book-11d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-self-help-book-62-a-297"
+  },
+  "/docs/tags/self-improvement-b56": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-self-improvementc-83-04e"
+  },
+  "/docs/tags/sharing-186": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sharingbe-0-7b4"
+  },
+  "/docs/tags/shell-658": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-shell-0-de-d14"
+  },
+  "/docs/tags/shell-scripting-2e7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-shell-scripting-0-df-1a6"
+  },
+  "/docs/tags/shipping-7de": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-shipping-064-3c8"
+  },
+  "/docs/tags/show-552": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-showd-1-c-53d"
+  },
+  "/docs/tags/silent-retreat-22f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-silent-retreatfff-550"
+  },
+  "/docs/tags/singapore-f66": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-singapore-809-ebd"
+  },
+  "/docs/tags/sixties-ca8": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sixties-406-f99"
+  },
+  "/docs/tags/sleep-30a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sleep-80-a-4a9"
+  },
+  "/docs/tags/snowflake-0e4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-snowflake-5-f-7-698"
+  },
+  "/docs/tags/snowpark-7bb": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-snowpark-9-eb-211"
+  },
+  "/docs/tags/socialism-ced": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-socialism-839-478"
+  },
+  "/docs/tags/software-7ba": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-softwarea-23-700"
+  },
+  "/docs/tags/software-testing-115": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-software-testing-7-e-7-61d"
+  },
+  "/docs/tags/software-tools-fef": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-software-toolsbfd-719"
+  },
+  "/docs/tags/solo-travel-e8d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-solo-travelc-14-003"
+  },
+  "/docs/tags/sound-0ce": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-soundbe-0-7a9"
+  },
+  "/docs/tags/sourbread-931": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sourbread-7-e-2-db7"
+  },
+  "/docs/tags/south-east-asia-95e": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-south-east-asia-649-e24"
+  },
+  "/docs/tags/sports-268": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sports-991-497"
+  },
+  "/docs/tags/spotlight-81c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-spotlightcc-8-990"
+  },
+  "/docs/tags/sql-1aa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-sqlc-0-a-610"
+  },
+  "/docs/tags/stalinism-b8d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-stalinismdd-1-dbd"
+  },
+  "/docs/tags/statistics-f3c": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-statistics-32-d-7a1"
+  },
+  "/docs/tags/stew-2da": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-stew-696-f3a"
+  },
+  "/docs/tags/stocks-1c2": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-stocksd-32-578"
+  },
+  "/docs/tags/stoicsm-60b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-stoicsmef-6-872"
+  },
+  "/docs/tags/strategy-365": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-strategy-34-c-cac"
+  },
+  "/docs/tags/strength-training-7df": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-strength-training-973-50f"
+  },
+  "/docs/tags/studying-366": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-studying-60-c-9d2"
+  },
+  "/docs/tags/surfing-393": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-surfingb-4-e-414"
+  },
+  "/docs/tags/surrealism-52b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-surrealismec-1-9e3"
+  },
+  "/docs/tags/system-architecture-324": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-system-architecture-014-5a2"
+  },
+  "/docs/tags/system-thinking-0ee": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-system-thinkingddb-502"
+  },
+  "/docs/tags/taking-4fd": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-takingb-14-285"
+  },
+  "/docs/tags/taleb-cb0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-taleb-4-bf-daa"
+  },
+  "/docs/tags/talks-7e9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-talks-546-993"
+  },
+  "/docs/tags/tdd-958": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-tdd-5-ef-347"
+  },
+  "/docs/tags/teams-746": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-teams-795-0d6"
+  },
+  "/docs/tags/technology-96a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-technology-291-429"
+  },
+  "/docs/tags/terminal-ea9": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-terminalf-69-ab7"
+  },
+  "/docs/tags/terraform-cc4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-terraform-230-db5"
+  },
+  "/docs/tags/testing-b53": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-testing-47-a-8c5"
+  },
+  "/docs/tags/the-first-law-series-2e7": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-the-first-law-series-7-f-7-3de"
+  },
+  "/docs/tags/thinking-73d": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-thinkingab-9-2b2"
+  },
+  "/docs/tags/time-management-ff5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-time-management-909-05c"
+  },
+  "/docs/tags/tools-1f1": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-tools-536-545"
+  },
+  "/docs/tags/totalitarianism-dae": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-totalitarianism-90-d-546"
+  },
+  "/docs/tags/trade-76f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-trade-38-e-d58"
+  },
+  "/docs/tags/trading-b55": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-trading-7-ff-456"
+  },
+  "/docs/tags/transformers-6aa": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-transformers-4-ff-7da"
+  },
+  "/docs/tags/travel-3d5": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-travelf-5-a-a2b"
+  },
+  "/docs/tags/travel-guide-401": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-travel-guide-346-dc3"
+  },
+  "/docs/tags/truth-seeking-b31": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-truth-seekingec-3-5e2"
+  },
+  "/docs/tags/ui-020": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ui-19-d-026"
+  },
+  "/docs/tags/ukraine-2af": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ukraine-401-640"
+  },
+  "/docs/tags/uncertainty-ac6": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-uncertaintyd-9-c-681"
+  },
+  "/docs/tags/university-a2b": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-university-40-f-56e"
+  },
+  "/docs/tags/ux-443": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-ux-3-be-2da"
+  },
+  "/docs/tags/vacation-396": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-vacationf-51-a66"
+  },
+  "/docs/tags/warfare-9c0": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-warfare-60-a-c57"
+  },
+  "/docs/tags/web-development-15a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-web-developmentcf-8-d2a"
+  },
+  "/docs/tags/work-a30": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-work-0-bc-4c2"
+  },
+  "/docs/tags/working-68a": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-workingfd-8-4fd"
+  },
+  "/docs/tags/workouts-afe": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-workoutsda-2-289"
+  },
+  "/docs/tags/workshop-ce4": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-workshopb-9-f-1d4"
+  },
+  "/docs/tags/world-war-ii-747": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-world-war-iif-21-876"
+  },
+  "/docs/tags/writing-c12": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-writing-9-cb-f1c"
+  },
+  "/docs/tags/yoga-f3f": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-yogada-9-ccb"
+  },
+  "/docs/tags/youtube-633": {
+    "__comp": "__comp---theme-doc-tag-doc-list-pagedf-2-9f0",
+    "tag": "tag---docs-tags-youtube-45-f-160"
+  },
+  "/docs-0a0": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/AI/-e7c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-65-f-807"
+  },
+  "/docs/AI/AI Strategy-e8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-ai-strategye-78-72c"
+  },
+  "/docs/AI/Data Drift-0a7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-driftcc-4-a27"
+  },
+  "/docs/AI/Data Science/-6e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-7-d-0-fd7"
+  },
+  "/docs/AI/Data Science/Computer Vision-830": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-computer-visionb-01-cda"
+  },
+  "/docs/AI/Data Science/Data Science Project Start-Up Phase-9cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-data-science-project-start-up-phase-47-e-087"
+  },
+  "/docs/AI/Data Science/Feature Engineering-223": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-feature-engineeringe-3-b-2ec"
+  },
+  "/docs/AI/Data Science/ML Design Sprint-232": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-ml-design-sprint-875-785"
+  },
+  "/docs/AI/Data Science/Recommendation Systems-377": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-data-science-recommendation-systems-8-e-2-dd2"
+  },
+  "/docs/AI/Language/NLP or LLM-0bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-ai-language-nlp-or-llm-803-b2b"
+  },
+  "/docs/Articles/-176": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-articles-1-dc-822"
+  },
+  "/docs/Body/-0da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-body-dbd-5c9"
+  },
+  "/docs/Books/Book Quotes 2022-0a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-quotes-2022-d-58-e6a"
+  },
+  "/docs/Books/Book Reviews/1776-d4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-1776-bfb-119"
+  },
+  "/docs/Books/Book Reviews/5 Love Languages-472": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-5-love-languagesbf-4-c47"
+  },
+  "/docs/Books/Book Reviews/97 Things Every Programmer Should Know-0c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-97-things-every-programmer-should-know-25-b-c4c"
+  },
+  "/docs/Books/Book Reviews/A Field Guide to Lies-322": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-a-field-guide-to-liesc-21-040"
+  },
+  "/docs/Books/Book Reviews/A little Hatred-e6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-a-little-hatredcf-5-cce"
+  },
+  "/docs/Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science-126": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-a-mind-for-numbers-how-to-excel-at-math-and-science-1-bd-b54"
+  },
+  "/docs/Books/Book Reviews/A Story of Us-856": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-a-story-of-us-47-b-fab"
+  },
+  "/docs/Books/Book Reviews/Alchemy-a26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-alchemyfe-9-ff5"
+  },
+  "/docs/Books/Book Reviews/Animal Farm-76b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-animal-farm-7-cf-088"
+  },
+  "/docs/Books/Book Reviews/Automating Your Mac-c2e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-automating-your-mac-61-f-420"
+  },
+  "/docs/Books/Book Reviews/Basic Economics-6fb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-basic-economics-015-217"
+  },
+  "/docs/Books/Book Reviews/Best served Cold-1d9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-best-served-colde-9-e-f2a"
+  },
+  "/docs/Books/Book Reviews/Black Boy-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-black-boye-81-c5a"
+  },
+  "/docs/Books/Book Reviews/Books-dd6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-books-1-e-2-897"
+  },
+  "/docs/Books/Book Reviews/Breath-f40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-breath-701-2aa"
+  },
+  "/docs/Books/Book Reviews/Calling Bullshit-cd0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-calling-bullshitdf-3-c74"
+  },
+  "/docs/Books/Book Reviews/Chip War-6bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-chip-war-88-b-91d"
+  },
+  "/docs/Books/Book Reviews/Crucial Conversations Tools for Talking When Stakes are High-66f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-crucial-conversations-tools-for-talking-when-stakes-are-highdee-c20"
+  },
+  "/docs/Books/Book Reviews/Designing Machine Learning Systems-763": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-designing-machine-learning-systemsbba-5ba"
+  },
+  "/docs/Books/Book Reviews/Economics in One Lesson-72d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-economics-in-one-lessond-8-c-9f3"
+  },
+  "/docs/Books/Book Reviews/Eisenhorn-6b5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-eisenhornc-8-f-ddd"
+  },
+  "/docs/Books/Book Reviews/Expert Python Programming-7bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-expert-python-programmingac-2-03b"
+  },
+  "/docs/Books/Book Reviews/Extreme Ownership-975": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-extreme-ownershiped-9-75e"
+  },
+  "/docs/Books/Book Reviews/Fifteen Hours-f3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-fifteen-hours-579-e2b"
+  },
+  "/docs/Books/Book Reviews/Finite and Infinite Games-c50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-finite-and-infinite-games-5-e-8-bab"
+  },
+  "/docs/Books/Book Reviews/Four Thousand Weeks Time Management for Mortals-22b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-four-thousand-weeks-time-management-for-mortals-25-c-ce3"
+  },
+  "/docs/Books/Book Reviews/Fundamentals of Data Engineering-758": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-fundamentals-of-data-engineering-350-4a8"
+  },
+  "/docs/Books/Book Reviews/Hitch 22-059": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-hitch-220-fc-674"
+  },
+  "/docs/Books/Book Reviews/Hooked-023": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-hooked-514-819"
+  },
+  "/docs/Books/Book Reviews/How the war was Won-141": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-how-the-war-was-won-489-851"
+  },
+  "/docs/Books/Book Reviews/How the World Really Works-10b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-how-the-world-really-works-1-f-0-d6e"
+  },
+  "/docs/Books/Book Reviews/I Moved Your Cheese-fbf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-i-moved-your-cheeseb-1-c-513"
+  },
+  "/docs/Books/Book Reviews/Imagined Communities-dc1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-imagined-communities-021-225"
+  },
+  "/docs/Books/Book Reviews/Kvitekrist-0aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-kvitekristfc-0-382"
+  },
+  "/docs/Books/Book Reviews/Learn Google Flutter Fast-ad3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-learn-google-flutter-fast-3-d-5-33d"
+  },
+  "/docs/Books/Book Reviews/Letters to a Young Contrarian-c9f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-letters-to-a-young-contrarian-122-3e0"
+  },
+  "/docs/Books/Book Reviews/Machine Learning Design Patterns-300": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-machine-learning-design-patterns-4-e-9-1bb"
+  },
+  "/docs/Books/Book Reviews/Made to Stick-16f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-made-to-sticke-2-e-59f"
+  },
+  "/docs/Books/Book Reviews/Millennial Love-dbc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-millennial-love-3-d-7-7e2"
+  },
+  "/docs/Books/Book Reviews/Models-3b3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-modelsced-ea4"
+  },
+  "/docs/Books/Book Reviews/Moneyball-542": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-moneyball-460-f2c"
+  },
+  "/docs/Books/Book Reviews/Nonviolent Communication-42c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-nonviolent-communication-764-76e"
+  },
+  "/docs/Books/Book Reviews/On Palestine-f5a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-on-palestine-07-d-8e3"
+  },
+  "/docs/Books/Book Reviews/Payments Systems in the US-d7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-payments-systems-in-the-us-0-bf-eda"
+  },
+  "/docs/Books/Book Reviews/Peopleware-fdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-peopleware-6-c-6-940"
+  },
+  "/docs/Books/Book Reviews/Personal MBA-fbd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-personal-mb-aaab-537"
+  },
+  "/docs/Books/Book Reviews/Practical MLOps-115": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-practical-ml-ops-459-125"
+  },
+  "/docs/Books/Book Reviews/Practical Recommendation Systems-7c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-practical-recommendation-systems-856-df5"
+  },
+  "/docs/Books/Book Reviews/Pricing and Revenue Optimization-eb4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-pricing-and-revenue-optimizationf-55-412"
+  },
+  "/docs/Books/Book Reviews/Python Tricks-d25": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-python-tricks-129-8d7"
+  },
+  "/docs/Books/Book Reviews/Red Country-694": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-red-country-3-a-0-698"
+  },
+  "/docs/Books/Book Reviews/Red Famine-bdf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-red-famine-2-ff-c20"
+  },
+  "/docs/Books/Book Reviews/Rich Dad, Poor Dad-629": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-rich-dad-poor-dad-4-b-3-717"
+  },
+  "/docs/Books/Book Reviews/Slaughterhouse Five-def": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-slaughterhouse-fiveab-1-37f"
+  },
+  "/docs/Books/Book Reviews/Soul in the Game-ab5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-soul-in-the-gamee-17-ec6"
+  },
+  "/docs/Books/Book Reviews/Spark The Revolutionary New Science of Exercise and the Brain-f26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-spark-the-revolutionary-new-science-of-exercise-and-the-braind-89-5d8"
+  },
+  "/docs/Books/Book Reviews/Start with No-536": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-start-with-no-1-b-8-a39"
+  },
+  "/docs/Books/Book Reviews/Stoner-0fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-stoner-31-d-64d"
+  },
+  "/docs/Books/Book Reviews/Take Control of Automating Your Mac-19e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-take-control-of-automating-your-macfa-5-9c0"
+  },
+  "/docs/Books/Book Reviews/The blade Itself-6aa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-blade-itself-64-e-a3a"
+  },
+  "/docs/Books/Book Reviews/The Blind Watchmaker-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-blind-watchmakeraaa-417"
+  },
+  "/docs/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger-96e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-box-how-the-shipping-container-made-the-world-smaller-and-the-world-economy-biggerd-23-b20"
+  },
+  "/docs/Books/Book Reviews/The Brothers Karamazov-6f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-brothers-karamazov-813-f79"
+  },
+  "/docs/Books/Book Reviews/The Capitalist Manifesto-9db": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-capitalist-manifesto-4-cd-c07"
+  },
+  "/docs/Books/Book Reviews/The Case Against Reality Why Evolution Hid the Truth from Our Eyes-aef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-case-against-reality-why-evolution-hid-the-truth-from-our-eyes-05-a-7db"
+  },
+  "/docs/Books/Book Reviews/The Case Against the Sexual Revolution-9fe": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-case-against-the-sexual-revolutione-93-4dd"
+  },
+  "/docs/Books/Book Reviews/The Creativity Code-3cd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-creativity-code-59-c-7d7"
+  },
+  "/docs/Books/Book Reviews/The Dictator's Handbook-2b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-dictators-handbook-08-e-ca0"
+  },
+  "/docs/Books/Book Reviews/The First World War-37b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-first-world-ware-95-e52"
+  },
+  "/docs/Books/Book Reviews/The Man from the Future The Visionary Life of John von Neumann-242": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-man-from-the-future-the-visionary-life-of-john-von-neumann-9-f-5-3e6"
+  },
+  "/docs/Books/Book Reviews/The Myth of Sisyphus-d96": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-myth-of-sisyphus-3-c-9-bf1"
+  },
+  "/docs/Books/Book Reviews/The organized mind-e18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-organized-mindeaa-e43"
+  },
+  "/docs/Books/Book Reviews/The Quants-ea6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-quants-4-d-9-7ef"
+  },
+  "/docs/Books/Book Reviews/The Stranger-921": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-stranger-4-b-5-3a4"
+  },
+  "/docs/Books/Book Reviews/The Structure of Scientific Revolutions-5df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-structure-of-scientific-revolutionse-19-55b"
+  },
+  "/docs/Books/Book Reviews/The Triumph of Seeds-182": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-triumph-of-seedsa-8-b-562"
+  },
+  "/docs/Books/Book Reviews/The Trouble with Peace-114": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-trouble-with-peacecfb-d0c"
+  },
+  "/docs/Books/Book Reviews/The Wim Hof Method-590": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-wim-hof-method-7-bd-af2"
+  },
+  "/docs/Books/Book Reviews/The Wisdom of Crowds-3a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-the-wisdom-of-crowds-775-2ee"
+  },
+  "/docs/Books/Book Reviews/Thinking in Systems-4e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-thinking-in-systemscd-9-6eb"
+  },
+  "/docs/Books/Book Reviews/Washington's Spies. The Story of America's First Spy Ring-32b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-washingtons-spies-the-story-of-americas-first-spy-ringe-40-ecf"
+  },
+  "/docs/Books/Book Reviews/When Reason goes on Holliday-654": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-when-reason-goes-on-holliday-911-09d"
+  },
+  "/docs/Books/Book Reviews/Why Orwell Matters-ca8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-why-orwell-matters-923-8ba"
+  },
+  "/docs/Books/Book Reviews/Why we get fat and what to do about it-950": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-why-we-get-fat-and-what-to-do-about-itfff-84f"
+  },
+  "/docs/Books/Book Reviews/Word by Word-97e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-word-by-wordbc-9-8e8"
+  },
+  "/docs/Books/Book Reviews/Your Brain at Work-c71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-your-brain-at-workb-5-a-021"
+  },
+  "/docs/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance-58c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-book-reviews-zen-the-art-of-motorcycle-maintenancef-0-f-c8d"
+  },
+  "/docs/Books/Booklist 2023-9d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-booklist-2023-a-10-691"
+  },
+  "/docs/Books/Booklist 2024-212": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-booklist-2024-fe-4-bf0"
+  },
+  "/docs/Books/Literature/-502": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-literature-8-a-4-e30"
+  },
+  "/docs/Books/Literature/Poems-9d2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-books-literature-poems-324-ac0"
+  },
+  "/docs/Career/-8f7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-career-813-a92"
+  },
+  "/docs/Cloud/-102": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-014-aea"
+  },
+  "/docs/Cloud/AWS-b98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-aw-sa-6-f-c7c"
+  },
+  "/docs/Cloud/Azure-572": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-azure-55-f-192"
+  },
+  "/docs/Cloud/GCP-0b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cloud-gcp-140-ed7"
+  },
+  "/docs/Curiosity/-66f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-curiosity-8-d-4-c19"
+  },
+  "/docs/CyberSecurity/-7b2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-cyber-security-448-26b"
+  },
+  "/docs/Database/-5e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-7-b-4-316"
+  },
+  "/docs/Database/Postgres-15e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-postgres-2-a-1-fc7"
+  },
+  "/docs/Database/Snowflake-157": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-database-snowflakeb-17-649"
+  },
+  "/docs/Decision-585": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-decisioncce-dae"
+  },
+  "/docs/Design/-898": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-design-efc-760"
+  },
+  "/docs/DevOps/-ea7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dev-ops-28-e-d3b"
+  },
+  "/docs/DevOps/Git-1a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dev-ops-git-70-b-d13"
+  },
+  "/docs/DevOps/GitHub Actions-3ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-dev-ops-git-hub-actions-4-ef-d1f"
+  },
+  "/docs/Economics/-319": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-economics-abc-876"
+  },
+  "/docs/Economics/Investing-813": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-economics-investing-276-9c8"
+  },
+  "/docs/Entertainment/TV-Shows/-84d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entertainment-tv-shows-d-3-d-2cc"
+  },
+  "/docs/Entertainment/TV-Shows/Mad Men-577": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entertainment-tv-shows-mad-men-54-b-a09"
+  },
+  "/docs/Entertainment/TV-Shows/The Wire-b4b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-entertainment-tv-shows-the-wire-3-f-9-9ed"
+  },
+  "/docs/Exercise/-332": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-exercise-04-a-a8f"
+  },
+  "/docs/Exercise/Flexibility/-824": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-exercise-flexibility-40-c-3bf"
+  },
+  "/docs/Exercise/Strength/-ab9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-exercise-strength-b-92-cf0"
+  },
+  "/docs/Food/-1a5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-e-3-f-b35"
+  },
+  "/docs/Food/Baking-816": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-baking-7-a-1-c4d"
+  },
+  "/docs/Food/Coffee-387": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-coffee-7-f-8-568"
+  },
+  "/docs/Food/Drink-680": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-drink-06-b-3ee"
+  },
+  "/docs/Food/Equipment-6dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-equipment-14-b-d7a"
+  },
+  "/docs/Food/Kitchen-cc8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-kitchen-7-e-2-7cb"
+  },
+  "/docs/Food/Recipes/-410": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-c-85-968"
+  },
+  "/docs/Food/Recipes/Aglio e Olio-7bf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-aglio-e-olio-0-c-7-f39"
+  },
+  "/docs/Food/Recipes/Biryani-d57": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-biryanie-37-90c"
+  },
+  "/docs/Food/Recipes/Crab Pasta-efd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-crab-pastabb-6-54d"
+  },
+  "/docs/Food/Recipes/Maqlouba-579": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-maqloubabf-5-ffb"
+  },
+  "/docs/Food/Recipes/Osso Bucco-828": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-osso-bucco-3-f-7-8c5"
+  },
+  "/docs/Food/Recipes/Pasta-e72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-pastaf-44-38e"
+  },
+  "/docs/Food/Recipes/Recipes to try-dd0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-food-recipes-recipes-to-try-48-d-555"
+  },
+  "/docs/Iphone/-4d7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iphone-3-ed-5a8"
+  },
+  "/docs/Iphone/Apps-f9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-iphone-apps-48-c-00a"
+  },
+  "/docs/Language/-c7a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-language-836-fdb"
+  },
+  "/docs/Learning/-8f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-learning-2-ec-6df"
+  },
+  "/docs/Learning/Lectures-5d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-learning-lectures-5-ab-f2b"
+  },
+  "/docs/Learning/Talks-51b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-learning-talks-49-b-710"
+  },
+  "/docs/Living/-a21": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-living-fca-902"
+  },
+  "/docs/Living/Home-31c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-living-home-938-dd9"
+  },
+  "/docs/Mac/-b01": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mac-bc-5-5ec"
+  },
+  "/docs/Mac/Alfred-5fd": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mac-alfred-1-da-bb0"
+  },
+  "/docs/Mac/Karabiner-38d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mac-karabiner-97-e-2dc"
+  },
+  "/docs/Mac/Obsidian-62b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mac-obsidian-5-cc-bdf"
+  },
+  "/docs/Mac/Terminal-9c5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mac-terminal-5-f-3-534"
+  },
+  "/docs/Mathematics/-90f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathematics-5-f-1-faf"
+  },
+  "/docs/Mathematics/Chaos-0f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-mathematics-chaos-962-2d3"
+  },
+  "/docs/Motivation/-612": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-motivation-215-892"
+  },
+  "/docs/Music/-d6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-music-4-d-6-d44"
+  },
+  "/docs/Music/Discover and Sharing-ebc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-music-discover-and-sharingc-41-059"
+  },
+  "/docs/Obsidian/-a78": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-obsidian-565-958"
+  },
+  "/docs/Personal-0ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-personal-50-e-cca"
+  },
+  "/docs/Philosophy/-88f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-philosophy-3-cd-adc"
+  },
+  "/docs/Philosophy/On The Duality of Rights and Responsibilities-bee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-philosophy-on-the-duality-of-rights-and-responsibilitiesd-90-37b"
+  },
+  "/docs/Philosophy/Religion-765": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-philosophy-religion-615-92f"
+  },
+  "/docs/Podcasts/-c87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-podcasts-258-aaf"
+  },
+  "/docs/Politics/-dc9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-politics-289-3a4"
+  },
+  "/docs/Productivity/-e26": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-productivity-7-ff-b96"
+  },
+  "/docs/Productivity/Productivity Theory-068": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-productivity-productivity-theory-5-db-0d3"
+  },
+  "/docs/Programming/-b5d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-cf-3-892"
+  },
+  "/docs/Programming/Flutter-41e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-fluttered-1-edc"
+  },
+  "/docs/Programming/Javascript-bd8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-javascript-79-e-551"
+  },
+  "/docs/Programming/Python/-e8f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-python-490-27f"
+  },
+  "/docs/Programming/Python/FastAPI-fdc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-python-fast-api-8-aa-b19"
+  },
+  "/docs/Programming/Python/Pytest-dba": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-python-pytest-508-fed"
+  },
+  "/docs/Programming/Rust-d98": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-rust-488-d06"
+  },
+  "/docs/Programming/SQL-4c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-programming-sql-0-e-5-54a"
+  },
+  "/docs/Thinking/-f8e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-thinking-35-b-6a4"
+  },
+  "/docs/Tools/-5de": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-cae-c0a"
+  },
+  "/docs/Tools/ChatGPT-97a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-chat-gpt-58-e-385"
+  },
+  "/docs/Travel/-4da": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-902-c01"
+  },
+  "/docs/Travel/Places/-3a4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-places-cb-8-304"
+  },
+  "/docs/Travel/Places/Bali-c2d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-places-balid-34-ce8"
+  },
+  "/docs/Travel/Places/Laos-4a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-places-laos-994-fc2"
+  },
+  "/docs/Travel/Places/Sapporo and Niseko-f87": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-places-sapporo-and-niseko-8-c-3-d86"
+  },
+  "/docs/Travel/Places/Singapore-8dc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-travel-places-singapore-048-4c0"
+  },
+  "/docs/Working/-9b8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-working-06-f-efd"
+  },
+  "/docs/Working/Agile-41d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-working-agilea-9-d-593"
+  },
+  "/docs/Working/Management-a5e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-working-management-0-da-367"
+  },
+  "/docs/Working/Remote Work-38a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-working-remote-work-13-f-ea8"
+  },
+  "/docs/Writing/-364": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-writing-709-7c8"
+  },
+  "/-640": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-11-c-d4e"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

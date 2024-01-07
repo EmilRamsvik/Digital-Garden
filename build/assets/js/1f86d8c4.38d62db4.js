@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[32022],{9043:s=>{s.exports=JSON.parse('{"label":"#drinks","permalink":"/docs/tags/drinks","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Food/Drink","title":"Drink","description":"-","permalink":"/docs/Food/Drink"}],"unlisted":false}')}}]);

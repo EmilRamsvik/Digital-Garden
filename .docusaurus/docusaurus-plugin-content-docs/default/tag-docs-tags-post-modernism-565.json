@@ -1,0 +1,15 @@
+{
+  "label": "post-modernism",
+  "permalink": "/docs/tags/post-modernism",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Philosophy/Philosophy",
+      "title": "Philosophy",
+      "description": "System Building",
+      "permalink": "/docs/Philosophy/"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,45 @@
+{
+  "label": "productivity-hack",
+  "permalink": "/docs/tags/productivity-hack",
+  "allTagsPath": "/docs/tags",
+  "count": 6,
+  "items": [
+    {
+      "id": "Mac/Alfred",
+      "title": "Alfred",
+      "description": "Alfred is basically Spotlight on steroids. It contains all the features of Spotlight but is more powerful. If you purchase the powerpack, you also get access to workflows.",
+      "permalink": "/docs/Mac/Alfred"
+    },
+    {
+      "id": "Mac/Karabiner",
+      "title": "Karabiner",
+      "description": "Karabiner is a powerful and customizable keyboard remapping tool designed specifically for macOS. It allows users to modify the behavior of their keyboards by remapping keys, creating shortcuts, and implementing various keyboard modifications. With Karabiner, users can redefine keys to perform different functions or assign complex combinations of keys to trigger specific actions. This enables users to personalize their keyboard layout and streamline their workflow, making it easier and more efficient to navigate through applications and perform tasks.",
+      "permalink": "/docs/Mac/Karabiner"
+    },
+    {
+      "id": "Obsidian/Obsidian",
+      "title": "Obsidian",
+      "description": "Obsidian is where I store my knowledge. I use it as a tool for writing, for storing information and knowledge, and for remembering. The main point of using obsidian is that it is living on your personal computer, can be treated as a good tool for writing quickly and also can be integrated with a lot of different tools, which probably is a huge advantage.",
+      "permalink": "/docs/Obsidian/"
+    },
+    {
+      "id": "Productivity/Productivity",
+      "title": "Productivity",
+      "description": "I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible.",
+      "permalink": "/docs/Productivity/"
+    },
+    {
+      "id": "Productivity/Productivity Theory",
+      "title": "Productivity Theory",
+      "description": "Gilb´s Law",
+      "permalink": "/docs/Productivity/Productivity Theory"
+    },
+    {
+      "id": "Books/Book Reviews/Take Control of Automating Your Mac",
+      "title": "Take Control of Automating Your Mac",
+      "description": "This book is about cool and fast ways you can automate your Mac experience. It goes over the most important things you can automate, with a strong focus on Mac apps. It goes deeper into automation such as Keyboard Maestro",
+      "permalink": "/docs/Books/Book Reviews/Take Control of Automating Your Mac"
+    }
+  ],
+  "unlisted": false
+}

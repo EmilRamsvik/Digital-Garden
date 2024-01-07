@@ -1,0 +1,74 @@
+/* Custom theme colors for light mode based on dark red, grey, and yellow */
+:root {
+  --ifm-color-primary: #8B0000;
+  /* Dark red as primary color */
+  --ifm-color-primary-dark: #7C0000;
+  /* A darker shade of dark red */
+  --ifm-color-primary-darker: #700000;
+  /* An even darker shade of dark red */
+  --ifm-color-primary-darkest: #600000;
+  /* The darkest shade of dark red */
+  --ifm-color-primary-light: #A52A2A;
+  /* A lighter shade of dark red */
+  --ifm-color-primary-lighter: #B22222;
+  /* An even lighter shade of dark red */
+  --ifm-color-primary-lightest: #C41E3A;
+  /* The lightest shade of dark red */
+  --ifm-color-secondary: #A8A8A8;
+  /* Grey for secondary color */
+  --ifm-color-secondary-dark: #909090;
+  /* Darker grey */
+  --ifm-color-secondary-darker: #787878;
+  /* Even darker grey */
+  --ifm-color-secondary-light: #C0C0C0;
+  /* Light grey */
+  --ifm-color-secondary-lighter: #D8D8D8;
+  /* Lighter grey */
+  --ifm-color-secondary-lightest: #E8E8E8;
+  /* Lightest grey */
+  --ifm-color-accent: #FFD700;
+  /* Yellow for accent color */
+  --ifm-color-accent-dark: #E6C200;
+  /* Darker yellow */
+  --ifm-color-accent-darker: #CCAD00;
+  /* Even darker yellow */
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Custom theme colors for dark mode based on dark red, grey, and yellow */
+[data-theme='dark'] {
+  --ifm-color-primary: #9B111E;
+  /* Dark red as primary color for dark mode */
+  --ifm-color-primary-dark: #8B0000;
+  /* A darker shade of dark red for dark mode */
+  --ifm-color-primary-darker: #800000;
+  /* An even darker shade of dark red for dark mode */
+  --ifm-color-primary-darkest: #6B0000;
+  /* The darkest shade of dark red for dark mode */
+  --ifm-color-primary-light: #AC3939;
+  /* A lighter shade of dark red for dark mode */
+  --ifm-color-primary-lighter: #BC5151;
+  /* An even lighter shade of dark red for dark mode */
+  --ifm-color-primary-lightest: #CC6B6B;
+  /* The lightest shade of dark red for dark mode */
+  --ifm-color-secondary: #606060;
+  /* Dark grey for secondary color in dark mode */
+  --ifm-color-secondary-dark: #505050;
+  /* Darker grey for dark mode */
+  --ifm-color-secondary-darker: #404040;
+  /* Even darker grey for dark mode */
+  --ifm-color-secondary-light: #707070;
+  /* Light grey for dark mode */
+  --ifm-color-secondary-lighter: #808080;
+  /* Lighter grey for dark mode */
+  --ifm-color-secondary-lightest: #909090;
+  /* Lightest grey for dark mode */
+  --ifm-color-accent: #FFD700;
+  /* Yellow for accent color in dark mode */
+  --ifm-color-accent-dark: #E6C200;
+  /* Darker yellow for dark mode */
+  --ifm-color-accent-darker: #CCAD00;
+  /* Even darker yellow for dark mode */
+  --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
+}

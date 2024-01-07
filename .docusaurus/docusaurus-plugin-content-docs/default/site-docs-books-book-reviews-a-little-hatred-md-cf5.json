@@ -1,0 +1,48 @@
+{
+  "id": "Books/Book Reviews/A little Hatred",
+  "title": "A little Hatred",
+  "description": "The thrilling sequel to the first Law and its follow-up books. Set in an industrial revolution age, class struggle, money, and power are keywords. The characters are fascinating and funny in that you can see their faults even by following their perspective.",
+  "source": "@site/docs/Books/Book Reviews/A little Hatred.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/A little Hatred",
+  "permalink": "/docs/Books/Book Reviews/A little Hatred",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/A little Hatred.md",
+  "tags": [
+    {
+      "label": "#fiction",
+      "permalink": "/docs/tags/fiction"
+    },
+    {
+      "label": "#fantasy",
+      "permalink": "/docs/tags/fantasy"
+    },
+    {
+      "label": "#books",
+      "permalink": "/docs/tags/books"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 480,
+    "Date Finished": "Apr 1, 2023",
+    "Author": "Joe Abercrombie",
+    "tags": [
+      "#fiction",
+      "#fantasy",
+      "#books"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "A Story of Us",
+    "permalink": "/docs/Books/Book Reviews/A Story of Us"
+  },
+  "next": {
+    "title": "Alchemy",
+    "permalink": "/docs/Books/Book Reviews/Alchemy"
+  }
+}

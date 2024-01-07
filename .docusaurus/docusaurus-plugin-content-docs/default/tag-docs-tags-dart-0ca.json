@@ -1,0 +1,27 @@
+{
+  "label": "dart",
+  "permalink": "/docs/tags/dart",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Programming/Flutter",
+      "title": "Dart",
+      "description": "To my knowledge, Dart is a beautiful language that is completely null-safe.",
+      "permalink": "/docs/Programming/Flutter"
+    },
+    {
+      "id": "Books/Book Reviews/Learn Google Flutter Fast",
+      "title": "Learn Google Flutter Fast",
+      "description": "This book is basically an introduction guide to google flutter and how to best start working with it. It goes through dart, flutter widgets, and state management, as well as other things. It gives example code as well as images of the apps created by the code.",
+      "permalink": "/docs/Books/Book Reviews/Learn Google Flutter Fast"
+    },
+    {
+      "id": "Programming/Programming",
+      "title": "Programming",
+      "description": "I think an underrated aspect of programming is understanding computers, for engineers and self-taught programmers, it might be difficult to understand the intricacies of computers.",
+      "permalink": "/docs/Programming/"
+    }
+  ],
+  "unlisted": false
+}

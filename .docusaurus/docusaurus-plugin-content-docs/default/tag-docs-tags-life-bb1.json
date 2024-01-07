@@ -1,0 +1,27 @@
+{
+  "label": "life",
+  "permalink": "/docs/tags/life",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Four Thousand Weeks Time Management for Mortals",
+      "title": "Four Thousand Weeks Time Management for Mortals",
+      "description": "This book takes all the productivity and self-help books and asks if we should take a step back and not be captives of our ambitions. This book is for those who try too hard to be 10X'ers and feel demotivated by their lack of results.",
+      "permalink": "/docs/Books/Book Reviews/Four Thousand Weeks Time Management for Mortals"
+    },
+    {
+      "id": "Living/Living",
+      "title": "Living",
+      "description": "What is living?",
+      "permalink": "/docs/Living/"
+    },
+    {
+      "id": "Motivation/Motivation",
+      "title": "Motivation",
+      "description": "Motivation for me is being able to intrinsically make the right decision. This implies that motivation is not driven by external factors in this definition. By removing external factors, motivation simply becomes a function of want and mental energy.",
+      "permalink": "/docs/Motivation/"
+    }
+  ],
+  "unlisted": false
+}

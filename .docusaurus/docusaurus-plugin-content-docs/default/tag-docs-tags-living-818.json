@@ -1,0 +1,21 @@
+{
+  "label": "living",
+  "permalink": "/docs/tags/living",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Living/Home",
+      "title": "Home",
+      "description": "I like to have an orderly home but with a soul. A home is a reflection of who you are and the experiences you have had.",
+      "permalink": "/docs/Living/Home"
+    },
+    {
+      "id": "Living/Living",
+      "title": "Living",
+      "description": "What is living?",
+      "permalink": "/docs/Living/"
+    }
+  ],
+  "unlisted": false
+}

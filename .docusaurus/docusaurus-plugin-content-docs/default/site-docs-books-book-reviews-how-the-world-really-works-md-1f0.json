@@ -1,0 +1,83 @@
+{
+  "id": "Books/Book Reviews/How the World Really Works",
+  "title": "How the World Really Works",
+  "description": "This book is for the naturalist and realists that are concerned about the environment. It goes through the most critical things that drive our modern society, cement, steel, ammonia and plastic, and goes through what it takes to produce said elements. You don't get that enthusiastic about a zero-oil society by reading it.",
+  "source": "@site/docs/Books/Book Reviews/How the World Really Works.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/How the World Really Works",
+  "permalink": "/docs/Books/Book Reviews/How the World Really Works",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/How the World Really Works.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "technology",
+      "permalink": "/docs/tags/technology"
+    },
+    {
+      "label": "climate-crisis",
+      "permalink": "/docs/tags/climate-crisis"
+    },
+    {
+      "label": "oil",
+      "permalink": "/docs/tags/oil"
+    },
+    {
+      "label": "energy",
+      "permalink": "/docs/tags/energy"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    },
+    {
+      "label": "environmentalism",
+      "permalink": "/docs/tags/environmentalism"
+    },
+    {
+      "label": "food",
+      "permalink": "/docs/tags/food"
+    },
+    {
+      "label": "industralization",
+      "permalink": "/docs/tags/industralization"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 360,
+    "Date Finished": "2023-08-04T00:00:00.000Z",
+    "Author": "Vaclav Smil",
+    "tags": [
+      "books",
+      "technology",
+      "climate-crisis",
+      "oil",
+      "energy",
+      "non-fiction",
+      "environmentalism",
+      "food",
+      "industralization",
+      "science"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Hooked",
+    "permalink": "/docs/Books/Book Reviews/Hooked"
+  },
+  "next": {
+    "title": "How the war was Won",
+    "permalink": "/docs/Books/Book Reviews/How the war was Won"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "label": "#system-architecture ",
+  "permalink": "/docs/tags/system-architecture",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Designing Machine Learning Systems",
+      "title": "Designing Machine Learning Systems",
+      "description": "This book covers the fundamentals of designing machine learning systems. It goes through the entire lifecycle of a machine learning system and then discusses the ecosystem and the challenges and cases that need to be considered.",
+      "permalink": "/docs/Books/Book Reviews/Designing Machine Learning Systems"
+    }
+  ],
+  "unlisted": false
+}

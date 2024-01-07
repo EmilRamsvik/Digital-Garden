@@ -1,0 +1,53 @@
+{
+  "id": "Books/Book Reviews/Best served Cold",
+  "title": "Best served Cold",
+  "description": "The book is set in a different place than the first law, but a lot of the characters from the first law series are there and it is very much connected. It follows a mercenary woman and her quest for revenge. It is filled with betrayals.",
+  "source": "@site/docs/Books/Book Reviews/Best served Cold.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Best served Cold",
+  "permalink": "/docs/Books/Book Reviews/Best served Cold",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Best served Cold.md",
+  "tags": [
+    {
+      "label": "#the-first-law-series",
+      "permalink": "/docs/tags/the-first-law-series"
+    },
+    {
+      "label": "#books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "#fantasy",
+      "permalink": "/docs/tags/fantasy"
+    },
+    {
+      "label": "#fiction",
+      "permalink": "/docs/tags/fiction"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 534,
+    "Date Finished": "Apr 1, 2023",
+    "Author": "Joe Abercrombie",
+    "tags": [
+      "#the-first-law-series",
+      "#books",
+      "#fantasy",
+      "#fiction"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Basic Economics",
+    "permalink": "/docs/Books/Book Reviews/Basic Economics"
+  },
+  "next": {
+    "title": "Black Boy",
+    "permalink": "/docs/Books/Book Reviews/Black Boy"
+  }
+}

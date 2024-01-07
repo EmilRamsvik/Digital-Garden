@@ -1,0 +1,72 @@
+{
+  "id": "Obsidian/Obsidian",
+  "title": "Obsidian",
+  "description": "Obsidian is where I store my knowledge. I use it as a tool for writing, for storing information and knowledge, and for remembering. The main point of using obsidian is that it is living on your personal computer, can be treated as a good tool for writing quickly and also can be integrated with a lot of different tools, which probably is a huge advantage.",
+  "source": "@site/docs/Obsidian/Obsidian.md",
+  "sourceDirName": "Obsidian",
+  "slug": "/Obsidian/",
+  "permalink": "/docs/Obsidian/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Obsidian/Obsidian.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "obsidian",
+      "permalink": "/docs/tags/obsidian"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    },
+    {
+      "label": "notes",
+      "permalink": "/docs/tags/notes"
+    },
+    {
+      "label": "tools",
+      "permalink": "/docs/tags/tools"
+    },
+    {
+      "label": "productivity-hack",
+      "permalink": "/docs/tags/productivity-hack"
+    },
+    {
+      "label": "markdown",
+      "permalink": "/docs/tags/markdown"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "Sep 01, 2023",
+    "tags": [
+      "article",
+      "obsidian",
+      "productivity",
+      "notes",
+      "tools",
+      "productivity-hack",
+      "markdown",
+      "digital-garden"
+    ],
+    "finished": true,
+    "created": "2023-10-29T16:01",
+    "updated": "2024-01-02T22:05"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Discover and Sharing",
+    "permalink": "/docs/Music/Discover and Sharing"
+  },
+  "next": {
+    "title": "Personal",
+    "permalink": "/docs/Personal"
+  }
+}

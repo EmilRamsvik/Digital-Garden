@@ -1,0 +1,63 @@
+{
+  "id": "Books/Book Reviews/How the war was Won",
+  "title": "How the war was Won",
+  "description": "This book systematically cuts through all the bravado and battlefield-centric focus of World War 2 history and focuses on the things that mattered. Manufacturing, logistics, and control over the air-sea theatre. It also provides insight into how the leaders of both the Axis powers as well as the Allies thought and how they argued against themselves, for better or worse.",
+  "source": "@site/docs/Books/Book Reviews/How the war was Won.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/How the war was Won",
+  "permalink": "/docs/Books/Book Reviews/How the war was Won",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/How the war was Won.md",
+  "tags": [
+    {
+      "label": "history",
+      "permalink": "/docs/tags/history"
+    },
+    {
+      "label": "world-war-II",
+      "permalink": "/docs/tags/world-war-ii"
+    },
+    {
+      "label": "history/military",
+      "permalink": "/docs/tags/history-military"
+    },
+    {
+      "label": "logistics",
+      "permalink": "/docs/tags/logistics"
+    },
+    {
+      "label": "warfare",
+      "permalink": "/docs/tags/warfare"
+    },
+    {
+      "label": "military",
+      "permalink": "/docs/tags/military"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 640,
+    "Date Finished": "2023-03-03T00:00:00.000Z",
+    "Author": "Phillips Payson O'Brien",
+    "tags": [
+      "history",
+      "world-war-II",
+      "history/military",
+      "logistics",
+      "warfare",
+      "military"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "How the World Really Works",
+    "permalink": "/docs/Books/Book Reviews/How the World Really Works"
+  },
+  "next": {
+    "title": "I Moved Your Cheese",
+    "permalink": "/docs/Books/Book Reviews/I Moved Your Cheese"
+  }
+}

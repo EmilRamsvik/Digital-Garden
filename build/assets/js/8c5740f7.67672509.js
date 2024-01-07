@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[79886],{94603:e=>{e.exports=JSON.parse('{"label":"body","permalink":"/docs/tags/body","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Body/Body","title":"Body","description":"- Degree of Freedom Problem","permalink":"/docs/Body/"}],"unlisted":false}')}}]);

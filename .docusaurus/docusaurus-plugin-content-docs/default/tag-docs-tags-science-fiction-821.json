@@ -1,0 +1,15 @@
+{
+  "label": "science-fiction",
+  "permalink": "/docs/tags/science-fiction",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Eisenhorn",
+      "title": "Eisenhorn",
+      "description": "A fantasy set in the 40k universe. The book is about the adventures of Eisenhorn the Inquisitor and his retinue. It is fantasy through and through but fun and engaging through 3 stories.",
+      "permalink": "/docs/Books/Book Reviews/Eisenhorn"
+    }
+  ],
+  "unlisted": false
+}

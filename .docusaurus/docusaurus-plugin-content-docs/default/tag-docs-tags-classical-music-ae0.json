@@ -1,0 +1,21 @@
+{
+  "label": "classical-music",
+  "permalink": "/docs/tags/classical-music",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Music/Music",
+      "title": "Music",
+      "description": "Spotify",
+      "permalink": "/docs/Music/"
+    },
+    {
+      "id": "Books/Book Reviews/Soul in the Game",
+      "title": "Soul in the Game",
+      "description": "What is a meaningful life? Vitali takes on his journey filled with wisdom and experiences and tells beautiful stories that resonate. Topics such as life, wisdom, writing, and classical music are taken up with humor, emotion, and clarity.",
+      "permalink": "/docs/Books/Book Reviews/Soul in the Game"
+    }
+  ],
+  "unlisted": false
+}

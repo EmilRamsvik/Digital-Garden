@@ -1,0 +1,70 @@
+import clsx from 'clsx';
+import Heading from '@theme/Heading';
+import styles from './styles.module.css';
+
+const FeatureList = [
+  {
+    title: 'Digital Garden',
+    imageUrl: require('@site/static/img/blog_image.png').default,
+    description: (
+      <>
+        My personal digital garden, where my learning experience is stored and cultivated.
+        this is meant to be a place where I can store my thoughts and ideas, and hopefully
+        it will be a place where people can come to learn and grow as well.
+      </>
+    ),
+  },
+  {
+    title: 'Blog',
+    imageUrl: require('@site/static/img/digital_garden.png').default,
+    description: (
+      <>
+        I also will try to update a blog with my thoughts and ideas, and hopefully
+        they will be more of a personal space where I can share my own learnings
+        as they have been processed over time.
+      </>
+    ),
+  },
+  {
+    title: 'Other Places',
+    imageUrl: require('@site/static/img/social_media.png').default,
+    description: (
+      <>
+        I try to limit my social media presence, but I do have a few places where I am somewhat active.
+        I have a LinkedIn profile, and a GitHub profile.
+        LinkedIn: <a href="https://linkedin.com/in/emil-ramsvik">Emil Ramsvik</a>
+        GitHub: <a href="https://github.com/emilRamsvik">Emil Ramsvik</a>
+      </>
+    ),
+  },
+];
+
+function Feature({ imageUrl, title, description }) {
+  return (
+    <div className={clsx('col col--4')}>
+      <div className="text--center">
+        {/* Use an img tag here and pass the PNG image URL as src */}
+        <img src={imageUrl} className={styles.featureImage} alt={title}
+          style={{ width: '100%', height: 'auto' }} />
+      </div>
+      <div className="text--center padding-horiz--md">
+        <Heading as="h3">{title}</Heading>
+        <p>{description}</p>
+      </div>
+    </div>
+  );
+}
+
+export default function HomepageFeatures() {
+  return (
+    <section className={styles.features}>
+      <div className="container">
+        <div className="row">
+          {FeatureList.map((props, idx) => (
+            <Feature key={idx} {...props} />
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}

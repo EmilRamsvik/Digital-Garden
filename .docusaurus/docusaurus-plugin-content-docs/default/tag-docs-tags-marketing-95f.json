@@ -1,0 +1,15 @@
+{
+  "label": "marketing",
+  "permalink": "/docs/tags/marketing",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Made to Stick",
+      "title": "Made to Stick",
+      "description": "This book describes the underlying reasons why an idea sticks. It goes through the concreteness, unexpectedness, and credibility of an idea and how it affects how well an idea sticks. It goes through interesting cases and highlights reasons why these ideas have become ingrained in our collective minds.",
+      "permalink": "/docs/Books/Book Reviews/Made to Stick"
+    }
+  ],
+  "unlisted": false
+}

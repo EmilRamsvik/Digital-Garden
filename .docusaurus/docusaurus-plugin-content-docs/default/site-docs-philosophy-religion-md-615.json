@@ -1,0 +1,57 @@
+{
+  "id": "Philosophy/Religion",
+  "title": "Religion",
+  "description": "Religion: A Resilient Concept",
+  "source": "@site/docs/Philosophy/Religion.md",
+  "sourceDirName": "Philosophy",
+  "slug": "/Philosophy/Religion",
+  "permalink": "/docs/Philosophy/Religion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Philosophy/Religion.md",
+  "tags": [
+    {
+      "label": "religion",
+      "permalink": "/docs/tags/religion"
+    },
+    {
+      "label": "philosophy",
+      "permalink": "/docs/tags/philosophy"
+    },
+    {
+      "label": "atheism",
+      "permalink": "/docs/tags/atheism"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    },
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "2023-05-29T00:00:00.000Z",
+    "tags": [
+      "religion",
+      "philosophy",
+      "atheism",
+      "science",
+      "article"
+    ],
+    "Finished": false,
+    "created": "2023-06-12T09:05",
+    "updated": "2024-01-06T16:18"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "On The Duality of Rights and Responsibilities",
+    "permalink": "/docs/Philosophy/On The Duality of Rights and Responsibilities"
+  },
+  "next": {
+    "title": "Podcasts",
+    "permalink": "/docs/Podcasts/"
+  }
+}

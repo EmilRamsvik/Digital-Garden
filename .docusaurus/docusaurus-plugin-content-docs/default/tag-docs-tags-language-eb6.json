@@ -1,0 +1,27 @@
+{
+  "label": "language",
+  "permalink": "/docs/tags/language",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Imagined Communities",
+      "title": "Imagined Communities",
+      "description": "It is a kinda of half Marxist, half academic book about how language primarily shaped nation-states and how written language is the primary factor of nationalism. Imagined comities, aka the nation as a concept, are shaped by languages.",
+      "permalink": "/docs/Books/Book Reviews/Imagined Communities"
+    },
+    {
+      "id": "Language/Language",
+      "title": "Language",
+      "description": "Latin Expressions",
+      "permalink": "/docs/Language/"
+    },
+    {
+      "id": "Books/Book Reviews/Word by Word",
+      "title": "Word by Word",
+      "description": "It's a book about dictionaries.  It contains how dictionaries are made (very nerdy) and how the history of words has been shaped by a multitude of factors. Also, how silent it is at dictionary workshops.",
+      "permalink": "/docs/Books/Book Reviews/Word by Word"
+    }
+  ],
+  "unlisted": false
+}

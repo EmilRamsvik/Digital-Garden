@@ -1,0 +1,54 @@
+{
+  "id": "Food/Recipes/Pasta",
+  "title": "Pasta",
+  "description": "- Venetian Crab and Prosecco Linguine Pasta and Frutti di Mare :P, a delightful summer dish that is fresh and",
+  "source": "@site/docs/Food/Recipes/Pasta.md",
+  "sourceDirName": "Food/Recipes",
+  "slug": "/Food/Recipes/Pasta",
+  "permalink": "/docs/Food/Recipes/Pasta",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food/Recipes/Pasta.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "food",
+      "permalink": "/docs/tags/food"
+    },
+    {
+      "label": "pasta",
+      "permalink": "/docs/tags/pasta"
+    },
+    {
+      "label": "italian",
+      "permalink": "/docs/tags/italian"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "digital-garden",
+      "food",
+      "pasta",
+      "italian"
+    ]
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Description",
+    "permalink": "/docs/Food/Recipes/Osso Bucco"
+  },
+  "next": {
+    "title": "Recipes to try",
+    "permalink": "/docs/Food/Recipes/Recipes to try"
+  }
+}

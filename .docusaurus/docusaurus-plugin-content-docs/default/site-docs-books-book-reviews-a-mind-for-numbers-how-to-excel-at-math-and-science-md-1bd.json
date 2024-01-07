@@ -1,0 +1,29 @@
+{
+  "id": "Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science",
+  "title": "A Mind for Numbers How to Excel at Math and Science",
+  "description": "Tags: #books  #mathematics #learning #productivity #productivity-hack",
+  "source": "@site/docs/Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science",
+  "permalink": "/docs/Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/A Mind for Numbers How to Excel at Math and Science.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 336,
+    "Author": "Barbara Oakley",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "A Field Guide to Lies",
+    "permalink": "/docs/Books/Book Reviews/A Field Guide to Lies"
+  },
+  "next": {
+    "title": "A Story of Us",
+    "permalink": "/docs/Books/Book Reviews/A Story of Us"
+  }
+}

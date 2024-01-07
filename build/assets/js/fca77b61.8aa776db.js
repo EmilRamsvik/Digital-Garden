@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[28938],{53361:e=>{e.exports=JSON.parse('{"label":"phone","permalink":"/docs/tags/phone","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Iphone/Iphone","title":"Iphone","description":"-","permalink":"/docs/Iphone/"}],"unlisted":false}')}}]);

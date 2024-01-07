@@ -1,0 +1,55 @@
+{
+  "id": "Tools/ChatGPT",
+  "title": "OpenAI",
+  "description": "GPT-4 is one of the best tools I have used in the last couple of years. It is astonishing technology that makes me more productive.",
+  "source": "@site/docs/Tools/ChatGPT.md",
+  "sourceDirName": "Tools",
+  "slug": "/Tools/ChatGPT",
+  "permalink": "/docs/Tools/ChatGPT",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Tools/ChatGPT.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "LLM",
+      "permalink": "/docs/tags/llm"
+    },
+    {
+      "label": "large-language-models",
+      "permalink": "/docs/tags/large-language-models"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "tools",
+      "permalink": "/docs/tags/tools"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "article",
+      "LLM",
+      "large-language-models",
+      "ai",
+      "tools"
+    ],
+    "created": "2024-06-21T15:01:00.000Z",
+    "updated": "2024-01-07T17:44"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Tools",
+    "permalink": "/docs/Tools/"
+  },
+  "next": {
+    "title": "Travel",
+    "permalink": "/docs/Travel/"
+  }
+}

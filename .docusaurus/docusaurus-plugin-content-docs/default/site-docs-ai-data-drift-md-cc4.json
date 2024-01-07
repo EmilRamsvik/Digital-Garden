@@ -1,0 +1,66 @@
+{
+  "id": "AI/Data Drift",
+  "title": "Data Drift",
+  "description": "Data drift refers to the phenomenon where the statistical properties of a dataset used for machine learning or analysis change over time. This alteration can be due to various factors such as shifts in data collection processes, changes in the underlying distribution of the data, or modifications in the environment from which the data originates. Detecting and addressing data drift is crucial to maintaining the performance and reliability of machine learning models and analytical systems.",
+  "source": "@site/docs/AI/Data Drift.md",
+  "sourceDirName": "AI",
+  "slug": "/AI/Data Drift",
+  "permalink": "/docs/AI/Data Drift",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/AI/Data Drift.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "data-science",
+      "permalink": "/docs/tags/data-science"
+    },
+    {
+      "label": "#database",
+      "permalink": "/docs/tags/database"
+    },
+    {
+      "label": "#data",
+      "permalink": "/docs/tags/data"
+    },
+    {
+      "label": "data-engineering",
+      "permalink": "/docs/tags/data-engineering"
+    },
+    {
+      "label": "ai",
+      "permalink": "/docs/tags/ai"
+    },
+    {
+      "label": "data/data-drift",
+      "permalink": "/docs/tags/data-data-drift"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "data-science",
+      "#database",
+      "#data",
+      "data-engineering",
+      "ai",
+      "data/data-drift"
+    ],
+    "created": "2023-08-14T15:04:00.000Z",
+    "updated": "2024-01-07T15:44"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "AI Strategy",
+    "permalink": "/docs/AI/AI Strategy"
+  },
+  "next": {
+    "title": "Data Science",
+    "permalink": "/docs/AI/Data Science/"
+  }
+}

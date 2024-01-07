@@ -1,0 +1,15 @@
+{
+  "label": "goku",
+  "permalink": "/docs/tags/goku",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Mac/Karabiner",
+      "title": "Karabiner",
+      "description": "Karabiner is a powerful and customizable keyboard remapping tool designed specifically for macOS. It allows users to modify the behavior of their keyboards by remapping keys, creating shortcuts, and implementing various keyboard modifications. With Karabiner, users can redefine keys to perform different functions or assign complex combinations of keys to trigger specific actions. This enables users to personalize their keyboard layout and streamline their workflow, making it easier and more efficient to navigate through applications and perform tasks.",
+      "permalink": "/docs/Mac/Karabiner"
+    }
+  ],
+  "unlisted": false
+}

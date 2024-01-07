@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[48189],{28142:e=>{e.exports=JSON.parse('{"label":"microsoft","permalink":"/docs/tags/microsoft","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Cloud/Azure","title":"Azure","description":"Storage","permalink":"/docs/Cloud/Azure"}],"unlisted":false}')}}]);

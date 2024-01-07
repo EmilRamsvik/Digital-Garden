@@ -1,0 +1,15 @@
+{
+  "label": "indian",
+  "permalink": "/docs/tags/indian",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Food/Recipes/Biryani",
+      "title": "Description",
+      "description": "Biryani/Byriani is a Pakistani/Indian dish that is usually served at large gatherings. I did a lot of discovering and learning working with the guys in my apartment.",
+      "permalink": "/docs/Food/Recipes/Biryani"
+    }
+  ],
+  "unlisted": false
+}

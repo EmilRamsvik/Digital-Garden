@@ -1,0 +1,15 @@
+{
+  "label": "business",
+  "permalink": "/docs/tags/business",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Working/Management",
+      "title": "Management",
+      "description": "- Some work on the management from an engineering perspective",
+      "permalink": "/docs/Working/Management"
+    }
+  ],
+  "unlisted": false
+}

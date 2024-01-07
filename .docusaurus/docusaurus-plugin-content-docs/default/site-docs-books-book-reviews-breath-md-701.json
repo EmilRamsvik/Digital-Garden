@@ -1,0 +1,30 @@
+{
+  "id": "Books/Book Reviews/Breath",
+  "title": "Breath",
+  "description": "Tags: #books #non-fiction #health #body #air #breathing #nose",
+  "source": "@site/docs/Books/Book Reviews/Breath.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Breath",
+  "permalink": "/docs/Books/Book Reviews/Breath",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Breath.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 304,
+    "Date Finished": "May 27, 2023",
+    "Author": "James Nestor",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Books",
+    "permalink": "/docs/Books/Book Reviews/Books"
+  },
+  "next": {
+    "title": "Calling Bullshit",
+    "permalink": "/docs/Books/Book Reviews/Calling Bullshit"
+  }
+}

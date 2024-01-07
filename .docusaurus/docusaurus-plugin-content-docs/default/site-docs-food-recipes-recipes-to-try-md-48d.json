@@ -1,0 +1,51 @@
+{
+  "id": "Food/Recipes/Recipes to try",
+  "title": "Recipes to try",
+  "description": "- Carne Asada Looks like a good way to expand the Mexican cuisine.",
+  "source": "@site/docs/Food/Recipes/Recipes to try.md",
+  "sourceDirName": "Food/Recipes",
+  "slug": "/Food/Recipes/Recipes to try",
+  "permalink": "/docs/Food/Recipes/Recipes to try",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food/Recipes/Recipes to try.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "food",
+      "permalink": "/docs/tags/food"
+    },
+    {
+      "label": "recipes",
+      "permalink": "/docs/tags/recipes"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "digital-garden",
+      "food",
+      "recipes"
+    ],
+    "created": "2023-10-29T15:49",
+    "updated": "2024-01-06T16:18"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Pasta",
+    "permalink": "/docs/Food/Recipes/Pasta"
+  },
+  "next": {
+    "title": "Iphone",
+    "permalink": "/docs/Iphone/"
+  }
+}

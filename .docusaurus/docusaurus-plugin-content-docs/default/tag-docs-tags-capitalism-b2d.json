@@ -1,0 +1,21 @@
+{
+  "label": "Capitalism",
+  "permalink": "/docs/tags/capitalism",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Politics/Politics",
+      "title": "Politics",
+      "description": "Important figures",
+      "permalink": "/docs/Politics/"
+    },
+    {
+      "id": "Books/Book Reviews/The Capitalist Manifesto",
+      "title": "The Capitalist Manifesto",
+      "description": "This book is a homage to the progress that capitalism has brought. It is an interesting comparison to the doom and gloom books. It is a book about the fantastic increase in wealth and prosperity that capitalism has brought.",
+      "permalink": "/docs/Books/Book Reviews/The Capitalist Manifesto"
+    }
+  ],
+  "unlisted": false
+}

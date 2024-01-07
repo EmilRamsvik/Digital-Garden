@@ -1,0 +1,64 @@
+{
+  "id": "Books/Book Reviews/The Structure of Scientific Revolutions",
+  "title": "The Structure of Scientific Revolutions",
+  "description": "This book examines what constitutes a \"scientific revolution\". The book goes into detail, with some specific examples covering Copernicus's heliocentric theory of astronomy, Lavoiser´s gas theory and Røntgen´s x-ray theory.  It covers what the background for each was and tries to find some common criteria for a scientific revolution.",
+  "source": "@site/docs/Books/Book Reviews/The Structure of Scientific Revolutions.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The Structure of Scientific Revolutions",
+  "permalink": "/docs/Books/Book Reviews/The Structure of Scientific Revolutions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The Structure of Scientific Revolutions.md",
+  "tags": [
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    },
+    {
+      "label": "history",
+      "permalink": "/docs/tags/history"
+    },
+    {
+      "label": "scientific-method",
+      "permalink": "/docs/tags/scientific-method"
+    },
+    {
+      "label": "revolution",
+      "permalink": "/docs/tags/revolution"
+    },
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 264,
+    "Date Finished": "Aug 13, 2023",
+    "Author": "Thomas Kuhn",
+    "Finished": true,
+    "tags": [
+      "science",
+      "history",
+      "scientific-method",
+      "revolution",
+      "books",
+      "non-fiction"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Stranger",
+    "permalink": "/docs/Books/Book Reviews/The Stranger"
+  },
+  "next": {
+    "title": "The Triumph of Seeds",
+    "permalink": "/docs/Books/Book Reviews/The Triumph of Seeds"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[6460],{81886:s=>{s.exports=JSON.parse('{"label":"#quotes","permalink":"/docs/tags/quotes","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Books/Book Quotes 2022","title":"Book Quotes 2022","description":"Noise","permalink":"/docs/Books/Book Quotes 2022"}],"unlisted":false}')}}]);

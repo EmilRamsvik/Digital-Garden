@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[59298],{26387:a=>{a.exports=JSON.parse('{"label":"bread","permalink":"/docs/tags/bread","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Food/Baking","title":"Baking","description":"Tangzhou","permalink":"/docs/Food/Baking"}],"unlisted":false}')}}]);

@@ -1,0 +1,15 @@
+{
+  "label": "personal",
+  "permalink": "/docs/tags/personal",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Decision",
+      "title": "Decision",
+      "description": "In order to make better decisions, I try to structure and stabilize the process for making big decisions.  I define a big decision as a decision that will affect you every day of your life for no shorter than 3 months or for a large duration of time every year (Every weekend for the rest of the year for example). This means that things such as accepting a job offer and moving in with your spouse to a new place are categorized as big decisions.",
+      "permalink": "/docs/Decision"
+    }
+  ],
+  "unlisted": false
+}

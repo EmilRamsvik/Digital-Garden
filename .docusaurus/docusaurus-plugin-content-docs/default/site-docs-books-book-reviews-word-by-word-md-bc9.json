@@ -1,0 +1,59 @@
+{
+  "id": "Books/Book Reviews/Word by Word",
+  "title": "Word by Word",
+  "description": "It's a book about dictionaries.  It contains how dictionaries are made (very nerdy) and how the history of words has been shaped by a multitude of factors. Also, how silent it is at dictionary workshops.",
+  "source": "@site/docs/Books/Book Reviews/Word by Word.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Word by Word",
+  "permalink": "/docs/Books/Book Reviews/Word by Word",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Word by Word.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "lexicography",
+      "permalink": "/docs/tags/lexicography"
+    },
+    {
+      "label": "language",
+      "permalink": "/docs/tags/language"
+    },
+    {
+      "label": "natural-language",
+      "permalink": "/docs/tags/natural-language"
+    },
+    {
+      "label": "dictionary",
+      "permalink": "/docs/tags/dictionary"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 320,
+    "Author": "Kory Stamper",
+    "finished": true,
+    "tags": [
+      "books",
+      "lexicography",
+      "language",
+      "natural-language",
+      "dictionary"
+    ],
+    "Date Finished": "2023-10-22T00:00:00.000Z",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Why we get fat and what to do about it",
+    "permalink": "/docs/Books/Book Reviews/Why we get fat and what to do about it"
+  },
+  "next": {
+    "title": "Your Brain at Work",
+    "permalink": "/docs/Books/Book Reviews/Your Brain at Work"
+  }
+}

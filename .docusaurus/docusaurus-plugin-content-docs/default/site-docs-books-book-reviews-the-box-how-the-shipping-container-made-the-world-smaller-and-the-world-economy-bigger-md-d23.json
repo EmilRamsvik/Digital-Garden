@@ -1,0 +1,68 @@
+{
+  "id": "Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+  "title": "The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+  "description": "This book contains the story of the container. It describes how it was first implemented, why it worked, and how the different actors behaved about the new innovation. The container shaped international trade more than anything else in the 20th century, and this is the story of how it came to be.",
+  "source": "@site/docs/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+  "permalink": "/docs/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "book-list",
+      "permalink": "/docs/tags/book-list"
+    },
+    {
+      "label": "shipping",
+      "permalink": "/docs/tags/shipping"
+    },
+    {
+      "label": "logistics",
+      "permalink": "/docs/tags/logistics"
+    },
+    {
+      "label": "trade",
+      "permalink": "/docs/tags/trade"
+    },
+    {
+      "label": "maritime",
+      "permalink": "/docs/tags/maritime"
+    },
+    {
+      "label": "containers",
+      "permalink": "/docs/tags/containers"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 400,
+    "Date Finished": "2023-02-04T00:00:00.000Z",
+    "Author": "Marc Levinson",
+    "tags": [
+      "books",
+      "book-list",
+      "shipping",
+      "logistics",
+      "trade",
+      "maritime",
+      "containers"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Blind Watchmaker",
+    "permalink": "/docs/Books/Book Reviews/The Blind Watchmaker"
+  },
+  "next": {
+    "title": "The Brothers Karamazov",
+    "permalink": "/docs/Books/Book Reviews/The Brothers Karamazov"
+  }
+}

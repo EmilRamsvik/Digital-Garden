@@ -1,0 +1,15 @@
+{
+  "label": "prices",
+  "permalink": "/docs/tags/prices",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Economics in One Lesson",
+      "title": "Economics in One Lesson",
+      "description": "This book is about prices and the fact that the economic machine should not be tampered with. It is a classic Austrian school of Economics type of book, and contains the usual arguments from that school. It uses 200 pages to conclude that you should not tamper with it.",
+      "permalink": "/docs/Books/Book Reviews/Economics in One Lesson"
+    }
+  ],
+  "unlisted": false
+}

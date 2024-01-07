@@ -1,0 +1,63 @@
+{
+  "id": "Books/Book Reviews/Letters to a Young Contrarian",
+  "title": "Letters to a Young Contrarian",
+  "description": "This book is about being right, not being in the crowd etc. It is advice on how to stay true to the principles. The letters are thoughtful and engaging.",
+  "source": "@site/docs/Books/Book Reviews/Letters to a Young Contrarian.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Letters to a Young Contrarian",
+  "permalink": "/docs/Books/Book Reviews/Letters to a Young Contrarian",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Letters to a Young Contrarian.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "#debate",
+      "permalink": "/docs/tags/debate"
+    },
+    {
+      "label": "truth-seeking",
+      "permalink": "/docs/tags/truth-seeking"
+    },
+    {
+      "label": "knowledge",
+      "permalink": "/docs/tags/knowledge"
+    },
+    {
+      "label": "contrarianism",
+      "permalink": "/docs/tags/contrarianism"
+    },
+    {
+      "label": "politics",
+      "permalink": "/docs/tags/politics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 162,
+    "Date Finished": "Jul 27, 2023",
+    "Author": "Christopher Hitchens",
+    "tags": [
+      "books",
+      "#debate",
+      "truth-seeking",
+      "knowledge",
+      "contrarianism",
+      "politics"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Learn Google Flutter Fast",
+    "permalink": "/docs/Books/Book Reviews/Learn Google Flutter Fast"
+  },
+  "next": {
+    "title": "Machine Learning Design Patterns",
+    "permalink": "/docs/Books/Book Reviews/Machine Learning Design Patterns"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "label": "self-help-book",
+  "permalink": "/docs/tags/self-help-book",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Models",
+      "title": "Models",
+      "description": "This book is about dating for men. But it is an honest book, that says that you should start with yourself and become a person people likes and you are comfortable with. Real men are vulnerable and in charge of their feelings.",
+      "permalink": "/docs/Books/Book Reviews/Models"
+    },
+    {
+      "id": "Books/Book Reviews/The Wim Hof Method",
+      "title": "The Wim Hof Method",
+      "description": "Breathing is apparently all you need. It can cure anxiety, hangovers, MS, and much more. Also, Ice baths are good as well and the core temperature can be manipulated.",
+      "permalink": "/docs/Books/Book Reviews/The Wim Hof Method"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,58 @@
+{
+  "id": "Books/Book Reviews/Moneyball",
+  "title": "Moneyball",
+  "description": "How statistics revolutionized baseball. Goes into detail about the famous (now movie) season of the Oakland A´s season and why and how they succeeded despite a pitiful budget. It highlights our human faults and how some can benefit greatly from exploiting other people´s biases.",
+  "source": "@site/docs/Books/Book Reviews/Moneyball.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Moneyball",
+  "permalink": "/docs/Books/Book Reviews/Moneyball",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Moneyball.md",
+  "tags": [
+    {
+      "label": "mathematics",
+      "permalink": "/docs/tags/mathematics"
+    },
+    {
+      "label": "economics",
+      "permalink": "/docs/tags/economics"
+    },
+    {
+      "label": "statistics",
+      "permalink": "/docs/tags/statistics"
+    },
+    {
+      "label": "optimimization",
+      "permalink": "/docs/tags/optimimization"
+    },
+    {
+      "label": "sports",
+      "permalink": "/docs/tags/sports"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 336,
+    "Date Finished": "2023-04-20T00:00:00.000Z",
+    "Author": "Michael Lewis",
+    "tags": [
+      "mathematics",
+      "economics",
+      "statistics",
+      "optimimization",
+      "sports"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Models",
+    "permalink": "/docs/Books/Book Reviews/Models"
+  },
+  "next": {
+    "title": "Nonviolent Communication",
+    "permalink": "/docs/Books/Book Reviews/Nonviolent Communication"
+  }
+}

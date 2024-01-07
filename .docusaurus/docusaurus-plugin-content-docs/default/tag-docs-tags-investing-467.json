@@ -1,0 +1,21 @@
+{
+  "label": "investing",
+  "permalink": "/docs/tags/investing",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Economics/Investing",
+      "title": "Investing",
+      "description": "I find the thoughts of Vitaly Katelson on value investing quite interesting, as well as having a good and stable look at the value you invest in your life.",
+      "permalink": "/docs/Economics/Investing"
+    },
+    {
+      "id": "Books/Book Reviews/Soul in the Game",
+      "title": "Soul in the Game",
+      "description": "What is a meaningful life? Vitali takes on his journey filled with wisdom and experiences and tells beautiful stories that resonate. Topics such as life, wisdom, writing, and classical music are taken up with humor, emotion, and clarity.",
+      "permalink": "/docs/Books/Book Reviews/Soul in the Game"
+    }
+  ],
+  "unlisted": false
+}

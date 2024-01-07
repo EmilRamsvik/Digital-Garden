@@ -1,0 +1,51 @@
+{
+  "label": "travel",
+  "permalink": "/docs/tags/travel",
+  "allTagsPath": "/docs/tags",
+  "count": 7,
+  "items": [
+    {
+      "id": "Travel/Places/Bali",
+      "title": "Description",
+      "description": "Bali is an Island in Indonesia. It is an excellent place to be, but it is full of tourists and digital nomads. There is almost a sub-culture there.",
+      "permalink": "/docs/Travel/Places/Bali"
+    },
+    {
+      "id": "Travel/Places/Laos",
+      "title": "Description",
+      "description": "Vientiane",
+      "permalink": "/docs/Travel/Places/Laos"
+    },
+    {
+      "id": "Travel/Places/Sapporo and Niseko",
+      "title": "Description",
+      "description": "Sapporo is a city in Hokkaido Japan. It is very far north, and it is cold there. It is also an excellent place to go skiing.  Sapporo is quite a big City, Niseko is more of a village with skiing slopes and some large resorts nearby.",
+      "permalink": "/docs/Travel/Places/Sapporo and Niseko"
+    },
+    {
+      "id": "Travel/Places/Singapore",
+      "title": "Description",
+      "description": "Best Experiences",
+      "permalink": "/docs/Travel/Places/Singapore"
+    },
+    {
+      "id": "Travel/Places/Places",
+      "title": "Places",
+      "description": "Sapporo and Niseko",
+      "permalink": "/docs/Travel/Places/"
+    },
+    {
+      "id": "Working/Remote Work",
+      "title": "Remote Work",
+      "description": "I did some remote working when I was at Bali, working primarily on my side projects. I felt like it is very difficult to motivate oneself if one does not have a social society or connection. It was fun however to experience new places.",
+      "permalink": "/docs/Working/Remote Work"
+    },
+    {
+      "id": "Travel/Travel",
+      "title": "Travel",
+      "description": "-",
+      "permalink": "/docs/Travel/"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,41 @@
+{
+  "id": "DevOps/Git",
+  "title": "Git",
+  "description": "Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.",
+  "source": "@site/docs/DevOps/Git.md",
+  "sourceDirName": "DevOps",
+  "slug": "/DevOps/Git",
+  "permalink": "/docs/DevOps/Git",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/DevOps/Git.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "finished": false,
+    "tags": [
+      "article",
+      "digital-garden"
+    ],
+    "created": "2024-01-06T15:01",
+    "updated": "2024-01-07T16:39"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "DevOps",
+    "permalink": "/docs/DevOps/"
+  },
+  "next": {
+    "title": "GitHub Actions",
+    "permalink": "/docs/DevOps/GitHub Actions"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": "Books/Booklist 2024",
+  "title": "Booklist 2024",
+  "description": "On Food and Cooking",
+  "source": "@site/docs/Books/Booklist 2024.md",
+  "sourceDirName": "Books",
+  "slug": "/Books/Booklist 2024",
+  "permalink": "/docs/Books/Booklist 2024",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Booklist 2024.md",
+  "tags": [
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "book-list",
+      "permalink": "/docs/tags/book-list"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "books",
+      "book-list"
+    ],
+    "Finished": false,
+    "Pages": null,
+    "Books-read": null,
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T16:36"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Booklist 2023",
+    "permalink": "/docs/Books/Booklist 2023"
+  },
+  "next": {
+    "title": "Literature",
+    "permalink": "/docs/Books/Literature/"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Books/Book Reviews/Zen & The Art of Motorcycle Maintenance",
+  "title": "Zen & The Art of Motorcycle Maintenance",
+  "description": "Tags: #books #philosophy #denim-philosophy #non-fiction #stoicsm #thinking",
+  "source": "@site/docs/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance",
+  "permalink": "/docs/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Zen & The Art of Motorcycle Maintenance.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 464,
+    "Date Finished": "Sep 02, 2023",
+    "Author": "Robert Pirzig",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Your Brain at Work",
+    "permalink": "/docs/Books/Book Reviews/Your Brain at Work"
+  },
+  "next": {
+    "title": "Booklist 2023",
+    "permalink": "/docs/Books/Booklist 2023"
+  }
+}

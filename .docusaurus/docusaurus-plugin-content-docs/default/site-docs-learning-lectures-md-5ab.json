@@ -1,0 +1,61 @@
+{
+  "id": "Learning/Lectures",
+  "title": "Lectures",
+  "description": "I try to use lectures on YouTube as a form of podcast, where I can listen to the lecturer while doing other things. I think this system is very good when it comes to most of the historical philosophical and social sciences; sometimes, it works okay for economics as well. I have not tried too much to listen to technical, mathematical, or engineering lectures.",
+  "source": "@site/docs/Learning/Lectures.md",
+  "sourceDirName": "Learning",
+  "slug": "/Learning/Lectures",
+  "permalink": "/docs/Learning/Lectures",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Learning/Lectures.md",
+  "tags": [
+    {
+      "label": "learning",
+      "permalink": "/docs/tags/learning"
+    },
+    {
+      "label": "podcasts",
+      "permalink": "/docs/tags/podcasts"
+    },
+    {
+      "label": "university",
+      "permalink": "/docs/tags/university"
+    },
+    {
+      "label": "youtube",
+      "permalink": "/docs/tags/youtube"
+    },
+    {
+      "label": "lectures",
+      "permalink": "/docs/tags/lectures"
+    },
+    {
+      "label": "courses",
+      "permalink": "/docs/tags/courses"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": false,
+    "tags": [
+      "learning",
+      "podcasts",
+      "university",
+      "youtube",
+      "lectures",
+      "courses"
+    ],
+    "created": "2023-06-30T11:30",
+    "updated": "2024-01-07T17:52"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Learning",
+    "permalink": "/docs/Learning/"
+  },
+  "next": {
+    "title": "Talks",
+    "permalink": "/docs/Learning/Talks"
+  }
+}

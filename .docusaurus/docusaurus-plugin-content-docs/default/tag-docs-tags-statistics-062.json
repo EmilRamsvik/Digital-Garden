@@ -1,0 +1,21 @@
+{
+  "label": "statistics",
+  "permalink": "/docs/tags/statistics",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Moneyball",
+      "title": "Moneyball",
+      "description": "How statistics revolutionized baseball. Goes into detail about the famous (now movie) season of the Oakland A´s season and why and how they succeeded despite a pitiful budget. It highlights our human faults and how some can benefit greatly from exploiting other people´s biases.",
+      "permalink": "/docs/Books/Book Reviews/Moneyball"
+    },
+    {
+      "id": "Books/Book Reviews/Practical Recommendation Systems",
+      "title": "Practical Recommendation Systems",
+      "description": "This book is an easy and good introduction to recommendation systems. It is meant to introduce the concept of recommendation systems and, from there, give concepts and methods on how to make them. This book is about usage rather than the theoretical background.",
+      "permalink": "/docs/Books/Book Reviews/Practical Recommendation Systems"
+    }
+  ],
+  "unlisted": false
+}

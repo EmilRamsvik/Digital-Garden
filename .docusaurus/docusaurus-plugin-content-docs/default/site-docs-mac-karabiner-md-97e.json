@@ -1,0 +1,76 @@
+{
+  "id": "Mac/Karabiner",
+  "title": "Karabiner",
+  "description": "Karabiner is a powerful and customizable keyboard remapping tool designed specifically for macOS. It allows users to modify the behavior of their keyboards by remapping keys, creating shortcuts, and implementing various keyboard modifications. With Karabiner, users can redefine keys to perform different functions or assign complex combinations of keys to trigger specific actions. This enables users to personalize their keyboard layout and streamline their workflow, making it easier and more efficient to navigate through applications and perform tasks.",
+  "source": "@site/docs/Mac/Karabiner.md",
+  "sourceDirName": "Mac",
+  "slug": "/Mac/Karabiner",
+  "permalink": "/docs/Mac/Karabiner",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Mac/Karabiner.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "keyboard-maestro",
+      "permalink": "/docs/tags/keyboard-maestro"
+    },
+    {
+      "label": "keyboard-shortcuts",
+      "permalink": "/docs/tags/keyboard-shortcuts"
+    },
+    {
+      "label": "alfred",
+      "permalink": "/docs/tags/alfred"
+    },
+    {
+      "label": "hotkeys",
+      "permalink": "/docs/tags/hotkeys"
+    },
+    {
+      "label": "goku",
+      "permalink": "/docs/tags/goku"
+    },
+    {
+      "label": "productivity",
+      "permalink": "/docs/tags/productivity"
+    },
+    {
+      "label": "productivity-hack",
+      "permalink": "/docs/tags/productivity-hack"
+    },
+    {
+      "label": "keyboard",
+      "permalink": "/docs/tags/keyboard"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": false,
+    "tags": [
+      "article",
+      "keyboard-maestro",
+      "keyboard-shortcuts",
+      "alfred",
+      "hotkeys",
+      "goku",
+      "productivity",
+      "productivity-hack",
+      "keyboard"
+    ],
+    "created": "2023-06-21T04:24",
+    "updated": "2024-01-07T17:09"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Alfred",
+    "permalink": "/docs/Mac/Alfred"
+  },
+  "next": {
+    "title": "Obsidian",
+    "permalink": "/docs/Mac/Obsidian"
+  }
+}

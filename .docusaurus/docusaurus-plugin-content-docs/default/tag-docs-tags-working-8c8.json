@@ -1,0 +1,27 @@
+{
+  "label": "working",
+  "permalink": "/docs/tags/working",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Working/Agile",
+      "title": "Aglie",
+      "description": "Planning Poker",
+      "permalink": "/docs/Working/Agile"
+    },
+    {
+      "id": "Productivity/Productivity",
+      "title": "Productivity",
+      "description": "I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible.",
+      "permalink": "/docs/Productivity/"
+    },
+    {
+      "id": "Working/Working",
+      "title": "Working",
+      "description": "I have currently worked in different types of work. From being a driver to being a moving operator, to a warehouse Employee,  and finally, a Data Scientist.",
+      "permalink": "/docs/Working/"
+    }
+  ],
+  "unlisted": false
+}

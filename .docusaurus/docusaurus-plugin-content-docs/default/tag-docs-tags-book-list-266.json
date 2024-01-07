@@ -1,0 +1,27 @@
+{
+  "label": "book-list",
+  "permalink": "/docs/tags/book-list",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Books/Booklist 2023",
+      "title": "Booklist 2023",
+      "description": "Made to Stick",
+      "permalink": "/docs/Books/Booklist 2023"
+    },
+    {
+      "id": "Books/Booklist 2024",
+      "title": "Booklist 2024",
+      "description": "On Food and Cooking",
+      "permalink": "/docs/Books/Booklist 2024"
+    },
+    {
+      "id": "Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+      "title": "The Box How the Shipping Container Made the World Smaller and the World Economy Bigger",
+      "description": "This book contains the story of the container. It describes how it was first implemented, why it worked, and how the different actors behaved about the new innovation. The container shaped international trade more than anything else in the 20th century, and this is the story of how it came to be.",
+      "permalink": "/docs/Books/Book Reviews/The Box How the Shipping Container Made the World Smaller and the World Economy Bigger"
+    }
+  ],
+  "unlisted": false
+}

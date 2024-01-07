@@ -1,0 +1,15 @@
+{
+  "label": "scrum",
+  "permalink": "/docs/tags/scrum",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Working/Agile",
+      "title": "Aglie",
+      "description": "Planning Poker",
+      "permalink": "/docs/Working/Agile"
+    }
+  ],
+  "unlisted": false
+}

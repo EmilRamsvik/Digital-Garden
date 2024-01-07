@@ -1,0 +1,15 @@
+{
+  "label": "#alcohol",
+  "permalink": "/docs/tags/alcohol",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Food/Drink",
+      "title": "Drink",
+      "description": "-",
+      "permalink": "/docs/Food/Drink"
+    }
+  ],
+  "unlisted": false
+}

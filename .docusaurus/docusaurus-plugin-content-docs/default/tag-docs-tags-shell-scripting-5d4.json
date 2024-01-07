@@ -1,0 +1,15 @@
+{
+  "label": "shell-scripting",
+  "permalink": "/docs/tags/shell-scripting",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Mac/Terminal",
+      "title": "Warp",
+      "description": "I started using Warp in May 2022, and it quickly became my terminal of choice. I find the most difficult thing when using the terminal is that it is often difficult to remember commands even though I \"know\" what I want to do. Warp is amazing at solving this gap by using AI capabilities and natural language to make doing terminal tasks easier.",
+      "permalink": "/docs/Mac/Terminal"
+    }
+  ],
+  "unlisted": false
+}

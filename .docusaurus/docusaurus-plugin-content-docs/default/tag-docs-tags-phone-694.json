@@ -1,0 +1,15 @@
+{
+  "label": "phone",
+  "permalink": "/docs/tags/phone",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Iphone/Iphone",
+      "title": "Iphone",
+      "description": "-",
+      "permalink": "/docs/Iphone/"
+    }
+  ],
+  "unlisted": false
+}

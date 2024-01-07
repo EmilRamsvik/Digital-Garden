@@ -1,0 +1,57 @@
+{
+  "id": "Books/Literature/Literature",
+  "title": "Literature",
+  "description": "This section is about the fine arts of literature and how I relate to them. I will use this section mostly as a way for me to relate to the great works.",
+  "source": "@site/docs/Books/Literature/Literature.md",
+  "sourceDirName": "Books/Literature",
+  "slug": "/Books/Literature/",
+  "permalink": "/docs/Books/Literature/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Literature/Literature.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "literature",
+      "permalink": "/docs/tags/literature"
+    },
+    {
+      "label": "books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "norwegian-books",
+      "permalink": "/docs/tags/norwegian-books"
+    },
+    {
+      "label": "classics",
+      "permalink": "/docs/tags/classics"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "Jul 30, 2023",
+    "Finished": null,
+    "tags": [
+      "article",
+      "literature",
+      "books",
+      "norwegian-books",
+      "classics"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T16:37"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Booklist 2024",
+    "permalink": "/docs/Books/Booklist 2024"
+  },
+  "next": {
+    "title": "Poems",
+    "permalink": "/docs/Books/Literature/Poems"
+  }
+}

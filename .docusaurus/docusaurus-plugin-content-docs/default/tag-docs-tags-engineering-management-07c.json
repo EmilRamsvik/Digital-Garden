@@ -1,0 +1,15 @@
+{
+  "label": "engineering/management",
+  "permalink": "/docs/tags/engineering-management",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Thinking in Systems",
+      "title": "Thinking in Systems",
+      "description": "This book is about understanding and conveying how the system works and how you can use systems thinking to understand the world differently. Systems have mechanisms that govern their behavior, and system thinking allows you to model how the system behaves when manipulating it.",
+      "permalink": "/docs/Books/Book Reviews/Thinking in Systems"
+    }
+  ],
+  "unlisted": false
+}

@@ -1,0 +1,47 @@
+{
+  "id": "Writing/Writing",
+  "title": "Writing",
+  "description": "Writing is hard.  It takes time, effort and experience. It is something that takes effort to even start.",
+  "source": "@site/docs/Writing/Writing.md",
+  "sourceDirName": "Writing",
+  "slug": "/Writing/",
+  "permalink": "/docs/Writing/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Writing/Writing.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "writing",
+      "permalink": "/docs/tags/writing"
+    },
+    {
+      "label": "knowledge",
+      "permalink": "/docs/tags/knowledge"
+    },
+    {
+      "label": "focus",
+      "permalink": "/docs/tags/focus"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "tags": [
+      "article",
+      "writing",
+      "knowledge",
+      "focus"
+    ],
+    "finished": false,
+    "created": "2023-05-30T09:51:00.000Z",
+    "updated": "2024-01-07T17:30"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Remote Work",
+    "permalink": "/docs/Working/Remote Work"
+  }
+}

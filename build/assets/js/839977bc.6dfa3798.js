@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdigital_garden=self.webpackChunkdigital_garden||[]).push([[63211],{31668:i=>{i.exports=JSON.parse('{"label":"socialism","permalink":"/docs/tags/socialism","allTagsPath":"/docs/tags","count":1,"items":[{"id":"Politics/Politics","title":"Politics","description":"Important figures","permalink":"/docs/Politics/"}],"unlisted":false}')}}]);

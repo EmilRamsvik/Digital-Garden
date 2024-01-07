@@ -1,0 +1,61 @@
+{
+  "id": "CyberSecurity/CyberSecurity",
+  "title": "CyberSecurity",
+  "description": "Penetration testing is essentially simulating attacks and investigating the consequences of said attacks. The end goal is not to get hacked.",
+  "source": "@site/docs/CyberSecurity/CyberSecurity.md",
+  "sourceDirName": "CyberSecurity",
+  "slug": "/CyberSecurity/",
+  "permalink": "/docs/CyberSecurity/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CyberSecurity/CyberSecurity.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "cyber-security",
+      "permalink": "/docs/tags/cyber-security"
+    },
+    {
+      "label": "programming",
+      "permalink": "/docs/tags/programming"
+    },
+    {
+      "label": "hacking",
+      "permalink": "/docs/tags/hacking"
+    },
+    {
+      "label": "code-scanning",
+      "permalink": "/docs/tags/code-scanning"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "digital-garden",
+      "cyber-security",
+      "programming",
+      "hacking",
+      "code-scanning"
+    ],
+    "created": "2024-01-06T15:01",
+    "updated": "2024-01-06T15:04"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Curiosity",
+    "permalink": "/docs/Curiosity/"
+  },
+  "next": {
+    "title": "Database",
+    "permalink": "/docs/Database/"
+  }
+}

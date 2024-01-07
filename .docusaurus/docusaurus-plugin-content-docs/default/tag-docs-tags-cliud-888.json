@@ -1,0 +1,15 @@
+{
+  "label": "cliud",
+  "permalink": "/docs/tags/cliud",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Cloud/Cloud",
+      "title": "Cloud",
+      "description": "Virtual Networks",
+      "permalink": "/docs/Cloud/"
+    }
+  ],
+  "unlisted": false
+}

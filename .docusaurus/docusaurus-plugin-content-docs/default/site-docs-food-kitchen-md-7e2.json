@@ -1,0 +1,56 @@
+{
+  "id": "Food/Kitchen",
+  "title": "Kitchen",
+  "description": "Cutting techniques",
+  "source": "@site/docs/Food/Kitchen.md",
+  "sourceDirName": "Food",
+  "slug": "/Food/Kitchen",
+  "permalink": "/docs/Food/Kitchen",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Food/Kitchen.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "food",
+      "permalink": "/docs/tags/food"
+    },
+    {
+      "label": "kitchen",
+      "permalink": "/docs/tags/kitchen"
+    },
+    {
+      "label": "food-prep",
+      "permalink": "/docs/tags/food-prep"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Finished": null,
+    "tags": [
+      "article",
+      "digital-garden",
+      "food",
+      "kitchen",
+      "food-prep"
+    ],
+    "created": "2023-12-03T12:20",
+    "updated": "2024-01-06T16:18"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Equipment",
+    "permalink": "/docs/Food/Equipment"
+  },
+  "next": {
+    "title": "Philosophy",
+    "permalink": "/docs/Food/Recipes/"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "Books/Book Reviews/The Stranger",
+  "title": "The Stranger",
+  "description": "One of Albert Camus's greatest works. It tells the story of the main character from such a distant and objective point that the reader gets taken by the meaninglessness of it all. It is a damning view of the way we strive for meaning in an absurd universe.",
+  "source": "@site/docs/Books/Book Reviews/The Stranger.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The Stranger",
+  "permalink": "/docs/Books/Book Reviews/The Stranger",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The Stranger.md",
+  "tags": [
+    {
+      "label": "fiction",
+      "permalink": "/docs/tags/fiction"
+    },
+    {
+      "label": "extensialism",
+      "permalink": "/docs/tags/extensialism"
+    },
+    {
+      "label": "absurdism",
+      "permalink": "/docs/tags/absurdism"
+    },
+    {
+      "label": "philosophy",
+      "permalink": "/docs/tags/philosophy"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 123,
+    "Date Finished": "Apr 22, 2023",
+    "Author": "Albert Camus",
+    "tags": [
+      "fiction",
+      "extensialism",
+      "absurdism",
+      "philosophy"
+    ],
+    "Finished": true,
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Quants",
+    "permalink": "/docs/Books/Book Reviews/The Quants"
+  },
+  "next": {
+    "title": "The Structure of Scientific Revolutions",
+    "permalink": "/docs/Books/Book Reviews/The Structure of Scientific Revolutions"
+  }
+}

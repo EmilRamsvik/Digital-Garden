@@ -1,0 +1,27 @@
+{
+  "label": "reading",
+  "permalink": "/docs/tags/reading",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Articles/Articles",
+      "title": "Articles",
+      "description": "List of interesting articles. I'm looking forward to seeing some of the articles I read and checking if they stood the test of time.",
+      "permalink": "/docs/Articles/"
+    },
+    {
+      "id": "Books/Booklist 2023",
+      "title": "Booklist 2023",
+      "description": "Made to Stick",
+      "permalink": "/docs/Books/Booklist 2023"
+    },
+    {
+      "id": "Books/Book Reviews/Books",
+      "title": "Books",
+      "description": "I think books are a good way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day.",
+      "permalink": "/docs/Books/Book Reviews/Books"
+    }
+  ],
+  "unlisted": false
+}

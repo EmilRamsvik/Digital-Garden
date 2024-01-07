@@ -1,0 +1,27 @@
+{
+  "label": "habits",
+  "permalink": "/docs/tags/habits",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Books/Book Reviews/Alchemy",
+      "title": "Alchemy",
+      "description": "This book is about the lack of knowledge and the dangers of trying to be \"too\" scientific.  It goes into the different aspects of human nature that is difficult to explain.",
+      "permalink": "/docs/Books/Book Reviews/Alchemy"
+    },
+    {
+      "id": "Iphone/Apps",
+      "title": "Apps",
+      "description": "Streaks",
+      "permalink": "/docs/Iphone/Apps"
+    },
+    {
+      "id": "Books/Book Reviews/Hooked",
+      "title": "Hooked",
+      "description": "Tags: #books #non-fiction #development #psychology #apps",
+      "permalink": "/docs/Books/Book Reviews/Hooked"
+    }
+  ],
+  "unlisted": false
+}

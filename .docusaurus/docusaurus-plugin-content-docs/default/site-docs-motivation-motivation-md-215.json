@@ -1,0 +1,57 @@
+{
+  "id": "Motivation/Motivation",
+  "title": "Motivation",
+  "description": "Motivation for me is being able to intrinsically make the right decision. This implies that motivation is not driven by external factors in this definition. By removing external factors, motivation simply becomes a function of want and mental energy.",
+  "source": "@site/docs/Motivation/Motivation.md",
+  "sourceDirName": "Motivation",
+  "slug": "/Motivation/",
+  "permalink": "/docs/Motivation/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Motivation/Motivation.md",
+  "tags": [
+    {
+      "label": "motivation",
+      "permalink": "/docs/tags/motivation"
+    },
+    {
+      "label": "life",
+      "permalink": "/docs/tags/life"
+    },
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "learning",
+      "permalink": "/docs/tags/learning"
+    },
+    {
+      "label": "personal-development",
+      "permalink": "/docs/tags/personal-development"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "Aug 20, 2023",
+    "Finished": null,
+    "tags": [
+      "motivation",
+      "life",
+      "article",
+      "learning",
+      "personal-development"
+    ],
+    "created": "2023-08-28T09:20",
+    "updated": "2024-01-07T17:52"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Chaos",
+    "permalink": "/docs/Mathematics/Chaos"
+  },
+  "next": {
+    "title": "Music",
+    "permalink": "/docs/Music/"
+  }
+}

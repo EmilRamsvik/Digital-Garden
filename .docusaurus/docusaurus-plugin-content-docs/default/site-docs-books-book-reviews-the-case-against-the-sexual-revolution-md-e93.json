@@ -1,0 +1,30 @@
+{
+  "id": "Books/Book Reviews/The Case Against the Sexual Revolution",
+  "title": "The Case Against the Sexual Revolution",
+  "description": "Tags: #non-fiction #feminism",
+  "source": "@site/docs/Books/Book Reviews/The Case Against the Sexual Revolution.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/The Case Against the Sexual Revolution",
+  "permalink": "/docs/Books/Book Reviews/The Case Against the Sexual Revolution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/The Case Against the Sexual Revolution.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 200,
+    "Date Finished": "Apr 12, 2023",
+    "Author": "Louise Perry",
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "The Case Against Reality Why Evolution Hid the Truth from Our Eyes",
+    "permalink": "/docs/Books/Book Reviews/The Case Against Reality Why Evolution Hid the Truth from Our Eyes"
+  },
+  "next": {
+    "title": "The Creativity Code",
+    "permalink": "/docs/Books/Book Reviews/The Creativity Code"
+  }
+}

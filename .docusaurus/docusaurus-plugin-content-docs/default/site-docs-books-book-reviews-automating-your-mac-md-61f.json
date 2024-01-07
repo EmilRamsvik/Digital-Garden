@@ -1,0 +1,53 @@
+{
+  "id": "Books/Book Reviews/Automating Your Mac",
+  "title": "Automating Your Mac",
+  "description": "This book is about automation in the Mac sphere. The book goes through some cool automation. Most of it is pretty unconvincing.",
+  "source": "@site/docs/Books/Book Reviews/Automating Your Mac.md",
+  "sourceDirName": "Books/Book Reviews",
+  "slug": "/Books/Book Reviews/Automating Your Mac",
+  "permalink": "/docs/Books/Book Reviews/Automating Your Mac",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Books/Book Reviews/Automating Your Mac.md",
+  "tags": [
+    {
+      "label": "#books",
+      "permalink": "/docs/tags/books"
+    },
+    {
+      "label": "#mac",
+      "permalink": "/docs/tags/mac"
+    },
+    {
+      "label": "#automation",
+      "permalink": "/docs/tags/automation"
+    },
+    {
+      "label": "#non-fiction",
+      "permalink": "/docs/tags/non-fiction"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Pages": 274,
+    "Date Finished": "May 14, 2023",
+    "Author": "Joe Kissell",
+    "tags": [
+      "#books",
+      "#mac",
+      "#automation",
+      "#non-fiction"
+    ],
+    "created": "2024-01-06T15:04",
+    "updated": "2024-01-07T17:55"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Animal Farm",
+    "permalink": "/docs/Books/Book Reviews/Animal Farm"
+  },
+  "next": {
+    "title": "Basic Economics",
+    "permalink": "/docs/Books/Book Reviews/Basic Economics"
+  }
+}

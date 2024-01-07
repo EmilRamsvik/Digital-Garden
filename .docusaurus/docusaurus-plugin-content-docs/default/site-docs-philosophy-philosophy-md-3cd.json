@@ -1,0 +1,67 @@
+{
+  "id": "Philosophy/Philosophy",
+  "title": "Philosophy",
+  "description": "System Building",
+  "source": "@site/docs/Philosophy/Philosophy.md",
+  "sourceDirName": "Philosophy",
+  "slug": "/Philosophy/",
+  "permalink": "/docs/Philosophy/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Philosophy/Philosophy.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "philosophy",
+      "permalink": "/docs/tags/philosophy"
+    },
+    {
+      "label": "denim-philosophy",
+      "permalink": "/docs/tags/denim-philosophy"
+    },
+    {
+      "label": "absurdism",
+      "permalink": "/docs/tags/absurdism"
+    },
+    {
+      "label": "extensialism",
+      "permalink": "/docs/tags/extensialism"
+    },
+    {
+      "label": "post-modernism",
+      "permalink": "/docs/tags/post-modernism"
+    },
+    {
+      "label": "science",
+      "permalink": "/docs/tags/science"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "2023-05-23T00:00:00.000Z",
+    "Finished": false,
+    "tags": [
+      "article",
+      "philosophy",
+      "denim-philosophy",
+      "absurdism",
+      "extensialism",
+      "post-modernism",
+      "science"
+    ],
+    "created": "2023-06-21T04:55",
+    "updated": "2024-01-07T17:52"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Personal",
+    "permalink": "/docs/Personal"
+  },
+  "next": {
+    "title": "On The Duality of Rights and Responsibilities",
+    "permalink": "/docs/Philosophy/On The Duality of Rights and Responsibilities"
+  }
+}

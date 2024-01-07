@@ -1,0 +1,52 @@
+{
+  "id": "Personal",
+  "title": "Personal",
+  "description": "My Knowledge Wiki contains most of my knowledge (From 2023 onwards mostly). I try to gather all information I find interesting and my learnings in this wiki. The goal is to create a digital garden for my thoughts and share as much as possible of the things I find interesting. The goal is to have a comprehensive library for my thoughts and experiences that I can share with the world and look back on.",
+  "source": "@site/docs/Personal.md",
+  "sourceDirName": ".",
+  "slug": "/Personal",
+  "permalink": "/docs/Personal",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Personal.md",
+  "tags": [
+    {
+      "label": "article",
+      "permalink": "/docs/tags/article"
+    },
+    {
+      "label": "digital-garden",
+      "permalink": "/docs/tags/digital-garden"
+    },
+    {
+      "label": "knowledge-wiki",
+      "permalink": "/docs/tags/knowledge-wiki"
+    },
+    {
+      "label": "obsidian",
+      "permalink": "/docs/tags/obsidian"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "Date Started": "May 27, 2023",
+    "tags": [
+      "article",
+      "digital-garden",
+      "knowledge-wiki",
+      "obsidian"
+    ],
+    "finished": true,
+    "created": "2023-10-29T15:33",
+    "updated": "2024-01-06T16:40"
+  },
+  "sidebar": "gardenSidebar",
+  "previous": {
+    "title": "Obsidian",
+    "permalink": "/docs/Obsidian/"
+  },
+  "next": {
+    "title": "Philosophy",
+    "permalink": "/docs/Philosophy/"
+  }
+}
