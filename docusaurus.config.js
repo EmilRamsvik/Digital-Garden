@@ -60,9 +60,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Emil Ramsvik',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Emil Ramsvik',
           src: 'img/favicon.svg',
         },
         items: [
