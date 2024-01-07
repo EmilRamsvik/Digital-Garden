@@ -5,7 +5,8 @@ node_modules/*
 build/*
 
 # Docusaurus local development
-.docusaurus/*
+/.docusaurus/*
+
 
 # System files
 .DS_Store
@@ -17,3 +18,7 @@ Thumbs.db
 # Optional: Environment files
 .env
 .env.local
+.docusaurus/*
+.docusaurus
+node_modules
+node_modules/.cache/webpack/client-development-en/0.pack
