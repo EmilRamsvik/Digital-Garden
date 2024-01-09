@@ -108,6 +108,3 @@ const config = {
 };
 
 export default config;
-module.exports = {
-  plugins: [["@gracefullight/docusaurus-plugin-vercel-analytics"]],
-};
