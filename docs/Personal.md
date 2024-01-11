@@ -7,15 +7,13 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2024-01-06T16:40
+updated: 2024-01-09T19:09
 ---
- 
-
 # Personal
 
-My Knowledge Wiki contains most of my knowledge (From 2023 onwards mostly). I try to gather all information I find interesting and my learnings in this wiki. The goal is to create a digital garden for my thoughts and share as much as possible of the things I find interesting. The goal is to have a comprehensive library for my thoughts and experiences that I can share with the world and look back on.  
+My Knowledge Wiki contains most of my knowledge (From 2023 onwards mainly). I gather all information I find interesting and my learnings in this wiki. The goal is to create a digital garden for my thoughts and share as many of the things I find interesting as possible. The goal is to have a comprehensive library for my thoughts and experiences to share with the world and look back on.  
 
-I use [[Personal/Obsidian/Obsidian|Obsidian]] for most of the digital garden work I have, but it is not only for digital gardening but also for other things. It is an important part of the digital garden workflow. 
+I use [Obsidian](Obsidian/Obsidian.md) for most of my digital garden work, but it is not only for digital gardening but also for other things. It is an essential part of the digital garden workflow. 
 
 # Methodology
 I believe consistent work and updates are the keys to improvement. I am a fan of trying to make a quick standard with at least some structure that can be expanded upon when making new choices. 
@@ -23,9 +21,8 @@ I believe consistent work and updates are the keys to improvement. I am a fan of
 
 I want to make daily updates as long as possible and have created some incentives to do this. 
 
-- I have created a task in my [[Apps#Streaks]] app for adding entries to the digital garden. 
-- I have a digital entry reminder so that I can fill in something I have learned during the day, only on weekdays. 
-- I have a workflow where every day, I try to add something new I have learned and enhance or add to an existing article. 
+- I have a digital entry reminder to fill in something I have learned during the day, only on weekdays. 
+- I have a workflow where I try to add something new I have learned and enhance or add to an existing article every day. 
 ### Workflow
 I have designed this basic workflow for making a daily entry and continuously improving the digital garden. 
 #### CAE

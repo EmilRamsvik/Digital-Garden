@@ -10,7 +10,7 @@ tags:
   - programming
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-01-06T15:04
+updated: 2024-01-09T20:12
 ---
 # Database
 
@@ -62,12 +62,13 @@ Database modeling is an important aspect of software development and should be t
 	Exercise where the different use cases are solved using the database or application. It is meant to match the functionality that is in place for the users to efficiently and seamlessly use the application. 
 
 ## Links
-- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)  One of the learnings from this article is that simplicity is key. You need to understand that a team is only as good as the information flow between them. Therefore, it is important to keep it as simple as possible in order to reduce information friction. 
+- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)  One of the learnings from this article is that simplicity is critical. You need to understand that a team is only as good as the information flow between them. Therefore, it is essential to keep it as simple as possible in order to reduce information friction. 
 
 # Links
 - 
 
 # Thoughts 
 - Acid in database stands for Atomicity, Consistency, Isolation, and Durability, which are a set of properties that ensure the reliability and integrity of data transactions.
+- *"In the end, it is all just databases."* - Quote from an experienced colleague. In business, this is kind of true. Don't overcomplicate things; keep the data pure and protected, and make sure people can access it. 
 
 

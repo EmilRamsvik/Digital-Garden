@@ -6,7 +6,7 @@ tags:
   - exercise
 Finished: false
 created: 2023-05-28T00:00:00
-updated: 2024-01-07T16:42
+updated: 2024-01-08T18:59
 ---
 # Strength Training
 I started strength training when I was 17, and did some on and off until I was 19. From 19 to 24, I consistently worked out between 3 and 5 days a week.  I did a lot of failing and needed a lot of guidance during that period. First of all, I started with only upper body exercises and neglected to work out my legs for quite a while. I think this was because I was not flexible enough to do the squat exercises correctly. In hindsight, it is difficult to assess in hindsight what the causation for the lack of leg exercises, but I am certain the lack of flexibility made doing leg workouts quite a bit difficult. 
@@ -45,6 +45,7 @@ EMOM stands for Every Minute On the Minute, a principle used in strength trainin
 # Links
 - [Kris Gethins '8' week challenge was fun. ](https://www.youtube.com/playlist?list=PLs-Ht4H4kDxshwlNoWvw8mgpyID1FkgVU)
 - [Parody on Functional Training](https://www.youtube.com/watch?v=-yfqnebBbW0&ab_channel=AwakenWithJP)
+- [Video on the benefits and use-cases of the kettlebell.](https://youtu.be/DpMiOItcpmw?si=AOz05bOWfuSzcJpA)
 
 # Thoughts 
 - Strength training is super good with some kind of partner. It keeps you both accountable and it is motivating to work out together. 

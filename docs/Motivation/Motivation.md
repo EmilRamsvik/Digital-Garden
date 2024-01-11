@@ -1,6 +1,5 @@
 ---
-Date Started: Aug 20, 2023
-Finished: 
+Finished: false
 tags:
   - motivation
   - life
@@ -8,7 +7,7 @@ tags:
   - learning
   - personal-development
 created: 2023-08-28T09:20
-updated: 2024-01-07T17:52
+updated: 2024-01-10T15:43
 ---
 # Motivation
 
@@ -27,9 +26,9 @@ I try to exercise restraint to save myself from myself. If the chocolate is in t
 
 
 # Learning to Relax
-The book [[../Books/Book Reviews/Four Thousand Weeks Time Management for Mortals]] is a good book on why you should not always be "on".  Having some sort of mental break is always good. 
+The book [[../Books/Book Reviews/Four Thousand Weeks Time Management for Mortals]] is a good book on why you should not always be "on".  Having some mental break is always good. 
 
-I think a sure recipe for disappointment is being "on" all the time, taking the time to not be a superhero, to be a wreck and eating Ben & Jerry's on the couch is perfectly normal, as long as it is the exception. It is also a good way of recalibrating the mental mindset. Yes, I did do something that overall was bad for me yesterday but I feel bad and therefore will not continue with this. 
+I think a sure recipe for disappointment is being "on" all the time, taking the time not to be a superhero, to be a wreck and eating Ben & Jerry's on the couch is perfectly normal, as long as it is the exception. It is also a good way of recalibrating the mental mindset. Yes, I did do something that overall was bad for me yesterday but I feel bad and therefore will not continue with this. 
 
 # Decision making 
 
@@ -52,5 +51,6 @@ A good decision process is when there is a decision that has a major effect on m
 - [Oliver Burkman Discusses Productivity on the Peter Attia Podcast ](https://open.spotify.com/episode/0RPUtABlkOLjG1laWHMZvD?si=8afc50364ff04966)
 
 # Thoughts 
-- I feel like OKRs are best when you have time to validate the progress. When having year-long OKRs you don't have the possibility to adapt the OKRs to the fact on the ground. Leave the years to strategy and culture, and let OKRs be more on-the-ground concrete things to work on.  As an example, I did an OKR on becoming a writer, and with key results based on articles, but halfway through I started to work on the digital garden and the metrics changed. 
-- Accept that decision making and motivation is inherently based on emotions. We are emotional creatures and being logical is therefore quite unormal. 
+- I feel like OKRs are best when you have time to validate the progress. When having year-long OKRs you don't have the possibility to adapt the OKRs to the fact on the ground. Leave the years to strategy and culture, and let OKRs be more on-the-ground concrete things to work on.  As an example, I did an OKR on becoming a writer, and with key results based on articles, but halfway through, I started to work on the digital garden, and the metrics changed. 
+- Accept that decision-making and motivation are inherently based on emotions. We are emotional creatures, and being logical is therefore quite normal. 
+- You should chase the flow state whenever possible, it is the drug of working. It is almost more important to work in flow than just being present in the 

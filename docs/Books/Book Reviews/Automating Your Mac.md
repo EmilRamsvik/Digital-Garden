@@ -1,14 +1,13 @@
 ---
 Pages: 274
-Date Finished: May 14, 2023
 Author: Joe Kissell
 tags:
   - "#books"
   - "#mac"
   - "#automation"
   - "#non-fiction"
-created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+created: 2023-05-14T15:04:00
+updated: 2024-01-07T20:51
 ---
 # Automating Your Mac
 

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-01-07T16:36
+updated: 2024-01-08T18:50
 ---
 #### On Food and Cooking
 *Author:* Harold McGee
@@ -209,7 +209,7 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 336
 *Language*: English 
 
-#### How Big Things Get Done
+#### [How Big Things Get Done](Personal/Books/Book%20Reviews/How%20Big%20Things%20Get%20Done.md)
 *Author:* Bent Flyvbjerg, Dan Gardner
 *Pages*: 304
 *Language*: English 
@@ -252,4 +252,10 @@ _Language:_ English
 #### Data Science on AWS
 _Author:_  Chris Fregly and Antje Barth
 _Pages:_ 522
+_Language:_ English
+
+
+#### [Getting Started with Streamlit for Data Science](Book%20Reviews/Getting%20Started%20with%20Streamlit%20for%20Data%20Science.md)
+_Author:_  Tyler Richards
+_Pages:_ 282
 _Language:_ English

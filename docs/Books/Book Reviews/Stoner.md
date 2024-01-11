@@ -4,11 +4,13 @@ tags:
   - fiction
   - classics
   - norwegian-language
+  - absurdism
+  - fatalism
 Date Finished: 2022-12-27
 Author: John Williams
 Pages: 270
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-01-09T19:08
 ---
 # Stoner
 
@@ -25,11 +27,11 @@ Hacker news, I think
 Older people need to calm down. It helps align the life you live.  It was somewhat of a struggle book, though I read it fast (in a couple of days). 
 
 # ☘️ How the Book Changed Me
-I felt happier with my current situation, how the trivialities of life might destroy a person, how indecision is a destroyer of happiness. 
+I felt happier with my current situation, how the trivialities of life might destroy a person, and how indecision is a destroyer of happiness. 
 
 # ✍️ My Top  Quotes
 *The one you love first, is not the one you love last, and love is not a goal, it is a process where one person attempts to get to know another.*
 
-*"Lust and learning,” Katherine once said. That’s really all there is, isn’t it?
+*"Lust and learning,” Katherine once said. That’s really all there is, isn’t it?*
 
 

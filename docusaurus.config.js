@@ -1,15 +1,9 @@
-// @ts-check
-// `@type` JSDoc annotations allow editor autocompletion and type checking
-// (when paired with `@ts-check`).
-// There are various equivalent ways to declare your Docusaurus config.
-// See: https://docusaurus.io/docs/api/docusaurus-config
-
 import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Emil\'s Knowledge Garden',
-  tagline: 'Collection of Emil\'s thoughts and ideas',
+  title: 'My Digital Garden',
+  tagline: 'My ever growing digital garden, where I store new things that I learn, improve on old things, and try to have something to look back on. I love to learn and I love to share, so this is my attempt at doing both. The web-page is not only a way for me to share what I have learned continuously, but also to learn more about web-development. It is a way for me to learn by doing, so dont expect the absolute best.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -34,7 +28,16 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: false,
+        blog: {
+          blogTitle: 'Quick Thoughts',
+          blogDescription: 'Or another way of saying "blog" without actually saying it.',
+          postsPerPage: 10,
+          showReadingTime: true, // When set to false, the "x min read" won't be shown
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+            defaultReadingTime({ content, options: { wordsPerMinute: 300 } }),
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'All the posts',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -45,7 +48,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'Emil Ramsvik',
         logo: {
@@ -57,7 +60,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'gardenSidebar',
             position: 'left',
+            to: '/docs/Personal',
             label: 'Garden',
+          },
+          {
+            to: '/blog',
+            label: 'Blog',
+            position: 'left',
           },
           {
             href: 'https://github.com/emilRamsvik',
@@ -98,7 +107,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Emil Severin Moen Ramsvik. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Emil Severin Moen Ramsvik.`,
       },
       prism: {
         theme: prismThemes.github,

@@ -6,7 +6,7 @@ tags:
   - ai
   - tools
 created: 2024-06-21T15:01:00
-updated: 2024-01-07T17:44
+updated: 2024-01-09T17:48
 ---
 
 
@@ -31,9 +31,10 @@ GPT-4 is one of the best tools I have used in the last couple of years. It is as
 
 # Thoughts 
 - Standardizing the way you do prompts makes it a lot easier to get the results you want.
-- Having snippets in [Alfred](../Mac/Alfred.md) for some standard prompts is something I have experienced a bit with. There are no definite conclusions, but it might be interesting to see the development. Having a defined format for the output would be interesting to see, so you only get the code, formatted data, etc.  Alfred also has an awesome workflow for interacting with OpenAI api. 
+- Having snippets in [Alfred](../Mac/Alfred.md) for some standard prompts is something I have experienced a bit with. There are no definite conclusions, but it might be interesting to see the development. Having a defined format for the output would be interesting to see, so you only get the code, formatted data, etc.  Alfred also has an excellent workflow for interacting with OpenAI api. 
 - I found recipe searching to be very interesting and fun. 
-- ChatGPT is super handy when it comes to creating shell scripts. super easy to work with. 
+- ChatGPT is super handy when it comes to creating shell scripts. super easy to work with.  
+- One of the best innovations to chatGPT was streaming the answer, even though the response comes faster. It gives the user the impression that the AI is thinking and taking time to respond—one of the most fascinating UX choices I have seen. 
 
 
 

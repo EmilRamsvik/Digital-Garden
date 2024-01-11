@@ -7,7 +7,7 @@ tags:
   - article
 Finished: 
 created: 2024-01-06T15:04
-updated: 2024-01-06T16:18
+updated: 2024-01-10T15:32
 ---
 # Azure
 
@@ -25,7 +25,7 @@ Using the command line interface (CLI) is always a good way of understanding and
 
 [Make better indexers with Powerskills Repo]( https://github.com/Azure-Samples/azure-search-power-skills)
 
-![[Pasted image 20230615144221.png]]
+![[../../static/Images/Pasted image 20230615144221.png]]
 ### Semantic Search
 Azure Cognitive Search's Semantic Search is a feature that enhances traditional search methods by understanding the intent and contextual meaning of search queries. By leveraging AI and natural language processing, it can deliver more relevant search results, even when queries are phrased in a conversational manner or have ambiguous terms. It can also provide advanced query capabilities, like document summarisation, named entity recognition, and personalized ranking of search results.
 

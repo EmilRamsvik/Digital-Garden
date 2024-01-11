@@ -12,7 +12,7 @@ tags:
   - "#transformers"
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-07T15:42
+updated: 2024-01-08T12:56
 ---
 
 # Data Science
@@ -44,6 +44,6 @@ Things to keep in mind in the EDA.
 - [When too much evidence is bad](https://phys.org/news/2016-01-evidence-bad.html) Interesting article that argues when the results are too good to be true then it probably is. If there are some fantastic numbers all everything is correct then something is off. We expect that data shows some inconsistencies. 
 
 # Thoughts 
-- 
+- A machine learning (ML) model is a software artifact “compiled” from data
 
 

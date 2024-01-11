@@ -11,7 +11,7 @@ tags:
   - digital-garden
 finished: true
 created: 2023-10-29T16:01
-updated: 2024-01-02T22:05
+updated: 2024-01-10T15:56
 ---
 
 # Obsidian
@@ -46,6 +46,7 @@ I think Obisian is not good as a tool to share knowledge and to collaborate. It 
 * [Obsidian Guides](https://obsidian.rocks/)
 * [Some obsidian and some other shortcuts as well as Alfred](https://www.thoughtasylum.com/)
 * [Nicole van der Hoven has some of the best guides on Obsidian, take note that she has a very advanced setup. ](https://nicolevanderhoeven.com/)
+* [How to set up a folder for images and other attachments.](https://notes.nicolevanderhoeven.com/obsidian-playbook/Using+Obsidian/02+Making+Notes+in+Obsidian/Attaching+images+to+Obsidian)
 
 
 # Thoughts 

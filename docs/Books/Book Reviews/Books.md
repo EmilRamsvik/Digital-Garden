@@ -1,32 +1,31 @@
 ---
-Date Started: Jun 10, 2023
 tags:
   - books
   - reading
   - sleep
   - concentration
   - distractions
-Finished: 
-created: 2024-01-06T15:04
-updated: 2024-01-07T18:17
+Finished: false
+created: 2023-06-10T15:04:00
+updated: 2024-01-08T10:07
 ---
 # Books
 
 
 
 # Books 
-I think books are a good way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 
+Books are an excellent way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 
 
 
-I usually try to read before I go to sleep, I find that the ritual makes me sleepy and prepares me to go to sleep. 
+I usually try to read before I go to sleep; the ritual makes me sleepy and prepares me to sleep. 
 
 
 # Non-Fiction
-I mostly read non-fiction, as I usually do not find it that difficult to get into things. 
+I mostly read non-fiction, as I usually do not find it that difficult to get into nonfiction books. I think it is due to the fact that a lot of the context in non-fiction is set; you know the world, you know what the premisses are, and therefore, you do not have to use a lot of mental capacity.  
 
 
 # Fiction
-I think fiction is something that is important to read, and great works may stay with you for a long time. There is no shame in reading fantasy or science fiction. 
+Fiction is something that is important to read, and great works may stay with you for a long time. There is no shame in reading fantasy or science fiction. 
 
 
 # Links
@@ -36,9 +35,10 @@ I think fiction is something that is important to read, and great works may stay
 - [Hacker news on best books of 2022](https://news.ycombinator.com/item?id=34055123) 
 - [Ryan Holliday Reading list](https://ryanholiday.net/the-reading-list/)
 - [Hacker News Most Mentioned Books](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
+- [Choosing what to read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
 
 # Thoughts 
-- Books demand your attention in a very different way than other things. If you stop reading then you stop, period. This means that phones, TVs, and other distractions are basically just that, distractions. When I started to seriously read again, I found myself constantly reaching for my phone to check it. It was strange to really see how little attention span I had. 
+- Books demand your attention in a very different way than other things. If you stop reading, then you stop, period. This means that phones, TVs, and other distractions are basically just that, distractions. When I started to read again seriously, I constantly reached for my phone to check it. It was strange to really see how little attention span I had. 
 - Reading disciplines you to take time and concentrate on just one thing. This is important in a distracted society. 
 
 
