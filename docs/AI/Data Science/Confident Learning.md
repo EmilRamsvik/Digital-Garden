@@ -17,7 +17,7 @@ Finished: false
 
 
 
-![](../../../static/Images/confident_learning.png)
+![](../../../static/images/confident_learning.png)
 As you can see from the above image, confident learning is about estimating the likelyhood of the data being labeled correctly based upon the confidence of the model. If the model confidence is above the threshold confidence (The T_j parameter, t_dog, t_fox t_cow) and if the confidence of the model prediction is higher than the threshold but the label is different, then we predict a wrong label 
 ## The Principles of Confident Learning
 - **Prune** to search for label errors, e.g. following the example of using soft-pruning via loss-reweighting, to avoid the convergence pitfalls of iterative re-labeling.
