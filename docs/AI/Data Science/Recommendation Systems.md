@@ -6,7 +6,7 @@ tags:
   - data-science
   - python
 created: 2024-01-06T15:04
-updated: 2024-01-06T15:04
+updated: 2024-01-14T18:20
 ---
 
 
@@ -43,14 +43,15 @@ Both systems have their strengths and weaknesses, and often, modern recommendati
 
 
 ### Warp
-Weighted Approximate-Rank Pairwise loss (WARP loss) first introduced in [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf) by Weston et. al. WARP is quite similar to BPR: you sample a positive and negative item for a user, predict for both, and take the difference. In BPR you then make the SGD update with this difference as a weight. In WARP, you only run the SGD update if you predict _wrong_, i.e. you predict the negative item has a higher score than the positive item. If you do not predict wrong, then you keep drawing negative items until you either get the prediction wrong or reach some cutoff value.
+Weighted Approximate-Rank Pairwise loss (WARP loss) was first introduced in [WSABIE: Scaling Up To Large Vocabulary Image Annotation](http://www.thespermwhale.com/jaseweston/papers/wsabie-ijcai.pdf) by Weston et al. WARP is quite similar to BPR: you sample a positive and negative item for a user, predict for both, and take the difference. In BPR, you then make the SGD update with this difference as a weight. In WARP, you only run the SGD update if you predict wrongly, i.e., you predict the negative item has a higher score than the positive item. If you do not predict wrong, then you keep drawing negative items until you either get the prediction wrong or reach some cutoff value.
 
 # Links
 - [Quick Tutorial](https://www.youtube.com/watch?v=9gBC9R-msAk) 
 - [LightFM introduction and explanation by the person who made it. ](https://youtu.be/EgE0DUrYmo8?si=zh6W72ArlmTgK2es)
-- [Learning to Rank](https://www.ethanrosenthal.com/2016/11/07/implicit-mf-part-2/) About implicit ranking algoritms. 
+- [Learning to Rank](https://www.ethanrosenthal.com/2016/11/07/implicit-mf-part-2/) About implicit ranking algorithms. 
+- [Practical Recommendation Systems](../../Books/Book%20Reviews/Practical%20Recommendation%20Systems.md)
 
 # Thoughts 
-- 
+- I have not really delved that much into predictions based on other than collaborative filtering. I wonder if you can predict the most likely next item. So you have a data set of orders. You can remove one and then try to predict the next most common item. If you have a large store, then it might be more challenging to do this as the solution matrix would be large indeed. 
 
 

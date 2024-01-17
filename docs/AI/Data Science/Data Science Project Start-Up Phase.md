@@ -1,10 +1,14 @@
 ---
-Finished: 
+Finished: false
 tags:
   - article
   - digital-garden
+  - data/eda
+  - data-science
+  - design-thinking
+  - design-sprint
 created: 2024-01-06T15:04
-updated: 2024-01-06T15:04
+updated: 2024-01-14T17:50
 ---
 
 
@@ -31,10 +35,12 @@ In traditional software projects, most of the responses to the implementation of
 
 # Links
 - [DS Project Quick Start](https://eugeneyan.com/writing/project-quick-start/) 
-	- A good note from the article: clean the Jupyter notebooks weekly and refactor code into ```.py```files instead of copy-pasting cells.  *My thoughts on this is that it is quite easy to assume the functions just "work". However, if not in some sort of testing-regime it is quite easy to fall into traps and changing the functions and having to restart notebooks al the time.*
+	- A good note from the article: clean the Jupyter notebooks weekly and refactor code into ```.py```files instead of copy-pasting cells.  *My thoughts on this are that it is quite easy to assume the functions just "work." However, if not in some sort of testing regime, it is quite easy to fall into traps and change the functions and have to restart notebooks all the time.*
 - [AutoML packages that can be useful. ](https://www.activestate.com/blog/the-top-10-automl-python-packages-to-automate-your-machine-learning-tasks/)
+- 
 
 # Thoughts 
+- Data Centric AI should have major considerations here. 
 - 
 
 

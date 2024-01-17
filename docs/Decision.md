@@ -6,8 +6,11 @@ tags:
   - digital-garden
   - decison
   - personal
+  - thinking
+  - kahneman
+  - thinking-fast-and-slow
 created: 2024-01-06T15:04
-updated: 2024-01-06T16:39
+updated: 2024-01-14T17:15
 ---
 
 
@@ -40,7 +43,8 @@ I think the best way is to extend the decision-making time to at least a couple 
 - 
 
 # Thoughts 
-- Practice making decisions the right way the same way you practice other things. Do it a lot and then use the experience you get from doing the right decision process in less important decisions to reap the benefit in larger decisions. It can be a decision to go on a hiking trip on Saturday, for example, but it will give you good practice. 
-- Analysis paralysis is real, so keep the decisions brief and try to only consider the most important aspects. If you have ten factors in your decision-making process, then you have at least 7 too many. 
+- Practice making decisions the right way the same way you practice other things. Do it a lot and then use the experience you get from doing the proper decision process in less essential decisions to reap the benefit in more significant decisions. It can be a decision to go on a hiking trip on Saturday, for example, but it will give you good practice. 
+- Analysis paralysis is real, so keep the decisions brief and try only to consider the most critical aspects. If you have ten factors in your decision-making process, then you have at least seven too many. 
+- Think of decisions as either a one-way or two-way door.  If you can revert the decisions quickly and cheaply (a two-way door), the decision-making is making a quick but informed decision. If the cost of reverting is high, then you should think carefully and do a lot of study and consultation on it. 
 
 

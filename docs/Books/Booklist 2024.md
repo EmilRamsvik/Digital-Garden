@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-01-08T18:50
+updated: 2024-01-15T17:34
 ---
 #### On Food and Cooking
 *Author:* Harold McGee
@@ -254,8 +254,32 @@ _Author:_  Chris Fregly and Antje Barth
 _Pages:_ 522
 _Language:_ English
 
-
 #### [Getting Started with Streamlit for Data Science](Book%20Reviews/Getting%20Started%20with%20Streamlit%20for%20Data%20Science.md)
 _Author:_  Tyler Richards
 _Pages:_ 282
+_Language:_ English
+
+#### Machine Learning Engineering with MLflow
+_Author:_  Natu Lauchande 
+_Pages:_ 248
+_Language:_ English
+
+#### Hands-On Unsupervised Learning Using Python
+_Author:_  Ankur Patel
+_Pages:_ 359
+_Language:_ English
+
+#### Feature Engineering for Machine Learning
+_Author:_  Alice Zheng
+_Pages:_ 215
+_Language:_ English
+
+#### Ace the Data Science Interview
+_Author:_ Nick Singh  
+_Pages:_ 301
+_Language:_ English
+
+#### Python Testing with pytest
+_Author:_ Brian Oken
+_Pages:_ 272
 _Language:_ English

@@ -6,7 +6,7 @@ tags:
   - productivity
 Finished: false
 created: 2023-10-15T15:28
-updated: 2024-01-09T20:15
+updated: 2024-01-12T17:30
 ---
 
 # Working
@@ -20,6 +20,8 @@ There is no shame in choosing your passion as your way of making your living, bu
 
 # Links
 - [John Carmack on Shorter Work Weeks](https://news.ycombinator.com/item?id=10845832) HN discussion
+- [3 Budgets](https://swizec.com/blog/the-3-budgets/) Context related to how and where the IT is budgeted and how it affects your job. 
+- [4 types of teams from Team Topologies](https://itrevolution.com/articles/four-team-types/)
 
 # Thoughts 
 - In the midst of Shannon’s career, some lawyers in the patent department at Bell Labs decided to study whether there was an organizing principle that could explain why certain individuals at the Labs were more productive than others. They discerned only one common thread: Workers with the most patents often shared lunch or breakfast with a Bell Labs electrical engineer named Harry Nyquist. It wasn’t the case that Nyquist gave them specific ideas. Rather, as one scientist recalled, “he drew people out, got them thinking.” More than anything, Nyquist asked good questions.'```

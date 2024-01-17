@@ -8,12 +8,12 @@ tags:
   - "#dart"
 finished: false
 created: 2023-05-30T13:28:00
-updated: 2024-01-07T17:19
+updated: 2024-01-12T17:14
 ---
 
 
 # Dart 
-To my knowledge, Dart is a beautiful language that is completely null-safe. 
+To my knowledge, Dart is a beautiful language that is completely null-safe. Dart is developed by Google and is a compiled static-typed language. Most of the development with Dart is for the Flutter framework.
 
 
 ## Types and Definitions
@@ -54,11 +54,12 @@ I think the provider package is very useful for handling state and state-related
 - [Steve Yegge on Flutter](https://youtu.be/gSq58my05nY)
 - [Robert Brunhage has a lot of good tutorials](https://www.youtube.com/@RobertBrunhage)
 - [Flutter Introduction](https://flutteragencyinfo.medium.com/why-flutter-is-the-future-of-mobile-app-development-in-2024-846568efe461)
+- [Stateful vs Stateless](https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless)
 
 # Thoughts Brundage
 - Flutter introduced me to the trials of state, which, when I started, became one of the hardest things to understand and work with. 
-- Knowing all the widgets in Flutter is not the most important thing; rather, understanding the flow of data is essential. 
-- The most important thing to remember is CRUD and State. If you master those two things then the rest is easy. 
+- Knowing all the widgets in Flutter is not the most important thing; instead, understanding the data flow is essential. 
+- The most important thing to remember is CRUD and State. If you master those two things, then the rest is easy. 
 - 
 
 

@@ -10,7 +10,7 @@ tags:
   - "#backend"
   - "#programming"
 created: 2023-12-27T12:33
-updated: 2024-01-07T17:18
+updated: 2024-01-16T08:50
 ---
 
 
@@ -38,11 +38,23 @@ async def get_api_key(api_key_header: str = Security(api_key_header)):
 - `get_api_key(api_key_header: str = Security(api_key_header))`: This is an asynchronous function that takes the API key from the request headers (injected by FastAPI) and checks if it matches the expected API key. If the keys match, the function returns the key; otherwise, it raises an `HTTPException` with a 403 status code to indicate that the request is forbidden.
 
 
+# Layered Architecture
+I like to separate API into "layers," where each step is its own layer in the API.  Then for each API, I can have all the logic within the same folder. 
 
+    
+Layered architecture in an API refers to a structured approach where the application is divided into distinct layers, each with specific responsibilities and roles. This architectural style promotes separation of concerns, making the application more organized, scalable, and maintainable. The most common layers include the presentation, business logic, and data access layers. 
+- The presentation layer is responsible for interacting with the client, such as web browsers or mobile applications, handling user inputs, and presenting data. 
+- The business logic layer, or domain layer, contains the application's core functionality, processing commands, making logical decisions, and performing calculations. It acts as a mediator between the presentation and data access layers, ensuring that user inputs are processed according to the business rules.
+- The data access layer is responsible for interacting with the database or any data storage system. It handles all the data retrieval and storage operations, abstracting the complexity of these operations from the business logic layer. 
+
+I structure the layers in FastAPI like this. 
+
+1. **Router Layer**: This is the layer where you define your API endpoints (routes). It acts as the interface between the outside world and your application. Here, HTTP requests are received, and the appropriate controller actions are invoked. 
+2. **Models Layer**: This layer is responsible for representing your application's data structures. In the context of an API connected to a database, models typically represent tables in your database. They define the structure of your data – the fields and their types – and how different pieces of data relate to each other (relationships like one-to-many, many-to-many, etc.). 
+3. **CRUD (Create, Read, Update, Delete) Layer**: This layer encapsulates the logic to interact with the database. It translates business operations into database queries. This layer is responsible for creating, reading, updating, and deleting records in your database. 
+4. **Schemas Layer**: Also known as DTOs (Data Transfer Objects) or serializers, this layer is responsible for defining the structure of data that your application will accept (input) and return (output). This layer acts as a contract for what data is expected by your API and what data it will return, ensuring that the client and server understand each other correctly.
 # Links
 - [FastAPI Articles](https://www.vidavolta.io/?ref=vidavolta.io)
-- 
-
 # Thoughts 
 - 
 

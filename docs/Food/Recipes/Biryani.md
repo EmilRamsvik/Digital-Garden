@@ -11,9 +11,10 @@ tags:
   - chicken
   - rice
   - stew
+  - food-prep
 Finished: true
 created: 2023-10-29T15:46
-updated: 2024-01-07T17:36
+updated: 2024-01-14T17:21
 ---
 # Description
 Biryani/Byriani is a Pakistani/Indian dish that is usually served at large gatherings. I did a lot of discovering and learning working with the guys in my apartment. 
@@ -41,4 +42,6 @@ I think having a good base for the sauce is good, and therefore, I recommend tha
 - I like to add some of the biryani spice to the rice while it cooks in the water. 
 - I will repeat ad nauseum: wash the rice. 
 - Don't make it complicated; it is meant as a dish that should be easy to make. It is perfectly okay to make it with spice mix. 
+- Spice mix is good, spice paste is not good in my experience. 
+- Tried to experiment with coconut oil 
 

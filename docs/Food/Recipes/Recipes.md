@@ -7,23 +7,20 @@ tags:
   - recipe
   - cooking
   - health
+created: 2023-05-27T05:50
+updated: 2024-01-14T17:19
 ---
 
 
 # Philosophy
 
-I think following recipes automatically is a sign of an unimaginative mind, and as such one should try to experiment and expand the palette. I have structured my favorite and interesting recipes as a dynamic document with my thoughts and musing on the recipes. I want to be able to continuously update my recipes with more interesting 
+Following recipes automatically is a sign of an unimaginative mind, and as such, one should try to experiment and expand the palette. I have structured my favorite and interesting recipes as a dynamic document with my thoughts and musing on the recipes. I want to be able to update my recipes with more interesting versions continuously. 
 
 
 
+I think I will mostly try to keep the themes of food, like pasta, rice dishes, and Southeast Asian dishes, and quick descriptions regarding the learnings I have from experimenting with dishes. I think it is more helpful for people to see what I have learned than a complete recipe. There are more 
 
 
-
-
-
-
-
-I have tried to order the recipes based on culture, but it might be a bit chaotic 
 
 # Italian 
 I think my favorite dishes come from the Italian Kitchen, most of the dishes are usually very simple and contain few ingredients. It is Easy to 

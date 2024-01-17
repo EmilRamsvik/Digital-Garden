@@ -6,11 +6,11 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-01-06T15:04
+updated: 2024-01-17T18:38
 ---
 # Articles
 
-List of interesting articles. I'm looking forward to seeing some of the articles I read and checking if they stood the test of time. 
+List of interesting articles. I'm looking forward to seeing some of the articles I read and checking if they stood the test of time.  
 
 
 
@@ -28,7 +28,7 @@ List of interesting articles. I'm looking forward to seeing some of the articles
 
 
 # Blogs 
-Blogs that I have discovered are here
+Blogs that I have discovered are here:
 
 #### [Tonsky](https://tonsky.me/)
 *About*: Programming and UI
@@ -38,8 +38,8 @@ Blogs that I have discovered are here
 
 
 # Thoughts 
-- I tihnk a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 
-- This page works as a placeholder folder, all the articles where I cannot find a parent file to store the links.
+- I think a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 
+- This page works as a placeholder folder for oall the articles where I cannot find a parent file to store the links.
 
 
 

@@ -7,7 +7,7 @@ tags:
   - learning
   - personal-development
 created: 2023-08-28T09:20
-updated: 2024-01-10T15:43
+updated: 2024-01-12T16:59
 ---
 # Motivation
 
@@ -49,6 +49,11 @@ A good decision process is when there is a decision that has a major effect on m
 # Links
 - [5 common Mental errors for decision making](https://jamesclear.com/common-mental-errors)
 - [Oliver Burkman Discusses Productivity on the Peter Attia Podcast ](https://open.spotify.com/episode/0RPUtABlkOLjG1laWHMZvD?si=8afc50364ff04966)
+- [Do hard things, live an asymmetric life](https://www.youtube.com/watch?v=dZxbVGhpEkI&ab_channel=StanfordGraduateSchoolofBusiness)
+	1. Do hard things 
+	2. Do your thing 
+	3. Do it for decades 
+	4. Write your story
 
 # Thoughts 
 - I feel like OKRs are best when you have time to validate the progress. When having year-long OKRs you don't have the possibility to adapt the OKRs to the fact on the ground. Leave the years to strategy and culture, and let OKRs be more on-the-ground concrete things to work on.  As an example, I did an OKR on becoming a writer, and with key results based on articles, but halfway through, I started to work on the digital garden, and the metrics changed. 

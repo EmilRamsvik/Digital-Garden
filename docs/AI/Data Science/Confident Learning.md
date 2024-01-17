@@ -1,6 +1,6 @@
 ---
 created: 2024-01-10T13:14:00
-updated: 2024-01-10T19:22
+updated: 2024-01-16T15:17
 tags:
   - article
   - digital-garden
@@ -11,12 +11,9 @@ tags:
   - "#data/eda"
   - "#machine-learning/ml-engineering"
   - ai/data-centric-ai
-Finished: false
+Finished: true
 ---
 # Confident Learning
-
-
-
 ![](../../../static/images/confident_learning.png)
 As you can see from the above image, confident learning is about estimating the likelyhood of the data being labeled correctly based upon the confidence of the model. If the model confidence is above the threshold confidence (The T_j parameter, t_dog, t_fox t_cow) and if the confidence of the model prediction is higher than the threshold but the label is different, then we predict a wrong label 
 ## The Principles of Confident Learning
@@ -42,8 +39,10 @@ Unlike most machine learning approaches, confident learning requires no hyperpar
 
 # Links
 - [Lecture notes on confident learning](https://dcai.csail.mit.edu/2023/label-errors/)
+- [Talk about confident learning, a more brief overview](https://www.youtube.com/watch?v=H_m66Uwh7rg&ab_channel=Cleanlab).
 
 # Thoughts 
-- It is very simle
+- The documentation on cleanlab is awesome and extensive. Makes it easy to use. 
+- Cleanlab also has a webpage with a more user-friendly (AKA drop and drag) interface rather than a Python package. 
 
 

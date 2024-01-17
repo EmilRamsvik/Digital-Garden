@@ -9,7 +9,7 @@ tags:
   - tools
 Finished: 
 created: 2023-08-18T21:47
-updated: 2024-01-06T16:18
+updated: 2024-01-14T17:41
 ---
 # Equipment
 In this article, I list the most important tools I use in the kitchen.  My philosophy for tools can be found in the tools section [[Tools]]
@@ -24,9 +24,9 @@ I found the methods for the maintenance of iron tools to be quite interesting. S
 
 
 ## Dutch Oven
-The Dutch Oven is flexible and is usually a tool I use weekly, it has become a standard tool for stews and soups. 
+The Dutch Oven is flexible and is usually a tool I use weekly, it has become a standard tool for stews and soups.  When I need to scale up for bigger crowds, then it is invaluable. Would like to do more bread baking with it as well. 
 ## Spatula
-A spatula that can withstand heat is awesome, it also makes you able to not waste food. Invest in spatulas that can resist heat up to 200 degrees Celsius and you should be fine. Also, I find being able to put them in the dishwasher makes you more likely to invest time to cook. 
+A spatula that can withstand heat is incredible; it also makes you able not to waste food. Invest in spatulas that can resist heat up to 200 degrees Celsius, and you should be fine. Also, I find being able to put them in the dishwasher makes you more likely to invest time in cooking. 
 
 ## Kitchen towels. 
 Chef Anthony Bourdain paid tribute to the side towel in _Kitchen Confidential_: _Adventures in the Culinary Underbelly_: “Side towels are hoarded like gold by good line cooks. When the linen order arrives, the smart cookies fall onto it voraciously, stashing stacks of valuable objects anywhere they can hide them. One cook I knew would load them above the acoustic tile in the ceiling, along with his favorite tongs. I’m sure that years later, though the restaurant has changed hands many times, future generations of cooks are still finding stashes of fluffy, clean side towels”
@@ -38,6 +38,9 @@ Chopsticks are actually quite useful tools for cooking, and in Asia and Asian co
 - 
 
 # Thoughts 
+- Having equipment that can be washed in the dishwasher is cool and is something you should consider when getting new stuff. 
+- In the kitchen, order and cleanliness are essential; the dishwasher can be considered a valuable tool for keeping stuff clean. 
+- Never compromise on cleanliness
 - 
 
 

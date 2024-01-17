@@ -8,7 +8,7 @@ tags:
   - hacking
   - code-scanning
 created: 2024-01-06T15:01
-updated: 2024-01-06T15:04
+updated: 2024-01-15T09:07
 ---
 # CyberSecurity
 
@@ -39,9 +39,11 @@ Executing attacks:
 - How do legitimate users authenticate to the system?
 - For ML, data leaks are the biggest issue. 
 # Links
-- 
+- [Article on supply chain attack on Pytorch](https://johnstawinski.com/2024/01/11/playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch/comment-page-1/#comments) Good informaiton and insightful on how to think about attachs. 
 
 # Thoughts 
 - Just don't post any secrets to Git Hub. 
+- Again, keep them secrets out. 
+- The best programming practice is cyber-security best practice. 
 
 

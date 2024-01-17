@@ -6,7 +6,7 @@ tags:
   - ai
   - tools
 created: 2024-06-21T15:01:00
-updated: 2024-01-09T17:48
+updated: 2024-01-13T11:09
 ---
 
 
@@ -28,6 +28,8 @@ GPT-4 is one of the best tools I have used in the last couple of years. It is as
 - [Prompt Engineering Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
 - [Awesome ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [AI prompt generator](https://github.com/f/awesome-chatgpt-prompts)
+- [AI-enhanced development makes me more ambitious in my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+- [LLM and Programming](http://antirez.com/news/140)
 
 # Thoughts 
 - Standardizing the way you do prompts makes it a lot easier to get the results you want.

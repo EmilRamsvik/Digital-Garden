@@ -7,10 +7,8 @@ tags:
   - engineering
 Date Started: 
 created: 2024-01-06T15:01
-updated: 2024-01-06T15:04
+updated: 2024-01-14T17:52
 ---
-
-
 # Career
 Here I write about career and about how to better oneself in one's career. 
 
@@ -22,11 +20,13 @@ Every weekday for 8 hours, we work and are in a work setting. Thriving in 50 % o
 >You should have a high standard for the way you work and be a bit lenient on others. If you have too sharp of an edge against people you are going and having to cooperate with, you will make enemies and you will not be as productive. 
 
 **Networks are the multiplier** 
-> You can be as good an engineer as possible and you can be an extremely productive developer but if you don't know who to talk to you will be stuck and be a replaceable cog in the machine.  jj
+> You can be as good an engineer as possible, and you can be an extremely productive developer, but if you don't know who to talk to, you will be stuck and be a replaceable cog in the machine.  jj
 # Links
 - [Senior Engineer Checklist](https://littleblah.com/post/2019-09-01-senior-engineer-checklist/ )
 
 # Thoughts 
+- Try to be bold. 
+- Never make the easiest decision when it comes to major turning points. Do hard things. Do them as well as you can. 
 - 
 
 

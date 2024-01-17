@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: false
 created: 2023-06-09T13:30:00
-updated: 2024-01-07T17:20
+updated: 2024-01-16T08:50
 ---
 # Programming
 
@@ -50,6 +50,8 @@ This is useful when you need to send or expose files as a text string or other (
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/) 
 - [More Learning for Developers](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html#Fantastic-Learning-Resources)
 - [Reflections on a decade of coding.](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) 
+- [FastAPI docs on async are very intuitive and good](https://fastapi.tiangolo.com/async/)
+
 # Thoughts 
 - 
 
