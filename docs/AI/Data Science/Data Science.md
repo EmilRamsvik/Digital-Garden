@@ -12,13 +12,12 @@ tags:
   - "#transformers"
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-12T17:34
+updated: 2024-01-24T14:40
 ---
 
 # Data Science
 
 What is data science? It is a bunch of different jobs bunched together and given the tie of AI to make a company sound innovative. 
-
 As a data scientist, I consider myself a solver of probabilistic problems.  I have business cases that require some sort of probabilistic solution. 
 
 
@@ -31,9 +30,12 @@ Things to keep in mind in the EDA.
 2. Beware of data myopia, seeing only a narrow part of the data you are working on. 
 3. Notebooks are notebooks, not code. Actual reusable code should be in Python files, not notebooks. 
 
+#### Start Small when doing Modeling. 
+A big issue in data science and machine learning engineering is that the feedback loop is too long, breaking the development flow. Therefore, when you start to work with something new or unfamiliar concept, try to limit the levels of data as much as possible. It is much more rewarding to your upskilling and development speed to mock something 5 times than doing it with real data once. Another gain is that you reduce the complexity of the problem you are trying to solve. By having the complexity of code and model separate from the complexity in data, you can much more easily understand each problem and then move on to the next one. 
 
+Experience and skill are the things driving velocity, so focus on gaining as much repetition as possible when experimenting, and then you can move to bigger datasets.  [This article is a good explanation on the phenomenon.](https://github.com/stas00/the-art-of-debugging/tree/master/methodology)
 # Uncertainty
-- **Aleatoric uncertainty**: Label Nouse (Labels have been flipped to other classes)
+- **Aleatoric nuncertainty**: Label Noise (Labels have been flipped to other classes)
 -  **Epistemic uncertainty**: Model Noise (erroneous predicted probabilities)
 
 

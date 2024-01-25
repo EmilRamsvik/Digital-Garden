@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-01-17T18:38
+updated: 2024-01-25T10:21
 ---
 # Articles
 
@@ -35,6 +35,13 @@ Blogs that I have discovered are here:
 
 #### [Ben Kuhn](https://www.benkuhn.net/)
 *About*: Programming, startups, management. With a focus on entrepreneurship in Africa. 
+
+#### [Dan Luu](https://danluu.com/)
+*About*: Programming, funny stores, teaching programming,L etc. 
+
+#### [Dan Wang](https://danwang.co/)
+*About*: Programming, China, other musings. Thought that his yearly newsletter on China was pure gold. 
+j
 
 
 # Thoughts 

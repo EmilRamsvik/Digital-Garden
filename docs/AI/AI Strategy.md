@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T21:12:00
-updated: 2024-01-06T15:04
+updated: 2024-01-25T15:09
 tags:
   - article
   - digital-garden
@@ -11,8 +11,6 @@ tags:
   - data/strategy
   - data/data-management
   - machine-learning
-parent:
-  - "[[AI]]"
 Finished: false
 ---
 # AI Strategy

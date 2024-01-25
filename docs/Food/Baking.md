@@ -7,16 +7,17 @@ tags:
   - bread
 Finished: false
 created: 2023-06-06T18:08:00
-updated: 2024-01-07T17:33
+updated: 2024-01-23T13:43
 ---
 # Baking
 
-Baking is a bit differnt beast from cooking. Cooking is art, but baking is more of a science. 
+Baking is a bit different from cooking. Cooking is art, but baking is more of a science. 
 
 ## Tangzhou
 In short, the tangzhong method involves cooking a small amount of the recipe’s flour and liquid to form a thick slurry, which is then mixed with the rest of the ingredients to make a basic bread dough.
 This process pre-gelatinizes the starches in the flour, and as a result, they can absorb more liquid. The result? More moisture in the dough translates to a softer texture in the baked bread and a longer shelf life.
 [Link](https://www.kingarthurbaking.com/blog/2021/02/05/tangzhong-method-soft-pillowy-cinnamon-rolls)
+
 
 # Sourdough
 
@@ -24,7 +25,7 @@ This process pre-gelatinizes the starches in the flour, and as a result, they ca
 
 The yeast in the levain causes the dough to rise, while the lactic acid bacteria give the bread its distinctive sour flavor. The process of maintaining a levain involves regular "feedings" of additional flour and water to keep the yeast and bacteria alive and active.
 
-Levain is also known as sourdough starter or simply "starter". It's a traditional method of leavening bread that predates the use of commercial yeast. Many bakers prefer using levain for its ability to enhance the flavor, texture, and shelf life of the bread.
+Levain, also known as a sourdough starter or simply "starter, " is a traditional method of leavening bread that predates the use of commercial yeast. Many bakers prefer using levain because it enhances the bread's flavor, texture, and shelf life.
 
 
 # Links

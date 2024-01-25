@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-01-08T13:19
+updated: 2024-01-23T10:36
 Pages: 304
 Author: Bent Flyvbjerg, Dan Gardner
 finished: true
@@ -18,16 +18,16 @@ tags:
   - renewables
 ---
 # How Big Things Get Done
-It's a book about building things. 
+
 
 
 # 🚀 The Book in 3 Sentences
-This book dives into how big projects succeed or fail and the underlying causes. Big things fail, and when they fail, they usually fail catastrophically. The book shows what the causes are and how to fix them. 
+This book explores how big projects succeed or fail and the underlying causes. Big things fail, and when they fail, they usually fail catastrophically. The book identifies the causes and explains how to fix them. 
 
 # 🎨 Impressions
-Experience matters, time matters, planning matters, and modularity matters. 
+**Experience matters, time matters, planning matters, and modularity matters.** 
 
-Team members' experience, especially managers and senior members, is paramount. Inexperience kills projects.  The experience is paramount to avoid stupid mistakes that kill projects. 
+Experience is paramount for team members, especially managers and senior members. Inexperience kills projects, and experience is paramount for avoiding stupid mistakes that kill projects. 
 
 Many of the budget issues are due to unrealistic budgets because they get approved. If the actual cost were known, they would not have been approved. 
 Modularity is the key to having efficient buildings and projects, the more 

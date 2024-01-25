@@ -11,7 +11,7 @@ tags:
   - science
   - politics
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-01-23T15:16
 ---
 # Calling Bullshit
 
@@ -19,9 +19,13 @@ updated: 2024-01-07T17:55
 This book is all about the BS. It is split into defining, identifying, and calling bullshit in the modern world. It is an easy read, with good examples and a skeptical eye on everything.
 
 # 🎨 Impressions
-The book is basically the written version of the course of the authors, but all in all, it is such a good all-around theme and presented so well that it should almost be required reading in school. 
+The book is basically the written version of the authors' course, but overall, it is such a good overall theme and presented so well that it should almost be required reading in school. 
 
-So many interesting things, and easy to understand. It is interesting that bullshit is such a widespread phenomenon. 
+So many exciting things, and easy to understand. It is interesting that bullshit is such a widespread phenomenon. 
+
+[The authors have a micro-lecture series on the same topic. ](https://youtube.com/playlist?list=PLPnZfvKID1Sje5jWxt-4CSZD7bUI4gSPS&si=TpROuQVzgmV8CkUg)
+
+[I wrote a shitty blog post based on that lecture series. ](https://medium.com/@emilseverin93/calling-bullshit-3f2ff2451040)
 
 
 ## How I Discovered It
@@ -35,63 +39,63 @@ I have seen their course already, but it was a good refresher.
 
 # ✍️ My Top  Quotes
 
-- *THE WORLD IS AWASH WITH bullshit, and we’re drowning in it.* 
+- THE WORLD IS AWASH WITH bullshit, and we’re drowning in it. 
  
-- *The philosopher Harry Frankfurt recognized that the ubiquity of bullshit is a defining characteristic of our time* 
+- The philosopher Harry Frankfurt recognized that the ubiquity of bullshit is a defining characteristic of our time 
  
-- *One of the most salient features of our culture is that there is so much bullshit.* 
+- One of the most salient features of our culture is that there is so much bullshit. 
  
-- *Nothing that you will learn in the course of your studies will be of the slightest possible use to you \[thereafter\], save only this, that if you work hard and intelligently you should be able to detect when a man is talking rot, and that, in my view, is the main, if not the sole, purpose of education.* 
+- Nothing that you will learn in the course of your studies will be of the slightest possible use to you \[thereafter\], save only this, that if you work hard and intelligently you should be able to detect when a man is talking rot, and that, in my view, is the main, if not the sole, purpose of education. 
  
-- *In one of his Socratic dialogues, Euthydemus, Plato complains that the philosophers known as the Sophists are indifferent to what is actually true and are interested only in winning arguments.* 
+- In one of his Socratic dialogues, Euthydemus, Plato complains that the philosophers known as the Sophists are indifferent to what is actually true and are interested only in winning arguments. 
  
-- *Some specialize in eating marine snails, which are protected by hard, thick shells. To smash through these calcite defenses, mantis shrimp have evolved a spring-loading mechanism in their forelimbs that allows them to punch with enormous force. Their hammer-like claws travel 50 mph when they strike. The punch is so powerful that it creates an underwater phenomenon known as cavitation bubbles, a sort of literal Batman “KAPOW!” that results in a loud noise and a flash of light.* 
+- Some specialize in eating marine snails, which are protected by hard, thick shells. To smash through these calcite defenses, mantis shrimp have evolved a spring-loading mechanism in their forelimbs that allows them to punch with enormous force. Their hammer-like claws travel 50 mph when they strike. The punch is so powerful that it creates an underwater phenomenon known as cavitation bubbles, a sort of literal Batman “KAPOW!” that results in a loud noise and a flash of light. 
  
-- *This punching power serves another purpose. Mantis shrimp live on shallow reefs, where they* 
+- This punching power serves another purpose. Mantis shrimp live on shallow reefs, where they 
  
-- *Mantis shrimp are essentially lobster tails with claws on the front.* 
+- Mantis shrimp are essentially lobster tails with claws on the front. 
  
-- *It is merely an evolved response, a sort of instinct or reflex. A* 
+- It is merely an evolved response, a sort of instinct or reflex. A 
  
-- *A sophisticated bullshitter needs a theory of mind—she needs to be able to put herself in the place of her mark. She needs to be able to think about what the others around her do and do not know. She needs to be able to imagine what impression will be created by what sort of bullshit, and to choose her bullshit accordingly.* 
+- A sophisticated bullshitter needs a theory of mind—she needs to be able to put herself in the place of her mark. She needs to be able to think about what the others around her do and do not know. She needs to be able to imagine what impression will be created by what sort of bullshit, and to choose her bullshit accordingly. 
  
-- *We impose strong social sanctions on liars. If you get caught in a serious lie, you may lose a friend.* 
+- We impose strong social sanctions on liars. If you get caught in a serious lie, you may lose a friend. 
  
-- *With all of these potential penalties, it’s often better to mislead without lying outright. This is called paltering. If I deliberately lead you to draw the wrong conclusions by saying things that are technically not untrue, I am paltering.* 
+- With all of these potential penalties, it’s often better to mislead without lying outright. This is called paltering. If I deliberately lead you to draw the wrong conclusions by saying things that are technically not untrue, I am paltering. 
  
-- *Within linguistics, this notion of implied meaning falls under the area of pragmatics. Philosopher of language H. P. Grice coined the term implicature to describe what a sentence is being used to mean, rather than what it means literally. Implicature allows us to communicate efficiently.* 
+- Within linguistics, this notion of implied meaning falls under the area of pragmatics. Philosopher of language H. P. Grice coined the term implicature to describe what a sentence is being used to mean, rather than what it means literally. Implicature allows us to communicate efficiently. 
  
-- *If you claim your toothpaste reduces plaque “by up to” 50 percent, the only way that would be false is if the toothpaste worked too well.* 
+- If you claim your toothpaste reduces plaque “by up to” 50 percent, the only way that would be false is if the toothpaste worked too well. 
  
-- *This is bullshit that hides a horrible human toll behind the verbiage of corporate lingo.* 
+- This is bullshit that hides a horrible human toll behind the verbiage of corporate lingo. 
  
-- *Software engineer Alberto Brandolini in 2014, it states: “The amount of energy needed to refute bullshit is an order of magnitude bigger than \[that needed\] to produce it.”* 
+- Software engineer Alberto Brandolini in 2014, it states: “The amount of energy needed to refute bullshit is an order of magnitude bigger than \[that needed\] to produce it.” 
  
-- *“an idiot can create more bullshit than you could ever hope to refute.”* 
+- “an idiot can create more bullshit than you could ever hope to refute.” 
  
-- *Is not the weaknesses in Wakefield’s paper that prove there is no autism-vaccine link: it is the overwhelming weight of subsequent scientific evidence.* 
+- Is not the weaknesses in Wakefield’s paper that prove there is no autism-vaccine link: it is the overwhelming weight of subsequent scientific evidence. 
  
-- *Bullshit is not only easy to create, it’s easy to spread. Satirist Jonathan Swift wrote in 1710 that “falsehood flies, and truth comes limping after it.”* 
+- Bullshit is not only easy to create, it’s easy to spread. Satirist Jonathan Swift wrote in 1710 that “falsehood flies, and truth comes limping after it.” 
  
-- *Taken together, Brandolini’s principle, Fanelli’s principle, and Swift’s observation tell us that (1) bullshit takes less work to create than to clean up, (2) takes less intelligence to create than to clean up, and (3) spreads faster than efforts to clean it up.* 
+- Taken together, Brandolini’s principle, Fanelli’s principle, and Swift’s observation tell us that (1) bullshit takes less work to create than to clean up, (2) takes less intelligence to create than to clean up, and (3) spreads faster than efforts to clean it up. 
  
-- *One of the immediately apparent problems with Wakefield’s study was the tiny sample size.* 
+- One of the immediately apparent problems with Wakefield’s study was the tiny sample size. 
  
-- *One of the immediately apparent problems with Wakefield’s study was the tiny sample size. His study looked at only twelve children, most of whom reportedly developed the purported syndrome shortly after receiving the MMR vaccine. It is very difficult, if not impossible, to draw meaningful conclusions about rare phenomena from such a tiny sample.* 
+- One of the immediately apparent problems with Wakefield’s study was the tiny sample size. His study looked at only twelve children, most of whom reportedly developed the purported syndrome shortly after receiving the MMR vaccine. It is very difficult, if not impossible, to draw meaningful conclusions about rare phenomena from such a tiny sample. 
  
-- *Still, Filippo de Strata was right that when the cost of sharing information drops dramatically, we see changes in both the nature of the information available and the ways that people interact with that information.* 
+- Still, Filippo de Strata was right that when the cost of sharing information drops dramatically, we see changes in both the nature of the information available and the ways that people interact with that information. 
  
-- *The invention of new and various kinds of communication has given a voice and an audience to many people whose opinions would otherwise not be solicited, and who, in fact, have little else but verbal excrement to contribute to public issues.* 
+- The invention of new and various kinds of communication has given a voice and an audience to many people whose opinions would otherwise not be solicited, and who, in fact, have little else but verbal excrement to contribute to public issues. 
  
-- *A satirical website published a headline proclaiming that “70% of Facebook Users Only Read the Headline of Science Stories before Commenting.” The story began by noting that most people don’t read stories before sharing them on social media either. After a couple of sentences, the text gave way to paragraph after paragraph of the standard “lorem ipsum dolor…”—random text used as filler for webpage layouts. The post was shared tens of thousands of times on social media, and we don’t know how many of those who did so were in on the joke.* 
+- A satirical website published a headline proclaiming that “70% of Facebook Users Only Read the Headline of Science Stories before Commenting.” The story began by noting that most people don’t read stories before sharing them on social media either. After a couple of sentences, the text gave way to paragraph after paragraph of the standard “lorem ipsum dolor…”—random text used as filler for webpage layouts. The post was shared tens of thousands of times on social media, and we don’t know how many of those who did so were in on the joke. 
  
-- *The study found that the most successful headlines don’t convey facts, they promise you an emotional experience. The most common phrase among successful Facebook headlines, by nearly twofold, is “will make you,” as in “will break your heart,” “will make you fall in love,” “will make you look twice,” or “will make you gasp in surprise” as above.* 
+- The study found that the most successful headlines don’t convey facts, they promise you an emotional experience. The most common phrase among successful Facebook headlines, by nearly twofold, is “will make you,” as in “will break your heart,” “will make you fall in love,” “will make you look twice,” or “will make you gasp in surprise” as above. 
  
-- *MIT professor Judith Donath has observed that even when people appear to be talking about other things, they’re often talking about themselves.* 
+- MIT professor Judith Donath has observed that even when people appear to be talking about other things, they’re often talking about themselves. 
  
-- *Riffing on Allen Ginsberg, tech entrepreneur Jeff Hammerbacher complained in 2011 that “the best minds of my generation are thinking about how to make people click ads. That sucks.”* 
+- Riffing on Allen Ginsberg, tech entrepreneur Jeff Hammerbacher complained in 2011 that “the best minds of my generation are thinking about how to make people click ads. That sucks.” 
  
-- *Social media facilitates the spread of misinformation—claims that are false but not deliberately designed to deceive.* 
+- Social media facilitates the spread of misinformation—claims that are false but not deliberately designed to deceive. 
  
 - *In 2017, Facebook admitted that over the past two years, 126 million US users—half of the adult population and about three-quarters of its US user base—had been exposed to Russian propaganda on the site.* 
  

@@ -2,6 +2,8 @@
 
 # Define source directory
 SRC_DIR="$HOME/Dropbox/Emil"
+AUTO_CONFIRM=$1  # Get the first argument
+
 
 # Determine the root directory of the GitHub repository
 # Assuming the script is in <repo-root>/scripts and you run it from there
@@ -16,6 +18,11 @@ copy_directory() {
 
     # Perform a dry run with rsync to check changes
     rsync -avun --delete "$src" "$dest"
+    if [[ $AUTO_CONFIRM == "-y" ]]; then
+        choice="y"
+    else
+        read -p "Do you want to proceed with copying these changes? (y/n): " choice
+    fi
 
     read -p "Do you want to proceed with copying these changes? (y/n): " choice
     if [[ $choice == [Yy]* ]]; then

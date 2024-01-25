@@ -1,5 +1,5 @@
 ---
-Finished: 
+Finished: true
 tags:
   - article
   - digital-garden
@@ -10,7 +10,7 @@ tags:
   - embedding
   - one-hot-encoding
 created: 2024-01-06T15:04
-updated: 2024-01-06T16:18
+updated: 2024-01-24T14:52
 ---
 
 
@@ -30,7 +30,7 @@ Ordinal encoding is smart to use when there is some kind of systemic relationshi
 
 
 ## Hashing
-
+Hashing is a good way to keep a state of records the same, as the hash of a data set or row will always bee the same, this makes it easier to keep datasets and be consistent when having holdout-validation sets.
 
 
 ## Embeddings

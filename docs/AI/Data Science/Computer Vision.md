@@ -1,10 +1,10 @@
 ---
-Finished: 
+Finished: false
 tags:
   - article
   - digital-garden
 created: 2024-01-06T15:04
-updated: 2024-01-06T16:18
+updated: 2024-01-24T14:50
 ---
 
 

@@ -4,7 +4,7 @@ tags:
   - article
 finished: 
 created: 2024-01-06T15:04
-updated: 2024-01-06T15:04
+updated: 2024-01-25T15:35
 ---
 
 
@@ -14,6 +14,7 @@ updated: 2024-01-06T15:04
 # Links
 
 - [The conspiracy to make AI harder than it is!](https://www.youtube.com/watch?v=2eWuYf-aZE4)
+- [Guides, Courses and Articles on Machine Learning, focus on LLM](https://mlabonne.github.io/blog/)
 
 # Thoughts 
 - Even thou machine learning LLMs such as GPT-3, GPT-4 and LLama are non-determinsitic. There are a few parameters that determine the output, there are few outputs that determine the inconsistence
