@@ -9,15 +9,15 @@ tags:
   - dart
 Finished: false
 created: 2023-06-09T13:30:00
-updated: 2024-01-16T08:50
+updated: 2024-01-26T15:29
 ---
 # Programming
 
 
 
 # Computers
-I think an underrated aspect of programming is understanding computers, for engineers and self-taught programmers, it might be difficult to understand the intricacies of computers. 
-[CPU course, what is a CPU]( https://cpu.land/ ) It is written by high-schoolers so it is an interesting read. 
+An underrated aspect of programming is understanding computers; for engineers and self-taught programmers, it might be challenging to understand the intricacies of computers. 
+[CPU course, what is a CPU]( https://cpu.land/ ) It is written by high-schoolers, so it is an exciting read. 
 
 
 
@@ -50,9 +50,9 @@ This is useful when you need to send or expose files as a text string or other (
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers/) 
 - [More Learning for Developers](https://matklad.github.io/2023/08/06/fantastic-learning-resources.html#Fantastic-Learning-Resources)
 - [Reflections on a decade of coding.](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) 
-- [FastAPI docs on async are very intuitive and good](https://fastapi.tiangolo.com/async/)
+- [FastAPI docs on async are very intuitive and good.](https://fastapi.tiangolo.com/async/)
+- [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
 
 # Thoughts 
+- My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. with the concepts and logic and become more into the latter category. 
 - 
-
-

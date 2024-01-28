@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-01-15T17:34
+updated: 2024-01-28T20:19
 ---
 #### On Food and Cooking
 *Author:* Harold McGee
@@ -229,7 +229,7 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 211
 *Language*: English 
 
-#### Homage to Catalonia
+#### [Homage to Catalonia](Personal/Books/Book%20Reviews/Homage%20to%20Catalonia.md)
 *Author:* George Orwell
 *Pages*: 232
 *Language*: English 
@@ -239,7 +239,7 @@ _Author:_ Alex Castrounis
 _Pages:_ 
 _Language:_ English 
 
-#### Data Strategy
+#### [Data Strategy](Personal/Books/Book%20Reviews/Data%20Strategy.md)
 _Author:_ Ian Wallis
 _Pages:_ 316
 _Language:_ English 
@@ -279,7 +279,7 @@ _Author:_ Nick Singh
 _Pages:_ 301
 _Language:_ English
 
-#### Python Testing with pytest
+#### [Python Testing with pytest](Personal/Books/Book%20Reviews/Python%20Testing%20with%20pytest.md)
 _Author:_ Brian Oken
 _Pages:_ 272
 _Language:_ English

@@ -1,5 +1,5 @@
 ---
-Finished: false
+Finished: true
 tags:
   - motivation
   - life
@@ -7,7 +7,7 @@ tags:
   - learning
   - personal-development
 created: 2023-08-28T09:20
-updated: 2024-01-12T16:59
+updated: 2024-01-26T14:01
 ---
 # Motivation
 
@@ -43,7 +43,8 @@ A good decision process is when there is a decision that has a major effect on m
 [Decision-making process](https://www.lucidchart.com/blog/decision-making-process-steps)
 [Inversion in decision](https://jamesclear.com/inversion)
 [U-Mass Decision Making Process](https://www.umassd.edu/media/umassdartmouth/fycm/decision_making_process.pdf)
-
+[Finding Edges](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
+[Moat of Low Status](https://sashachapin.substack.com/p/the-moat-of-low-status-68a)
 
 
 # Links

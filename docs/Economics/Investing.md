@@ -7,7 +7,7 @@ tags:
   - stocks
   - trading
 created: 2023-06-11T15:04:00
-updated: 2024-01-12T17:02
+updated: 2024-01-26T14:03
 ---
 
 
@@ -30,6 +30,7 @@ Books that have influenced my thoughts on investing are
 # Links
 - [Vitaly Katelson on Investing and What You Overlook](https://www.youtube.com/watch?v=5pIklWpkVYw&ab_channel=VitaliyN.Katsenelson%2CCFA)
 - [17 Rules for financial safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/) Don't borrow, make sure you know what you are doing, and remember that you might lose. 
+- [Seeing Like a bank.](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.)
 
 # Thoughts 
 - Probably the smartest thing to do is to invest in index funds. 

@@ -1,7 +1,7 @@
 ---
 Date Started: May 29, 2023
 created: 2023-05-30T15:11:00
-updated: 2024-01-07T17:17
+updated: 2024-01-26T14:18
 tags:
   - article
   - productivity
@@ -52,14 +52,16 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 - [Working Offline with Docs (Zeal)](https://zealdocs.org/)
 - [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 - [AI-Enhanced Development](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
+- [Productivity Velocity](https://danluu.com/productivity-velocity/). It also felt like [this article](https://danluu.com/p95-skill/) linked in the previous was good as well. 
+- [Very interesting advice on programming productivity.](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) Also necessary to understand that being patient is one of the most important aspects of being more productive. 
 
 
 # Thoughts 
 - I liked the book[ Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport on deep work. See the [Lex Fridman podcast](https://youtu.be/y3Umo_jd5AA) ([Spotify](https://open.spotify.com/episode/6yLQbMhr1r6SYIsKj1LO5P?si=dfbc8d2f85384484))with him as well for a more condensed version. 
 - Never accept a position or role where you do not have the opportunity to discuss with peers or experts.
-- I think learning how to touch type is one of the most efficient ways of increasing your productivity -> writing fast means reducing the feedback loop time. Also, it makes it so much easier to follow along with your code. 
+- Learning how to touch type is one of the most efficient ways of increasing your productivity. Writing fast reduces the feedback loop time. Also, it makes it much easier to follow along with your code. 
 - Sometimes, you should accept that you won't get anything done and be willing to be okay with this. You are not a robot, and even robots get worn down. Take the time to reflect on how far you have come and look forward to getting back at it. 
 - Understand that productivity is about gradual improvements; you will never be able to have a tool that increases your productivity drastically without effort. Tools such as LLM support (ChatGPT) are fantastic, but they took some time to exploit fully. 
-- Never give up on a tool; just note that you should come back to it sometimes and work on it. 
-- The best productivity app on your phone is already installed, it is called the OFF button. 
+- Never give up on a tool; just remember to come back to it sometimes and work on it. 
+- The best productivity app on your phone is already installed; it is called the OFF button. 
 
