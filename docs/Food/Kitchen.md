@@ -1,5 +1,5 @@
 ---
-Finished: 
+Finished: false
 tags:
   - article
   - digital-garden
@@ -7,7 +7,7 @@ tags:
   - kitchen
   - food-prep
 created: 2023-12-03T12:20
-updated: 2024-01-06T16:18
+updated: 2024-01-29T15:15
 ---
 
 

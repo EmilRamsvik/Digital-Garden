@@ -1,6 +1,5 @@
 ---
-Date Started: Jul 30, 2023
-Finished: 
+Finished: false
 tags:
   - article
   - literature
@@ -8,7 +7,7 @@ tags:
   - norwegian-books
   - classics
 created: 2024-01-06T15:04
-updated: 2024-01-07T16:37
+updated: 2024-02-08T08:41
 ---
 
 

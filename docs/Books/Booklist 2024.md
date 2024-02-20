@@ -6,14 +6,16 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-01-28T20:19
+updated: 2024-02-19T15:27
 ---
+# Booklist 2024 
+ 
 #### On Food and Cooking
 *Author:* Harold McGee
 *Pages*: 896
 *Language*: English
 
-#### Hands-On Machine Learning with Scikit-Learn and TensorFlow
+#### Hands-on Machine Learning with Scikit-Learn and TensorFlow
 *Author:* Aurelion Geron
 *Pages* 572
 *Language*: English
@@ -269,7 +271,7 @@ _Author:_  Ankur Patel
 _Pages:_ 359
 _Language:_ English
 
-#### Feature Engineering for Machine Learning
+#### [Feature Engineering for Machine Learning](Personal/Books/Book%20Reviews/Feature%20Engineering%20for%20Machine%20Learning.md)
 _Author:_  Alice Zheng
 _Pages:_ 215
 _Language:_ English
@@ -283,3 +285,55 @@ _Language:_ English
 _Author:_ Brian Oken
 _Pages:_ 272
 _Language:_ English
+
+#### Seeing Like a State
+_Author:_ James Scott
+_Pages:_ 464
+_Language:_ English
+
+#### Reliable Machine Learning
+_Author:_ Niall Richard Murphy
+_Pages:_ 408
+_Language:_ English
+
+#### [The Managers Path](Personal/Books/Book%20Reviews/The%20Managers%20Path.md)
+_Author:_ Camille Fournier
+_Pages:_ 241
+_Language:_ English
+
+#### Stochastic Modeling Of Electricity And Related Markets
+_Author:_ Fred Espen Benth
+_Pages:_ 352
+_Language:_ English
+
+#### [The Trusted Advisor](Personal/Books/Book%20Reviews/The%20Trusted%20Advisor.md)
+_Author:_ David Maister
+_Pages:_ 240
+_Language:_ English
+
+#### [Machine Learning Engineering](Personal/Books/Book%20Reviews/Machine%20Learning%20Engineering.md) 
+_Author:_ Andriy Burkov
+_Pages:_ 310
+_Language:_ English
+
+#### Fighting Churn With Data
+_Author:_ Carl S. Gold
+_Pages:_ 352
+_Language:_ English
+
+#### The Job Closer
+_Author:_ Steve Dalton
+_Pages:_ 192
+_Language:_ English
+
+#### The Strategist Handbook
+_Author:_ Timothy Galpin
+_Pages:_ 272
+_Language:_ English
+
+#### Good Strategy Bad Strategy
+_Author:_ Richard Rumelt
+_Pages:_ 336
+_Language:_ English
+
+

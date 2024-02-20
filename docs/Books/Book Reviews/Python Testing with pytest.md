@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-01-28T20:22
+updated: 2024-01-28T20:29
 Pages: 
 Author: 
 finished: false
@@ -122,7 +122,7 @@ Good book when you have a small amount of pytest experience and need to understa
  
 - *There are no normal timeout periods for tests in pytest. However, if you’re working with resources that may occasionally disappear, such as web services, it’s a good idea to put some time restrictions on your tests. The pytest-timeout plugin* 
  
-- *The pytest-html plugin\[41\] is quite useful in conjunction with continuous integration, or in systems with large, long-running test suites. It creates a webpage to view the test results for a pytest session. The HTML report created includes the ability to filter for type of test result: passed, skipped, failed, errors, expected failures, and unexpected passes.* 
+- *The pytest-html plugin is quite useful in conjunction with continuous integration, or in systems with large, long-running test suites. It creates a webpage to view the test results for a pytest session. The HTML report created includes the ability to filter for type of test result: passed, skipped, failed, errors, expected failures, and unexpected passes.* 
  
-- *Pytest-selenium: Test with a Web Browser Selenium is a project that is used to automate control of a web browser. The pytest-selenium plugin\[51\] is the Python binding for it. With it, you can launch a web browser and use it to open URLs, exercise web applications, and fill out forms.* 
+- *Pytest-selenium: Test with a Web Browser Selenium is a project that is used to automate control of a web browser. The pytest-selenium plugin is the Python binding for it. With it, you can launch a web browser and use it to open URLs, exercise web applications, and fill out forms.* 
  

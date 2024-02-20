@@ -4,10 +4,10 @@ Difficulty: Easy
 Time: 20 mins
 Date Made: May 21, 2023
 created: 2023-05-21T15:50
-updated: 2024-01-14T17:20
+updated: 2024-02-02T14:22
 ---
 Tags: #recipe #pasta #italian #quick #favorite-recipe #late-night-delicousness #vegetarian
-
+# Aglio e Olio
 # Description
 Pasta *aglio e olio* (Pasta with Garlic and Olive Oil) is a simple vegetarian pasta dish
 ### How I discovered it. 

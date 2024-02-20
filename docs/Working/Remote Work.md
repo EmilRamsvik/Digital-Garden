@@ -8,7 +8,7 @@ tags:
   - productivity
   - travel
 created: 2023-05-29T04:12
-updated: 2024-01-07T17:26
+updated: 2024-02-15T08:34
 ---
 # Remote Work
 I did some remote working when I was at Bali, working primarily on my side projects. I felt like it is very difficult to motivate oneself if one does not have a social society or connection. It was fun however to experience new places. 
@@ -28,7 +28,7 @@ The number of small issues that can be resolved with just a quick question is in
 
 
 # Links
-- 
+- [Maker Stations, a website for remote work and home office setups.](https://www.makerstations.io/)
 
 # Thoughts 
 - 

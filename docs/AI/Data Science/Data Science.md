@@ -12,7 +12,7 @@ tags:
   - "#transformers"
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-24T14:40
+updated: 2024-02-01T11:56
 ---
 
 # Data Science
@@ -37,6 +37,8 @@ Experience and skill are the things driving velocity, so focus on gaining as muc
 # Uncertainty
 - **Aleatoric nuncertainty**: Label Noise (Labels have been flipped to other classes)
 -  **Epistemic uncertainty**: Model Noise (erroneous predicted probabilities)
+### Bayes Theorem
+![](../../../static/images/Pasted%20image%2020240201115549.png)
 
 
 # Links

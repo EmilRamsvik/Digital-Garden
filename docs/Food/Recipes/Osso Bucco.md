@@ -10,8 +10,10 @@ tags:
   - food
   - stew
 created: 2023-06-18T12:31
-updated: 2024-01-14T17:23
+updated: 2024-02-02T14:22
 ---
+# Osso Bucco
+
 # Description
 Osso Buco is a traditional Italian dish that consists of braised veal shanks cooked with vegetables, white wine, and broth. The name "osso buco" translates to "bone with a hole" in English, which is a reference to the marrow-filled bone in the center of the veal shank.
 

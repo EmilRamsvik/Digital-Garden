@@ -1,13 +1,12 @@
 ---
-Date Started: Jul 07, 2023
 tags:
   - exercise
   - article
   - workouts
   - flexibility
-Finished: 
+Finished: false
 created: 2023-07-07T00:00:00
-updated: 2024-01-07T16:42
+updated: 2024-02-12T13:53
 ---
 # Flexibility
 I started working on flexibility far too late, but it is an awesome way of doing quick workouts at home. 

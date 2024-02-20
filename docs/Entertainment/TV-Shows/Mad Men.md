@@ -2,7 +2,7 @@
 Date Finished: Jun 09, 2023
 Creator: 
 Genre: Historical Drama
-Finished: 
+Finished: false
 tags:
   - show
   - entertainment
@@ -11,15 +11,15 @@ tags:
   - historical-drama
   - drama
 created: 2023-06-09T10:36
-updated: 2024-01-06T14:56
+updated: 2024-02-02T13:31
 ---
-
+# Mad Men
 
 # 🚀  The show in 3 Sentences
 This show is about the sixties, and how people acted and behaved at the time. It is an interesting deep dive into the thoughts and attitudes at the time. It is also a deep dive into the changes happening at that time.
 
 # 🎨 Impressions
-I quite liked it as an entry point into that age, and I think a lot of the more interesting things captured in the show are that the show-makers made a lot of good effort into producing believable characters and showing how people thought and acted at that time. It is also interesting to see how people reacted to large world-shaking events in their own way. 
+I quite liked it as an entry point into that age, and I think a lot of the more interesting things captured in the show are that the show-makers made a lot of good effort to produce believable characters and show how people thought and acted at that time. It is also interesting to see how people reacted to large world-shaking events in their own way. 
 
 
 ## Most important scenes
@@ -28,7 +28,7 @@ I quite liked it as an entry point into that age, and I think a lot of the more 
 - [The carousel](https://www.youtube.com/watch?v=suRDUFpsHus) is Just a good presentation.
 
 ## Quotes
-- I hate to break it to you but there is no big lie. There is no system. The universe is indifferent. - *Don Draper*
+- I hate to break it to you, but there is no big lie. There is no system. The universe is indifferent. - *Don Draper*
 - I don’t think about you at all. - _Don Draper_
 - What is happiness? It’s a moment before you need more happiness. -_Don Draper_
 - If you don't like what's being said, change the conversation.  - *Don Draper*

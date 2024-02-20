@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: false
 created: 2023-06-09T13:30:00
-updated: 2024-01-26T15:29
+updated: 2024-02-16T20:43
 ---
 # Programming
 
@@ -52,6 +52,7 @@ This is useful when you need to send or expose files as a text string or other (
 - [Reflections on a decade of coding.](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding) 
 - [FastAPI docs on async are very intuitive and good.](https://fastapi.tiangolo.com/async/)
 - [Reflections on a decade of coding](https://www.scattered-thoughts.net/writing/reflections-on-a-decade-of-coding)
+- [Three Virtues of a Great Programmer](https://thethreevirtues.com/)
 
 # Thoughts 
 - My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. with the concepts and logic and become more into the latter category. 

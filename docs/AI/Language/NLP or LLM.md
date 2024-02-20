@@ -11,7 +11,7 @@ tags:
   - AI
 finished: 
 created: 2024-01-06T15:04
-updated: 2024-01-26T14:05
+updated: 2024-02-15T08:00
 ---
 
 
@@ -119,7 +119,7 @@ I think it is very important to understand that less powerful models are not tha
 - [Data science Prompts](https://github.com/travistangvh/ChatGPT-Data-Science-Prompts)
 - [OpenAI Tokenizer](https://openai-tokenizer.netlify.app/) Gives you the amount of tokens in a text. 
 - [LLM module for multiple models on LLM](https://llm.datasette.io/en/stable/other-models.html)
-
+- [Telemetry for LLM applications ](https://github.com/traceloop/openllmetry-js)
 # Thoughts 
 - HuggingFace actually uses the  🤗  emoji to refer to themselves. Kinda cute. 
 - The HuggingFace tokenizer is based on Rust for speed.

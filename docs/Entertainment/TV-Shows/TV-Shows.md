@@ -1,14 +1,13 @@
 ---
-Date Started: Jun 09, 2023
 tags:
   - article
   - show
   - entertainment
   - crime-series
   - historical-drama
-Finished: 
+Finished: false
 created: 2023-10-29T15:20
-updated: 2024-01-07T15:42
+updated: 2024-02-08T08:41
 ---
 # TV-Shows
 TV shows have been my favorite way of seeing things. They are good to work on 

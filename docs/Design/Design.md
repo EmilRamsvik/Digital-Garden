@@ -1,5 +1,4 @@
 ---
-Date Started: Jun 16, 2023
 tags:
   - article
   - design
@@ -7,9 +6,9 @@ tags:
   - ux
   - ui
   - development
-Finished: 
-created: 2024-01-06T15:01
-updated: 2024-01-06T15:04
+Finished: false
+created: 2023-08-11T15:01:00
+updated: 2024-01-29T12:31
 ---
 # Design
 
@@ -47,9 +46,9 @@ Very similar to the first-level thinking of Kahneman and Tversky. It seems to me
 - [Atomic Design](https://blog.kamathrohan.com/atomic-design-methodology-for-building-design-systems-f912cf714f53)
 - [Design of Everyday things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things)
 - [Laws of UX](https://lawsofux.com/) Interesting reading, good ways of understanding UX.
-- [Playbook for Universal Design](https://universaldesignguide.com/) Lots of cool methods for having exercises based on the data 
+- [Playbook for Universal Design](https://universaldesignguide.com/) There are Lots of excellent methods for having exercises based on the data. 
 
 # Thoughts 
-- 
+- The ratio of designers to developers should be low, especially if designers are not also taking on other roles.  1-5 is not an insufficient number here. 
 
 

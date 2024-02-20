@@ -6,7 +6,7 @@ tags:
   - focus
 finished: false
 created: 2023-05-30T09:51:00
-updated: 2024-01-07T17:30
+updated: 2024-02-19T10:35
 ---
 
 
@@ -26,6 +26,6 @@ I think a problem I have when debating and discussing topics, is my lack of arti
  >At WonderCon, in 2014, comic book writer and editor Kelly Sue DeConnick came up with _The Sexy Lamp Test_. In its original form (and close your eyes, children! I can’t clean this up, because it’s a direct quote, and also a great quote): ‘If you can take a female character out, and replace them with a sexy lamp, and your plot still functions, then fuck you.´
 
 # Thoughts 
-- 
+- "You put one word after another until it's done. It's that easy, and that hard." - Neil Gaiman
 
 

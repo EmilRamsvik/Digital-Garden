@@ -1,6 +1,6 @@
 ---
 Date Started: 2023-06-02
-Finished: 
+Finished: false
 tags:
   - iphone
   - apps
@@ -8,7 +8,7 @@ tags:
   - article
   - tools
 created: 2024-01-02T09:33
-updated: 2024-01-06T16:18
+updated: 2024-01-30T08:05
 ---
 
 

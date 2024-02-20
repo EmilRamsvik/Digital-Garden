@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-01-25T10:21
+updated: 2024-02-15T08:37
 ---
 # Articles
 
@@ -41,7 +41,10 @@ Blogs that I have discovered are here:
 
 #### [Dan Wang](https://danwang.co/)
 *About*: Programming, China, other musings. Thought that his yearly newsletter on China was pure gold. 
-j
+
+#### [Lucidity](https://ludic.mataroa.blog/) 
+*About*: Programming, rage, funny blog about everything. 
+
 
 
 # Thoughts 

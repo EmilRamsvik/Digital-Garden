@@ -1,6 +1,5 @@
 ---
-Date Started: Jun 12, 2023
-Finished: 
+Finished: false
 tags:
   - cloud
   - aws
@@ -8,7 +7,7 @@ tags:
   - amazon
   - bezos
 created: 2024-01-06T15:04
-updated: 2024-01-06T15:04
+updated: 2024-01-29T12:25
 ---
 
 

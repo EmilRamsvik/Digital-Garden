@@ -1,6 +1,5 @@
 ---
-Date Started: Jun 12, 2023
-Finished: 
+Finished: false
 tags:
   - cliud
   - gcp
@@ -8,7 +7,7 @@ tags:
   - aws
   - article
 created: 2024-01-06T15:04
-updated: 2024-01-07T16:38
+updated: 2024-02-14T15:20
 ---
 # Cloud
 
@@ -30,7 +29,7 @@ A Virtual Network, often abbreviated as VNet, is a logically isolated network wi
 
 
 # Links
-- 
+- [On Cloud Computing Addiction (video)](https://wilhelmsen.atlassian.net/l/cp/v7PtYEzk) Cloud is a helluva drug.
 
 # Thoughts 
 - 

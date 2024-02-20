@@ -1,19 +1,20 @@
 ---
-Date Started: Jul 04, 2023
-Finished: 
+Finished: false
 tags:
   - article
   - mental-hurdles
   - cognitive-biases
   - mindfulness
   - anti-fragile
-created: 2023-12-30T14:38
-updated: 2024-01-06T15:04
+  - "#curiosity"
+created: 2023-08-04T14:38:00
+updated: 2024-01-30T11:38
 ---
 
 
 # Curiosity
-
+One of the core values of my life is to stay curious and seek knowledge and experience. 
+Curiosity is the enabler of growth, and it is important to let the spark and joy of learning not be distinguished. 
 
 
 
@@ -25,6 +26,6 @@ updated: 2024-01-06T15:04
 
 
 # Thoughts 
-- 
+- *"A lie aint a side of a story, it is just a lie* - Terry Haynes
 
 

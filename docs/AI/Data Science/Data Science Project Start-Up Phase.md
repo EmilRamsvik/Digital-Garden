@@ -8,7 +8,7 @@ tags:
   - design-thinking
   - design-sprint
 created: 2024-01-06T15:04
-updated: 2024-01-24T09:25
+updated: 2024-01-31T14:00
 ---
 
 
@@ -33,6 +33,24 @@ In traditional software projects, most of the responses to implementing features
 
 
 
+### Constraints and Opportunities of Machine Learning
+Before a machine learning project starts, it must be prioritized, and the team working on the project must be built. The key considerations in the prioritization of a machine learning project, are impact and cost.
+The impact of using machine learning is high when,
+1.  Machine learning can replace a complex part in your engineering project, or 
+2. there’s a great benefit in getting inexpensive (butprobably imperfect) predictions.
+The cost of the machine learning project is highly influenced by three factors: 
+1. The difficulty of the problem.
+2. The cost of data. 
+3.  The needed model performance quality.
+The progress of a machine learning project is nonlinear. The error usually decreases fast in the beginning, but then the progress slows down. Because of this nonlinearity of progress, it’s better to make sure that the client understands the constraints and the risks. Carefully log every activity and track the time it took
+A machine learning projects can fail for many reasons, and most actually do. Typical reasons for a failure are:
+- Lack of experienced talent,
+- Lack of support by the leadership.
+- Missing data infrastructure.
+- Data labeling challenge.
+- Siloed organizations and lack of collaboration.
+- Technically infeasible projects.
+- Lack of alignment between technical and business teams.
 # Links
 - [DS Project Quick Start](https://eugeneyan.com/writing/project-quick-start/) 
 	- A good note from the article: clean the Jupyter notebooks weekly and refactor code into ```.py```files instead of copy-pasting cells.  *My thoughts on this are that it is quite easy to assume the functions just "work." However, if not in some sort of testing regime, it is quite easy to fall into traps and change the functions and have to restart notebooks all the time.*

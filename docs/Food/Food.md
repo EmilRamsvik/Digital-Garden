@@ -1,6 +1,5 @@
 ---
-Date Started: Jun 25, 2023
-Finished: 
+Finished: false
 tags:
   - food
   - cooking
@@ -8,7 +7,7 @@ tags:
   - knife
   - kitchen
 created: 2023-08-14T13:56
-updated: 2024-01-06T16:35
+updated: 2024-01-29T15:14
 ---
 # Food
 

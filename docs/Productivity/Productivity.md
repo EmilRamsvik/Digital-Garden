@@ -1,7 +1,7 @@
 ---
 Date Started: May 29, 2023
 created: 2023-05-30T15:11:00
-updated: 2024-01-26T14:18
+updated: 2024-02-16T15:14
 tags:
   - article
   - productivity
@@ -19,7 +19,7 @@ One of the most important things you can do to maximize your productivity is to 
 Learning is best when you can continuously bounce ideas back and forth with peers or tutors. My greatest learning moments have been in such situations. 
 
 ## Focus
-Much has been talked about deep focus and the flow state that makes time pass away, and you are very productive. Sometimes, the flow state can be a bit overrated as you are in the learning phase, where you know a lot of the things you are working on and, therefore, can be more efficient. I think getting a grasp of concepts you are unfamiliar with is incompatible with a state of flow. 
+Much has been talked about deep focus and the flow state that makes time pass away, and you are very productive. Sometimes, the flow state can be overrated as you are in the learning phase, where you know a lot of the things you are working on and, therefore, can be more efficient. I think getting a grasp of unfamiliar concepts is incompatible with a state of flow. 
 
 ## Flow 
 ##### Definition:
@@ -54,6 +54,7 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 - [AI-Enhanced Development](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
 - [Productivity Velocity](https://danluu.com/productivity-velocity/). It also felt like [this article](https://danluu.com/p95-skill/) linked in the previous was good as well. 
 - [Very interesting advice on programming productivity.](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) Also necessary to understand that being patient is one of the most important aspects of being more productive. 
+- [Good tips on Hacking Your Brain](https://www.youtube.com/watch?v=XUZ9VATeF_4&list=WL&index=29)
 
 
 # Thoughts 
@@ -62,6 +63,8 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 - Learning how to touch type is one of the most efficient ways of increasing your productivity. Writing fast reduces the feedback loop time. Also, it makes it much easier to follow along with your code. 
 - Sometimes, you should accept that you won't get anything done and be willing to be okay with this. You are not a robot, and even robots get worn down. Take the time to reflect on how far you have come and look forward to getting back at it. 
 - Understand that productivity is about gradual improvements; you will never be able to have a tool that increases your productivity drastically without effort. Tools such as LLM support (ChatGPT) are fantastic, but they took some time to exploit fully. 
-- Never give up on a tool; just remember to come back to it sometimes and work on it. 
-- The best productivity app on your phone is already installed; it is called the OFF button. 
+- Never give up on a tool; remember to come back to it sometimes and work on it. 
+- The best productivity app on your phone is already installed, called the OFF button. 
+- *If you measure everything by productivity, you have already lost at the beginning.* - mbeex on Hacker News
+- If it can be done before the date, it is a task, not an event. 
 

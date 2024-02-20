@@ -8,7 +8,7 @@ tags:
   - politics
 Finished: false
 created: 2023-10-29T15:32
-updated: 2024-01-06T16:19
+updated: 2024-02-08T07:44
 ---
 # Podcasts
 
@@ -35,9 +35,10 @@ There are some good true crime podcast episodes that I have found very enchantin
 ## Podcasts that I like
 
 ### [Big Technology Podcast](https://open.spotify.com/show/4ln6H9peIXhq19yv3CdOvE?si=592021bd4ede4b99)
-Alex and Ranjan are not only capable but also fun to hear about. Reading Ranjan Roy´s articles about ZIRP (Zero Interest Rate Policy) was formative, and I enjoy his views and feel they are nuanced and calm. I like that both of them like to disagree and often argue about stuff. It is very technology-focused, which aligns with my interests. Furthermore, Alex usually have some good guest he interviews. 
+Alex and Ranjan are not only capable but also fun to hear about. Reading Ranjan Roy´s articles about ZIRP (Zero Interest Rate Policy) was formative, and I enjoy his views and feel they are nuanced and calm. I like that both of them like to disagree and often argue about stuff. It is very technology-focused, which aligns with my interests. Furthermore, Alex usually has some good guests to interview. 
 
-
+### [Business Books & Co](https://open.spotify.com/show/3AHsPplOB57xM25RtJwYQg?si=2b53b4fbb451425b)
+Discussions around popular business books. The hosts are good at describing the contents of the books and it feels like you get about 80 % of the contents of the books through each episode. It is also good to hear some criticisms of the books to stay a bit neutral. 
 
 # Good Podcast Episodes
 - 

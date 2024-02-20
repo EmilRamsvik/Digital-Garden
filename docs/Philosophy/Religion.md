@@ -8,7 +8,7 @@ tags:
   - article
 Finished: false
 created: 2023-06-12T09:05
-updated: 2024-01-06T16:18
+updated: 2024-01-31T08:58
 ---
 # Religion
 
@@ -22,8 +22,14 @@ However, as time passes and things change, these reasons may no longer apply or 
 
 ## Comparing Religion and Politics
 
-Interestingly, I believe that rigid political ideologies bear a lot of similarities to religions. They exhibit similar patterns and behaviors. The cult of the leader is an interesting concept, and also maybe displays the weakness of atheist ideologies. At least the god is not increasingly becoming more and more totalitarian, at least it is usually an interesting aspect to it. 
+Interestingly, rigid political ideologies bear a lot of similarities to religions. They exhibit similar patterns and behaviors. The cult of the leader is an exciting concept and also maybe displays the weakness of atheist ideologies. At least the god is not increasingly becoming more and more totalitarian; at least, it is usually an exciting aspect to it. 
 
+## The Bible
+Very few people know many of the Bible's stories and the message they had, especially the stories of the Old Testament. When I was a kid, I got a Bible in text and images, which I used to read; the stories kind of stuck.
+Here are some stories I remember
+1. The writing on the wall story
+2. [Absalom, the son of King David](https://www.biblicalwarfare.com/absalom-expert-politician-failed-warrior/)
+3. The end of John the Baptist
 
 
 # Links

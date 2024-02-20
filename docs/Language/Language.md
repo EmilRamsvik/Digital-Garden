@@ -7,11 +7,31 @@ tags:
   - natural-language
   - english-language
 created: 2023-09-01T15:21
-updated: 2024-01-06T16:18
+updated: 2024-01-30T10:55
 ---
 
 
 # Language
+
+
+
+## Italian 
+
+
+
+## English
+The English language is very rich and encompassing. It is a mix of three different languages: Saxon, Old Norse, and French. After the battle of Hastings in 1066, French culture dominated the court and nobility. 
+
+As an example of the multitude of different languages affecting the English language, we have three different words meaning the same thing. 
+
+- *Regal* - From Latin
+- *Royal* - From French
+- *Kingly* - Saxon
+All of these words basically mean the same thing, but some has a more 
+
+
+
+## Norwegian
 
 
 
@@ -40,9 +60,9 @@ Doctors, economists, lawyers and many others, not to single out any particular p
 
 
 # Links
-- 
+- [Doubble Speak, or how to lie without lying. ](https://www.youtube.com/watch?v=qP07oyFTRXc&ab_channel=WhatI%27veLearned)
 
 # Thoughts 
-- 
+- Out of the thousand or so languages, there are only a dozen or so that are not connected to other large families of languages. 
 
 

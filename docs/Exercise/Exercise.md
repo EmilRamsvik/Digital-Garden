@@ -1,6 +1,5 @@
 ---
-Date Started: May 28, 2023
-Finished: 
+Finished: false
 tags:
   - exercise
   - strength-training
@@ -11,7 +10,7 @@ tags:
   - flexibility
   - yoga
 created: 2023-05-22T13:49
-updated: 2024-01-07T16:46
+updated: 2024-02-12T07:45
 ---
 # Exercise
 
@@ -45,11 +44,11 @@ Speed games in running are akin to intervals but consist instead of running pred
 
 
 #### Push at the sign game
-When bicycling, every time a speed sign is crossed you have a sprint.  It can be either a time-based sprint or a push for the one being on-wheel and making a sprint before the one in the lead, thereby changing the position while bicycling. 
+When bicycling, every time a speed sign is crossed, you have a sprint.  It can be either a time-based sprint or a push for the one on wheel, making a sprint before the one in the lead, thereby changing position while bicycling. 
 
 #### Cross the street game
 One speed game I have experienced is the crossing the street game. Every time I cross the street I check my watch. I divide the second counter into two categories depending on the placement. 
-The category of the 10-digit, spanning from 0 to 5, is used to designate the intensity, where 0 is normal speed and 5 is a full sprint. 
+The 10-digit category, spanning from 0 to 5, is used to designate the intensity, where 0 is normal speed and 5 is a full sprint. 
 The category of the 0 digit, spanning from 0 to 9 describes the duration of the sprint. 
 This is a fun game, that introduces some randomness to the run and makes it a bit more exciting. 
 

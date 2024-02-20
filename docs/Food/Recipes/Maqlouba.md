@@ -15,8 +15,10 @@ tags:
   - cheap-food
   - meal-prep
   - m
+created: 2023-12-30T16:29
+updated: 2024-02-02T14:22
 ---
-
+# Maqlouba
 
 # Description
 Maqlouba means upside down in Arabic. It is quite easy to work with.  Actually, quite an easy dish to make for a lot of people, I might have spent around and hour maybe 90 minutes on it. 

@@ -14,8 +14,10 @@ tags:
   - food-prep
 Finished: true
 created: 2023-10-29T15:46
-updated: 2024-01-14T17:21
+updated: 2024-02-02T14:22
 ---
+# Biryani
+
 # Description
 Biryani/Byriani is a Pakistani/Indian dish that is usually served at large gatherings. I did a lot of discovering and learning working with the guys in my apartment. 
 I learned to make it during an exchange semester in Milano.

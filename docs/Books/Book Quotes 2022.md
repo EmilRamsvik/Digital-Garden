@@ -5,7 +5,7 @@ tags:
   - books
   - "#quotes"
 created: 2024-01-06T15:04
-updated: 2024-01-06T15:04
+updated: 2024-01-30T14:45
 ---
 
 # Book Quotes 2022
@@ -63,10 +63,7 @@ _Language:_ English
 - GARP approach: Growth at a reasonable price investment strategy for identifying the value of a stock based on low earning multiplies.
 - "A recession is when you are out of work a depression is when I am out of work" - Harry Truman
 
-
-
-
 # Thoughts 
-- 
+- These where quotes from my time writing the quotes by hand. 
 
 
