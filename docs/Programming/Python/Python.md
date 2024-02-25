@@ -8,7 +8,7 @@ tags:
   - fast-api
 Finished: false
 created: 2023-08-09T09:33:00
-updated: 2024-01-07T17:19
+updated: 2024-02-23T12:04
 ---
 # Python
 
@@ -30,7 +30,15 @@ Python is the dominant working language for data science and machine learning.
 ## Web Development
 
 
-
+### Boring setup for Python dependencies
+- 1. Start project (mkdir, git init),
+- 2. Make virtualenv using virtualenvwrapper,
+- 3. Write project.toml file for setuptools,
+- 4. pip install -e .
+- 5. To add deps, add them to pyproject.toml and repeat step 4. Do not pip install deps directly. Do not pin deps to any particular version, but if you have to you can add constraints like >=5 (I need a feature introduced in v5).
+- 6. If you are writing a package to be pip installed by others then you're done. Read setuptools docs for how to build etc.
+- 7. If you also want to build an environment to run your code (e.g. docker image for deployment or serverless deployment etc) use pip-tools to pin your dependencies. (This is the only reason you need requirements.txt).
+- 8. For test dependencies (e.g. pytest) or dev dependencies (e.g. test server) leverage optional dependencies in the pyproject.toml file. This plays very nicely with tools like tox, which you should use. Use pre-commit for linting etc.
 # Links
 - [Python Learning Resources](https://learnbyexample.github.io/py_resources/)
 - 

@@ -8,7 +8,7 @@ tags:
   - design-thinking
   - design-sprint
 created: 2024-01-06T15:04
-updated: 2024-01-31T14:00
+updated: 2024-02-25T18:32
 ---
 
 
@@ -55,7 +55,9 @@ A machine learning projects can fail for many reasons, and most actually do. Typ
 - [DS Project Quick Start](https://eugeneyan.com/writing/project-quick-start/) 
 	- A good note from the article: clean the Jupyter notebooks weekly and refactor code into ```.py```files instead of copy-pasting cells.  *My thoughts on this are that it is quite easy to assume the functions just "work." However, if not in some sort of testing regime, it is quite easy to fall into traps and change the functions and have to restart notebooks all the time.*
 - [AutoML packages that can be useful. ](https://www.activestate.com/blog/the-top-10-automl-python-packages-to-automate-your-machine-learning-tasks/)
-- 
+- [Google Machine Learning Problem Framing](https://developers.google.com/machine-learning/problem-framing)
+- *[AWS Guide to ML Problem Framing](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)* 
+ 
 
 # Thoughts 
 - Data Centric AI should have significant considerations here. 

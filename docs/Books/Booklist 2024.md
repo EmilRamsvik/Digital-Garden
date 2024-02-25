@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-02-19T15:27
+updated: 2024-02-25T19:48
 ---
 # Booklist 2024 
  
@@ -261,7 +261,7 @@ _Author:_  Tyler Richards
 _Pages:_ 282
 _Language:_ English
 
-#### Machine Learning Engineering with MLflow
+####[ Machine Learning Engineering with MLflow](Personal/Books/Book%20Reviews/%20Machine%20Learning%20Engineering%20with%20MLflow.md)
 _Author:_  Natu Lauchande 
 _Pages:_ 248
 _Language:_ English
@@ -321,7 +321,7 @@ _Author:_ Carl S. Gold
 _Pages:_ 352
 _Language:_ English
 
-#### The Job Closer
+#### [The Job Closer](Personal/Books/Book%20Reviews/The%20Job%20Closer.md)
 _Author:_ Steve Dalton
 _Pages:_ 192
 _Language:_ English
@@ -336,4 +336,21 @@ _Author:_ Richard Rumelt
 _Pages:_ 336
 _Language:_ English
 
+#### [Practical Vim](Personal/Books/Book%20Reviews/Practical%20Vim.md)
+_Author:_ Richard Rumelt
+_Pages:_ 336
+_Language:_ English
 
+#### The Fifth Discipline
+_Author:_ Peter Senge
+_Pages:_ 445
+_Language:_ English
+#### Two-Hour Job Search
+_Author:_ Steve Dalton
+_Pages:_ 242
+_Language:_ English
+
+#### Systematics
+_Author:_ John Gall
+_Pages:_ 111
+_Language:_ English

@@ -7,12 +7,12 @@ tags:
   - machine-learning
   - data-science
   - data-engineering
-  - "#system-architecture "
+  - "#system-architecture"
   - mlops
   - non-fiction
-finished: 
+finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-02-20T13:43
 ---
 # Designing Machine Learning Systems
 
@@ -29,10 +29,6 @@ I discovered it as I wanted to become more proficient in reading about data scie
 
 ## Who Should Read It?
 Data scientists in small companies, preferably before you get too much experience. 
-
-# ☘️ How the Book Changed Me
-
-
 # ✍️ My Top  Quotes
 
 - *This book is for anyone who wants to leverage ML to solve real-world problems. ML in this book refers to both deep learning and classical algorithms, with a leaning toward ML systems at scale, such as those seen at medium to large enterprises and fast-growing startups.* 
@@ -54,7 +50,6 @@ Data scientists in small companies, preferably before you get too much experienc
 - *For example, on the Amazon website, the customers with the slowest requests are often those who have the most data on their accounts because they have made many purchases—that is, they’re the most valuable customers.* 
  
 - *In 2019, “Berkeley researchers found that both face-to-face and online lenders rejected a total of 1.3 million creditworthy Black and Latino applicants between 2008 and 2015.” When the researchers “used the income and credit scores of the rejected applications but deleted the race identifiers, the mortgage application was accepted.”* 
- 
 - *That’s an excellent idea. In fact, ML production would be a much better place if ML experts were better software engineers.* 
  
 - *Bidirectional Encoder Representations from Transformers (BERT) paper first came out, people were talking about how BERT was too big, too complex, and too slow to be practical.* 
@@ -69,11 +64,9 @@ Data scientists in small companies, preferably before you get too much experienc
  
 - *Whichever way your system grows, there should be reasonable ways of dealing with that growth. When talking about scalability most people think of resource scaling, which consists of up-scaling (expanding the resources to handle growth) and down-scaling (reducing the resources when not needed).* 
  
- 
 - *To adapt to shifting data distributions and business requirements, the system should have some capacity for both discovering aspects for performance improvement and allowing updates without service interruption.* 
  
 - *Step 1. Project scoping A project starts with scoping the project, laying out goals, objectives, and constraints. Stakeholders should be identified and involved. Resources should be estimated and allocated. We already discussed different stakeholders and some of the foci for ML projects in production in Chapter 1. We also already discussed how to scope an ML project in the context of a business earlier in this chapter. We’ll discuss how to organize teams to ensure the success of an ML project in Chapter 11. 
-
 
 - *Step 2. Data engineering A vast majority of ML models today learn from data, so developing ML models starts with engineering data. In Chapter 3, we’ll discuss the fundamentals of data engineering, which covers handling data from different sources and formats. With access to raw data, we’ll want to curate training data out of it by sampling and generating labels, which is discussed in Chapter 4.*
 

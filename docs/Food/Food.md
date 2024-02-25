@@ -7,7 +7,7 @@ tags:
   - knife
   - kitchen
 created: 2023-08-14T13:56
-updated: 2024-01-29T15:14
+updated: 2024-02-24T16:21
 ---
 # Food
 
@@ -39,6 +39,17 @@ Useful condiments that should be in a kitchen makes versatile and from the groun
 	A common tip is to get the best cold-pressed olive oil and old balsamic vinegar, combine them in a bowl, and dip fresh bread in it. 
 
 - [Basics with Babish Essentials](https://basicswithbabish.co/basicsepisodes/2017/10/23/sauces-9w5tm-2njph-5ahwj-hsl7s-fh6cr-6r8lw)
+
+### Super Quick Sauce that is Awesome
+When cooking fish or searing meat in a pan, don't throw away the burnt stuff at the bottom of the pan. 
+1. Add some shallots and garlic, maybe some capers or other aromatics
+2. After it is cooked, deglaze the pan with some wine (Depending, but white wine is a good suggestion.) You can use other things, such as stock if there is not a wish to use alcohol. 
+3. Reduce the sauce, aka cook it and damp away the liquid
+4. To finish up, add a big stick of butter. The sauce should be thicker after the butter. 
+5. Enjoy
+
+
+
 # [Baking](/Personal/Food/Baking)
 
 
@@ -53,7 +64,7 @@ Good things to have with the fish are:
 
 # Thoughts 
 - Don't be afraid to go outside the recipes, especially when cooking, you will never be good if you never fail. 
-- Focus on the fundamentals; one of my greatest advantages is that I am very fast at preparing ingredients and knife work. The disadvantage is that in order to be the greatest asset, 
+- Focus on the fundamentals; one of my greatest advantages is that I quickly prepare ingredients and knife work. The disadvantage is that in order to be the greatest asset, 
 - Being good at knife work makes you seem like a pro. Very funny. 
 - I have been to a couple of food cooking classes in my life, and usually, people ask me if I am a professional. This is, of course, because I look the part when prepping food. 
 - I think the journey for me, and I truly believe that this is a good route to go is: 

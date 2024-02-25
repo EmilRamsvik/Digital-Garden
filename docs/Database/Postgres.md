@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-01-06T15:04
+updated: 2024-02-22T08:02
 tags:
   - article
   - digital-garden
@@ -8,8 +8,6 @@ tags:
   - database
   - database/-relational-database
   - database/sql
-parent:
-  - "[[Database]]"
 Finished: false
 ---
 # Postgres
@@ -57,10 +55,11 @@ This feature is particularly useful for applications that need to store and quer
 
 
 
+
 # Links
 - 
 
 # Thoughts 
-- 
+- Open source is probably the best way of approaching databases, makes it easier to migrate later. 
 
 
