@@ -14,27 +14,37 @@ copy_directory() {
     local src=$1
     local dest=$2
 
-    echo "Checking changes for $src..."
-
-    # Perform a dry run with rsync to check changes
-    rsync -avun --delete "$src" "$dest"
-    if [[ $AUTO_CONFIRM == "-y" ]]; then
-        choice="y"
-    else
-        read -p "Do you want to proceed with copying these changes? (y/n): " choice
-    fi
-
-    read -p "Do you want to proceed with copying these changes? (y/n): " choice
-    if [[ $choice == [Yy]* ]]; then
-        echo "Copying $src to $dest..."
-        cp -R "$src" "$dest"
-        echo "Copy complete."
-    else
-        echo "Copy skipped."
-    fi
+    echo "Copying $src to $dest..."
+    cp -R "$src" "$dest"
+    echo "Copy complete."
 }
+# Check and copy 'blog' folder
+copy_directory "$SRC_DIR/Blog/" "$REPO_ROOT/blog/"
+
+# Check and copy 'static/images' folder
+copy_directory "$SRC_DIR/static/images/" "$REPO_ROOT/static/images/"
 
 # Check and copy 'personal' folder to 'docs'
+copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
+
+        # Perform a dry run with rsync to check changes
+        rsync -avun --delete "$src" "$dest"
+        if [[ $AUTO_CONFIRM == "-y" ]]; then
+            choice="y"
+        else
+            choice="y"
+        fi
+
+        if [[ $choice == [Yy]* ]]; then
+            echo "Copying $src to $dest..."
+            cp -R "$src" "$dest"
+            echo "Copy complete."
+        else
+            echo "Copy skipped."
+        fi
+    }
+
+    # Check and copy 'personal' folder to 'docs'
 copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
 
 # Check and copy 'blog' folder
