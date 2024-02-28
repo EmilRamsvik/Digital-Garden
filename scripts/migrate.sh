@@ -42,7 +42,6 @@ copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
         else
             echo "Copy skipped."
         fi
-    }
 
     # Check and copy 'personal' folder to 'docs'
 copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"

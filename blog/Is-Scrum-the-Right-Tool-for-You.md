@@ -1,6 +1,6 @@
 ---
 created: 2024-01-11T17:46
-updated: 2024-02-25T21:20
+updated: 2024-02-25T21:27
 tags:
   - blog
   - blog-post
@@ -14,9 +14,8 @@ title: Is Scrum the Right Tool for You?
 
 # Is Scrum the Right Tool for You?
 
-*From LLM:*
 Scrum is a popular agile methodology that is used in project management. It emphasizes teamwork, accountability, and iterative progress toward well-defined goals. Scrum is widely used in software development, but it can also be applied to any project that requires a flexible and collaborative approach to problem-solving.
-
+<!-- truncate -->
 ## My Experience. 
 I have used Scrum only one time where I can definitely state it was used correctly.  The project used rigid ceremonies such as stand-up, planning sessions, and retrospectives. Most of the other times, I have worked in agile and half-scrum settings, where the daily standups were weekly and sometimes every other day.  Both ways have worked, and both have had weaknesses. 
 

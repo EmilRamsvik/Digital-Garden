@@ -6,11 +6,11 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-02-25T19:48
+updated: 2024-02-27T21:55
 ---
 # Booklist 2024 
  
-#### On Food and Cooking
+#### [On Food and Cooking](Personal/Books/Book%20Reviews/On%20Food%20and%20Cooking.md)
 *Author:* Harold McGee
 *Pages*: 896
 *Language*: English
@@ -350,7 +350,7 @@ _Author:_ Steve Dalton
 _Pages:_ 242
 _Language:_ English
 
-#### Systematics
+#### [Systematics](Personal/Books/Book%20Reviews/Systematics.md)
 _Author:_ John Gall
 _Pages:_ 111
 _Language:_ English
