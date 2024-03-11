@@ -25,7 +25,7 @@ copy_directory "$SRC_DIR/Blog/" "$REPO_ROOT/blog/"
 copy_directory "$SRC_DIR/static/images/" "$REPO_ROOT/static/images/"
 
 # Check and copy 'personal' folder to 'docs'
-copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
+copy_directory "$SRC_DIR/" "$REPO_ROOT/docs/"
 
         # Perform a dry run with rsync to check changes
         rsync -avun --delete "$src" "$dest"
@@ -44,7 +44,7 @@ copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
         fi
 
     # Check and copy 'personal' folder to 'docs'
-copy_directory "$SRC_DIR/Personal/" "$REPO_ROOT/docs/"
+copy_directory "$SRC_DIR/" "$REPO_ROOT/docs/"
 
 # Check and copy 'blog' folder
 copy_directory "$SRC_DIR/Blog/" "$REPO_ROOT/blog/"

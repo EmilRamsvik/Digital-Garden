@@ -279,7 +279,7 @@ updated: 2024-01-07T20:50
 *Pages*: 338
 *Language*: English
 
-#### [Personal/Books/Book Reviews/Take Control of Automating Your Mac](Book%20Reviews/Personal/Books/Book%20Reviews/Take%20Control%20of%20Automating%20Your%20Mac.md)
+#### [Books/Book Reviews/Take Control of Automating Your Mac](Book%20Reviews/Books/Book%20Reviews/Take%20Control%20of%20Automating%20Your%20Mac.md)
 *Author:* Joe Kissel
 *Pages*: 353
 *Language*: English

@@ -50,7 +50,7 @@ When cooking fish or searing meat in a pan, don't throw away the burnt stuff at 
 
 
 
-# [Baking](/Personal/Food/Baking)
+# [Baking](/Food/Baking)
 
 
 # Fish
