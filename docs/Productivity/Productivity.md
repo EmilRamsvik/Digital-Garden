@@ -1,7 +1,7 @@
 ---
 Date Started: May 29, 2023
 created: 2023-05-30T15:11:00
-updated: 2024-02-16T15:14
+updated: 2024-02-29T20:58
 tags:
   - article
   - productivity
@@ -52,9 +52,10 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 - [Working Offline with Docs (Zeal)](https://zealdocs.org/)
 - [Cult of Done Manifesto](https://medium.com/@bre/the-cult-of-done-manifesto-724ca1c2ff13)
 - [AI-Enhanced Development](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/)
-- [Productivity Velocity](https://danluu.com/productivity-velocity/). It also felt like [this article](https://danluu.com/p95-skill/) linked in the previous was good as well. 
-- [Very interesting advice on programming productivity.](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) Also necessary to understand that being patient is one of the most important aspects of being more productive. 
-- [Good tips on Hacking Your Brain](https://www.youtube.com/watch?v=XUZ9VATeF_4&list=WL&index=29)
+- [Productivity Velocity](https://danluu.com/productivity-velocity/). This [article](https://danluu.com/p95-skill/) linked in the previous was good as well. 
+- [Very interesting advice on programming productivity.](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) It is also necessary to understand that being patient is one of the most important aspects of being more productive. 
+- [Good Tips on Hacking Your Brain](https://www.youtube.com/watch?v=XUZ9VATeF_4&list=WL&index=29)
+- [5 AM Club](https://www.youtube.com/watch?v=Kxvp3eOYphY&ab_channel=UpgradedMentality)
 
 
 # Thoughts 

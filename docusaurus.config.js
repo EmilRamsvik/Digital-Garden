@@ -60,7 +60,7 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'gardenSidebar',
             position: 'left',
-            to: '/docs/Personal',
+            to: '/docs/Garden',
             label: 'Garden',
           },
           {

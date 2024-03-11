@@ -4,7 +4,7 @@ tags:
   - article
   - digital-garden
 created: 2024-01-06T15:01
-updated: 2024-01-07T16:39
+updated: 2024-03-04T11:42
 ---
 
 
@@ -23,10 +23,11 @@ When you rebase, you put the difference in the branches as a new commit on top o
 1. Only be one person on the project. Cant have merge conflicts if no merges. 
 2. Keep the life of the non-critical branches super short. 1 day is good, a week is bad. 
 3. Be careful when killing files, make sure that pull requests are reviewed and merged before doing any file killing (Killing in this case is deleting.)
-4. Don't be afraid to throw away code. If the branch has a lot of changes and a lot of merge conflicts, start over on a new branch. This is simple, you already have done the work, so don't be afraid to do it again. After all, it is also a good opportunity for you to work on refactoring the code. 
+4. Don't be afraid to throw away code. If the branch has a lot of changes and a lot of merge conflicts, start over on a new branch. This is simple; you have already done the work, so don't be afraid to do it again. After all, it is also a good opportunity for you to work on refactoring the code. 
 
 # Links
 - [Only need plaintext](https://www.youtube.com/watch?v=WgV6M1LyfNY&ab_channel=NoBoilerplate) Argues against anything other than Git and GitHub for software teams. 
+- [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 
 # Thoughts 
 - 

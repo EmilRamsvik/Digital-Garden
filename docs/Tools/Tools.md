@@ -7,7 +7,7 @@ tags:
   - productivity
   - software/tools
 created: 2024-01-06T15:01
-updated: 2024-01-14T17:38
+updated: 2024-03-07T13:38
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -70,6 +70,7 @@ I think that I will use more and more Apple eco-system products because of how e
 
 # Links
 - [Hacker News Thread on Tools.](https://news.ycombinator.com/item?id=31914087)
+- [HN: Thread on things they like](https://news.ycombinator.com/item?id=39163944)
 - 
 
 # Thoughts 

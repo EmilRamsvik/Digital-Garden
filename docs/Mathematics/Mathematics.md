@@ -6,7 +6,7 @@ tags:
   - article
   - game-theory
 created: 2023-08-17T12:02
-updated: 2024-02-02T09:04
+updated: 2024-03-07T13:40
 ---
 # Mathematics
 
@@ -20,7 +20,7 @@ The quest to determine if [Fermat's Last Theorem](https://en.wikipedia.org/wiki/
 - “When you see a good move, look for a better one.”  ― Emanuel Lasker.
 
 # Links
-- 
+- [Statistics, Hoeffding's D Statistical Measure](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 
 # Thoughts 
 - 

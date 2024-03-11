@@ -8,7 +8,7 @@ tags:
   - dataview
 Finished: false
 created: 2023-08-14T14:00
-updated: 2024-01-07T17:10
+updated: 2024-02-29T19:22
 ---
 
 
@@ -41,6 +41,9 @@ Dataview: Good for getting an overview when you have a large knowledge base.
 # Thoughts 
 - I find the daily and weekly notes to be quite good at making me more focused on the tasks. The daily works more as a journal with some tasks, while the weekly serves as a reminder and review of where I am meant to be. 
 - I feel like the more I work in Obsidian, the more I try to simplify and focus on the text above other things. 
-- Tags are cool, I try to add as many as possible. 
+- Tags are cool, and I try to add as many as possible. 
+- Obsidian has a lot of ways of publishing the notes, but it does cost a lot. 
+- The more I work on my digital garden, the more I appreciate limiting the templates to the bare minimum. All my templates have gradually been made more concise and less obtuse. This makes it much more accessible to write things in small batches. 
+- Properties are awesome, but you should strive to keep them simple. However, do not despair; it is quite easy to make simple scripts to add properties to the YAML properties that you can use to update multiple files together. Also, here, the templater plugin and templates are your friends. 
 
 

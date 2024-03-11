@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-25T19:34
+updated: 2024-03-07T13:59
 tags:
   - article
   - digital-garden
@@ -14,7 +14,7 @@ Systems are what we have around us, and instead of focusing on the thing itself,
 Understanding systems is a tremendous advantage when it comes to understanding the world. This is especially true for social systems such as organizations, businesses, and other human social structures. 
 
 ## Systematics
-The term _**systemantics**_ is a commentary on prior work by [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") called [general semantics](https://en.wikipedia.org/wiki/General_semantics "General semantics") which conjectured that all systems failures could be attributed to a single root cause – a failure to communicate.
+The term _**systemantics**_ is a commentary on prior work by [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") called [general semantics](https://en.wikipedia.org/wiki/General_semantics "General semantics") , which conjectured that all systems failures could be attributed to a single root cause – a failure to communicate.
 1. Everything is a system.
 2. Everything is part of a larger system.
 3. The universe is infinitely systematized, both upward (larger systems) and downward (smaller systems).
@@ -22,7 +22,9 @@ The term _**systemantics**_ is a commentary on prior work by [Alfred Korzybsk
 # Links
 - [The purpose of a system is what it does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does).
 - [Systematics](https://www.biodigitaljazz.net/blog/systemantics.html)
-
+- [Shirky Principle](https://effectiviology.com/shirky-principle/)
+- [How to change a system](https://news.ycombinator.com/item?id=39510292)
+j
 # Thoughts 
 - 
 

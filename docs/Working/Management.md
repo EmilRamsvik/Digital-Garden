@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-01-25T15:36
+updated: 2024-02-29T20:46
 tags:
   - article
   - digital-garden
@@ -12,7 +12,7 @@ parent:
 Finished: false
 ---
 # Management
-
+Here I write some on the mana
 
 
 # Links

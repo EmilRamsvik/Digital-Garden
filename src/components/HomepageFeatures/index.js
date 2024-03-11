@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
-    linkUrl: '/docs/Personal',
+    linkUrl: '/docs/Garden',
     title: 'Digital Garden',
     imageUrl: require('@site/static/img/digital_garden.png').default,
     description: (

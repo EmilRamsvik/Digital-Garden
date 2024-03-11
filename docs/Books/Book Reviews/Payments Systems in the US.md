@@ -3,7 +3,7 @@ Pages: 202
 Date Finished: Jul 05, 2023
 Author: Carol Coye Benson
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-03-07T13:39
 ---
 # Payments Systems in the US
 
@@ -13,7 +13,9 @@ Tags: #books #payment #finance #programming
 This book is an overview of how the U.S. and by extension, the world's payment systems work. It goes into detail on credit cards, debit cards, checking and other systems. It contains an overview of the how and why of each system. 
 
 # 🎨 Impressions
-It is a small book, with short but interesting discussions and sections. Most of it is maybe a bit out of the interest sphere of everyday people, but I found it very interesting. It has useful and insightful anecdotes that make reading the book worthwhile. Checking might not be that relevant to me, but still felt it was interesting to understand how the checking system evolved and therefore also led to new developments. 
+It is a small book, with short but interesting discussions and sections. Most of it is maybe a bit out of the interest sphere of everyday people, but I found it very interesting. It has useful and insightful anecdotes that make reading the book worthwhile. Checking might not be that relevant to me, but I still felt it was interesting to understand how the checking system evolved and, therefore, also led to new developments. 
+
+[This comment rings true to a lot of the thoughts in the book. ](https://news.ycombinator.com/item?id=39291334)
 
 ## How I Discovered It
 A thread on hacker news, not everyone needs to read payment systems in the U. S. was a comment, so I decided to read it. 

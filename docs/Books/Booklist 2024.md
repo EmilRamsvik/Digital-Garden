@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-02-27T21:55
+updated: 2024-03-07T11:28
 ---
 # Booklist 2024 
  
@@ -331,7 +331,7 @@ _Author:_ Timothy Galpin
 _Pages:_ 272
 _Language:_ English
 
-#### Good Strategy Bad Strategy
+#### [Good Strategy Bad Strategy](Personal/Books/Book%20Reviews/Good%20Strategy%20Bad%20Strategy.md)
 _Author:_ Richard Rumelt
 _Pages:_ 336
 _Language:_ English
@@ -353,4 +353,27 @@ _Language:_ English
 #### [Systematics](Personal/Books/Book%20Reviews/Systematics.md)
 _Author:_ John Gall
 _Pages:_ 111
+_Language:_ English
+
+
+#### Understanding Michael Porter
+_Author:_ Joan Magretta
+_Pages:_ 245
+_Language:_ English
+
+#### SQL Antipatterns
+_Author:_ Bil Karwin
+_Pages:_ 334
+_Language:_ English
+
+
+#### Managing Humans
+_Author:_ Michael Loop
+_Pages:_ 281
+_Language:_ English
+
+
+#### Turn the Ship Around
+_Author:_ David Marquet
+_Pages:_ 
 _Language:_ English

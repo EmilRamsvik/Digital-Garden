@@ -7,7 +7,7 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2024-01-09T19:09
+updated: 2024-02-29T19:21
 ---
 # Personal
 
@@ -40,13 +40,11 @@ THe key to making this work is to automate as much as possible and make sure you
 - [Awesome Digital Gardens](https://github.com/kyrose/awesome-digital-gardens)
 # Thoughts 
 - I want to experiment with randomizing the daily entries, maybe creating a list of enhancements and articles I want to write about, themes, or others. 
-- One particular fear I have is a lot of double entries, where I write the same thing over and over again. 
+- One particular fear I have is a lot of double entries, where I write the same thing repeatedly. 
 - Working on this one step at a time is quite fun, and reduces the stress of finishing up. 
 - I want the digital garden to be a place where I enjoy writing and filling in. It should be a pleasant experience. 
 -  I want to share this with the world, but only when it is large enough to be useful. 
 - Articles that are not finished are not marked as finished in the header so that I can do some sort of differentiation between articles.  One thing I would like to do is work with [dataview](https://github.com/blacksmithgu/obsidian-dataview) and use it to create an unfinished table so that I can use that to finish up unfinished articles. 
-- Obsidian has a lot of ways of publishing the notes, but it does cost a lot. 
-- The more I work on my digital garden, the more I appreciate limiting the templates to the bare minimum. All my templates have gradually been made more concise and less obtuse. This makes it much more easy to write things in small batches. 
-- Properties are awesome, but you should strive to keep them simple. However, do not despair, it is quite easy to make simple scripts to add properties to the YAML properties that you can use to update multiple files together. Also, here, the templater plugin and templates are your friends. 
+
 
 

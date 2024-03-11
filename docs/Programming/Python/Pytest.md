@@ -8,7 +8,7 @@ tags:
   - programming
 Finished: false
 created: 2023-06-04T13:18:00
-updated: 2024-01-07T17:18
+updated: 2024-03-07T14:02
 ---
 # Pytest
 
@@ -66,13 +66,14 @@ def test_database_function():
 # Links
 - [Quick overview of mocks](https://changhsinlee.com/pytest-mock/)
 - [Anatomy of a test](https://docs.pytest.org/en/7.1.x/explanation/anatomy.html)
+- [Use Weird Tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/#:~:text=in%20general%2C%20a%20good%20mental%20exercise%20whenever%20you're%20reviewing%20a%20pr%20is%20%22could%20a%20test%20have%20caught%20this%3F%22%2C%20and%20then%20reminding%20yourself%20that%20a%20test%20should%20be%20defined%20less%20as%20%22a%20thing%20that%20exercises%20business%20logic%22%20and%20more%20as%20a%20%22script%20that%20exercises%20your%20codebase%22.)
 
 # Thoughts 
-- Not always easy to configure tests in VSCode. Usually, it is good to try to find any errors that occur in the code. I find the 3-step debugging process helpful
+- Not always easy to configure tests in VSCode. It is good to try to find any errors that occur in the code. I find the 3-step debugging process helpful
   1. Look for any errors in VSCode. 
-  2. Run pytest in the terminal, and look if there are any issues when importing. 
+  2. Run pytest in the terminal and see if there are any issues when importing. 
   3. Look in the test files and see if there are any imports that fail (grey color imports usually).
-- 
+- *In general, a good mental exercise whenever you're reviewing a PR is "could a test have caught this?", and then reminding yourself that a test should be defined less as "a thing that exercises business logic" and more as a "script that exercises your codebase".* [source](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/#:~:text=in%20general%2C%20a%20good%20mental%20exercise%20whenever%20you're%20reviewing%20a%20pr%20is%20%22could%20a%20test%20have%20caught%20this%3F%22%2C%20and%20then%20reminding%20yourself%20that%20a%20test%20should%20be%20defined%20less%20as%20%22a%20thing%20that%20exercises%20business%20logic%22%20and%20more%20as%20a%20%22script%20that%20exercises%20your%20codebase%22.)
 
 
 

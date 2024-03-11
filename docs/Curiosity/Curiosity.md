@@ -8,7 +8,7 @@ tags:
   - anti-fragile
   - "#curiosity"
 created: 2023-08-04T14:38:00
-updated: 2024-01-30T11:38
+updated: 2024-02-29T20:53
 ---
 
 
@@ -26,6 +26,6 @@ Curiosity is the enabler of growth, and it is important to let the spark and joy
 
 
 # Thoughts 
-- *"A lie aint a side of a story, it is just a lie* - Terry Haynes
+- *"A lie ain't a side of a story, it is just a lie* - Terry Haynes
 
 

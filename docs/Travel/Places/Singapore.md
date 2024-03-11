@@ -8,18 +8,18 @@ tags:
   - south-east-asia
 Finished: true
 created: 2023-10-23T17:26
-updated: 2024-01-07T17:24
+updated: 2024-02-29T20:36
 ---
-
+# Singapore
 
 
 # Description
-
+I lived in Singapore for 6 months and had a splendid time; I actually did most of the tourist stuff when I returned from a work trip. 
 
 ## Best Experiences
-Singapore is the heart of South East Asia (SEA). I think some of the best experiences are related to just immersion in the different cultures that are the heart of the city-state.  Chinatown and Little India are definitely places I can recommend. 
+Singapore is the heart of South East Asia (SEA). I think some of the best experiences are related to immersion in the different cultures at the heart of the city-state.  Chinatown and Little India are definitely places I can recommend. 
 
-Also, east coast park when there is a sunset. Watching the lights of the hundreds of ships in the strait are definitely an experience of a lifetime. 
+Also, visit East Coast Park when there is a sunset. Watching the lights of the hundreds of ships in the strait is definitely an experience of a lifetime. 
 
 A Singapore visit is definitely not complete without a visit to:
 
@@ -46,7 +46,7 @@ If you're looking to relax after a long day or simply want to explore Singapore'
     - **[Location](https://maps.app.goo.gl/dF1CyPzk4uLYWY8B8)**: Chinatown
 
 ### **Important things to consider before going to Singapore:**
-
+This is as of 2023, some things might have changed. 
 1. **Grab Application**:
    - **What is it?** Grab is primarily a transportation app in Singapore, similar to Uber.
    - **Why should you care?** It's one of the most convenient ways to get around the city. You can also use it as an alternative to cash some places. 
@@ -69,10 +69,11 @@ If you're looking to relax after a long day or simply want to explore Singapore'
 ## Food
 - [[Chili Crab ]]- National dish of Singapore, a super nice dish that is perfect to 
 - [[Laksa]] - My favorite dish to have in Singapore. 
-- [[Char Siew ]]- 
+- [[Char Siew ]]- Kinda cool, very easy to make as well. 
 
 # Links
 - [Singapore in Color](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
 
 # Thoughts 
-- 
+- Running in Singapore was a special event. My reptile brain made me jump a couple of feet in the air when I saw an actual reptile a meter before me on a run.  This actually happened more than one time
+- Running was exhaustive; my kilometer time was at least 60 seconds slower than in *optimal* conditions. 
