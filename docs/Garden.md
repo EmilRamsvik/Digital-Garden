@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-11T10:21
+updated: 2024-03-12T11:41
 tags:
   - article
   - digital-garden
@@ -23,8 +23,6 @@ I write a lot about AI, and these are my articles on AI.  [Data Science](AI/Data
 
 I like to try to understand more about [Productivity](Productivity/Productivity.md) and especially the [Theory Behind Productivity](Productivity/Productivity%20Theory.md). In the [Mac](Mac/Mac.md) and [iPhone](Iphone/Iphone.md) sections, I talk a little about the tools I use the most, their applications, and other tools in [Tools](Tools/Tools.md).  Of course, [Programming](Programming/Programming.md) contains much info on programming that I have worked on and learned. 
   
-
-
 ## Books
 
 I read a lot, with 72 books read in 2021, 52 in 2022, and 84 books read in 2023. In 2023, I started using Kindle as my primary tool. And I also started using book reviews to read and understand more of what I actually read. The hope is that the book reviews, combined with going back to the book reviews and linking to other books, might make the reviews a more *living* thing that is constantly growing and evolving (In line with the general principles of the digital garden.)

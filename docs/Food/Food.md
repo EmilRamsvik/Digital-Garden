@@ -7,7 +7,7 @@ tags:
   - knife
   - kitchen
 created: 2023-08-14T13:56
-updated: 2024-02-24T16:21
+updated: 2024-03-12T11:51
 ---
 # Food
 
@@ -50,8 +50,7 @@ When cooking fish or searing meat in a pan, don't throw away the burnt stuff at 
 
 
 
-# [Baking](/Food/Baking)
-
+# [Baking](Baking.md)
 
 # Fish
 Good things to have with the fish are:
@@ -61,6 +60,7 @@ Good things to have with the fish are:
 
 # Links
 - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
+- [](Personal/Books/)
 
 # Thoughts 
 - Don't be afraid to go outside the recipes, especially when cooking, you will never be good if you never fail. 

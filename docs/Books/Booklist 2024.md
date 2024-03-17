@@ -6,11 +6,11 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-03-07T11:28
+updated: 2024-03-12T11:47
 ---
 # Booklist 2024 
  
-#### [On Food and Cooking](Books/Book%20Reviews/On%20Food%20and%20Cooking.md)
+#### [On Food and Cooking](Book%20Reviews/On%20Food%20and%20Cooking.md)
 *Author:* Harold McGee
 *Pages*: 896
 *Language*: English
@@ -261,7 +261,7 @@ _Author:_  Tyler Richards
 _Pages:_ 282
 _Language:_ English
 
-####[ Machine Learning Engineering with MLflow](Books/Book%20Reviews/%20Machine%20Learning%20Engineering%20with%20MLflow.md)
+#### [ Machine Learning Engineering with MLflow](Book%20Reviews/%20Machine%20Learning%20Engineering%20with%20MLflow.md)
 _Author:_  Natu Lauchande 
 _Pages:_ 248
 _Language:_ English
@@ -271,7 +271,7 @@ _Author:_  Ankur Patel
 _Pages:_ 359
 _Language:_ English
 
-#### [Feature Engineering for Machine Learning](Books/Book%20Reviews/Feature%20Engineering%20for%20Machine%20Learning.md)
+#### [Feature Engineering for Machine Learning](Book%20Reviews/Feature%20Engineering%20for%20Machine%20Learning.md)
 _Author:_  Alice Zheng
 _Pages:_ 215
 _Language:_ English
@@ -281,7 +281,7 @@ _Author:_ Nick Singh
 _Pages:_ 301
 _Language:_ English
 
-#### [Python Testing with pytest](Books/Book%20Reviews/Python%20Testing%20with%20pytest.md)
+#### [Python Testing with Pytest](Book%20Reviews/Python%20Testing%20with%20pytest.md)
 _Author:_ Brian Oken
 _Pages:_ 272
 _Language:_ English
@@ -296,7 +296,7 @@ _Author:_ Niall Richard Murphy
 _Pages:_ 408
 _Language:_ English
 
-#### [The Managers Path](Books/Book%20Reviews/The%20Managers%20Path.md)
+#### [The Managers Path](Book%20Reviews/The%20Managers%20Path.md)
 _Author:_ Camille Fournier
 _Pages:_ 241
 _Language:_ English
@@ -306,12 +306,12 @@ _Author:_ Fred Espen Benth
 _Pages:_ 352
 _Language:_ English
 
-#### [The Trusted Advisor](Books/Book%20Reviews/The%20Trusted%20Advisor.md)
+#### [The Trusted Advisor](Book%20Reviews/The%20Trusted%20Advisor.md)
 _Author:_ David Maister
 _Pages:_ 240
 _Language:_ English
 
-#### [Machine Learning Engineering](Books/Book%20Reviews/Machine%20Learning%20Engineering.md) 
+#### [Machine Learning Engineering](Book%20Reviews/Machine%20Learning%20Engineering.md) 
 _Author:_ Andriy Burkov
 _Pages:_ 310
 _Language:_ English
@@ -321,7 +321,7 @@ _Author:_ Carl S. Gold
 _Pages:_ 352
 _Language:_ English
 
-#### [The Job Closer](Books/Book%20Reviews/The%20Job%20Closer.md)
+#### [The Job Closer](Book%20Reviews/The%20Job%20Closer.md)
 _Author:_ Steve Dalton
 _Pages:_ 192
 _Language:_ English
@@ -331,12 +331,12 @@ _Author:_ Timothy Galpin
 _Pages:_ 272
 _Language:_ English
 
-#### [Good Strategy Bad Strategy](Books/Book%20Reviews/Good%20Strategy%20Bad%20Strategy.md)
+#### [Good Strategy Bad Strategy](Book%20Reviews/Good%20Strategy%20Bad%20Strategy.md)
 _Author:_ Richard Rumelt
 _Pages:_ 336
 _Language:_ English
 
-#### [Practical Vim](Books/Book%20Reviews/Practical%20Vim.md)
+#### [Practical Vim](Book%20Reviews/Practical%20Vim.md)
 _Author:_ Richard Rumelt
 _Pages:_ 336
 _Language:_ English
@@ -350,7 +350,7 @@ _Author:_ Steve Dalton
 _Pages:_ 242
 _Language:_ English
 
-#### [Systematics](Books/Book%20Reviews/Systematics.md)
+#### [Systematics](Book%20Reviews/Systematics.md)
 _Author:_ John Gall
 _Pages:_ 111
 _Language:_ English

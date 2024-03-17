@@ -10,7 +10,7 @@ tags:
   - kahneman
   - thinking-fast-and-slow
 created: 2024-01-06T15:04
-updated: 2024-02-29T20:53
+updated: 2024-03-12T11:41
 ---
 
 

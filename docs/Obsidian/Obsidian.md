@@ -11,7 +11,7 @@ tags:
   - digital-garden
 finished: true
 created: 2023-10-29T16:01
-updated: 2024-01-23T09:48
+updated: 2024-03-14T15:10
 ---
 
 # Obsidian
@@ -19,8 +19,8 @@ Obsidian is where I store my knowledge. I use it as a tool for writing, for stor
 
 
 ## Pros and Cons
-I think the best thing about Obisidian is it's ease customization. The second is how easy it is to store the files and share them. It's all markdown anyway, so it is not that big of a deal to fix them. 
-I think Obisian is not good as a tool to share knowledge and to collaborate. It is meant to be a single-user tool. Furthermore, I find it less than useful too to write just plain text. 
+The best thing about Obisidian is its ease of customization. The second is how easy it is to store and share the files. It's all markdown anyway, so fixing them is not that big of a deal. 
+I think Obisian is not good as a tool for sharing knowledge and collaboration. It is meant to be a single-user tool. Furthermore, I find it less than useful for writing plain text. 
 
 ### Obsidian for the curious new user. 
 
@@ -37,10 +37,11 @@ Starting obsidian can be a bit difficult, where the amount of customization and 
 5. **Enjoy and Explore**
 	One of the coolest things in Obsidian is the plugins, templates, and workflows that can make your life easier and make Obisidan even more powerful. 
 
-Remember, I would reiterate that Obsidian is an awesome tool for working by yourself, but it is not optimal when it comes to collaboration. I felt that sharing my notes, posts, and articles was usually difficult (So I made my own webpage to share with others quickly). 
+Remember, I would reiterate that Obsidian is an awesome tool for working by yourself, but it is not optimal for collaboration. Sharing my notes, posts, and articles was usually difficult (So I made my own webpage to share with others quickly). 
 It is also a bit of a challenge to get up and running, especially if you want to customize early. Copy-pasting templates might be useful, but there are usually some bugs or issues that will leave you debugging for a long time if you copy another person's template. Take it easy, make it a habit to jot down what you learn, and then add on as necessary. 
 
-
+## The Digital Garden
+Obsidian was a good place to write and record the information. To easily share what I have written, I wanted to create a website where it is easy to navigate and find the things I wanted to share; I made a docusaurus static website. It also helps me revise as I can visit the website on my phone and see what I have written with Fresh Eyes. I feel like this is a good way of recording what I have done and the migrations have been a success for the most part. 
 # Plugins
 | Plugin Name | Checked | Used | Comment |  |
 | ---- | ---- | ---- | ---- | ---- |

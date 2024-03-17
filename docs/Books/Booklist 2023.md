@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2024-01-07T20:50
+updated: 2024-03-12T11:46
 ---
 
 #### [Made to Stick](Book%20Reviews/Made%20to%20Stick.md)
@@ -279,10 +279,6 @@ updated: 2024-01-07T20:50
 *Pages*: 338
 *Language*: English
 
-#### [Books/Book Reviews/Take Control of Automating Your Mac](Book%20Reviews/Books/Book%20Reviews/Take%20Control%20of%20Automating%20Your%20Mac.md)
-*Author:* Joe Kissel
-*Pages*: 353
-*Language*: English
 
 #### [Hitch 22](Book%20Reviews/Hitch%2022.md)
 *Author:* Christopher Hitchens
