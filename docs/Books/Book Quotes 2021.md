@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01T17:32
-updated: 2024-03-02T08:28
+updated: 2024-03-22T20:19
 ---
 ### Black Swan
 **Nassim Niclas Taleb**
@@ -404,7 +404,7 @@ To whom will you make information available.*
 - *I tenåra hadde Stoltenberg hatt falsk id kort for å kjøpe øl der han lød navnet Hubert Stoltenberg.*
 - *Hvis økonomisk historie har en sentral lærdom, er det å ikke stole på ekspertene.*
 - *"Russland hadde gått fra å være det onde imperiet til å bli en ond bananrepublikk som importerte bananer fra Finland." - Victor Pelevins, forfatter*
-- *"Norges handelshøyskole er ikke perfekt men jeg elsker denne skolens mangler og svulstighet. Enkelte så det er bare galt av sted. Eg var en av dei." Selleresi i TV serien Mammon.*
+- *"Norges handelshøyskole er ikke perfekt men jeg elsker denne skolens mangler og svulstighet. Enkelte så det bar galt av sted. Eg var en av dei." Selleresi i TV serien Mammon.*
 - *Statoil var interessert i å få til en avtale i Iran som kunne tåle en forside i DN.*
 - *En Mong / En Lødd  (Av Mongstad og Løddesøl, leder av den norske kredittbank som tapte 1.5 milliarder kroner under bankkrisen på 90 tallet.): En fantastisk mengde penger så forsvinner mellom hendene på ambisiøse næringslivsledere.*
 - *Første bruk av nordmenn og Norge (Novegr) var på 800 tallet protokollene til kong Alfred den Store av Wessex.*
@@ -523,54 +523,15 @@ American revolution
 Antenox
 Temperance and the Great Depression
 Vietnam and the civil rights movement.*
-- *American revolution*
+- *American Revolution*
 - *Antenox*
 - *Temperance and the Great Depression*
 - *Vietnam and the civil rights movement.*
 - *Abolitionists were at the most, never more than 15% of the population of the northern states.*
 - *The American contradiction: The largest slave state in the world built on the first thriving republic.*
-### Stuff Matters
+### [Stuff Matters](Personal/Books/Book%20Reviews/Stuff%20Matters.md)
 **Mark Miodownik**
-- *Thermal paper: Paper with encapsulated ink that requires heat which causes the ink and acid to react and form a dark pigment.*
-- *Fermi paradox: The vast number of stars and planets in the universe provides abundant opportunities for intelligent life to form. While I was there no evidence of that being true.*
-- *Janus particle:  What makes electronic papers work.*
-- *Ephermal: Lasting only a short day/time.*
-- *Concrete doesn´t dry, it is reacting with water.*
-- *Make concrete, aluminum and iron-rich rocks are the magic ingredients.*
-- *Concrete is cement mixed with small stones, or pebbles, which play the role of tiny bricks.*
-- *Mixing relationship of concrete and water is extremely important.*
-- *Joseph Mourier, a Parisian Gardner invented reinforced concrete to make extra pots.*
-- *Pollo con molar: chicken in cocoa, a Mexican dish.*
-- *Maillard reaction: When applied with heat, carbohydrates (sugars) and proteins form bonds that create delicious tastes.*
-- *Theobromine Is Sam psychoactive ingredient in chocolate that is poisonous to dogs.*
-- *Chocolate shall be put at room temperature 20°C is it then will melt in the mouth.*
-- *Linnean name for chocolate is theobroma, which means food of the gods!*
-- *The sky is blue because light hits nitrogen and oxygen molecules and scatters off of them. If all lights were scattered equally, the sky would be white. However, shorter wavelength light is more likely to be scattered than long-wavelength particles, so that's the reason why the sky is blue. This is called a Raleigh effect.*
-- *The definition of temperature is how much vibrations the atoms are doing.*
-- *Billiard was invented in 1600s Europe, similar to Crockett. The plane of the pool table is covered green to represent grass.*
-- *What song is almost pure quartz.*
-- *I found a time is the size of a stadium, then the nucleus would be the size of a pea in the center of the stadium. And an electron will be the size of a grain of sand in the stands.*
-- *Glass is transparent because the energy of visible light is not high enough for the electrons in the glass to absorb the light. This is due to quantum mechanics. Higher energy lights such as UV radiation are not able to pass through glass. You cannot get a tan or sunburn through glass.*
-- *Pyrex is glass mixed with boron dioxide.*
-- *In Bohemia (Czech Republic) in 1840, A new method of mass-producing glassware was invented. The result was that people could drink beer from glasses. Not surprisingly, people did not take pleasure in seeing the dark brown bear color. So naturally not 10 years later and your beer was invented in there by Pilsen.*
-- *According to the UK government, more than 5000 people are touched with class and bottles every year, costing an estimated £2 billion to surgically repair the injuries.*
-- *The biggest 'natural' diamond ever found was extracted from the Callion mine in 1907 and was the size of a football.*
-- *Diamond derives from Greek 'Adamas' meaning unalterable or unbreakable*
-- *De Beers controlled 90% of the world's diamond production in 1902.*
-- *Graphite is soft because of its weak van der Waals forces.*
-- *Sapphires are aluminum oxide with ion impurities and rubies are aluminum oxide with chromium impurities*
-- *Bessemer process: the process of making cheap steel.*
-- *Gillette (King Camp first name) used the Bessemer process to create disposable razors.*
-- *Stainless steel was created by accident, Harry Brearly discovered a steel chromium aloe that lay in a rusted pile in great condition. Chromium oxide sticks really well to the steel and creates a protective layer.*
-- *Paper turns yellow as the lignin reacts with oxygen.*
-- *Graphite was mistaken for lead and was called plumbago or black lead hence the name lead pencil.*
-- *Diamonds do not conduct electricity because of atomic structure, there are no electrons free to move and conduct electricity.*
-- *The hardest material known to man is called lonsdaleite.*
-- *Carbon nanotubes have the highest strength-to-weight ratio in the world.*
-- *Graphene is a single layer of graphite that has extraordinary capabilities.  It's the thinnest, stiffest, strongest material in the world and conducts heat faster and carries electricity faster and with less resistance.*
-- *Ceramics are impervious to UV degradation or chemical attacks.*
-- *Aging is the natural entropy of the body.*
-- *Eight elements make up 98.8% of the mass of the earth. Iron, oxygen, silicon, magnesium, sulfur, nickel, calcium and aluminum.*
+
 ### Chaos
 **James Gleick**
 - *Classic physics can be seen as mankind's trivial attempt at fitting the universe to our primitive monkey brain.*
@@ -656,7 +617,7 @@ Auditable: As close to the real world as possible.*
 - *Most of those who quit the Navy Seals training did so during breakfast or lunch. They quit because they feared they would fail.
 The third best indicator of success in the Navy Seal training was being on the water polo team. The second best was being on the wrestling team, but the top indicator was a high school level of expertise in chess.*
 - *Myopia: Short-sightedness*
-### Begining of Infinity
+### Beginning of Infinity
 **David Deutch**
 - *Transmutations: Changing a chemical element into another (Hydrogen -> Helium)*
 - *Modern telescopes can see more galaxies than there are stars in our own galaxy.*
@@ -735,7 +696,7 @@ The third best indicator of success in the Navy Seal training was being on the w
 **Matt Ridley**
 - *"Aid doesn't work, hasn´t worked, won´t work. It is not part of the solution, it is part of the problem, in fact, it is the problem." - Dambisa Moyo*
 - *One of the reasons Botswana did well was because it experienced little colonial rule. The British took it to hinder the Germans from taking it.*
-### The great Degerneration
+### The great Degeneration
 **Niall Ferguson**
 - *"Inflation is always and everywhere a monetary phenomenon." - Milton Friedman*
 - *Stationary state: Coin by Adam Smith when low wages of majority is coupled by an elitist minority.*
@@ -749,176 +710,19 @@ The third best indicator of success in the Navy Seal training was being on the w
 - *Blue helmets are obligated to follow the rules of their host government, even when that government commits acts of genocide.*
 - *"Governments lie, it is in the nature to do so." - Mort Rosenblum*
 - *"If governments are not deceiving their citizens with a preconceived goal in mind, they are busy deceiving themselves." - Mort Rosenblum*
-### Humanocracy
+### [Humanocracy](Personal/Books/Book%20Reviews/Humanocracy.md)
 **Gary Hammel**
-- *Bureaucracy is like Pornography, it's hard to find anyone than won't pretend to be offended by it but there's a lot of it around."*
-- *Bureaucracy is familiar, complex and systemic, well-defended, serves a purpose and is self-replicating.*
-- *Bureaucracy: from the French bureaucratie, the rule of desks. Coined by Jean-Claude Marie Vincent, a French government Minister in the early 18th century.*
-- *"A long habit of not thinking a thing wrong gives it a superficial appearance of being right." - Thomas Paine*
-- *" We are most alive when we have the experience of mental stimulation, the challenge of new problems to solve, and excitement of venturing into the unknown." - Edmund Phelps, Nobel laureate*
-- *Chinese state-owned enterprises generate 20% of the output but account for 3/4 of all corporate borrowing.*
-- *Market are decentralized and firms are not by definition.*
-- *"When the top guy is the smartest guy in the world, you've got a real problem" - Former GE staffer to Fortune´s Geoff Colvin*
-- *" Nothing kills your culture like layoffs." Kelleher, CEO of Southwest Airlines.*
-- *"All significant breakthroughs are break-withs old ways of thinking." - Thomas Kuhn*
-- *Bureaucracies are set up to produce maximally reliable products, not barely working prototypes.*
-- *Law of requisite variety: If a system is to remain viable, it must be capable of generating a range of responses as diverse as the challenges posed by its environment." - Ross Ashby*
-- *"Although centralization reduces deviation from the norm, making things appear to run more smoothly, it magnifies the consequences of those deviations that do occur. It concentrates turmoil in fewer but more severe episodes, which are disproportionately more harmful than the cumulative small variations." -Taleb/Gergory Treverton*
-- *"One of our principles is to give responsibility to the person that carries out of different task because he knows a lot about it." - Edouard Michelin (Founder of Michelin tires)*
-### Finansplaneten
+
+### [Finansplaneten](Book%20Reviews/Finansplaneten.md)
 **Niall Ferguson**
-- *60 % av dødsfallene blant men i Jivaro stammen i Ecuador er forårsaket av vold.*
-- *Sølv byen Potosì i Peru var en av de viktigste byene i det spanske imperium med en størrelse på mellom 160 til 200.000 innbyggere. 45.000 tonn med en sølv ble hentet ut fra gruvene derifra.*
-- *Valer un Potosì : Verdt en Potosì, spansk utrykk for å være verdt en formue.*
-- *Rente som konsept stammer sannsynligvis fra den naturlige økningen i kvegflokken.*
-- *Kreditt kommer fra latin 'credo' (jeg tror)*
-- *Liber Abaci : Regne kunsten, bok om regne kunsten av Fibonacci. Fibonacci introduserte 10 talls systemet fra arabia samt dobbel bokføring.*
-- *Banco Rosso: penge utlånere fra Venezia som lånte penger fra sine 'Bancos' (benker)*
-- *Getto kommer fra ordet støpe. Jødene i Venezia måtte bosette seg en tomt med et gammelt støperi kjent som 'Getto Nuovo'*
-- *"Bankens funksjon er å bevege penger fra A, der de er til til B, der de trengs" - Lord Rothschild den tredje.*
-- *Condottiere: Leiesoldater i renessansens Italia.*
-- *Monte Commune: Et fjell av kommunal hjelp. Brukt om de italienske bystatenes enorme  obligasjonsgjeld på under rennesansen.*
-- *"Pengene er vår tids gud, og Rothschild er hans profet." - Heinrich Heine (1841)*
-- *Slaget ved Vicksburg i 1863 ble regnet som vendepunktet i den amerikanske borgerkrigen.*
-- *80 % av Liverpools havne import i 1860 var bomull fra sørstatene.*
-- *"Seddelpressen er et maskingevær til finans-kommissariatet som pumpet ild inn i bakenden på det borgelige systemet." - Jergenji Preobrazhenskij*
-- *New Orleans ble kalt opp etter hertugdømmet og byen Orleans for å smigre glemt den til Ludvig den 15., duc d'Orleans*
-- *Lloyd´s-register (Society of Lloyds) ble formet på Lloyds kaffestue på Bourbon Street i London. Det var der forsikringer av handelsskip ble avtalt.*
-- *Spillet monopol ble utviklet av Elisabeth Phillips, tilhenger av den radikale økonomen Henry George. Hensikten med spillet var å avdekke det urettferdige i et samfunnssystem der en liten minoritet eiendomsbesittere profitterte på leien vi mottok fra leieboerne.*
-- *Syvende mars 1932 marsjerte 5000 arbeidere som var sagt opp av Ford motor Company i det Detriot, da de da de nærmet seg River Range port 4 åpnet agenter og bevæpnet politi ild mot arbeiderne fem av arbeiderne ble drept. Noen dager senere sang 60.000 mennesker internasjonalen i begravelsen deres.*
-- *Rachmanisme: Huseiernes utbyttende virksomhet, representert ved Peter Rachman som brukte trusler for å kaste ut leietakerne sine.*
-- *"Den beste måten å rane en bank på er å eie den." - William Crawford*
-- *NINJA-lån: No Incomome, No job or Assets. Veldig risikable lån gitt før finanskrisen i 2007.*
-- *Da Hernando de Soto prøvde å få tillatelse til å bygge et hus på offentlig grunn, tok det seks år og 11 måneder å få godkjennelse i Peru. Da hadde søknaden vært innom 52 forskjellige offentlige etater.*
-- *"Eiendomsrett vil til slutt føre til demokrati, for du kan ikke opprettholde et Markedsorientertsystem for omsetning av eiendom om du ikke har et demokratisk system." - Hernando de Soto*
-### Serengeti Rules
-**Sean Carrol**
-- *Serengeti: Endless plains*
-- *Smallpox is estimated to have killed as many as 300 million people in the first part of the 20th century.*
-- *The average yield of corn has increased from 32 to 145 bushels per acre.*
-- *The concept of suicidal lemmings was invented by a person who had never seen a lemming in his life. He learned about lemmings by translating a book about lemmings in Norweigan.*
-- *"The cell adapts its work to its wants. It produces only what it needs when it needs it." - Francis Jacob*
-- *Monod´s double growth curve:  Bacteria must adapt to different foods by making enzymes. When having two different sugars in the petri dish, there was a break in the growth curve of bacteria due to the bacteria switching to a new food.*
-- *There are 200 different types and more than 37 trillion cells in the human body.*
-- *Predators affect/stabilize communities by negatively regulating the population densities of the competitively dominant species.*
-- *Kick it and see biology: remove predators and watch of prey population behave. An example of this was removing wolves from Yellowstone.*
-- *When otters were decimated by fur hunters on the coast of California, sea-urchin started to multiply and live behind barren lands where there once was kelp forrests. When otters were re-introduced algae forest started to grow again.*
-- *Trophic cascades: strong top-down effect when removing a species from a food chain.*
-- *Pathogens act as keystone species, disproportionately affecting populations.*
-- *In Serengeti, animal the body mass correlates negatively with predation, sharp drop in predation levels at around 150 kg for the prey.*
-- *Predators cannot follow herds, as they are confined to territories to raise and protect their young, therefore migratory prey usually have a larger size than non-migratory.*
-- *Serengeti rules: 
-Keystone species: Not all species are equal. Some species exert effects on the stability of the community that are not proportional to their biomass or numbers.
-Some species mediate strong indirect effects through trophic cascades.
-Competition: Some species compete for common resources. Species that compete for space, food or habitat can regulate the abundance of other species.
-Body size affects mode of regulation. Smaller animals are regulated by predators and larger animals by food supply.
-Density: regulation of some species depends upon their density
-Migration increases animal numbers by increasing access to food (reducing bottom-up regulation) and decreasing susceptibility to predation (reducing top-down regulation).*
-- *Keystone species: Not all species are equal. Some species exert effects on the stability of the community that are not proportional to their biomass or numbers.*
-- *Some species mediate strong indirect effects through trophic cascades.*
-- *Competition: Some species compete for common resources. Species that compete for space, food or habitat can regulate the abundance of other species.*
-- *Body size affects mode of regulation. Smaller animals are regulated by predators and larger animals by food supply.*
-- *Density: regulation of some species depends upon their density*
-- *Migration increases animal numbers by increasing access to food (reducing bottom-up regulation) and decreasing susceptibility to predation (reducing top-down regulation).*
-- *"It is failures in the regulation of numbers of animals which form by far the biggest part of present-day economic problems in the field. " - Charles Elton*
-- *In Bangladesh, Vietnam and Cambodia rice provides over 60% of daily calorie intake.*
-- *In 1976 Indonesia, pestilence swept the rice fields. An insect called brown planthopper devastated the rice fields. 350,000 tons of rice were lost, enough to feed 3 million people over an entire year. When treated with pesticides, the insect population increased 800-fold. This was due to a multitude of factors: 
-The insect had evolved resistance to commonly applied pesticides.
-The pesticides actually increased the rate of egg-laying by about 2.5 fold
-The pesticides killed wolf spiders and other natural predators of the brown planthoppers. Kill the predators and the prey runs amok.*
-- *The insect had evolved resistance to commonly applied pesticides.*
-- *The pesticides actually increased the rate of egg-laying by about 2.5 fold*
-- *The pesticides killed wolf spiders and other natural predators of the brown planthoppers. Kill the predators and the prey runs amok.*
-- *In Ghana Olive Baboons are considered a major pest due to them stealing food from the fields. Consider them a “baboonic” plague :)
-A lot of the reason for this was the poaching of the predators that feed on the baboons.*
-- *Limnonology:  The study of lakes.*
-- *Ecosystem carrying capacity: How much animal biomass can be sustained by the food and water present.*
-- *"Wisdom is the daughter of experience." - Leonardo da Vinci*
-- *"Solutions rests on good science, but implementation rests on good management." - Bill Foege (epidemiologist credited on the eradication of smallpox campaign) in his book House on Fire.*
-- *In a meeting in Kenya in 1978 the director-general of the world health organization (WHO) asked Henderson (Donald, in charge of smallpox vaccination) what the next disease to be eradicated was. Henderson grabbed the mic and said the next deceased to be eradicated yes bad management.*
-- *WHO's director-general opposed the smallpox eradication program and even UNICEF refused to fund it.*
-- *Play the last person to have been affected with smallpox virus in Somalia was healthcare worker Ali Maow Maalin, he had not taken the smallpox vaccine because he was scared of the needle. "It looked like the shot hurt!" Maalin now works with the polio vaccination program in Somalia; "To ensure Somalia will not be the nation with the last polio case."*
-### UltraLearning
+
+### [Serengeti Rules](Book%20Reviews/Serengeti%20Rules.md)
+
+### [UltraLearning](Book%20Reviews/UltraLearning.md)
 **Scott H. Young**
-- *"Everyone has a plan until they get punched in the mouth." - Mike Tyson*
-- *"Now I will have less distraction." - Leonhard Euler, Mathematician upon losing sight in his right eye.*
-- *"Memory is the residue of thought" - David Willingham, a cognitive psychologist*
-- *Feynman Technique:
-Write down the concept or problem you won't understand at the top of a piece of paper.
-In the space below, explain the idea did as if you had to teach it to someone else.     
-If it is a concept, ask yourself how you would convey the idea to someone who's never heard of it before.
-If it is a problem, explain how to solve it and, crucially, why that's solution procedure makes sense.
-When you get stuck, meaning your understanding fails to provide a clear answer, go back to your book or test or teacher or reference material to find the answer.*
-- *Write down the concept or problem you won't understand at the top of a piece of paper.*
-- *In the space below, explain the idea did as if you had to teach it to someone else.     
-If it is a concept, ask yourself how you would convey the idea to someone who's never heard of it before.
-If it is a problem, explain how to solve it and, crucially, why that's solution procedure makes sense.*
-- *If it is a concept, ask yourself how you would convey the idea to someone who's never heard of it before.*
-- *If it is a problem, explain how to solve it and, crucially, why that's solution procedure makes sense.*
-- *When you get stuck, meaning your understanding fails to provide a clear answer, go back to your book or test or teacher or reference material to find the answer.*
-- *The crux of the Feynman technique is that it tries to dispel the illusion of explanatory depth. Many of our understandings are never articulated, it is easy to think you understand something you don't.*
-- *Principles of Ultralearning:
-Meta-learning: First draw a map of what you want to learn.
-Learn how you will learn, do your research on resources and tools that will help you achieve your learning outcome.
-Focus: Sharpen your knife. 
-Find the time to learn and concentrate.
-Directness: Go straight ahead. 
-Focus on the thing you want to learn. Remove all secondary and trivial learning activities.
-Drill: Attack your weakest point.
-Break down complex skills into small parts and focus to improve your weakest points.
-Retrieval: Test to learn.
-Test yourself before you feel ready. Push yourself to actively recall information rather than possibly review material.
-Feedback: Don't dodge the punches. 
-Extract the signal from noise, don't be afraid of harsh feedback.
-Retention: Don't fill a leaky bucket. 
-Understand what you are forgetting and why.
-Intuition: Dig deep before building up. Understand how understanding works, not memorization.
-Experimentation: Explore outside your comfort zone.
- True understanding comes from exploring and experimenting on your own.*
-- *Meta-learning: First draw a map of what you want to learn.
-Learn how you will learn, do your research on resources and tools that will help you achieve your learning outcome.*
-- *Focus: Sharpen your knife. 
-Find the time to learn and concentrate.*
-- *Directness: Go straight ahead. 
-Focus on the thing you want to learn. Remove all secondary and trivial learning activities.*
-- *Drill: Attack your weakest point.
-Break down complex skills into small parts and focus to improve your weakest points.*
-- *Retrieval: Test to learn.
-Test yourself before you feel ready. Push yourself to actively recall information rather than possibly review material.*
-- *Feedback: Don't dodge the punches. 
-Extract the signal from noise, don't be afraid of harsh feedback.*
-- *Retention: Don't fill a leaky bucket. 
-Understand what you are forgetting and why.*
-- *Intuition: Dig deep before building up. Understand how understanding works, not memorization.*
-- *Experimentation: Explore outside your comfort zone.
- True understanding comes from exploring and experimenting on your own.*
-### The Evolution of Everything
-**Matt Ridley**
-- *Evolution originally meant unfolding.*
-- *If there is one dominant myth about the world, it is that we all go around assuming the world is much more of a planned place than it is.*
-- *Soviet-Harvard illusion: N.N. Taleb defines the Soviet-Harvard illusion as lecturing birds on flight and thinking about the lecture caused their skill of flying.*
-- *"Laws in their most general signification, are necessary relations arising from the nature of things." - Montesquieu*
-- *Life adapted to the laws of physics, not vice versa. It is therefore laughable to think of the divinity of the creation of life on earth.*
-- *"The more prohibitions you have, the less virtuous people will be." - Lao Tzu, philosopher*
-- *"Participation in Capitalist markets and bourgeois virtues civilized the world." - Diedre McCloskey*
-- *RNA can both store information (like DNA), and catalyze reactions (like proteins)*
-- *"How does one feed Paris?" - Rhetorical question posed by Bastiat in Economic Harmonies. He implies that it is impossible to plan such a thing.*
-- *For the economy to be anti-fragile, the individual firms must be fragile. The restaurant business is the robust because individual restaurants are short-lived and vulnerable. N.N. Taleb's dictum on business and fragility.*
-- *Dictum: Noteworthy statement.*
-- *"Things will happen in a well-organized effort without direction, controls or plans. That's the consensus among economists." - Larry Summers*
-- *Trade can be thought of as sex between ideas. The merging of product/thoughts to become better adapted to solve the problem.*
-- *"People of the same trade selldom meeet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public or some contrivance to raise prices." - Adam Smith*
-- *Kryder's law: The cost per performance of a hard disk computer is rising exponentially, at 40 % per year.*
-- *If the government spends money on the wrong kind of science, it tends to stop people from working on the right kind of science.*
-- *"A puppet is free so long he loves his strings." - Sam Harris*
-- *Cartesian dualism: Two kinds of foundation, mental and physical. Also known as mind-body dualism or substance dualism.*
-- *The modern educational system can be traced back to 1806, after Napoleon defeated Prussia. Prussia then went with intellectual Wilhelm von Hubolt to create a system for educating good soldiers.*
-- *When Britain started with compulsory education in 1880 almost the entire population was literate (90 % of both sexes in 1870)*
-- *In 1877 the British colonial rulers in India, 'created' a family that killed 10 million people. In response to a draught, the government created camps where the hungry were fed with rations containing fewer calories than in Nazi concentration camps.*
-- *General William Draper, head of the commission on foreign aid reported to Eisenhower in 1959 that age should be tied explicitly to birth control, in order to decrease the supply of recruits to communism. Neither Eisenhower nor his successor Kennedy brought into this idea. However, Draper and his allies got endorsed in 1966 by Lyndon B. Johnson and population control became an official part of the US aid budget.*
-- *Indira Gandhi had to implement sterilization campaigns to receive aid from the US. 8 million Indians were sterilized as a consequence.*
-- *Childbirth and hunger/diseases are classic cases of backward causality. Higher childbirth rates are a cause of high child death rates.*
-- *Epiphenomena: Secondary effect or by-product.
+
+### [The Evolution of Everything](Book%20Reviews/The%20Evolution%20of%20Everything.md)
+
 ### Other Quotes
 - *Effrontery: Insolent or impertinent behavior.*
 - *Gresham's law: Bad money drives out good. The coin of cheaper metals will replace coins of more expensive metals.*

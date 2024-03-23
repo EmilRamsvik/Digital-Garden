@@ -11,7 +11,7 @@ tags:
   - entropy
 Finished: false
 created: 2023-08-08T12:52:00
-updated: 2024-01-07T17:10
+updated: 2024-03-18T21:21
 ---
 
 
@@ -29,8 +29,11 @@ I find the chaotic process infinitely fascinating, it is the process of creating
 - [Entropy in Engineering Processes](https://logical.li/blog/entropy/)
 - [Boundaries of predictability](https://azeemba.com/posts/boundaries-of-predictability.html)
 
+
 # Thoughts 
 - Having a solid understanding of chaos and unpredictability is one of the most powerful mental models for understanding the world. 
-- The real world is non-linear.  You need to understand non-linearity in order to comprehend the world. 
+- The real world is non-linear.  You need to understand non-linearity to comprehend the world. 
+- *A pattern is as complex as the length of the shortest description that can be used to produce it* - Andrei Kolmogorov
+- 
 
 

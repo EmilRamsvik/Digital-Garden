@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-07T13:59
+updated: 2024-03-22T17:15
 tags:
   - article
   - digital-garden
@@ -19,6 +19,10 @@ The term _**systemantics**_ is a commentary on prior work by [Alfred Korzybsk
 2. Everything is part of a larger system.
 3. The universe is infinitely systematized, both upward (larger systems) and downward (smaller systems).
 4. All systems are infinitely complex.
+
+## Reading list for System Thinkers
+First, i think the best way to start is the book [Systematics](../Books/Book%20Reviews/Systematics.md), as it is short and concise and really hammers down the point of system thinking. Then, I think a deeper exercise would be to take on [Thinking in Systems](../Books/Book%20Reviews/Thinking%20in%20Systems.md), as it is more technical in nature and explains the core concepts well. After that, reading [The Fifth Discipline](../Books/Book%20Reviews/The%20Fifth%20Discipline.md) is a nice follow up, where the focus is more on the organization in the system thinking context. 
+
 # Links
 - [The purpose of a system is what it does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does).
 - [Systematics](https://www.biodigitaljazz.net/blog/systemantics.html)

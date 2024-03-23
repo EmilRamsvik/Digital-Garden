@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-03-12T11:47
+updated: 2024-03-22T18:04
 ---
 # Booklist 2024 
  
@@ -216,7 +216,7 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 304
 *Language*: English 
 
-#### Material World
+#### [Material World](Book%20Reviews/Material%20World.md)
 *Author:* Ed Conway
 *Pages*: 512
 *Language*: English 
@@ -341,7 +341,7 @@ _Author:_ Richard Rumelt
 _Pages:_ 336
 _Language:_ English
 
-#### The Fifth Discipline
+#### [The Fifth Discipline](Book%20Reviews/The%20Fifth%20Discipline.md)
 _Author:_ Peter Senge
 _Pages:_ 445
 _Language:_ English
@@ -376,4 +376,9 @@ _Language:_ English
 #### Turn the Ship Around
 _Author:_ David Marquet
 _Pages:_ 
+_Language:_ English
+
+#### Data Engineering with dbt
+_Author:_ Roberto Zagni
+_Pages:_ 583
 _Language:_ English

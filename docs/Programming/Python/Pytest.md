@@ -8,7 +8,7 @@ tags:
   - programming
 Finished: false
 created: 2023-06-04T13:18:00
-updated: 2024-03-07T14:02
+updated: 2024-03-23T09:42
 ---
 # Pytest
 
@@ -60,7 +60,8 @@ def test_database_function():
 5. `@pytest.mark.usefixtures`: Specifies that a test function should use a fixture, even if the fixture isn't passed in as an argument. 
 
 # FastAPI
-#unfinished 
+FastAPi has its own test functionality. It preserves many states, like authentication, and makes it much easier to test. I think it is nice to create a new project and play around with testing a lot. 
+One of the hardest, or maybe not hardest, but definitely most cumbersome things to get good at is authentication and state management. This leads to a lot of issues.  So, I recommend trying a bit without those issues to learn the basics. 
 
 
 # Links

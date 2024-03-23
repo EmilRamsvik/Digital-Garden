@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-02-15T08:37
+updated: 2024-03-20T20:11
 ---
 # Articles
 
@@ -24,6 +24,7 @@ List of interesting articles. I'm looking forward to seeing some of the articles
 - [Long Form Reads](https://www.danhock.com/long-form-reads)
 - [List of Hacker News Personal Blogs](https://github.com/outcoldman/hackernews-personal-blogs)
 - [Dan Luu Blog, Software mostly](https://danluu.com/)
+
 
 
 
@@ -45,7 +46,8 @@ Blogs that I have discovered are here:
 #### [Lucidity](https://ludic.mataroa.blog/) 
 *About*: Programming, rage, funny blog about everything. 
 
-
+#### [Patrick Mackenzie](https://www.kalzumeus.com/) 
+*About:* Some software, some job searching advice and similar. 
 
 # Thoughts 
 - I think a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-29T20:43
+updated: 2024-03-20T19:31
 tags:
   - places
   - travel
@@ -17,6 +17,7 @@ Here I write about places I have visited, what I liked and other things.
 [Bali](Bali.md)
 [Laos](Laos.md)
 [Singapore](Singapore.md)
+[Italy](Personal/Travel/Places/Italy.md)
 
 # Links
 - 

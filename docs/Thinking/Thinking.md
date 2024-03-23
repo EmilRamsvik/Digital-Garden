@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-07T13:30
+updated: 2024-03-18T21:21
 tags:
   - article
   - digital-garden
@@ -24,6 +24,7 @@ Here, I write about ways of thinking about the world and the whys and hows. I am
 - [Notes on psychology with practical applications](https://effectiviology.com/)
 - [Ambition Essay Narration by David Whyte](https://www.youtube.com/watch?v=IygDX7Vdql0)
 - [90 percent of everything is crap](https://simple.wikipedia.org/wiki/Sturgeon%27s_law)
+- [Four Ways of Thinking](https://www.youtube.com/watch?v=PPCfDe8TfJQ&ab_channel=OxfordMathematics)
 
 
 ## Friction in Organisations 

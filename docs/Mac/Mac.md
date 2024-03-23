@@ -8,15 +8,15 @@ tags:
   - work
   - productivity
 created: 2023-06-01T15:36:00
-updated: 2024-03-07T13:36
+updated: 2024-03-22T21:50
 ---
 
 # Mac
 I switched from Windows to Mac in 2021 and used it privately until 2022 when I switched to a Mac for work as well. 
 
-I consider the switch one of the best technical career moves I have ever made. 
+I consider the switch one of the best technical career moves ever. 
 
-
+Sometimes, I feel a bit overwhelmed by functionalities that I don't use and am not familiar with.  It happens quite a lot that some random functionality, the hot corners come as a good example here just interrupts my flow. 
 
 
 ## Apps
@@ -31,6 +31,10 @@ Rectangle is for window management, I use it together with [Karabiner](Karabiner
 ### [Bear](https://bear.app/)
 Bear is a markdown editor. 
 It is nice to have as an alternative to [Obsidian](Obsidian.md), and one of the reasons I quite like it is because it is easy for me to just have it and only it as a writing tool. It is on a freemium plan and to be honest the feature i was looking for, the ability to export to .pdf formats is quite bad. 
+
+
+## [Obsidian](../Obsidian/Obsidian.md)
+
 
 # Links
 - [Useful Mac Command Line Tools](https://saurabhs.org/advanced-macos-commands)
