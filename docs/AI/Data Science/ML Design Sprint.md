@@ -1,5 +1,5 @@
 ---
-Finished: false
+Finished: true
 tags:
   - machine-learning
   - data-science
@@ -7,7 +7,7 @@ tags:
   - workshop
   - "#ideating"
 created: 2023-04-23T15:04:00
-updated: 2024-01-07T15:43
+updated: 2024-03-23T17:56
 ---
 
 

@@ -9,10 +9,12 @@ tags:
   - "#sapporo"
 finished: true
 Date Started: 2023-12-17
+created: 2023-12-19T08:07
+updated: 2024-03-23T17:51
 ---
 
 
-# Description
+# Sapporo and Niseko
 Sapporo is a city in Hokkaido Japan. It is very far north, and it is cold there. It is also an excellent place to go skiing.  Sapporo is quite a big City, Niseko is more of a village with skiing slopes and some large resorts nearby. 
 
 ## Best Experiences

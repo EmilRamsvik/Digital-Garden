@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-22T17:15
+updated: 2024-03-23T17:55
 tags:
   - article
   - digital-garden
@@ -28,8 +28,11 @@ First, i think the best way to start is the book [Systematics](../Books/Book%20R
 - [Systematics](https://www.biodigitaljazz.net/blog/systemantics.html)
 - [Shirky Principle](https://effectiviology.com/shirky-principle/)
 - [How to change a system](https://news.ycombinator.com/item?id=39510292)
-j
+
 # Thoughts 
-- 
+- I would like to be better at system thinking, but I lack the experience and training. How to get this training?
+
+
+
 
 

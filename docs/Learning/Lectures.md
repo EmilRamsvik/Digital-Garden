@@ -8,7 +8,7 @@ tags:
   - lectures
   - courses
 created: 2023-06-30T11:30
-updated: 2024-01-07T17:52
+updated: 2024-03-23T18:01
 ---
 
 
@@ -17,7 +17,7 @@ updated: 2024-01-07T17:52
 
 I try to use lectures on YouTube as a form of podcast, where I can listen to the lecturer while doing other things. I think this system is very good when it comes to most of the historical philosophical and social sciences; sometimes, it works okay for economics as well. I have not tried too much to listen to technical, mathematical, or engineering lectures. 
 
-
+Lectures that can be listended to is much easier than the ones that are 
 # Lecture List
 
 
@@ -69,8 +69,13 @@ I have not looked much into this course as of yet.  But I like the premise very 
 ### [The Missing Semester](https://youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&si=6zSz61FNEL96WH5C) 
 This course is a super smart way for people who know the basics of programming to get a super quick head start to the CS and the world of computer science and the things you don't learn in classes. 
 
+
+
+### [Behavioral Biology](https://youtube.com/playlist?list=PL848F2368C90DDC3D&si=62zr40Xla7DbIJOf)
+It is an interesting lecture series about cognitive neuroscience and how it influences the difference. Dr. Robert Sapolsky is a facinating and good lecturer, which makes the subject much more interesting. 
+
 # Links
-- [Hacker News- Which Courses had the most inpact on you?](https://news.ycombinator.com/item?id=34637678)
+- [Hacker News- Which Courses had the most impact on you?](https://news.ycombinator.com/item?id=34637678)
 
 # Thoughts 
 - Open Culture has an interesting list of YouTube channels [Link](https://www.openculture.com/smartyoutube)

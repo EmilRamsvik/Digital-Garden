@@ -7,7 +7,7 @@ tags:
   - productivity
   - software/tools
 created: 2024-01-06T15:01
-updated: 2024-03-07T13:38
+updated: 2024-03-23T18:16
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -59,14 +59,18 @@ The disadvantages are:
 # Kitchen Tools
 Tools I use for the kitchen are in the [[Equipment]] section. 
 
-## [[Mac]]
+## [Mac](../Mac/Mac.md)
 I have a Mac for both personal use and work. It is an excellent investment and vastly superior to Windows machines. More info on the Mac and usage can be found in the [[Mac]] section. Switching to Mac is one of the best career decisions I have made. 
 
 
-## [[Iphone]]
-I use an iPhone as my smartphone of choice. It is a good option, and the user-friendliness is fantastic. I especially like how the compatibility with Mac is excellent. 
+## [Iphone](../Iphone/Iphone.md)
+I use an iPhone as my smartphone of choice. It is a good option, and the user-friendliness is fantastic. I especially like the excellent compatibility with Mac. 
 The apps I use with my iPhone can be found in the [[Apps]] section. 
-I think that I will use more and more Apple eco-system products because of how easy it is to work across devices and 
+I think I will use more and more Apple ecosystem products because they are easy to work with across devices. 
+
+
+## Airpods Pro
+After using another small type of cordless headphones for exercise and movement, I bit the bullet and bought Airpods Pro. 
 
 # Links
 - [Hacker News Thread on Tools.](https://news.ycombinator.com/item?id=31914087)
