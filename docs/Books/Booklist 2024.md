@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-03-22T18:04
+updated: 2024-04-02T18:49
 ---
 # Booklist 2024 
  
@@ -355,7 +355,6 @@ _Author:_ John Gall
 _Pages:_ 111
 _Language:_ English
 
-
 #### Understanding Michael Porter
 _Author:_ Joan Magretta
 _Pages:_ 245
@@ -367,7 +366,7 @@ _Pages:_ 334
 _Language:_ English
 
 
-#### Managing Humans
+#### [Managing Humans](Book%20Reviews/Managing%20Humans.md)
 _Author:_ Michael Loop
 _Pages:_ 281
 _Language:_ English
@@ -382,3 +381,23 @@ _Language:_ English
 _Author:_ Roberto Zagni
 _Pages:_ 583
 _Language:_ English
+
+
+#### [Never Split the Difference](Book%20Reviews/Never%20Split%20the%20Difference.md)
+_Author:_ Chris Voss
+_Pages:_ 288
+_Language:_ English
+
+
+#### [Seeing Like a State](Book%20Reviews/Seeing%20Like%20a%20State.md)
+_Author:_ Peter Senge
+_Pages:_ 445
+_Language:_ English
+
+#### Moral Mazes 
+_Author:_ 
+_Pages:_ 
+_Language:_ English
+
+
+

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-03-22T17:23
+updated: 2024-04-05T14:17
 Pages: 368
 Author: Matt Ridley
 finished: true
@@ -13,7 +13,7 @@ tags:
   - society
   - progress
 ---
-# ### The Evolution of Everything
+#  The Evolution of Everything
 
 
 # 🚀 The Book in 3 Sentences

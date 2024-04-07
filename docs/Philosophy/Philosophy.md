@@ -1,6 +1,6 @@
 ---
 Date Started: 2023-05-23
-Finished: false
+Finished: true
 tags:
   - article
   - philosophy
@@ -10,7 +10,7 @@ tags:
   - post-modernism
   - science
 created: 2023-06-21T04:55
-updated: 2024-01-07T17:52
+updated: 2024-04-05T08:05
 ---
 # Philosophy 
 

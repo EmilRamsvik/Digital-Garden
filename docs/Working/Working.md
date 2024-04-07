@@ -8,7 +8,7 @@ tags:
   - job-searching
 Finished: false
 created: 2023-10-15T15:28
-updated: 2024-01-19T08:04
+updated: 2024-04-02T18:46
 ---
 
 # Working
@@ -29,5 +29,6 @@ There is no shame in choosing your passion as your way of making your living, bu
 - When you are having trouble and see that your time at a company is coming to an end, you send out feelers to other places. This might be friends, old colleagues, etc.  But when interviewing, it should be in tip-top shape.  When interviewing, you should look for clues, how the people greet you when you arrive and how easy it is to ask for things. This includes you as well. [Bar Raiser](https://www.aboutamazon.eu/news/working-at-amazon/what-is-a-bar-raiser-at-amazon). One of the things that impressed me about a job offer one time was that all the people I had talked with reached out and congratulated me on the job offer; it was an important thing that really struck me as a positive aspect. 
 - If you look at a business not as a collective of people working towards a goal or product but rather as a bunch of kings and queens scrabbling over power and influence, things usually make more sense. 
 - You are always replaceable. 
+-  In a work-to rule action (the French call it *greve du zele*), employees begin doing their jobs by meticulously observing every one of the rules and regulations and performing only the duties stated in their job descriptions
 
 

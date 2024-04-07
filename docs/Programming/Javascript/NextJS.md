@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-19T10:24
+updated: 2024-04-02T19:28
 tags:
   - article
   - digital-garden
@@ -32,6 +32,6 @@ There may be cases where you need those specific behaviors, and templates would 
 - 
 
 # Thoughts 
-- 
+- Authentication is also difficult in NextJS.
 
 

@@ -5,7 +5,7 @@ tags:
   - books
   - "#quotes"
 created: 2024-01-06T15:04
-updated: 2024-01-30T14:45
+updated: 2024-04-02T18:50
 ---
 
 # Book Quotes 2022
@@ -14,11 +14,11 @@ updated: 2024-01-30T14:45
 _Author:_ Daniel Kahneman 
 _Pages:_ 464
 _Language:_ Norwegian
-- *En studie av flere tusen dommere fra barne- og ungdomsdomstoler viste at tiltalte fikk hardere straff på mandager etter det lokale fotball-laget tapte en ellers*
+- *En studie av flere tusen dommere fra barne- og ungdomsdomstoler viste at tiltalte fikk hardere straff på mandager etter det lokale fotball-laget tapte enn ellers*
 - *Naiv realisme: Antakelsen av at resten av verden ser på den slik jeg gjør. Ego Sentrisk*
 - *Ex ante - I forkant*
-- Spillerens villfarelselser, en kognitiv skjevhet der en har en tendens til å å undervurdere sannsynligheten for at en sier oppstår tilfeldig. 
-- Beinbryddets unntak - Brukt for å illustrere at det er viktig for besultningstakere å vite når de skal overstyre en model. Eksempelet er at en ikke sakl tro en med brukket ben kommer til å gå på kino selv om en model tilsier det ut ifra andre parametere etc. 
+- *Spillerens villfarelselser, en kognitiv skjevhet der en har en tendens til å å undervurdere sannsynligheten for at en sier oppstår tilfeldig.* 
+- *Beinbryddets unntak - Brukt for å illustrere at det er viktig for besultningstakere å vite når de skal overstyre en model. Eksempelet er at en ikke sakl tro en med brukket ben kommer til å gå på kino selv om en model tilsier det ut ifra andre parametere etc.* 
 
 
 #### Fremskritt
