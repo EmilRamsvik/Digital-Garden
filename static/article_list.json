@@ -1,0 +1,245 @@
+[
+  {"path": "docs/Music", "title": "Music"}
+,  {"path": "docs/Music/Discover%20and%20Sharing", "title": "Discover and Sharing"}
+,  {"path": "docs/Database/Snowflake", "title": "Snowflake"}
+,  {"path": "docs/Database/Postgres", "title": "Postgres"}
+,  {"path": "docs/Database", "title": "Database"}
+,  {"path": "docs/Design", "title": "Design"}
+,  {"path": "docs/Career", "title": "Career"}
+,  {"path": "docs/DevOps/Git", "title": "Git"}
+,  {"path": "docs/DevOps", "title": "DevOps"}
+,  {"path": "docs/DevOps/GitHub%20Actions", "title": "GitHub Actions"}
+,  {"path": "docs/Tools/ChatGPT", "title": "ChatGPT"}
+,  {"path": "docs/Tools", "title": "Tools"}
+,  {"path": "docs/CyberSecurity", "title": "CyberSecurity"}
+,  {"path": "docs/Personal", "title": "Personal"}
+,  {"path": "docs/Living/Home", "title": "Home"}
+,  {"path": "docs/Living", "title": "Living"}
+,  {"path": "docs/Learning", "title": "Learning"}
+,  {"path": "docs/Learning/Talks", "title": "Talks"}
+,  {"path": "docs/Learning/Lectures", "title": "Lectures"}
+,  {"path": "docs/Articles", "title": "Articles"}
+,  {"path": "docs/Entertainment/TV-Shows/Mad%20Men", "title": "Mad Men"}
+,  {"path": "docs/Entertainment/TV-Shows", "title": "TV-Shows"}
+,  {"path": "docs/Entertainment/TV-Shows/The%20Wire", "title": "The Wire"}
+,  {"path": "docs/Body", "title": "Body"}
+,  {"path": "docs/Body/Health", "title": "Health"}
+,  {"path": "docs/Mathematics/Statistics", "title": "Statistics"}
+,  {"path": "docs/Mathematics", "title": "Mathematics"}
+,  {"path": "docs/Mathematics/Chaos", "title": "Chaos"}
+,  {"path": "docs/Language", "title": "Language"}
+,  {"path": "docs/Working/Management", "title": "Management"}
+,  {"path": "docs/Working", "title": "Working"}
+,  {"path": "docs/Working/Remote%20Work", "title": "Remote Work"}
+,  {"path": "docs/Working/Agile", "title": "Agile"}
+,  {"path": "docs/Working/Job%20Searcing", "title": "Job Searcing"}
+,  {"path": "docs/About/Education", "title": "Education"}
+,  {"path": "docs/About/Other", "title": "Other"}
+,  {"path": "docs/About", "title": "About"}
+,  {"path": "docs/Books/Book%20Quotes%202021", "title": "Book Quotes 2021"}
+,  {"path": "docs/Books/Literature", "title": "Literature"}
+,  {"path": "docs/Books/Literature/Poems", "title": "Poems"}
+,  {"path": "docs/Books/Booklist%202024", "title": "Booklist 2024"}
+,  {"path": "docs/Books/Booklist%202023", "title": "Booklist 2023"}
+,  {"path": "docs/Books/Book%20Reviews/Slaughterhouse%20Five", "title": "Slaughterhouse Five"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Capitalist%20Manifesto", "title": "The Capitalist Manifesto"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Box%20How%20the%20Shipping%20Container%20Made%20the%20World%20Smaller%20and%20the%20World%20Economy%20Bigger", "title": "The Box How the Shipping Container Made the World Smaller and the World Economy Bigger"}
+,  {"path": "docs/Books/Book%20Reviews/Hitch%2022", "title": "Hitch 22"}
+,  {"path": "docs/Books/Book%20Reviews/A%20Field%20Guide%20to%20Lies", "title": "A Field Guide to Lies"}
+,  {"path": "docs/Books/Book%20Reviews/Python%20Tricks", "title": "Python Tricks"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Stranger", "title": "The Stranger"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Dictator's%20Handbook", "title": "The Dictator's Handbook"}
+,  {"path": "docs/Books/Book%20Reviews/Fundamentals%20of%20Data%20Engineering", "title": "Fundamentals of Data Engineering"}
+,  {"path": "docs/Books/Book%20Reviews/Fifteen%20Hours", "title": "Fifteen Hours"}
+,  {"path": "docs/Books/Book%20Reviews/Red%20Country", "title": "Red Country"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Trusted%20Advisor", "title": "The Trusted Advisor"}
+,  {"path": "docs/Books/Book%20Reviews/How%20the%20war%20was%20Won", "title": "How the war was Won"}
+,  {"path": "docs/Books/Book%20Reviews/Payments%20Systems%20in%20the%20US", "title": "Payments Systems in the US"}
+,  {"path": "docs/Books/Book%20Reviews/Breath", "title": "Breath"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Managers%20Path", "title": "The Managers Path"}
+,  {"path": "docs/Books/Book%20Reviews/A%20Mind%20for%20Numbers%20How%20to%20Excel%20at%20Math%20and%20Science", "title": "A Mind for Numbers How to Excel at Math and Science"}
+,  {"path": "docs/Books/Book%20Reviews/Pricing%20and%20Revenue%20Optimization", "title": "Pricing and Revenue Optimization"}
+,  {"path": "docs/Books/Book%20Reviews/Material%20World", "title": "Material World"}
+,  {"path": "docs/Books/Book%20Reviews/How%20Big%20Things%20Get%20Done", "title": "How Big Things Get Done"}
+,  {"path": "docs/Books/Book%20Reviews/Machine%20Learning%20Engineering", "title": "Machine Learning Engineering"}
+,  {"path": "docs/Books/Book%20Reviews/Seeing%20Like%20a%20State", "title": "Seeing Like a State"}
+,  {"path": "docs/Books/Book%20Reviews/Expert%20Python%20Programming", "title": "Expert Python Programming"}
+,  {"path": "docs/Books/Book%20Reviews/The%20blade%20Itself", "title": "The blade Itself"}
+,  {"path": "docs/Books/Book%20Reviews/Kvitekrist", "title": "Kvitekrist"}
+,  {"path": "docs/Books/Book%20Reviews/Peopleware", "title": "Peopleware"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Triumph%20of%20Seeds", "title": "The Triumph of Seeds"}
+,  {"path": "docs/Books/Book%20Reviews/Red%20Famine", "title": "Red Famine"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Evolution%20of%20Everything", "title": "The Evolution of Everything"}
+,  {"path": "docs/Books/Book%20Reviews/Take%20Control%20of%20Automating%20Your%20Mac", "title": "Take Control of Automating Your Mac"}
+,  {"path": "docs/Books/Book%20Reviews/5%20Love%20Languages", "title": "5 Love Languages"}
+,  {"path": "docs/Books/Book%20Reviews/%20Machine%20Learning%20Engineering%20with%20MLflow", "title": " Machine Learning Engineering with MLflow"}
+,  {"path": "docs/Books/Book%20Reviews/Rich%20Dad,%20Poor%20Dad", "title": "Rich Dad, Poor Dad"}
+,  {"path": "docs/Books/Book%20Reviews/Calling%20Bullshit", "title": "Calling Bullshit"}
+,  {"path": "docs/Books/Book%20Reviews/Letters%20to%20a%20Young%20Contrarian", "title": "Letters to a Young Contrarian"}
+,  {"path": "docs/Books/Book%20Reviews/UltraLearning", "title": "UltraLearning"}
+,  {"path": "docs/Books/Book%20Reviews/On%20Palestine", "title": "On Palestine"}
+,  {"path": "docs/Books/Book%20Reviews/Eisenhorn", "title": "Eisenhorn"}
+,  {"path": "docs/Books/Book%20Reviews/Stoner", "title": "Stoner"}
+,  {"path": "docs/Books/Book%20Reviews/Why%20we%20get%20fat%20and%20what%20to%20do%20about%20it", "title": "Why we get fat and what to do about it"}
+,  {"path": "docs/Books/Book%20Reviews/Animal%20Farm", "title": "Animal Farm"}
+,  {"path": "docs/Books/Book%20Reviews/Machine%20Learning%20Design%20Patterns", "title": "Machine Learning Design Patterns"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Man%20from%20the%20Future%20The%20Visionary%20Life%20of%20John%20von%20Neumann", "title": "The Man from the Future The Visionary Life of John von Neumann"}
+,  {"path": "docs/Books/Book%20Reviews/Made%20to%20Stick", "title": "Made to Stick"}
+,  {"path": "docs/Books/Book%20Reviews/Personal%20MBA", "title": "Personal MBA"}
+,  {"path": "docs/Books/Book%20Reviews/Nonviolent%20Communication", "title": "Nonviolent Communication"}
+,  {"path": "docs/Books/Book%20Reviews/Practical%20Recommendation%20Systems", "title": "Practical Recommendation Systems"}
+,  {"path": "docs/Books/Book%20Reviews/Never%20Split%20the%20Difference", "title": "Never Split the Difference"}
+,  {"path": "docs/Books/Book%20Reviews/Word%20by%20Word", "title": "Word by Word"}
+,  {"path": "docs/Books/Book%20Reviews/Your%20Brain%20at%20Work", "title": "Your Brain at Work"}
+,  {"path": "docs/Books/Book%20Reviews/Chip%20War", "title": "Chip War"}
+,  {"path": "docs/Books/Book%20Reviews/Learn%20Google%20Flutter%20Fast", "title": "Learn Google Flutter Fast"}
+,  {"path": "docs/Books/Book%20Reviews/Four%20Thousand%20Weeks%20Time%20Management%20for%20Mortals", "title": "Four Thousand Weeks Time Management for Mortals"}
+,  {"path": "docs/Books/Book%20Reviews/Designing%20Machine%20Learning%20Systems", "title": "Designing Machine Learning Systems"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Wim%20Hof%20Method", "title": "The Wim Hof Method"}
+,  {"path": "docs/Books/Book%20Reviews/Moneyball", "title": "Moneyball"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Case%20Against%20Reality%20Why%20Evolution%20Hid%20the%20Truth%20from%20Our%20Eyes", "title": "The Case Against Reality Why Evolution Hid the Truth from Our Eyes"}
+,  {"path": "docs/Books/Book%20Reviews/Basic%20Economics", "title": "Basic Economics"}
+,  {"path": "docs/Books/Book%20Reviews/Managing%20Humans", "title": "Managing Humans"}
+,  {"path": "docs/Books/Book%20Reviews/97%20Things%20Every%20Programmer%20Should%20Know", "title": "97 Things Every Programmer Should Know"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Creativity%20Code", "title": "The Creativity Code"}
+,  {"path": "docs/Books/Book%20Reviews/Automating%20Your%20Mac", "title": "Automating Your Mac"}
+,  {"path": "docs/Books/Book%20Reviews/I%20Moved%20Your%20Cheese", "title": "I Moved Your Cheese"}
+,  {"path": "docs/Books/Book%20Reviews/Best%20served%20Cold", "title": "Best served Cold"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Quants", "title": "The Quants"}
+,  {"path": "docs/Books/Book%20Reviews/Systematics", "title": "Systematics"}
+,  {"path": "docs/Books/Book%20Reviews/Spark%20The%20Revolutionary%20New%20Science%20of%20Exercise%20and%20the%20Brain", "title": "Spark The Revolutionary New Science of Exercise and the Brain"}
+,  {"path": "docs/Books/Book%20Reviews/Finite%20and%20Infinite%20Games", "title": "Finite and Infinite Games"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Blind%20Watchmaker", "title": "The Blind Watchmaker"}
+,  {"path": "docs/Books/Book%20Reviews/Alchemy", "title": "Alchemy"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Structure%20of%20Scientific%20Revolutions", "title": "The Structure of Scientific Revolutions"}
+,  {"path": "docs/Books/Book%20Reviews/Good%20Strategy%20Bad%20Strategy", "title": "Good Strategy Bad Strategy"}
+,  {"path": "docs/Books/Book%20Reviews/Models", "title": "Models"}
+,  {"path": "docs/Books/Book%20Reviews/Hooked", "title": "Hooked"}
+,  {"path": "docs/Books/Book%20Reviews/Start%20with%20No", "title": "Start with No"}
+,  {"path": "docs/Books/Book%20Reviews/Millennial%20Love", "title": "Millennial Love"}
+,  {"path": "docs/Books/Book%20Reviews/Black%20Boy", "title": "Black Boy"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Brothers%20Karamazov", "title": "The Brothers Karamazov"}
+,  {"path": "docs/Books/Book%20Reviews/Imagined%20Communities", "title": "Imagined Communities"}
+,  {"path": "docs/Books/Book%20Reviews/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance", "title": "Zen & The Art of Motorcycle Maintenance"}
+,  {"path": "docs/Books/Book%20Reviews/Feature%20Engineering%20for%20Machine%20Learning", "title": "Feature Engineering for Machine Learning"}
+,  {"path": "docs/Books/Book%20Reviews/Extreme%20Ownership", "title": "Extreme Ownership"}
+,  {"path": "docs/Books/Book%20Reviews/Why%20Orwell%20Matters", "title": "Why Orwell Matters"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Wisdom%20of%20Crowds", "title": "The Wisdom of Crowds"}
+,  {"path": "docs/Books/Book%20Reviews/Python%20Testing%20with%20pytest", "title": "Python Testing with pytest"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Job%20Closer", "title": "The Job Closer"}
+,  {"path": "docs/Books/Book%20Reviews/A%20Story%20of%20Us", "title": "A Story of Us"}
+,  {"path": "docs/Books/Book%20Reviews/A%20little%20Hatred", "title": "A little Hatred"}
+,  {"path": "docs/Books/Book%20Reviews/Data%20Strategy", "title": "Data Strategy"}
+,  {"path": "docs/Books/Book%20Reviews/Stuff%20Matters", "title": "Stuff Matters"}
+,  {"path": "docs/Books/Book%20Reviews/How%20the%20World%20Really%20Works", "title": "How the World Really Works"}
+,  {"path": "docs/Books/Book%20Reviews/Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20are%20High", "title": "Crucial Conversations Tools for Talking When Stakes are High"}
+,  {"path": "docs/Books/Book%20Reviews/1776", "title": "1776"}
+,  {"path": "docs/Books/Book%20Reviews/Getting%20Started%20with%20Streamlit%20for%20Data%20Science", "title": "Getting Started with Streamlit for Data Science"}
+,  {"path": "docs/Books/Book%20Reviews/The%20organized%20mind", "title": "The organized mind"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Case%20Against%20the%20Sexual%20Revolution", "title": "The Case Against the Sexual Revolution"}
+,  {"path": "docs/Books/Book%20Reviews/The%20First%20World%20War", "title": "The First World War"}
+,  {"path": "docs/Books/Book%20Reviews/Practical%20Vim", "title": "Practical Vim"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Fifth%20Discipline", "title": "The Fifth Discipline"}
+,  {"path": "docs/Books/Book%20Reviews/Thinking%20in%20Systems", "title": "Thinking in Systems"}
+,  {"path": "docs/Books/Book%20Reviews/Washington's%20Spies.%20The%20Story%20of%20America's%20First%20Spy%20Ring", "title": "Washington's Spies. The Story of America's First Spy Ring"}
+,  {"path": "docs/Books/Book%20Reviews/Soul%20in%20the%20Game", "title": "Soul in the Game"}
+,  {"path": "docs/Books/Book%20Reviews/Serengeti%20Rules", "title": "Serengeti Rules"}
+,  {"path": "docs/Books/Book%20Reviews/When%20Reason%20goes%20on%20Holliday", "title": "When Reason goes on Holliday"}
+,  {"path": "docs/Books/Book%20Reviews/Humanocracy", "title": "Humanocracy"}
+,  {"path": "docs/Books/Book%20Reviews/Practical%20MLOps", "title": "Practical MLOps"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Trouble%20with%20Peace", "title": "The Trouble with Peace"}
+,  {"path": "docs/Books/Book%20Reviews/On%20Food%20and%20Cooking", "title": "On Food and Cooking"}
+,  {"path": "docs/Books/Book%20Reviews/Books", "title": "Books"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Myth%20of%20Sisyphus", "title": "The Myth of Sisyphus"}
+,  {"path": "docs/Books/Book%20Reviews/Finansplaneten", "title": "Finansplaneten"}
+,  {"path": "docs/Books/Book%20Reviews/Homage%20to%20Catalonia", "title": "Homage to Catalonia"}
+,  {"path": "docs/Books/Book%20Reviews/Economics%20in%20One%20Lesson", "title": "Economics in One Lesson"}
+,  {"path": "docs/Books/Book%20Quotes%202022", "title": "Book Quotes 2022"}
+,  {"path": "docs/Podcasts", "title": "Podcasts"}
+,  {"path": "docs/Politics", "title": "Politics"}
+,  {"path": "docs/Mac", "title": "Mac"}
+,  {"path": "docs/Mac/Terminal", "title": "Terminal"}
+,  {"path": "docs/Mac/Alfred", "title": "Alfred"}
+,  {"path": "docs/Mac/Karabiner", "title": "Karabiner"}
+,  {"path": "docs/Curiosity", "title": "Curiosity"}
+,  {"path": "docs/Garden", "title": "Garden"}
+,  {"path": "docs/Thinking", "title": "Thinking"}
+,  {"path": "docs/Thinking/Systems", "title": "Systems"}
+,  {"path": "docs/Exercise", "title": "Exercise"}
+,  {"path": "docs/Exercise/Flexibility", "title": "Flexibility"}
+,  {"path": "docs/Exercise/Strength", "title": "Strength"}
+,  {"path": "docs/Programming/Python", "title": "Python"}
+,  {"path": "docs/Programming/Python/Pytest", "title": "Pytest"}
+,  {"path": "docs/Programming/Python/FastAPI", "title": "FastAPI"}
+,  {"path": "docs/Programming/Rust", "title": "Rust"}
+,  {"path": "docs/Programming/SQL", "title": "SQL"}
+,  {"path": "docs/Programming/Unix", "title": "Unix"}
+,  {"path": "docs/Programming/Flutter", "title": "Flutter"}
+,  {"path": "docs/Programming/Javascript/NextJS", "title": "NextJS"}
+,  {"path": "docs/Programming/Javascript", "title": "Javascript"}
+,  {"path": "docs/Programming", "title": "Programming"}
+,  {"path": "docs/AI/AI%20Strategy", "title": "AI Strategy"}
+,  {"path": "docs/AI/Language/NLP%20or%20LLM", "title": "NLP or LLM"}
+,  {"path": "docs/AI/Data%20Drift", "title": "Data Drift"}
+,  {"path": "docs/AI/Data%20Science/Interpretable%20AI", "title": "Interpretable AI"}
+,  {"path": "docs/AI/Data%20Science/Recommendation%20Systems", "title": "Recommendation Systems"}
+,  {"path": "docs/AI/Data%20Science", "title": "Data Science"}
+,  {"path": "docs/AI/Data%20Science/Data%20Cleaning", "title": "Data Cleaning"}
+,  {"path": "docs/AI/Data%20Science/Confident%20Learning", "title": "Confident Learning"}
+,  {"path": "docs/AI/Data%20Science/ML%20Design%20Sprint", "title": "ML Design Sprint"}
+,  {"path": "docs/AI/Data%20Science/Feature%20Engineering", "title": "Feature Engineering"}
+,  {"path": "docs/AI/Data%20Science/Machine%20Learning%20Models", "title": "Machine Learning Models"}
+,  {"path": "docs/AI/Data%20Science/Computer%20Vision", "title": "Computer Vision"}
+,  {"path": "docs/AI/Data%20Science/Data%20Science%20Project%20Start-Up%20Phase", "title": "Data Science Project Start-Up Phase"}
+,  {"path": "docs/AI/Data%20Science/Churn%20Analysis", "title": "Churn Analysis"}
+,  {"path": "docs/AI/Data%20Science/Evaluation", "title": "Evaluation"}
+,  {"path": "docs/AI", "title": "AI"}
+,  {"path": "docs/Philosophy/Religion", "title": "Religion"}
+,  {"path": "docs/Philosophy/On%20The%20Duality%20of%20Rights%20and%20Responsibilities", "title": "On The Duality of Rights and Responsibilities"}
+,  {"path": "docs/Philosophy", "title": "Philosophy"}
+,  {"path": "docs/Cloud/GCP", "title": "GCP"}
+,  {"path": "docs/Cloud", "title": "Cloud"}
+,  {"path": "docs/Cloud/AWS", "title": "AWS"}
+,  {"path": "docs/Cloud/Azure", "title": "Azure"}
+,  {"path": "docs/Food/Baking", "title": "Baking"}
+,  {"path": "docs/Food", "title": "Food"}
+,  {"path": "docs/Food/French%20Cuisine", "title": "French Cuisine"}
+,  {"path": "docs/Food/Coffee", "title": "Coffee"}
+,  {"path": "docs/Food/Recipes", "title": "Recipes"}
+,  {"path": "docs/Food/Recipes/Duck", "title": "Duck"}
+,  {"path": "docs/Food/Recipes/Pasta", "title": "Pasta"}
+,  {"path": "docs/Food/Recipes/Crab%20Pasta", "title": "Crab Pasta"}
+,  {"path": "docs/Food/Recipes/Maqlouba", "title": "Maqlouba"}
+,  {"path": "docs/Food/Recipes/Recipes%20to%20try", "title": "Recipes to try"}
+,  {"path": "docs/Food/Recipes/Aglio%20e%20Olio", "title": "Aglio e Olio"}
+,  {"path": "docs/Food/Recipes/Biryani", "title": "Biryani"}
+,  {"path": "docs/Food/Recipes/Osso%20Bucco", "title": "Osso Bucco"}
+,  {"path": "docs/Food/Equipment", "title": "Equipment"}
+,  {"path": "docs/Food/Kitchen", "title": "Kitchen"}
+,  {"path": "docs/Food/Drink", "title": "Drink"}
+,  {"path": "docs/History", "title": "History"}
+,  {"path": "docs/Economics/Business", "title": "Business"}
+,  {"path": "docs/Economics", "title": "Economics"}
+,  {"path": "docs/Economics/Investing", "title": "Investing"}
+,  {"path": "docs/Iphone", "title": "Iphone"}
+,  {"path": "docs/Iphone/Apps", "title": "Apps"}
+,  {"path": "docs/Obsidian", "title": "Obsidian"}
+,  {"path": "docs/Communication", "title": "Communication"}
+,  {"path": "docs/Communication/Untitled", "title": "Untitled"}
+,  {"path": "docs/Communication/Untitled%201", "title": "Untitled 1"}
+,  {"path": "docs/Decision", "title": "Decision"}
+,  {"path": "docs/Travel/Places/Bali", "title": "Bali"}
+,  {"path": "docs/Travel/Places/Singapore", "title": "Singapore"}
+,  {"path": "docs/Travel/Places/Laos", "title": "Laos"}
+,  {"path": "docs/Travel/Places/Sapporo%20and%20Niseko", "title": "Sapporo and Niseko"}
+,  {"path": "docs/Travel/Places/Italy", "title": "Italy"}
+,  {"path": "docs/Travel/Places", "title": "Places"}
+,  {"path": "docs/Travel", "title": "Travel"}
+,  {"path": "docs/Motivation/Habits", "title": "Habits"}
+,  {"path": "docs/Motivation", "title": "Motivation"}
+,  {"path": "docs/Webpage", "title": "Webpage"}
+,  {"path": "docs/Productivity/Productivity%20Theory", "title": "Productivity Theory"}
+,  {"path": "docs/Productivity", "title": "Productivity"}
+,  {"path": "docs/Writing", "title": "Writing"}
+
+]

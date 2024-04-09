@@ -2,7 +2,25 @@ import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
+import { useEffect, useState } from 'react';
 
+const useRandomArticle = () => {
+  const fetchAndPickRandomArticle = async () => {
+    try {
+      const response = await fetch('/article_list.json');
+      const articles = await response.json();
+      const randomIndex = Math.floor(Math.random() * articles.length);
+      return (articles[randomIndex]);
+    } catch (error) {
+      console.error('Failed to fetch article list', error);
+      return null;
+    }
+  };
+
+  return fetchAndPickRandomArticle();
+};
+const random = await useRandomArticle();
+console.log('Random:', random);
 const FeatureList = [
   {
     linkUrl: '/docs/Garden',
@@ -29,13 +47,12 @@ const FeatureList = [
     ),
   },
   {
-    linkUrl: null,
-    title: 'Other Places',
-    imageUrl: require('@site/static/img/social_media.png').default,
+    linkUrl: random["path"],
+    title: 'Read a random article',
+    imageUrl: require('@site/static/img/random_page_image.jpeg').default,
     description: (
       <>
-        I try to limit my social media presence, but I do have a few places where I am somewhat active.
-        I have a <a href="https://linkedin.com/in/emil-ramsvik">LinkedIn</a> profile, and a <a href="https://github.com/emilRamsvik">GitHub</a> profile.
+        Start the Journey by reading about {random["title"]},
       </>
     ),
   },
