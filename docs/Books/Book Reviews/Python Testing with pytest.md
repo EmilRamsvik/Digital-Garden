@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-01-28T20:29
+updated: 2024-04-10T13:05
 Pages: 
 Author: 
 finished: false
@@ -30,7 +30,7 @@ Good book when you have a small amount of pytest experience and need to understa
  
 - ***Unit test**: A test that checks a small bit of code, like a function or a class, in isolation of the rest of the system.* 
  
-- *Functional test: A test that checks a single bit of functionality of a system. A test that checks how well we add or delete or update a task item in Tasks is a functional test.* 
+- ***Functional test**: A test that checks a single bit of functionality of a system. A test that checks how well we add or delete or update a task item in Tasks is a functional test.* 
  
 - *Subcutaneous test: A test that doesn’t run against the final end-user interface, but against an interface just below the surface. Since most of the tests in this book test against the API layer—not the CLI—they qualify as subcutaneous tests.* 
  
@@ -100,9 +100,9 @@ Good book when you have a small amount of pytest experience and need to understa
  
 - *Did you know that one of the definitions of “recurse” is to swear at your code twice?* 
  
-- *Having ’.*’ is a good reason to name your virtual environment ’.venv’, because all directories starting with a dot will not be traversed.* 
+- *Having ’.’ is a good reason to name your virtual environment ’.venv’, because all directories starting with a dot will not be traversed.* 
  
-- *The usual test discovery rule for pytest and classes is to consider a class a potential test class if it starts with Test*. The class also can’t have an __init__() function.* 
+- *The usual test discovery rule for pytest and classes is to consider a class a potential test class if it starts with Test. The class also can’t have an __init__() function.* 
  
 - *The utility of having __init__.py files in every test subdirectory of a project confused me for a long time. However, the difference between having these and not having these is simple. If you have __init__.py files in all of your test subdirectories, you can have the same test filename show up in multiple directories. If you don’t, you can’t. That’s it. That’s the effect on you.* 
  

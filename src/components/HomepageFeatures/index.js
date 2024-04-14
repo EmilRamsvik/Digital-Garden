@@ -5,10 +5,9 @@ import Link from '@docusaurus/Link';
 import { useEffect, useState } from 'react';
 
 const useRandomArticle = () => {
-  const fetchAndPickRandomArticle = async () => {
+  const fetchAndPickRandomArticle = () => {
     try {
-      const response = await fetch('/article_list.json');
-      const articles = await response.json();
+      const articles = require('@site/static/article_list.json');
       const randomIndex = Math.floor(Math.random() * articles.length);
       return (articles[randomIndex]);
     } catch (error) {
@@ -19,8 +18,7 @@ const useRandomArticle = () => {
 
   return fetchAndPickRandomArticle();
 };
-const random = await useRandomArticle();
-console.log('Random:', random);
+const random = useRandomArticle();
 const FeatureList = [
   {
     linkUrl: '/docs/Garden',
@@ -47,12 +45,12 @@ const FeatureList = [
     ),
   },
   {
-    linkUrl: random["path"],
+    linkUrl: "/" + random["path"],
     title: 'Read a random article',
     imageUrl: require('@site/static/img/random_page_image.jpeg').default,
     description: (
       <>
-        Start the Journey by reading about {random["title"]},
+        Start the Journey by reading about {random["title"]}
       </>
     ),
   },

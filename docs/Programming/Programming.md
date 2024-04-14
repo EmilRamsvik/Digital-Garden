@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: false
 created: 2023-06-09T13:30:00
-updated: 2024-03-11T10:19
+updated: 2024-04-13T10:46
 ---
 # Programming
 
@@ -38,6 +38,13 @@ This is useful when you need to send or expose files as a text string or other (
 2. **Awaiting a Coroutine**: To execute the coroutine, you must `await` it. The `await` keyword is used to pause the coroutine's execution and wait for its result.
     
 3. **The Event Loop**: The core of asynchronous programming in Python is the event loop. When you await a coroutine, the event loop handles its execution. It schedules the coroutine's tasks and resumes their execution when the awaited operation (like an I/O task) is complete.
+
+# API
+How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The Python programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
+
+To me, thinking of an API as a contract is a useful metaphor. This 'contract' ensures that if you make a request in a specific, agreed-upon format, you will receive a predictable response. An API is a structurally agreed-upon way for two programs to interact with each other. 
+
+
 # Links
 - [Uncle Bob sessions on Clean Code](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) Interesting high-level talks on code and code writing and programming. Robert C Martin is very well known for the clean code standard, etc. 
 - [Reduce Friction](https://blog.ceejbot.com/posts/reduce-friction/) Interesting blog post. 

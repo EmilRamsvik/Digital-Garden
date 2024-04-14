@@ -8,7 +8,7 @@ tags:
   - cooking
   - health
 created: 2023-05-27T05:50
-updated: 2024-01-14T17:19
+updated: 2024-04-09T21:08
 ---
 
 
@@ -25,9 +25,9 @@ I think I will mostly try to keep the themes of food, like pasta, rice dishes, a
 # Italian 
 I think my favorite dishes come from the Italian Kitchen, most of the dishes are usually very simple and contain few ingredients. It is Easy to 
 
-- [[Aglio e Olio]]
-- [[Crab Pasta]]
-- [[Osso Bucco]]
+- [Aglio e Olio](Aglio%20e%20Olio.md)
+- [Crab Pasta](Crab%20Pasta.md)
+- [Osso Bucco](Osso%20Bucco.md)
 - 
 
 # French

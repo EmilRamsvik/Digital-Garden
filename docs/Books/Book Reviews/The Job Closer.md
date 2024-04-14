@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-02-25T18:24
+updated: 2024-04-12T14:38
 Pages: 192
 Author: Steve Dalton
 finished: true
@@ -22,7 +22,9 @@ This book is about CVs, resumes, interviews, and negotiating. It is sharp, to th
 # 🎨 Impressions
 I liked this book a lot, I think it is something I will refer a lot to later. 
 The focus on the data is something that is thought-provoking. 
+It is closly linked to my experiences in [Job Searcing](../../Working/Job%20Searcing.md). I also like the fact that it was concise and had a big focus on what matters and simple but I think, quite effective rules for job interviews and searching.
 
+I have used this as a reference when working on interviews a lot, and it is one of the few things that pops up again and again when approaching an interview setting. 
 # ✍️ My Top  Quotes
 
 - *The real voyage of discovery consists, not in seeking new landscapes, but in having new eyes. —Marcel Proust* 
@@ -58,13 +60,16 @@ The focus on the data is something that is thought-provoking.
 - *Easy-to-defend candidates are the only ones who are “found” through online job postings, and even then, there’s no guarantee.* 
  
 - *On any matter where everyone agrees, that information should absolutely be perfect. For resumes, this typically includes the following items: Proper spelling Correct grammar Aligned margins Internally consistent formatting (for example, when mentioning a range of years, don’t use 2022-23 in one place and 2022–2023 in another) Single font used throughout* 
- 
-- *Basic resume good resume Great resume Formatting Error-free Error-free Error-free Bullet Source Job description Annual review “Greatest hits” Bullets Describe Your… Responsibilities Major projects Impact (and root causes, if any) Results Are… Not addressed Provided when quantitative Always provided* 
- 
+
+| What                   | Basic resume     | Good resume                | Great resume                     |
+| ---------------------- | ---------------- | -------------------------- | -------------------------------- |
+| Formatting             | Error-free       | Error-free                 | Error-free                       |
+| Bullet Source          | Job description  | Annual review              | "Greatest hits"                  |
+| Bullets Describe Your… | Responsibilities | Major projects             | Impact (and root causes, if any) |
+| Results Are…           | Not addressed    | Provided when quantitative | Always provided                  |
+
 - *Resumes continue to be heavily emphasized because they give job seekers two critical perverse incentives.* 
- 
-- *Perverse incentives are an economic term for situations* 
- 
+  
 - *“Your job search will probably take you about a hundred hours; your resume should take no more than three of them.” I call this Ed’s Three-Hour Rule.* 
  
 - *Perverse incentives are an economic term for situations in which desired actions have undesirable results.* 
@@ -87,7 +92,7 @@ The focus on the data is something that is thought-provoking.
  
 - *Use your cover letter to tell readers what your resume means to them. Interpret it for them, as you would your findings from a project* 
  
-- *They need a nickname because of their sheer predictability and the fact that 60 percent of interview decisions are made by the time an interviewer has asked them, according to a 2015 study of 691 interviews by Frieder, Van Iddekinge, and Raymark.*  Note: 
+- *They need a nickname because of their sheer predictability and the fact that 60 percent of interview decisions are made by the time an interviewer has asked them, according to a 2015 study of 691 interviews by Frieder, Van Iddekinge, and Raymark.*  Note: Which nickname? TMAY most likely. 
  
 - *So, 5 percent of interviewers will make decisions on candidates within the first minute, based on their first impression.* 
  

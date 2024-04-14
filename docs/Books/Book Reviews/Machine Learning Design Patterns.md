@@ -10,7 +10,7 @@ tags:
   - "#data-science"
 Date Finished: 2023-11-02
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-04-09T21:09
 ---
 # Machine Learning Design Patterns
 
@@ -20,7 +20,7 @@ This book is about machine learning design patterns and discussions around those
 
 
 # 🎨 Impressions
-It was a bit of a harder read than [[Designing Machine Learning Systems]], which is a bit harder to grasp and not as "profound" knowledge. Therefore, it is more difficult for me to give it a very strong recommendation.  Nevertheless, it is important to say that this is a good book.  When reading through the quotes, I realize that there were a lot of good insights from the book. 
+It was a bit of a harder read than [Designing Machine Learning Systems](Designing%20Machine%20Learning%20Systems.md), which is a bit harder to grasp and not as "profound" knowledge. Therefore, it is more difficult for me to give it a very strong recommendation.  Nevertheless, it is important to say that this is a good book.  When reading through the quotes, I realize that there were a lot of good insights from the book. 
 
 
 # ✍️ My Top  Quotes
@@ -38,7 +38,7 @@ It was a bit of a harder read than [[Designing Machine Learning Systems]], which
  
 - *Even with simple representations like one-hot encoding, it is worth anticipating the cold-start problem and explicitly reserving all zeros for out-of-vocabulary inputs.* 
  
-- *OUT-OF-VOCABULARY INPUT  Even if an airport with a handful of flights is not part of the training dataset, its hashed feature value will be in the range \[0–9\]. Therefore, there is no resilience problem during serving—the unknown airport will get the predictions corresponding with other airports in the hash bucket. The model will not error out.* 
+- *Even if an airport with a handful of flights is not part of the training dataset, its hashed feature value will be in the range \[0–9\]. Therefore, there is no resilience problem during serving—the unknown airport will get the predictions corresponding with other airports in the hash bucket. The model will not error out.* 
  
 - *It is true that hashing is lossy—since we have 347 airports, an average of 35 airports will get the same hash bucket code if we hash it into 10 buckets. When the alternative is to discard the variable because it is too wide, though, a lossy encoding is an acceptable compromise.* 
  
