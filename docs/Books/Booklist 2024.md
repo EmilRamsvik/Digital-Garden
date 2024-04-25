@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-04-02T18:49
+updated: 2024-04-21T17:22
 ---
 # Booklist 2024 
  
@@ -286,7 +286,7 @@ _Author:_ Brian Oken
 _Pages:_ 272
 _Language:_ English
 
-#### Seeing Like a State
+#### [Seeing Like a State](Book%20Reviews/Seeing%20Like%20a%20State.md)
 _Author:_ James Scott
 _Pages:_ 464
 _Language:_ English
@@ -374,7 +374,7 @@ _Language:_ English
 
 #### Turn the Ship Around
 _Author:_ David Marquet
-_Pages:_ 
+_Pages:_ 272
 _Language:_ English
 
 #### Data Engineering with dbt
@@ -382,21 +382,44 @@ _Author:_ Roberto Zagni
 _Pages:_ 583
 _Language:_ English
 
-
 #### [Never Split the Difference](Book%20Reviews/Never%20Split%20the%20Difference.md)
 _Author:_ Chris Voss
 _Pages:_ 288
 _Language:_ English
-
 
 #### [Seeing Like a State](Book%20Reviews/Seeing%20Like%20a%20State.md)
 _Author:_ Peter Senge
 _Pages:_ 445
 _Language:_ English
 
-#### Moral Mazes 
-_Author:_ 
-_Pages:_ 
+#### [Moral Mazes](Personal/Books/Book%20Reviews/Moral%20Mazes.md) 
+_Author:_ Robert Jackall
+_Pages:_ 294
+_Language:_ English
+
+#### [Data Science the Hard Parts](Personal/Books/Book%20Reviews/Data%20Science%20the%20Hard%20Parts.md)
+_Author:_ Daniel Vaughan
+_Pages:_ 254
+_Language:_ English
+
+#### Analytical Skills for AI and Data Science
+_Author:_ Daniel Vaughan
+_Pages:_ 242
+_Language:_ English
+
+#### Driving Digital Strategy
+_Author:_  Sunil Gupta
+_Pages:_ 288
+_Language:_ English
+
+#### The Chief Data Officers Playbook
+_Author:_ Caroline Carruthers 
+_Pages:_ 224
+_Language:_ English
+
+#### Survival of the Savvy
+_Author:_ Marty Seldman
+_Pages:_ 320
 _Language:_ English
 
 

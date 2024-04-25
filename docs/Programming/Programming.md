@@ -7,9 +7,9 @@ tags:
   - python
   - rust
   - dart
-Finished: false
+Finished: true
 created: 2023-06-09T13:30:00
-updated: 2024-04-13T10:46
+updated: 2024-04-24T18:08
 ---
 # Programming
 
@@ -62,7 +62,10 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - [Three Virtues of a Great Programmer](https://thethreevirtues.com/)
 - [Software Engineering Practices](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 - [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8&t=321s)
+- [Programming is mostly thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html).
 
 # Thoughts 
-- My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. with the concepts and logic and become more into the latter category. 
-- 
+- My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. With the concepts and logic, I become more into the latter category. 
+- "Going to school to study software engineering is mostly good for understanding how to communicate with other software engineers. You understand the lingua" - Coworker. 
+- "_Code is just the residue of the work._" - Tim Ottinger.
+- "Code that is working in production is superior to code that has never operated in real life." - Tim Ottinger.

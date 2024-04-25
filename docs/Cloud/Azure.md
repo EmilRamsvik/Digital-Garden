@@ -5,12 +5,12 @@ tags:
   - microsoft
   - cloud
   - article
-Finished: 
+Finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-11T18:29
+updated: 2024-04-15T13:52
 ---
 # Azure
-
+Azure is microsofts cloud service. It is like AWS, but only more microsofty. I have worked extensievley with Azure and find it to be a bit cumbersome, with rough edges. Understanding the CLI was key for my development, made things so much easier.  I think this experience is something that is shared across cloud providers. 
 
 
 ## Storage 
@@ -34,6 +34,9 @@ Azure Cognitive Search's Semantic Search is a feature that enhances traditional 
 
 ## Machine Learning Studio
 
+## [Document intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-read?view=doc-intel-4.0.0). 
+
+Document intelligence is usually scanning documents such as pdf for their content using [OCR (Optical Character Recognition)](https://en.wikipedia.org/wiki/Optical_character_recognition).  It can retrieve a lot of information and has a very handy feature to extract tables and key value pair. I used it to create quite powerful features with LLMs. For example handling enterprise emails and requests it is quite powerful. 
 
 #### ML-Ops
 [ML-Ops in Azure Examples](https://github.com/microsoft/MLOps)

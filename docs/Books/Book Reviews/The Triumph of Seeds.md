@@ -11,7 +11,7 @@ tags:
   - food
   - history
 created: 2023-10-14T00:00:00
-updated: 2024-01-07T17:55
+updated: 2024-04-14T14:56
 ---
 # The Triumph of Seeds
 
@@ -38,7 +38,7 @@ I have more respect for nature and how it drives the world, regardless of how we
  
 - *They anchor life in the wild, too: seed plants now make up more than 90 percent of our flora. They are so commonplace it’s hard to imagine that for over 100 million years other types of plant life dominated the earth.* 
  
-- *I recognized it as a fer-de-lance, a snake famed throughout Central America for its unfortunate combination of strong venom and a short temper. In this individual’s defense, however, I must confess that I had been poking it with a stick.* 
+- *I recognized it as a [fer-de-lance](https://en.wikipedia.org/wiki/Bothrops_asper), a snake famed throughout Central America for its unfortunate combination of strong venom and a short temper. In this individual’s defense, however, I must confess that I had been poking it with a stick.* 
  
 - *With her “baby in a box” analogy, Carol neatly captured the essence of seeds: portable, protected, and well-nourished.* 
  

@@ -10,7 +10,7 @@ tags:
   - flexibility
   - yoga
 created: 2023-05-22T13:49
-updated: 2024-02-12T07:45
+updated: 2024-04-14T19:23
 ---
 # Exercise
 
@@ -52,8 +52,12 @@ The 10-digit category, spanning from 0 to 5, is used to designate the intensity,
 The category of the 0 digit, spanning from 0 to 9 describes the duration of the sprint. 
 This is a fun game, that introduces some randomness to the run and makes it a bit more exciting. 
 
+
+# Links
+- [The Bioneer (Super cool name) has a lot of good exercises and functional training videos. ](https://www.youtube.com/@TheBioneer)
 # Thoughts 
 - Exercise is just as much for the mind as for the body. 
 - Running is meditation or processing of the mind. 
+- If you are a male fitness YouTuber => Shirtless. 
 
 

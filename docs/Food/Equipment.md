@@ -7,9 +7,9 @@ tags:
   - equipment
   - knife
   - tools
-Finished: 
+Finished: false
 created: 2023-08-18T21:47
-updated: 2024-01-14T17:41
+updated: 2024-04-15T13:53
 ---
 # Equipment
 In this article, I list the most important tools I use in the kitchen.  My philosophy for tools can be found in the tools section [[Tools]]
@@ -41,6 +41,6 @@ Chopsticks are actually quite useful tools for cooking, and in Asia and Asian co
 - Having equipment that can be washed in the dishwasher is cool and is something you should consider when getting new stuff. 
 - In the kitchen, order and cleanliness are essential; the dishwasher can be considered a valuable tool for keeping stuff clean. 
 - Never compromise on cleanliness
-- 
+- Blender is such a good tool. I use it as much as possible. Invest in a high quality one. 
 
 

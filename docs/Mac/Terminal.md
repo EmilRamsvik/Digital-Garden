@@ -6,9 +6,11 @@ tags:
   - tools
   - automation
   - mac
-Finished: false
+  - warp
+  - bash
+Finished: true
 created: 2023-12-30T17:00
-updated: 2024-01-07T17:10
+updated: 2024-04-14T19:01
 ---
 
 
@@ -17,8 +19,7 @@ I started using [Warp](https://www.warp.dev/) in May 2022, and it quickly became
 
 [Warp-AI Is good for debugging and understanding code more.](https://docs.warp.dev/features/warp-ai)
 [I use AI Command Search with natural language if I don't specifically know what to do](https://docs.warp.dev/features/warp-ai/ai-command-search)
-
-
+I do think warp is a wonderful tool, and it has helped me considerably in quickly navigating and doing regex-like behavior. It is so much easier to just use natural language to write commands in the terminal. 
 
 
 

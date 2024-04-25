@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-03-20T20:11
+updated: 2024-04-21T17:26
 ---
 # Articles
 
@@ -48,6 +48,9 @@ Blogs that I have discovered are here:
 
 #### [Patrick Mackenzie](https://www.kalzumeus.com/) 
 *About:* Some software, some job searching advice and similar. 
+
+#### [Tim Ottinger](https://agileotter.blogspot.com/)
+*About:* Software, working. 
 
 # Thoughts 
 - I think a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 

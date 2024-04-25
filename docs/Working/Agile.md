@@ -9,7 +9,7 @@ tags:
   - working
   - productivity
 created: 2023-10-15T15:34
-updated: 2024-02-29T20:45
+updated: 2024-04-24T09:19
 ---
 
 
@@ -30,3 +30,4 @@ Planning poker in software development is a straightforward process where each t
 - Is it possible to actually do Agile in a large company? Half of the issues stemming from the corruption of Agile in a large company are what makes a large company work. Large ceremonies, hats instead of people, big estimations, and tracking. I do not know, but I think in order to understand what processes and frameworks can be implemented in a workload 
 - Programmers are always saying you cannot make software as you do a car or a table, but why not? Are the complexities in writing code that much different from building a car? Anyways, the lean principles are derived from Toyota.
 - Agile, is similar to *Aiguille* in French, which means needle.
+- "If you cannot cancel or kill the product, you are not the product owner" - Kijana Woodard

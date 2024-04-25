@@ -8,7 +8,7 @@ tags:
   - productivity
   - productivity-hack
 created: 2023-06-26T09:17
-updated: 2024-01-17T18:40
+updated: 2024-04-21T17:20
 ---
 # Alfred
 Alfred is basically Spotlight on steroids. It contains all the features of Spotlight but is more powerful. If you purchase the powerpack, you also get access to workflows. 
@@ -27,11 +27,12 @@ Alfred snippets are more complicated than just word expansion, making importing 
 - [Bulk Create snippets](https://github.com/javierlopeza/alfred-bulk-snippet-creator)
 
 # Links
-- [Alfred workflow for 2-factor auth](https://github.com/squatto/alfred-imessage-2fa) Not tried because mainly I use 2-factor apps.
+- [Alfred workflow for 2-factor auth](https://github.com/squatto/alfred-imessage-2fa)s. Not tried it because I mainly use 2-factor apps.
 - [Awesome Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows)
 
 # Thoughts 
 - Snippets are exciting and cool, but it is challenging to create a lot of them. 
 - [Raycast](https://www.raycast.com/) is an exciting alternative; it is lighter and more handy than Alfred but is not as customizable. 
+- Alfred with LLM is cool, it would be nice to explore other possibilities than ChatGPT. 
 
 

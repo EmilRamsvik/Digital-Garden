@@ -8,7 +8,7 @@ tags:
   - article
 Finished: false
 created: 2023-06-12T09:05
-updated: 2024-01-31T08:58
+updated: 2024-04-17T07:58
 ---
 # Religion
 
@@ -29,7 +29,7 @@ Very few people know many of the Bible's stories and the message they had, espec
 Here are some stories I remember
 1. The writing on the wall story
 2. [Absalom, the son of King David](https://www.biblicalwarfare.com/absalom-expert-politician-failed-warrior/)
-3. The end of John the Baptist
+3. The end of John the Baptist (Hes head gets separated from the rest of the body)
 
 
 # Links

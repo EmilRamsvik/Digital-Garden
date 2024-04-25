@@ -15,7 +15,7 @@ tags:
   - statistics
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-04-16T09:51
 ---
 # Practical Recommendation Systems
 
@@ -73,7 +73,7 @@ There is an inverse relationship between complexity (and performance) and explai
  
 - *5 Iterate through the itemsets and remove the ones that don’t fulfill the confidence requirement.* 
  
-- *☐ Adding a version number to the recommendations in your database lets you have several versions in the database at one time, which means that you can have one that’s used in production and then switch to a new one when your ready to go live. But more importantly, if something happens with the recommendations that you’re currently using, you can revert to an older version.* 
+- *Adding a version number to the recommendations in your database lets you have several versions in the database at one time, which means that you can have one that’s used in production and then switch to a new one when your ready to go live. But more importantly, if something happens with the recommendations that you’re currently using, you can revert to an older version.* 
  
 - *Under the umbrella of cold-start problems are also gray sheep. These are users who have such individual tastes that even if there’s data, there are no other users who’ve bought any of the products they have.* 
  

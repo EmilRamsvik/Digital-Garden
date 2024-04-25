@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-29T20:43
+updated: 2024-04-21T17:29
 tags:
   - article
   - digital-garden
@@ -12,7 +12,7 @@ Finished: false
 # Travel
 Here I would like to write a bit about my travels and experiences from traveling that helped me on my journeys. 
 
-## [Places](../../templates/Wiki/Places.md)
+## [Places](Places/Places.md)
 Places I went to
 
 # Links

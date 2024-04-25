@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-04-12T14:38
+updated: 2024-04-15T15:22
 Pages: 192
 Author: Steve Dalton
 finished: true
@@ -22,7 +22,7 @@ This book is about CVs, resumes, interviews, and negotiating. It is sharp, to th
 # 🎨 Impressions
 I liked this book a lot, I think it is something I will refer a lot to later. 
 The focus on the data is something that is thought-provoking. 
-It is closly linked to my experiences in [Job Searcing](../../Working/Job%20Searcing.md). I also like the fact that it was concise and had a big focus on what matters and simple but I think, quite effective rules for job interviews and searching.
+It is closly linked to my experiences in [Job Searcing](../../Working/Job%20Searching/Job%20Searcing.md). I also like the fact that it was concise and had a big focus on what matters and simple but I think, quite effective rules for job interviews and searching.
 
 I have used this as a reference when working on interviews a lot, and it is one of the few things that pops up again and again when approaching an interview setting. 
 # ✍️ My Top  Quotes

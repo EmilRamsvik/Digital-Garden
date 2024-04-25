@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-12T11:41
+updated: 2024-04-21T17:29
 tags:
   - article
   - digital-garden
@@ -34,4 +34,4 @@ Booklist from 2024: some of the books have not been read through yet; the books 
 
 
 ## Other things
-I write a little bit about [Mathematics](Mathematics/Mathematics.md) and some thoughts about [Thinking](Thinking/Thinking.md) and [Learning](Learning/Learning.md); I think the article on [Lectures](Learning/Lectures.md) contains a lot of good information as well.  [[Travel]] contains a little bit of information about where I have been and places I have traveled to. It might be a good guide sometimes for someone who goes to the same places. 
+I write a little bit about [Mathematics](Mathematics/Mathematics.md) and some thoughts about [Thinking](Thinking/Thinking.md) and [Learning](Learning/Learning.md); I think the article on [Lectures](Learning/Lectures.md) contains a lot of good information as well.  [Travel](Travel/Travel.md) contains a little bit of information about where I have been and places I have traveled to. It might be a good guide sometimes for someone who goes to the same places. 
