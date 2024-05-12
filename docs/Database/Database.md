@@ -10,7 +10,7 @@ tags:
   - programming
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-01-25T15:34
+updated: 2024-05-08T17:46
 ---
 # Database
 
@@ -70,6 +70,9 @@ Database modeling is an important aspect of software development and should be t
 # Thoughts 
 - Acid in a database stands for Atomicity, Consistency, Isolation, and Durability, which are properties that ensure the reliability and integrity of data transactions.
 - *"In the end, it is all just databases."* This is a quote from an experienced colleague. In business, this is kind of true. Don't overcomplicate; keep the data pure and protected, and ensure people can access it. 
+- Data flow is difficult
+- Understanding the data warehousing is probably a good way to have job security in the 21st century. But is it a career enhancer?
+- 
 
 
 

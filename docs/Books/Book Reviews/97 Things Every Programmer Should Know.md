@@ -9,7 +9,9 @@ tags:
   - clean-code
   - software-testing
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-05-08T17:55
+Reviewed: true
+Review Date: 2024-05-08
 ---
 # 97 Things Every Programmer Should Know
 
@@ -21,19 +23,15 @@ This book is a collection of 97 software engineering tips and advice from expert
 # 🎨 Impressions
 Very easy and quick to read. Would be nice for me to read through the notes at a later time and then recap the wisdom.
 
-## How I Discovered It
-I actually was after books on data engineering and stumbled upon it. 
+# Review 
+I thought a little bit about the compromise quote, writing it down in the task management system or other. To me I reflect on the sad fact that tasks that are in the backlog for more than 4 weeks will remain in the backlog for the remainer of that projects lifetime or deletion. 
 
-## Who Should Read It?
-Programmers
 
-# ☘️ How the Book Changed Me
-Not that much
-
+Lots of tidbits there that was quite intersting. Think I should read the 97 things that a data engineer should know 
 # ✍️ My Top  Quotes
 - *Technical debt is like a loan: you benefit from it in the short term, but you have to pay interest on it until it is fully paid off.* 
  
-- *As soon as you make the decision to compromise, write a task card or log it in your issue-tracking system to ensure that it does not get forgotten.* 
+- *As soon as you make the decision to compromise, write a task card or log it in your issue-tracking system to ensure that it does not get forgotten.*
  
 - *WE ALL TEND TO ASSUME THAT OTHER PEOPLE THINK LIKE US. But they don't. Psychologists call this the false consensus bias.* 
  

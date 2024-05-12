@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-19T13:08
+updated: 2024-04-28T14:05
 tags:
   - article
   - digital-garden
@@ -24,6 +24,24 @@ Data Manipulation Language (DML) is a class of SQL statements that are used to q
 ### DDL 
 Data Definition Language (DDL) is a group of SQL statements that you can execute to manage database objects, including tables, views, and more. Using DDL statements, you can perform powerful commands in your database such as creating, modifying, and dropping objects. DDL commands are usually executed in a SQL browser or stored procedure.
 
+
+## Naming conventions
+-**Sources**
+- The raw data that has already been loaded
+**staging**
+- Clean and standarzie the data
+- One to one with source
+**Intermdeiate**
+- Models between sataging and final models
+- Always built on staging models
+**Fact**
+- Things that are ccuring or have occured
+
+**Dimension**
+- People places or things.
+- Things that might change. 
+![](../../../static/images/Pasted%20image%2020240428140431.png)
+[See also medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
 
 # Links
 - [Structure dbt projects](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)

@@ -9,7 +9,7 @@ tags:
   - working
   - productivity
 created: 2023-10-15T15:34
-updated: 2024-04-24T09:19
+updated: 2024-05-03T10:45
 ---
 
 
@@ -31,3 +31,4 @@ Planning poker in software development is a straightforward process where each t
 - Programmers are always saying you cannot make software as you do a car or a table, but why not? Are the complexities in writing code that much different from building a car? Anyways, the lean principles are derived from Toyota.
 - Agile, is similar to *Aiguille* in French, which means needle.
 - "If you cannot cancel or kill the product, you are not the product owner" - Kijana Woodard
+- In a retro, you should not adress cooperation or inter-collegial issues, those are not relevant for the team to solve. 

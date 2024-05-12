@@ -10,7 +10,7 @@ tags:
   - warfare
   - military
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-05-12T19:14
 ---
 # How the war was Won
 
@@ -21,28 +21,21 @@ This book systematically cuts through all the bravado and battlefield-centric fo
 # 🎨 Impressions
 It was a really good book; I must say it was a bit dull when describing the relationships between the commanders of WW2, but else it was a really good read. If things are correct in this book, and I have no reason to believe otherwise, the way we have thought and discussed WW2 is completely wrong. All the production capacity that could be designed for aircraft was control over the skies meant that you more or less could control the enemy's movement. 
 
-It also says when Germany/Japan could not affect the supply system of the Allies, the war was basically lost for them. When the U-boat war was done, the German chances of victory followed their uboats to the bottom. 
+It also says when Germany/Japan could not affect the supply system of the Allies, the war was basically lost for them. When the U-boat war was done, the German chances of victory followed their Uboats to the bottom. 
 
 
-## How I Discovered It
-From Twitter, looked into the author's twitter profile in relation to the Ukraine war
-
-## Who Should Read It?
-Everyone who thinks they know a lot about World War 2 should read this book.
-
-# ☘️ How the Book Changed Me
-
-I was really astonished by how much resources were delegated to aircraft and vessels and how little to armored vehicles. It was pretty much everything they could. Furthermore, it was also important for me to understand how the leaders thought and fought over which initiatives should be prioritized, which is something that is not discussed too much and I did not know that much about. 
+I was really astonished by how much resources were delegated to aircraft and vessels and how little to armoured vehicles. It was pretty much everything they could. Furthermore, it was also important for me to understand how the leaders thought and fought over which initiatives should be prioritized, which is something that is not discussed too much and I did not know that much about. 
 
 It is insane to me that the enormous losses of the Soviets and also the Germans to an extent on the east front were, at the time, not that relevant. We humans were reduced to a small portion of what war really was about. I think the industrialization of war has made us small cogs in the system, with the horrendous consequences that it has entailed. 
 
+One thing I learned later in [Turn the Ship Around](Turn%20the%20Ship%20Around.md) was the massive impact of the American submarine force during WWII. 
 # ✍️ My Top  Quotes
 
 - *There are two targets the bombing of which brings everyone to their knees: fuel and communications.* 
  
-- *German army lost at most 350 armored fighting vehicles (AFV) during the first ten days of the Battle of Kursk, when the fighting was most intense. During all of July and August 1943 on the Eastern Front the German army lost 1,331 AFV. Yet, during 1943 as a whole, Germany produced just over 12,000 AFV. This means that the Germans lost less than 3 percent of the AFV they built in 1943 during the Battle of Kursk, and only 11 percent of annual AFV production during all of July and August. El Alamein was even less damaging. At the start of the battle on October 23, 1942, Rommel’s famous Panzerarmee Afrika had 249 German tanks. By November 4, 36 of these were left. The Germans thus lost just over 200 AFV in two weeks. Within the context of German AFV production, El Alamein barely registered.* 
+- *German army lost at most 350 armoured fighting vehicles (AFV) during the first ten days of the Battle of Kursk, when the fighting was most intense. During all of July and August 1943 on the Eastern Front the German army lost 1,331 AFV. Yet, during 1943 as a whole, Germany produced just over 12,000 AFV. This means that the Germans lost less than 3 percent of the AFV they built in 1943 during the Battle of Kursk, and only 11 percent of annual AFV production during all of July and August. El Alamein was even less damaging. At the start of the battle on October 23, 1942, Rommel’s famous Panzerarmee Afrika had 249 German tanks. By November 4, 36 of these were left. The Germans thus lost just over 200 AFV in two weeks. Within the context of German AFV production, El Alamein barely registered.* 
  
-- *Industrially and technologically, the war was primarily a competition of aircraft development and construction. In Germany the construction of airframes, air engines, and the weapons and machinery needed to power and arm aircraft made up at least 50 percent of German production every year of the war, and at certain times reached up to 55 percent.* 
+- *Industrially and technologically, the war was primarily a competition of aircraft development and construction. In Germany, the construction of airframes, air engines, and the weapons and machinery needed to power and arm aircraft made up at least 50 percent of German production every year of the war, and at certain times reached up to 55 percent.* 
  
 - *The German V1 and V2 campaigns, which the Anglo-Americans tried to counter with enormous air assets under the codename operation Crossbow, represented a far greater economic exertion on both sides than did land battles such as Stalingrad or the invasions of Sicily and Italy. The design and construction of the V2 rocket, for instance, probably cost as much as all German AFV construction between 1939 and 1945. On the other hand, the RAF and USAAF actually dropped more ordnance on Crossbow targets in the summer of 1944 than they dropped in support of Allied armies in Normandy – in the end it represented 3 percent of the Anglo-American air effort in all theaters throughout the entire war.* 
  

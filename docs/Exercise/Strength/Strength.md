@@ -6,7 +6,7 @@ tags:
   - exercise
 Finished: false
 created: 2023-05-28T00:00:00
-updated: 2024-04-14T19:21
+updated: 2024-05-05T19:59
 ---
 # Strength Training
 I started strength training when I was 17, and did some on and off until I was 19. From 19 to 24, I consistently worked out between 3 and 5 days a week.  I did a lot of failing and needed a lot of guidance during that period. First of all, I started with only upper body exercises and neglected to work out my legs for quite a while. I think this was because I was not flexible enough to do the squat exercises correctly. In hindsight, it is difficult to assess in hindsight what the causation for the lack of leg exercises, but I am certain the lack of flexibility made doing leg workouts quite a bit difficult. 
@@ -30,7 +30,12 @@ I found working out using kettlebells and dumbbells to be very effective and sho
 - Kettlebell overhead to loosen up shoulders
 - Jefferson curl
 - Stay in a squat position and 
+# Kettlebell
+I love working out with Kettlebells and feel like they have been a way for me to efficiently and effectively push out quick but strong workouts. The swing is one of my favourite exercises. 
 
+For an introduction i recommend [Best KettleBell Wiki With Resources](https://www.reddit.com/r/Kettleballs/wiki/index/)
+
+The best way to do kettlebells is to focus on the basics, i.e. the swing and evolve from there. 
 #### Kettlebell Exercises
 
 - [American Kettlebell swing](https://www.youtube.com/watch?v=d94xX-AQZ0A&ab_channel=Onnit) I like it as it is a more thorough kettlebell exercise than just a normal "Russian" swing.

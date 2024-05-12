@@ -6,9 +6,9 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-04-21T17:22
+updated: 2024-05-12T19:29
 ---
-# Booklist 2024 
+[[]]# Booklist 2024 
  
 #### [On Food and Cooking](Book%20Reviews/On%20Food%20and%20Cooking.md)
 *Author:* Harold McGee
@@ -355,7 +355,7 @@ _Author:_ John Gall
 _Pages:_ 111
 _Language:_ English
 
-#### Understanding Michael Porter
+#### [Understanding Michael Porter](Personal/Books/Book%20Reviews/Understanding%20Michael%20Porter.md)
 _Author:_ Joan Magretta
 _Pages:_ 245
 _Language:_ English
@@ -372,12 +372,12 @@ _Pages:_ 281
 _Language:_ English
 
 
-#### Turn the Ship Around
+#### [Turn the Ship Around](Personal/Books/Book%20Reviews/Turn%20the%20Ship%20Around.md)
 _Author:_ David Marquet
 _Pages:_ 272
 _Language:_ English
 
-#### Data Engineering with dbt
+#### [Data Engineering with dbt](Personal/Books/Book%20Reviews/Data%20Engineering%20with%20dbt.md)
 _Author:_ Roberto Zagni
 _Pages:_ 583
 _Language:_ English
@@ -417,7 +417,7 @@ _Author:_ Caroline Carruthers
 _Pages:_ 224
 _Language:_ English
 
-#### Survival of the Savvy
+#### [Survival of the Savvy](Personal/Books/Book%20Reviews/Survival%20of%20the%20Savvy.md)
 _Author:_ Marty Seldman
 _Pages:_ 320
 _Language:_ English

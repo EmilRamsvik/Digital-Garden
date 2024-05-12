@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-25T18:03
+updated: 2024-05-08T17:54
 tags:
   - article
   - digital-garden
@@ -33,6 +33,6 @@ Emacs can be defined as a cult
 - 
 
 # Thoughts 
+- Ubuntu is zulu for: "A person is a person through (other) persons." ([97 Things Every Programmer Should Know](../../Books/Book%20Reviews/97%20Things%20Every%20Programmer%20Should%20Know.md))
 - 
-
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-01-28T15:44
+updated: 2024-05-06T14:48
 tags:
   - article
   - digital-garden
@@ -16,7 +16,6 @@ I remember being astonished when going into a master's degree in engineering and
 # Master thesis
 I wrote my master's thesis on simulating fluid flow directly; it was pretty complicated. I loved working on the master's thesis, primarily working on the code and simulation.  
 
-
 ## Process
 
 ### Pre-Project
@@ -31,11 +30,20 @@ One great starting point was that during the pre-project phase, I had gotten a l
 In my six months, focusing almost entirely on the master thesis, not being distracted, and being thorough in the work helped immensely. My progress was incrementally improving, and having a head start without significant breaks also helped.
 The last reason was my ability to split the work into separate parts. In my master's, I analyzed many different angles and did a "full" run for each angle. This helped a lot, as I had a lot of repetitions, which made each run more efficient and quicker. 
 
+### Delivery
+The last part of the master thesis for me was just finishing up the report and investigating the results. As I did a lot of greenfield research, it was difficult for me to exactly understand what was happening, so I spent a lot of time explain how it was happening. I dont really know how useful the master thesis was. In hindsight, I would have loved to travel or focusing on other aspects of student life a bit more. 
+
+
+# Reflections
+I think studing a hard and difficult subject is very rewarding. I felt like my work made me able to not only become very good at my subject, but also made it quite easy for me to quickly grasp difficult concepts. 
+
+In my work, I felt primarily that I lacked a lot of computer science skills, and that has affected a lot of my work as a data scientist. 
 
 # Links
-- 
+
 
 # Thoughts 
 - There are two types of master students: those who arrive before 10 AM and those who ask for an extension of time. 
+- After about 4 years of studying I felt capable and ready for the workforce, the last year was just icing on the cake for me. 
 
 

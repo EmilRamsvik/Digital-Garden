@@ -1,11 +1,13 @@
 ---
-Finished: false
+Finished: true
 tags:
   - poetics
   - literature
   - article
+  - poems
+  - socialism
 created: 2024-01-06T15:04
-updated: 2024-01-24T15:04
+updated: 2024-05-08T17:48
 ---
 
 # Poems
@@ -17,7 +19,7 @@ Poems are similar to mathematics, as the young and curious provide the brightest
 
 ## Favorite Poems 
 
-[A Worker Reads History](https://allpoetry.com/A-Worker-Reads-History) - Who built the monuments? Was it the kings who hauled the stones? 
+[A Worker Reads History](https://allpoetry.com/A-Worker-Reads-History) - Who built the monuments? Was it the kings who hauled the stones?  I like this poem because it shows that there are so much to the history than the grand leaders, and that we all have some descendants that lived their lives, did their jobs and at the mercy of nature and fate just like most of all are. 
 
 [The Charge of the Light Brigade](https://www.poetryfoundation.org/poems/45319/the-charge-of-the-light-brigade) - One of Lord Alfred Tennyson´s most famous poems, about a failed cavalry charge against canons. Note: Cavalry charges against fortified canons are rarely a good idea. 
 

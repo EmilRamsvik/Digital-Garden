@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-17T07:56
+updated: 2024-04-26T17:16
 tags:
   - article
   - digital-garden
@@ -32,6 +32,7 @@ First, i think the best way to start is the book [Systematics](../Books/Book%20R
 
 # Thoughts 
 - I would like to be better at system thinking, but I lack the experience and training. How to get this training?
+- "Eighty-five percent of the reasons for failure are deficiencies in the systems and process rather than the employee. The role of management is to change the process rather than badgering individuals to do better." - W Edwards Deming
 
 
 
