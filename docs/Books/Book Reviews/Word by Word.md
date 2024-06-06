@@ -10,7 +10,7 @@ tags:
   - dictionary
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2024-01-08T13:20
+updated: 2024-06-06T13:23
 ---
 # Word by Word
 
@@ -22,14 +22,8 @@ It's a book about dictionaries.  It contains how dictionaries are made (very ner
 # 🎨 Impressions
 It is fun to learn about language and words. As once said, words have meaning, they matter. So it is fun to read about them in a light and fun way as Kory manages to do. I must say that the lexicographers described in the book feel quite the weird bunch. But that is okay.
 
-## How I Discovered It
-It was a recommendation page somewhere who recommended it along with the book [[The Triumph of Seeds]]
+There was a recommendation page somewhere that recommended it along with the book [[The Triumph of Seeds]]
 
-## Who Should Read It?
-The ones who are interested in words. 
-
-# ☘️ How the Book Changed Me
-Learned a lot about language. 
 
 # ✍️ My Top  Quotes
 

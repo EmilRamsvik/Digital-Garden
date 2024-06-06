@@ -11,7 +11,7 @@ tags:
   - food
   - history
 created: 2023-10-14T00:00:00
-updated: 2024-04-14T14:56
+updated: 2024-06-06T13:26
 ---
 # The Triumph of Seeds
 
@@ -23,13 +23,6 @@ This book is about seeds from trees. How did they evolve? How did they flourish?
 # 🎨 Impressions
 A very cool book about things taken for granted. It reminds me of the story of the physicists who declared that all multi-cell life has some form of immune system that was quickly shut down by the biologist who pointed at trees.  (Not an exact quote but the point stands.) I liked the deep dive into the causes of trees and some of the stories that came from it. Also, I quite enjoyed the mini-story of the rodents and their success. 
 
-## How I Discovered It
-I cannot remember, I think it was on a blog post of some sort. 
-
-## Who Should Read It?
-People who like to deep dive, and in this case the deep dive is particularly interesting. 
-
-# ☘️ How the Book Changed Me
 
 I have more respect for nature and how it drives the world, regardless of how we behave. Also, the complexities that evolve. Also, I found it interesting that trees used to have some sort of spores instead of seeds, quite fascinating. 
 # ✍️ My Top  Quotes

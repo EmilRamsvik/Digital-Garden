@@ -4,7 +4,7 @@ tags:
   - article
   - digital-garden
 created: 2024-01-06T15:01
-updated: 2024-03-04T11:42
+updated: 2024-05-20T21:50
 ---
 
 
@@ -28,6 +28,7 @@ When you rebase, you put the difference in the branches as a new commit on top o
 # Links
 - [Only need plaintext](https://www.youtube.com/watch?v=WgV6M1LyfNY&ab_channel=NoBoilerplate) Argues against anything other than Git and GitHub for software teams. 
 - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
+- [Learn Git and Branching](https://learngitbranching.js.org/)
 
 # Thoughts 
 - 

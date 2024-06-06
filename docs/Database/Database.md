@@ -10,7 +10,7 @@ tags:
   - programming
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-05-08T17:46
+updated: 2024-06-06T13:09
 ---
 # Database
 
@@ -21,28 +21,6 @@ In the context of business, everything is a database. Databases are the bedrock 
 The relational database was invented at IBM (in 1970), but it was Oracle that commercialized it. Oracle made most of its money on relational databases. 
 
 
-
-
-
-## Tasks
-[Snowflake tasks](https://docs.snowflake.com/en/sql-reference/sql/create-task) are scheduled jobs that can execute SQL or Python scripts in the Snowflake database using the Snowflake warehouse, nice for updating data or migrating data. 
-
-
-
-### Important terms 
-
-- **Account**: In Snowflake, an account refers to your entire environment. It is the top-level organization for resources in Snowflake. An account houses all objects, data, and virtual warehouses. It is also associated with a particular region where the underlying cloud provider's data center is located. Cloud providers can be Azure, AWS, etc.
-    
-- **Warehouse**: A warehouse in Snowflake represents compute resources, and is used to execute all data loading, querying, and DML operations. Snowflake uses a unique architecture where storage and computing are separated, so a warehouse doesn't store data, but rather is used to process tasks. This is NOT the same as a data warehouse. 
-    
-- **Roles**: Roles in Snowflake provide a way to manage access controls. They define permissions for objects like databases, schemas, and tables. A role can be assigned to one or more users, and users can switch between roles based on what tasks they need to perform. There are system-defined roles like ACCOUNTADMIN, SECURITYADMIN, SYSADMIN, PUBLIC, and also user-defined roles.
-    
-- **Database**: In Snowflake, a database is a logical container for schemas. Each database belongs to a single Snowflake account and is completely separate from databases in other accounts (except sharing).
-    
-- **Schema**: A schema in Snowflake is a logical container for tables, views, and other Snowflake objects. Schemas are contained within a database.
-
-## Migration of data in Snowflake 
-#todo write more on migrations here 
 
 
 
@@ -72,7 +50,7 @@ Database modeling is an important aspect of software development and should be t
 - *"In the end, it is all just databases."* This is a quote from an experienced colleague. In business, this is kind of true. Don't overcomplicate; keep the data pure and protected, and ensure people can access it. 
 - Data flow is difficult
 - Understanding the data warehousing is probably a good way to have job security in the 21st century. But is it a career enhancer?
-- 
+- A schema is a collection of schema objects. Examples of schema objects include **tables, views, sequences, synonyms, indexes, clusters, database links, snapshots, procedures, functions, and packages**.
 
 
 

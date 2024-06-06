@@ -1,6 +1,6 @@
 ---
 created: 2024-01-11T17:46
-updated: 2024-04-21T11:19
+updated: 2024-06-06T13:12
 tags:
   - blog
   - blog-post
@@ -8,11 +8,11 @@ tags:
   - "#machine-learning"
   - "#machine-learning/scoping"
 slug: How-to-not-solve-this-problem-with-Machine-Learning-Part-1
-title: "# How to not solve this problem with Machine Learning Part 1"
+title: How to not solve this problem with Machine Learning Part 1
 ---
 # How to not solve this problem with Machine Learning Part 1
 
-In recent years, AI has become such a hyped-up concept that all and their housecats want to use artificial intelligence. Moreover, it has become the silver bullet answer at the bottom bullet point of the slide deck. I get it. ChatGPT showed the amazing capabilities of large language models, and I am astonished almost daily by the capabilities and use cases. However, I want to discuss how we approach problems in business and how we can work smarter and use machine learning as a highly efficient tool when it is needed and not as a Swiss Army silver knifebullet. 
+In recent years, AI has become such a hyped-up concept that all and their housecats want to use artificial intelligence. Moreover, it has become the silver bullet answer at the bottom bullet point of the slide deck. I get it. ChatGPT showed the amazing capabilities of large language models, and I am astonished almost daily by the capabilities and use cases. However, I want to discuss how we approach problems in business and how we can work smarter and use machine learning as a highly efficient tool when it is needed and not as a Swiss Army silver knife bullet. 
 
 <!-- truncate -->
 # The sad reality of ML in non-tech

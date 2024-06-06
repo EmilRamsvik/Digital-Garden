@@ -3,11 +3,18 @@ Pages: 256
 Date Finished: Jul 17, 2023
 Author: Neven Sesardic
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:22
+tags:
+  - books
+  - philosophy
+  - non-fiction
+  - heuristics
+  - reading
+  - experts
+  - knowledge
+  - stupidity
 ---
 # When Reason goes on Holliday
-
-Tags: #books #philosophy #non-fiction #heuristics #reading 
 
 # 🚀 The Book in 3 Sentences
 
@@ -17,14 +24,7 @@ It is an okay book, I felt it was a simple and easy read. Sometimes, it became a
 
 A case of note is maybe Einstein and Godel, who had some horrid takes on freedom in the US. But remember Godel, who in spite of being one of the most brilliant logicians ever, where a deeply troubled man, who had fits of depression. We should not judge their bad takes too harshly. 
 
-## How I Discovered It
-Marc Andreessen recommended it on Lex Fridman podcast. 
-
-## Who Should Read It?
-People who want to confirm their prenotions of academia. 
-
-# ☘️ How the Book Changed Me
-Not that much, I became more interested in how extremely significant 1968 was in the academic context. Also, I became a bit more forgiving of some of the people mentioned in the text.
+I became more interested in how extremely significant 1968 was in the academic context. Also, I became a bit more forgiving of some of the people mentioned in the text.
 
 # ✍️ My Top  Quotes
 
@@ -82,7 +82,8 @@ Not that much, I became more interested in how extremely significant 1968 was in
  
 - *According to studies of the political attitudes of American professors at the time, the proportion of the professors’ vote for the far-left candidates (including Cleaver) in the 1968 presidential election was about ten times higher than in the general population* 
  
-- *Other hand, saying that someone “deserves X” usually means that one is worthy of X by virtue of some action or personal characteristic. Obviously these are two very different things. And there is simply no way one can validly infer that one is not entitled to X from the mere fact that one does not deserve X. For example, if I win a million dollars in a lottery or if I inherit this amount from my rich parents, arguably I do not deserve this money (for I did nothing to really earn it) but this by no means proves that I am not entitled to it (i.e., that I don’t have a moral right to keep it). To recapitulate: Parfit’s statement (2) says something very radical and very controversial, namely that rich people don’t have a moral right to keep their wealth. But why should we accept (2)? Parfit apparently tries to support it by adding statement (3), that the rich do not deserve their wealth,6 presumably because their wealth (especially compared to the poverty of those in Africa) is largely due to their pure luck of having been born in environments full of opportunities. The problem with Parfit’s logic is twofold. First, he provides no real evidence (let alone compelling evidence) for the sweeping assertion (3), and second, even if he did, (2) would still not follow. Another question: If Parfit genuinely believed that he had stolen his house, car, money, etc., from others, isn’t it clear that he wouldn’t continue to hold on to all those things? He is obviously not the kind of person who would keep something he himself regarded literally as stolen. Hence the very fact that he has been unable to renounce his possessions indicates that in his heart of hearts he does not truly believe that he stole them. If Parfit did believe this, though, it would have been extremely easy for him to restore justice in his own case. For after having publicly announced that he wouldn’t stop the poor if they came to his place to remove his property, the only thing that remained for him to do in order to facilitate a quick and rightful restitution was to disclose to the world the address of his Oxford residence. Which he has not done. Notice, however, that Parfit is not talking only about Parfit. He is talking about all well-to-do people in the West. Consequently the import of his statement is far-reaching. His view implies that if millions of sub-Saharan Africans came to the United States, Canada, Australia, England, France, Germany, and Italy, not only would they have a moral right to remove property from rich and well-off households in those countries, the local people would have a moral duty to invite these newcomers into their homes and ask them to take away all the stuff that the current “owners” had stolen from the needy. Such a radical approach to economic redistribution is almost unheard of. In terms of ordinary political taxonomy, it is best classified as belonging to the extreme fringe of the extreme left. To* 
+- *Other hand, saying that someone “deserves X” usually means that one is worthy of X by virtue of some action or personal characteristic. Obviously these are two very different things. And there is simply no way one can validly infer that one is not entitled to X from the mere fact that one does not deserve X. For example, if I win a million dollars in a lottery or if I inherit this amount from my rich parents, arguably I do not deserve this money (for I did nothing to really earn it) but this by no means proves that I am not entitled to it (i.e., that I don’t have a moral right to keep it).*
+- *To recapitulate: Parfit’s statement (2) says something very radical and very controversial, namely that rich people don’t have a moral right to keep their wealth. But why should we accept (2)? Parfit apparently tries to support it by adding statement (3), that the rich do not deserve their wealth,6 presumably because their wealth (especially compared to the poverty of those in Africa) is largely due to their pure luck of having been born in environments full of opportunities. The problem with Parfit’s logic is twofold. First, he provides no real evidence (let alone compelling evidence) for the sweeping assertion (3), and second, even if he did, (2) would still not follow. Another question: If Parfit genuinely believed that he had stolen his house, car, money, etc., from others, isn’t it clear that he wouldn’t continue to hold on to all those things? He is obviously not the kind of person who would keep something he himself regarded literally as stolen. Hence the very fact that he has been unable to renounce his possessions indicates that in his heart of hearts he does not truly believe that he stole them. If Parfit did believe this, though, it would have been extremely easy for him to restore justice in his own case. For after having publicly announced that he wouldn’t stop the poor if they came to his place to remove his property, the only thing that remained for him to do in order to facilitate a quick and rightful restitution was to disclose to the world the address of his Oxford residence. Which he has not done. Notice, however, that Parfit is not talking only about Parfit. He is talking about all well-to-do people in the West. Consequently the import of his statement is far-reaching. His view implies that if millions of sub-Saharan Africans came to the United States, Canada, Australia, England, France, Germany, and Italy, not only would they have a moral right to remove property from rich and well-off households in those countries, the local people would have a moral duty to invite these newcomers into their homes and ask them to take away all the stuff that the current “owners” had stolen from the needy. Such a radical approach to economic redistribution is almost unheard of. In terms of ordinary political taxonomy, it is best classified as belonging to the extreme fringe of the extreme left. To* 
  
 - *The philosopher F. H. Bradley famously defined metaphysics as the finding of bad reasons for what we believe upon instinct.* 
  

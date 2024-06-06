@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-29T20:46
+updated: 2024-06-04T07:55
 tags:
   - article
   - digital-garden
@@ -8,11 +8,11 @@ tags:
   - leadership
   - agile
   - business
-parent: 
+  - digital-management
 Finished: false
 ---
 # Management
-Here I write some on the mana
+Here, I write about my management learnings, both good and bad. I have been quite fortunate to work with great managers, and this has inspired me to incorporate a lot of their wisdom into the way I work. 
 
 
 # Links

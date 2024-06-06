@@ -9,26 +9,17 @@ tags:
   - philosophy
 Finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:26
 ---
 # The Stranger
-
-
 
 # 🚀 The Book in 3 Sentences
 One of Albert Camus's greatest works. It tells the story of the main character from such a distant and objective point that the reader gets taken by the meaninglessness of it all. It is a damning view of the way we strive for meaning in an absurd universe.
 
 # 🎨 Impressions
-My first introduction to Albert Camus was a good and engaging read. It felt like the *Gymnaslærer Pedersens beretning om den store folkelige bevelgesen som rystet vår tid*. It was sometimes written in a way where the reader just loses interest in everything, it is objectivism, existentialism, and absurdism combined. Most of all, the trivialities of life get exemplified in such a way that the reader feels exhausted. 
+My first introduction to Albert Camus was a good and engaging read. It felt like the [*Gymnaslærer Pedersens beretning om den store politiske vekkelse som har hjemsøkt vårt land*](https://en.wikipedia.org/wiki/Gymnasl%C3%A6rer_Pedersens_beretning_om_den_store_politiske_vekkelse_som_har_hjems%C3%B8kt_v%C3%A5rt_land). It was sometimes written in a way where the reader just loses interest in everything, it is objectivism, existentialism, and absurdism combined. Most of all, the trivialities of life get exemplified in such a way that the reader feels exhausted. 
 
-## How I Discovered It
-Michael Malice and Lex Fridman discussed Camus in a good way.
-
-## Who Should Read It?
-People who like good quality novels.
-
-# ☘️ How the Book Changed Me
-In my first introduction to Camus, I think I got depressed and cynical about the way the book was written. Everything felt different after reading, the purpose we strive for is all irrelevant. I must read more Camus in order for me to better understand his thoughts. 
+In my first introduction to Camus, I think I got depressed and cynical about the way the book was written. Everything felt different after reading, the purpose we strive for is all irrelevant. I must read more Camus for me to better understand his thoughts. 
 
 # ✍️ My Top  Quotes
 

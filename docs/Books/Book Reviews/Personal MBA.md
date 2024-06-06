@@ -11,7 +11,7 @@ tags:
   - management
 Date Finished: 2023-11-09
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:27
 ---
 # Personal MBA
 
@@ -22,7 +22,6 @@ A book with small but interesting stories and lessons. It is meant to concretize
 # 🎨 Impressions
 It was an okay book, learned some but not that much new.
 
-# ☘️ How the Book Changed Me
 I cannot say the book was a turning point. It was okay and learned some lessons. 
 One of the most interesting lessons was the [Paradox of Automation](https://personalmba.com/paradox-of-automation/). How increasing automation leads to a more demanding workload for the ones that monitor the processes. 
 # ✍️ My Top  Quotes

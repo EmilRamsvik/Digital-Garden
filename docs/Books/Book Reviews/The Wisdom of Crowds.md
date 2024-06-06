@@ -8,25 +8,15 @@ tags:
   - fantasy
   - the-first-law-series
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:13
 ---
 # The Wisdom of Crowds
-
 
 # 🚀 The Book in 3 Sentences
 Last book (for now) in the first law series. It is a good and interesting fantasy book in that it emulates the French Revolution. I quite liked it and how it portrays a turbulent age where power dictates the fate of life. 
 
 # 🎨 Impressions
 Not many books are that interesting in that they portray backstabbing, backroom deals, and the mob as well. Good reading and fun to read. I would recommend it based upon just the joy of reading. 
-
-## How I Discovered It
-The first law, needed to finish the second trilogy. 
-
-## Who Should Read It?
-People who like fantasy. 
-
-# ☘️ How the Book Changed Me
-
 
 # ✍️ My Top  Quotes
 

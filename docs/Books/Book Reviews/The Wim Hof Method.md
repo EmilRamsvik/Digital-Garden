@@ -11,7 +11,7 @@ tags:
   - self-improvement
   - self-help-book
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:26
 ---
 # The Wim Hof Method
 
@@ -21,16 +21,8 @@ updated: 2024-01-07T17:55
 Breathing is apparently all you need. It can cure anxiety, hangovers, MS, and much more. Also, Ice baths are good as well and the core temperature can be manipulated. 
 
 # 🎨 Impressions
-In spite of the hypeness, it felt like interesting things were taken up and I think there is something to increasing your antifragility by being exposed to extreme externalities. 
+Despite the hypeness, it felt like interesting things were taken up and I think there is something to increasing your antifragility by being exposed to extreme externalities. 
 I thought the breathing exercises were interesting and I think I will work a bit on this and apply it. 
-## How I Discovered It
-I wanted to read more about Wim Hof and his method. 
-
-## Who Should Read It?
-People who are interested in the Wim Hof Method (WHM)
-
-# ☘️ How the Book Changed Me
-I want to be better at breathing exercises. 
 
 # ✍️ My Top  Quotes
 

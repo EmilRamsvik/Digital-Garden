@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-05-12T19:29
+updated: 2024-06-06T12:15
 ---
 [[]]# Booklist 2024 
  
@@ -345,6 +345,7 @@ _Language:_ English
 _Author:_ Peter Senge
 _Pages:_ 445
 _Language:_ English
+
 #### Two-Hour Job Search
 _Author:_ Steve Dalton
 _Pages:_ 242
@@ -422,5 +423,12 @@ _Author:_ Marty Seldman
 _Pages:_ 320
 _Language:_ English
 
+#### Motivational Interviewing 
+_Author:_ William Miller 
+_Pages:_ 338
+_Language:_ English
 
-
+#### How to solve it
+_Author:_ George Polya
+_Pages:_ 288
+_Language:_ English

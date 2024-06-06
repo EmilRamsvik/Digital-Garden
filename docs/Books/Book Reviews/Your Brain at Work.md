@@ -13,7 +13,7 @@ tags:
   - programming
   - self-improvement
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-05-31T16:32
 ---
 # Your Brain at Work
 
@@ -60,33 +60,33 @@ I think I will return to the book a lot more and try to incorporate science in o
 - *Another technique is not to think at all about a project until all the information is at hand. Don’t waste energy solving a problem you know you will have more information about later.* 
  
 - *Surprises About the Brain*
-	- Conscious thinking involves deeply complex biological interactions in the brain among billions of neurons. 
-	- Every time the brain works on an idea consciously, it uses up a measurable and limited resource. 
-	- Some mental processes take up a lot more energy than others. 
-	- The most important mental processes, such as prioritizing, often take the most effort. 
-
+	- *Conscious thinking involves deeply complex biological interactions in the brain among billions of neurons.* 
+	- *Every time the brain works on an idea consciously, it uses up a measurable and limited resource.* 
+	- *Some mental processes take up a lot more energy than others.* 
+	- *The most important mental processes, such as prioritizing, often take the most effort.** 
+*
 * *Some Things to Try*
-	- Think of conscious thinking as a precious resource to conserve. Prioritize prioritizing, as it’s an energy-intensive activity.
-	- Save mental energy for prioritizing by avoiding other high-energy consuming conscious activities such as dealing with emails. 
-	- Schedule the most attention-rich tasks when you have a fresh and alert mind.
-	- Use the brain to interact with information rather than trying to store information, by creating visuals for complex ideas and by listing projects. 
-	- Schedule blocks of time for different modes of thinking. 
+	- *Think of conscious thinking as a precious resource to conserve. Prioritize prioritizing, as it’s an energy-intensive activity.*
+	- *Save mental energy for prioritizing by avoiding other high-energy consuming conscious activities such as dealing with emails.* 
+	- *Schedule the most attention-rich tasks when you have a fresh and alert mind.*
+	- *Use the brain to interact with information rather than trying to store information, by creating visuals for complex ideas and by listing projects.* 
+	- *Schedule blocks of time for different modes of thinking.* 
  
 - *Paul has hit a second limit of the prefrontal cortex here: there’s a limit to how much information can be held in mind and manipulated at any one time. That’s because the stage is small, smaller than generally acknowledged. To make a series of important decisions this morning, Paul has to quickly make sense of a huge amount of information.* 
 
  
 - *Surprises About the Brain*
-	- The stage is small, much smaller than commonly realized. 
-	- The less you hold in mind at once the better. 
-	- New concepts take up more space on the stage than ideas you know well. 
-	- Memory starts to degrade when you try to hold more than one idea in mind. 
-	- When trying to make a decision between items, the optimal number of items to compare is two. The optimal number of different ideas to hold in mind at one time is no more than three or four, ideally three. 
+	- *The stage is small, much smaller than commonly realized.* 
+	- *The less you hold in mind at once the better.* 
+	- *New concepts take up more space on the stage than ideas you know well.* 
+	- *Memory starts to degrade when you try to hold more than one idea in mind.* 
+	- *When trying to make a decision between items, the optimal number of items to compare is two. The optimal number of different ideas to hold in mind at one time is no more than three or four, ideally three.* 
 
 -  *Some Things to Try*
-	- Simplify information by approximating and focusing on an idea’s salient elements.
-	- Group information into chunks whenever you have too much information. 
-	- Practice getting your most important actors onstage first, not just the ones that are easiest. 
- 
+	- *Simplify information by approximating and focusing on an idea’s salient elements.*
+	- *Group information into chunks whenever you have too much information.* 
+	- *Practice getting your most important actors onstage first, not just the ones that are easiest.** 
+ *
 - *This idea that conscious processes need to be done one at a time has been studied in hundreds of experiments since the 1980s. For example, the scientist Harold Pashler showed that when people do two cognitive tasks at once, their cognitive capacity can drop from that of a Harvard MBA to that of an eight-year-old. It’s a phenomenon called dual-task interference.* 
  
 - *The lesson is clear: if accuracy is important, don’t divide your attention.* 

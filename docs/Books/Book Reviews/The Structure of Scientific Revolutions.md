@@ -11,7 +11,7 @@ tags:
   - books
   - non-fiction
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:24
 ---
 # The Structure of Scientific Revolutions
 
@@ -23,11 +23,8 @@ This book examines what constitutes a "scientific revolution". The book goes int
 # 🎨 Impressions
 I liked the book, it was short and to the point, although sometimes a bit dull. 
 I think that it is interesting that the author notes multiple incidents where the old theory is basically meeting so many inconsistencies so that 
-## How I Discovered It
-Cannot remember, it was interesting and I have seen it mentioned in a couple of other places. 
 
-## Who Should Read It?
-People who are interested in how things evolve. To quote the not-so-great Vladimir Lenin, "There are decades where nothing happens, and there are weeks where decades happen". 
+Might be interesting for those who are interested in how things evolve. To quote the not-so-great Vladimir Lenin, "There are decades where nothing happens, and there are weeks where decades happen". 
 
 # ☘️ How the Book Changed Me
 

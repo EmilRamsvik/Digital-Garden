@@ -13,7 +13,7 @@ tags:
   - system-thinking
   - political-science
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:24
 ---
 # Thinking in Systems
 
@@ -22,19 +22,12 @@ updated: 2024-01-07T17:55
 This book is about understanding and conveying how the system works and how you can use systems thinking to understand the world differently. Systems have mechanisms that govern their behavior, and system thinking allows you to model how the system behaves when manipulating it. 
 
 # 🎨 Impressions
-It was a good book, precise and understandable. This was how engineers thought since I remember very well how we used to model things the same way in school. This book shows how you can apply this type of mental modeling to many different use cases. 
+It was a good book, precise and understandable. This was how engineers thought since I remember very well how we used to model things the same way in school. This book shows how you can apply this type of mental modelling to many different use cases. 
 This is important, so I am pleased about it. 
 
-One thing I appreciated in the book was that they say that everything we perceive about the world is a model, language, etc. The models are good, but they need to depict the world accurately. When I am reading The Blind Watchmaker by Richard Dawkins, I think that since our models shape our worldview, we cannot understand that bats might use echo-location the same way we are using vision as it is inconsistent with our models. Since we can use echo-location ourselves, our models cannot phantom that the bats are using it.
+One thing I appreciated in the book was that they say that everything we perceive about the world is a model, language, etc. The models are good, but they need to depict the world accurately. When I am reading The Blind Watchmaker by Richard Dawkins, I think that since our models shape our worldview, we cannot understand that bats might use echolocation the same way we use vision as it is inconsistent with our models. Since we can't use echolocation ourselves, our models cannot phantom that the bats are using it.
 
-## How I Discovered It
-I think it was on hacker-news. 
-
-## Who Should Read It?
-This book is for those interested in understanding how to model the world and use cases using systems. 
-
-# ☘️ How the Book Changed Me
-I became even more interested in applying system thinking and just modeling systems based upon the systems-thinking progression. I am increasingly convinced that how I feel is a good way of understanding the world, even though I am increasingly convinced that my knowledge is extremely minuscule and I need to be very humble so as not to mess up the way I'm working too much. 
+I became even more interested in applying system thinking and just modelling systems based upon the systems-thinking progression. I am increasingly convinced that how I feel is a good way of understanding the world, even though I am increasingly convinced that my knowledge is extremely minuscule and I need to be very humble so as not to mess up the way I'm working too much. 
 
 # ✍️ My Top  Quotes
 - *If a frog turns right and catches a fly, then turns left and catches a fly, and then turns around backward and catches a fly, the purpose of the frog has to do not with turning left or right or backward but with catching flies. If a government proclaims its interest in protecting the environment but allocates little money or effort toward that goal, environmental protection is not, in fact, the government’s purpose. Purposes are deduced from behavior, not from rhetoric or stated goals.* 

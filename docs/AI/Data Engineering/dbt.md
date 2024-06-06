@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-28T14:05
+updated: 2024-06-06T13:11
 tags:
   - article
   - digital-garden
@@ -12,7 +12,7 @@ tags:
 Finished: false
 ---
 
-# dbt
+# DBT
 
 dbt is an open-source command-line tool that enables data transformation and modeling in a structured and efficient manner. It allows data engineers and analysts to define and manage the data transformation pipeline using SQL queries. With dbt, you can write modular and reusable SQL code, called "models," which define the transformations required to convert raw data into structured and analysis-ready data. These models can be organized, tested, and documented within the dbt framework. dbt leverages the power of SQL and provides a layer of abstraction on top of the data warehouse, making it easier to develop, test, and maintain complex data transformations. It promotes best practices such as version control, testing, and documentation, enabling collaborative and maintainable data modeling workflows. dbt integrates with various data warehouses and can be used in conjunction with other data tools and orchestration platforms to create a robust and reliable data pipeline.
 
@@ -44,7 +44,9 @@ Data Definition Language (DDL) is a group of SQL statements that you can execute
 [See also medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
 
 # Links
-- [Structure dbt projects](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)
+- [Structure DBT projects](https://docs.getdbt.com/best-practices/how-we-structure/1-guide-overview)
+- [Elementary Data](https://www.elementary-data.com/)
+- [DBT Learn is a quite nice place to start learning DBT](https://www.getdbt.com/dbt-learn)
 
 # Thoughts 
 - 
