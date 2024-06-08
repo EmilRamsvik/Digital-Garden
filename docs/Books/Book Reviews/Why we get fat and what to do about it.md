@@ -10,7 +10,7 @@ tags:
   - diet
 finished: false
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:49
 ---
 # Why we get fat and what to do about it
 
@@ -20,15 +20,7 @@ updated: 2024-01-07T17:55
 
 
 # 🎨 Impressions
-
-
-## How I Discovered It
-
-
-## Who Should Read It?
-
-
-# ☘️ How the Book Changed Me
+Not that interesting, I worked a little with dietary medicine and it was a nice way for me to have a base knowledge for the job.
 
 
 # ✍️ My Top  Quotes

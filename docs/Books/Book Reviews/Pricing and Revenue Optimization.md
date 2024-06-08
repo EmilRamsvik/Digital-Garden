@@ -6,7 +6,7 @@ tags:
   - books
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:54
 ---
 # Pricing and Revenue Optimization
 
@@ -17,15 +17,7 @@ It is a book about price optimization as well as revenue management. It consists
 
 # 🎨 Impressions
 It is especially the hotel and airline industry that drove price optimization and revenue management. Things I especially found interesting were how to structure the optimization problem and how to deal with some problems. 
-
-## How I Discovered It
-I searched for books about revenue management and price optimization. 
-
-## Who Should Read It?
-People who need to do price optimization. 
-
-# ☘️ How the Book Changed Me
-Not that much, but interesting to read about the price optimization techniques. 
+Optimization problems related to pricing have in hindsight been quite an interesting read for me. I go back to this from time to time and in discussions it has been quite helpful. 
 
 # ✍️ My Top  Quotes
 

@@ -1,10 +1,10 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-04-02T18:14
+updated: 2024-06-06T13:55
 Pages: 
 Author: 
-finished: false
-Date Finished: 
+finished: true
+Date Finished: 2024-06-05
 tags:
   - books
   - digital-garden

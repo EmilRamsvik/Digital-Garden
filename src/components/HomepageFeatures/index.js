@@ -3,22 +3,11 @@ import Heading from '@theme/Heading';
 import styles from './styles.module.css';
 import Link from '@docusaurus/Link';
 import { useEffect, useState } from 'react';
+import FetchAndPickRandomArticle from '../FetchAndPickRandomArticle';
 
-const useRandomArticle = () => {
-  const fetchAndPickRandomArticle = () => {
-    try {
-      const articles = require('@site/static/article_list.json');
-      const randomIndex = Math.floor(Math.random() * articles.length);
-      return (articles[randomIndex]);
-    } catch (error) {
-      console.error('Failed to fetch article list', error);
-      return null;
-    }
-  };
 
-  return fetchAndPickRandomArticle();
-};
-const random = useRandomArticle();
+
+const random = FetchAndPickRandomArticle();
 const FeatureList = [
   {
     linkUrl: '/docs/Garden',

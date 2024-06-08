@@ -3,11 +3,18 @@ Pages: 202
 Date Finished: Jul 05, 2023
 Author: Carol Coye Benson
 created: 2024-01-06T15:04
-updated: 2024-03-07T13:39
+updated: 2024-06-06T13:54
+tags:
+  - books
+  - payment
+  - finance
+  - programming
+  - credit-cards
+  - banking
 ---
 # Payments Systems in the US
 
-Tags: #books #payment #finance #programming 
+
 
 # 🚀 The Book in 3 Sentences
 This book is an overview of how the U.S. and by extension, the world's payment systems work. It goes into detail on credit cards, debit cards, checking and other systems. It contains an overview of the how and why of each system. 

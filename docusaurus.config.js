@@ -1,4 +1,6 @@
 import { themes as prismThemes } from 'prism-react-renderer';
+import FetchAndPickRandomArticle from './src/components/FetchAndPickRandomArticle';
+const random = FetchAndPickRandomArticle();
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -108,6 +110,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'Random Article',
+                href: random["path"],
+              },
 
             ],
           },

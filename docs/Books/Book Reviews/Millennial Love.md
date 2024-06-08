@@ -3,23 +3,23 @@ Pages: 240
 Date Finished: Apr 27, 2023
 Author: Olivia Petter
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:55
+tags:
+  - books
+  - non-fiction
+  - love
+  - dating
+  - sexuality
 ---
 # Millennial Love
 
-Tags: #books #non-fiction #love #dating #sexuality 
+
 
 # 🚀 The Book in 3 Sentences
-This book is the gathering of all things related to the art of modern dating. Olivia Petter explores how dating apps, shows, porn and the sexual revolution has changed how we approach love. It is a deeply personal tale, with examples and anecdotes that underlines the cold hard numbers. 
+This book is a gathering of all things related to the art of modern dating. Olivia Petter explores how dating apps, shows, porn and the sexual revolution has changed how we approach love. It is a deeply personal tale, with examples and anecdotes that underlines the cold hard numbers. 
 
 # 🎨 Impressions
 I had a nonchalantly good impression of it, when she told stories she had heard and her own experiences, the message resonated more loudly than when she tried to become to political. It is one-sided, which is not necessarily a bad thing, and it struggles to accept the complicated realities of what is going on. It is also a biting critique of all things non-cis-feminist, whether or not you include a paragraph about non-western people being austrazied 
-
-## How I Discovered It
-A Bumble match told me about it and I chose to read it. 
-
-## Who Should Read It?
-People who like funny dating stories. 
 
 # ☘️ How the Book Changed Me
 Out of all the things she writes about, the abortion history was haunting and a good reminder to check your privileges. 

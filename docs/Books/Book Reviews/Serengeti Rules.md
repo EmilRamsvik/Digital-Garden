@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-03-22T20:06
+updated: 2024-06-06T13:52
 Pages: 
 Author: Sean Carrol
 finished: true
@@ -21,7 +21,7 @@ One of my favorite books I read in 2021; it is a nice book with good and interes
 
 
 # 🎨 Impressions
-It is quite tied to [Systems](../../Thinking/Systems.md)
+It is quite tied to [Systems](../../Thinking/Systems.md). It is quite intersting read when you learn to think in systems. 
 
 
 # ✍️ My Top  Quotes

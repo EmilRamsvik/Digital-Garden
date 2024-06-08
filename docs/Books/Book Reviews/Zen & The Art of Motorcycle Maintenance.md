@@ -3,25 +3,23 @@ Pages: 464
 Date Finished: Sep 02, 2023
 Author: Robert Pirzig
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:52
+tags:
+  - books
+  - philosophy
+  - denim-philosophy
+  - non-fiction
+  - stoicsm
+  - thinking
 ---
 # Zen & The Art of Motorcycle Maintenance
 
-Tags: #books #philosophy #denim-philosophy #non-fiction #stoicsm #thinking 
-
 # 🚀 The Book in 3 Sentences
-This book is a philosophical work, wrapped in a story of a father and son traveling around the US. It concerns thoughts about quality, understanding things, and appreciation of the process itself.  It also discusses quality in a philosophical setting.
+This book is a philosophical work, wrapped in a story of a father and son travelling around the US. It concerns thoughts about quality, understanding things, and appreciation of the process itself.  It also discusses quality in a philosophical setting.
 
 # 🎨 Impressions
 It was a dense book, and it took a while before I managed to finish it. but it was a good book to read. This book is known as an important book to read, but I might think I was not ready for it. 
 
-## How I Discovered It
-I discovered it as a book that needed to be read. 
-
-## Who Should Read It?
-People who are of age to appreciate philosophy on a higher level than maybe I was. 
-
-# ☘️ How the Book Changed Me
 Maybe, and only maybe, I get to appreciate the quality of the process itself. 
 
 # ✍️ My Top  Quotes

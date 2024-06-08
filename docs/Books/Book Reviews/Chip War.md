@@ -3,7 +3,7 @@ Pages: 464
 Date Finished: May 31, 2023
 Author: Chris Miller
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:45
 ---
 # Chip War
 
@@ -15,14 +15,7 @@ This book is about the history of semiconductor production. It goes through the 
 # 🎨 Impressions
 It was quite an interesting read and gives a good overview and deep dive into the history of semiconductors and discusses how the business and political spectrum collide. It also delves into the innovators and pioneers in the industry, their backgrounds, and what made their companies successful. It also goes into the challenges presented by the companies and how small the margins of errors are. 
 
-## How I Discovered It
-Hacker News as a book recommendation for 2023. 
-
-## Who Should Read It?
-Everyone who has an interest in the technology industry. 
-
-# ☘️ How the Book Changed Me
-I got more insight into how the companies that have seamless technology, such as Tesla and Apple, often have custom-designed chips. It also made me aware of how the industry works, the designers of chips, the manufactures of chips and the suppliers of manufacturing tools. 
+I got more insight into how the companies that have seamless technology, such as Tesla and Apple, often have custom-designed chips. It also made me aware of how the industry works, the designers of chips, the manufacturers of chips and the suppliers of manufacturing tools. 
 
 # ✍️ My Top  Quotes
 - *China now spends more money each year importing chips than it spends on oil.* 

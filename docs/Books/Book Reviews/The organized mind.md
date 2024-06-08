@@ -3,11 +3,19 @@ Pages: 544
 Date Finished: Jun 17, 2023
 Author: Daniel J. Levitvin
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:47
+tags:
+  - books
+  - productivity
+  - brain
+  - deep-work
+  - non-fiction
+  - performance
+  - habits
+  - productivity-hack
+  - mind
 ---
-# The organized mind
-
-Tags: #books  #productivity #brain #deep-work #non-fiction #mind #performance #habits #productivity-hack 
+# The Organized Mind
 
 # 🚀 The Book in 3 Sentences
 This book is about the limitations of the mind, and how we can utilize the environment to make our minds more organized and more structured. It goes through a lot of different types of cognitive failures and tries to highlight in a good way how the mind works. 
@@ -25,14 +33,7 @@ Maybe we should all take a page out of Marie Kondos's book and throughout all th
 
 Finally, the most important lesson from this book, the most fundamental principle of organization, the one that is most critical to keeping us from forgetting or losing things, is this: *Shift the burden of organizing from our brains to the external world.* 
 
-## How I Discovered It
-Hacker News
-
-## Who Should Read It?
 I think that it is an interesting read and that people who want to get better at understanding how they can unclog their minds would like it very much. 
-
-# ☘️ How the Book Changed Me
-
 
 # ✍️ My Top  Quotes
 

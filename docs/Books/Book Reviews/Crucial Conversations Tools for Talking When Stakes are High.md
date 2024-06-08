@@ -8,7 +8,7 @@ tags:
   - communication
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:56
 ---
 # Crucial Conversations Tools for Talking When Stakes are High
 
@@ -22,13 +22,6 @@ I think identifying the most important aspects of a conversation and understandi
 
 I liked the book, although some parts were a bit dense and unnecessary. 
 
-## How I Discovered It
-I think Hacker News best books of 2022
-
-## Who Should Read It?
-People who feel they often get dragged into tense discussions.
-
-# ☘️ How the Book Changed Me
 I strive to become a better listener and understand how I can get to the desired end state. 
 
 # ✍️ My Top  Quotes

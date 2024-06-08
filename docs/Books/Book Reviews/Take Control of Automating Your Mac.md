@@ -12,7 +12,7 @@ tags:
   - keyboard-maestro
   - productivity
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:50
 ---
 # Take Control of Automating Your Mac
 
@@ -21,16 +21,7 @@ This book is about cool and fast ways you can automate your Mac experience. It g
 
 # 🎨 Impressions
 It was a bit of a boring book for me, felt it was a bit too shallow for me to take advantage of the knowledge there. 
-
-## How I Discovered It
-Googled automation of Mac and keyboard maestro.
-
-## Who Should Read It?
-If you want to automate your mac and don't know where to start. 
-
-# ☘️ How the Book Changed Me
-
-Not much that I can think of. 
+Do not recommend this book.
 
 # ✍️ My Top  Quotes
 

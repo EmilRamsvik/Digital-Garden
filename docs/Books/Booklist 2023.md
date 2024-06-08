@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2024-03-12T11:46
+updated: 2024-06-06T13:47
 ---
 
 #### [Made to Stick](Book%20Reviews/Made%20to%20Stick.md)
@@ -110,7 +110,7 @@ updated: 2024-03-12T11:46
 *Pages*: 217
 *Language*: English
 
-#### [The organized mind](Book%20Reviews/The%20organized%20mind.md)
+#### [The Organized Mind](Book%20Reviews/The%20Organized%20Mind.md)
 *Author:*  Daniel J. Levitvin
 *Pages*: 544
 *Language*: English

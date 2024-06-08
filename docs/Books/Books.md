@@ -7,7 +7,7 @@ tags:
   - distractions
 Finished: false
 created: 2023-06-10T15:04:00
-updated: 2024-04-14T19:05
+updated: 2024-06-08T15:40
 ---
 # Books 
 Books are an excellent way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 

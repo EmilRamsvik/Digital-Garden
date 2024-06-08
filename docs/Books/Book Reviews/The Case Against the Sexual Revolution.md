@@ -3,25 +3,25 @@ Pages: 200
 Date Finished: Apr 12, 2023
 Author: Louise Perry
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-06-06T13:46
+tags:
+  - feminism
+  - non-fiction
+  - love
+  - relationships
+  - dating
+  - dating-apps
+  - evolution
 ---
 # The Case Against the Sexual Revolution
 
-Tags: #non-fiction #feminism 
 # 🚀 The Book in 3 Sentences
-This book takes a critical look at the post-sexual revoltion society and asks if not everything that has been a good development. It asks if soceity as whole, with liberailised sex has been a disadvantage to society. 
+This book takes a critical look at the post-sexual revolution society and asks if not everything that has been a good development. It asks if society as a whole, with liberalised sex, has been a disadvantage to society. 
 
 # 🎨 Impressions
 I thought it was an interesting book in the sense that it asks if not being a sex-liberal society has been a disadvantage to girls. I think this might be true. Maybe the best way we have a truly better society is to limit the sex available for boys. Maybe all men should have a limit on how many they can date/have sex with. Same for girls maybe, then we can develop meaningful relationships instead of just having some boys do all the sex. I think most of us would be happier with that result. 
 
-## How I Discovered It
-
-Podcast, Wolfgang Wee with Asle Toje. Also, I think that the podcast has lost itself a lot. I´m tired of all the 50-year-old bullshit spitting, fucked up dumb dudes who throw out dumb statistics and just twist everything to their world view is interesting. I also think Wolfgang is quite stupid. 
-## Who Should Read It?
-
-I think it is an okay book, but only people who are very liberal feminists should read it as it is not that interesting for people who are not in that category. It was not that good either. 
-# ☘️ How the Book Changed Me
-I think, most of the issue is these alpha males.  Maybe limit their sex availability to just one would help society a lot. 
+I think it is an okay book, but only people who are very liberal feminists should read it as it is not that interesting for people who are not in that category. It was not that good either.  
 
 # ✍️ My Top  Quotes
 

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-06-06T12:15
+updated: 2024-06-06T13:59
 ---
 [[]]# Booklist 2024 
  
@@ -398,12 +398,12 @@ _Author:_ Robert Jackall
 _Pages:_ 294
 _Language:_ English
 
-#### [Data Science the Hard Parts](Personal/Books/Book%20Reviews/Data%20Science%20the%20Hard%20Parts.md)
+#### [Data Science the Hard Parts](Books/Book%20Reviews/Data%20Science%20the%20Hard%20Parts.md)
 _Author:_ Daniel Vaughan
 _Pages:_ 254
 _Language:_ English
 
-#### Analytical Skills for AI and Data Science
+#### [Analytical Skills for AI and Data Science](Books/Book%20Reviews/Analytical%20Skills%20for%20AI%20and%20Data%20Science.md)
 _Author:_ Daniel Vaughan
 _Pages:_ 242
 _Language:_ English
