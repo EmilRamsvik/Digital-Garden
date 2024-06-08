@@ -47,6 +47,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        indexName: 'tinyknowledge',
+        appId: 'PW9ZB8I86O',
+        apiKey: '79370fbd2fe5f590d8889ab2409ef11f',
+      },
       // Replace with your project's social card
       image: 'img/social-card.jpg',
       navbar: {
