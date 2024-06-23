@@ -110,11 +110,6 @@ const config = {
           {
             title: 'More',
             items: [
-              {
-                label: 'Random Article',
-                href: random["path"],
-              },
-
             ],
           },
         ],
