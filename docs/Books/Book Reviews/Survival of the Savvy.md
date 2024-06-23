@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-05-12T20:55
+updated: 2024-06-16T21:06
 Pages: 320
 Author: Marty Seldman
 finished: true
@@ -30,6 +30,7 @@ I think the book had a cool theme and with good points. I think it would be nice
 
 Another link is the [Systematics](Systematics.md) book review, which kinda explains the systematic approach to organizations and this is also a lot of that vibe to it. 
 
+Being nice to people and listening to their worries and their problems is crucial. It pays to be attentive. See [Crucial Conversations Tools for Talking When Stakes are High](Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20are%20High.md) and [Nonviolent Communication](Nonviolent%20Communication.md) for tips. 
 # ✍️ My Top  Quotes
 
 - *A corporate survival-of-the-fittest situation does exist, especially in tough economic, competitive, and cost-conscious times.* 
@@ -50,7 +51,6 @@ Another link is the [Systematics](Systematics.md) book review, which kinda expla
  
 - *Power of Ideas people screen decisions through the question “Do my actions have integrity and are they good for the company?” They place ethics and what’s beneficial for the common good over personal success.* 
  
-- *There’s an old European curse, “May you be blessed* 
  
 - *There’s an old European curse, “May you be blessed with a great idea and no one to implement it.”* 
  
@@ -94,9 +94,7 @@ Another link is the [Systematics](Systematics.md) book review, which kinda expla
  
 - *Unofficial Influence Power. Savvy leaders also read the white spaces on the organizational chart. Besides tuning your antennas to official position power, pick up on the informal influencers and power connections. Who is part of the favored inner circle and who are the outcasts? Do you know who’s wired in, who has the ear of top management, and who really makes the decisions?* 
  
-- *When asked who the boss is between daddy and mommy: “Who is the boss? You have to ask that? I’m the boss. Mommy is only the decision maker.” Title can be just that—a mere title.* 
- 
-- *“Toula, the man is the head, but the woman is the neck and she can turn the head any way she wants.”* 
+- *When asked who the boss is between daddy and mommy: “Who is the boss? You have to ask that? I’m the boss. Mommy is only the decision maker.” Title can be just that—a mere title.*  
  
 - *The mother calms her daughter’s worries about how the “boss” of that family will respond by reassuring her, “Toula, the man is the head, but the woman is the neck and she can turn the head any way she wants.”* 
  

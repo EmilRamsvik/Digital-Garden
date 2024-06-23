@@ -1,5 +1,5 @@
 ---
-Date Started: Aug 16, 2023
+Date Started: 2023-06-01
 tags:
   - article
   - data-science
@@ -10,9 +10,11 @@ tags:
   - "#computer-vision"
   - "#neural-networks"
   - "#transformers"
+  - data
+  - data/eda
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-04-20T11:11
+updated: 2024-06-22T09:42
 ---
 
 # Data Science
@@ -54,5 +56,6 @@ Experience and skill are the things driving velocity, so focus on gaining as muc
 - A machine learning (ML) model is a software artifact “compiled” from data.
 - *Selection bias*: Training data is not representative of the real world. The distribution of training data does not match real-world deployment distribution. This happens for a lot of reasons. Examples are Time, over-filtering data, rare events, and convenience-based collections. (Only survey your friends or in a single location.)
 - [A famous empiricist once said, “With great power comes great responsibility.” In Bayesian terms, the stronger we make our model–following the excellent precepts of Jeffreys and Jaynes–the more able we will be to find the model’s flaws and thus perform scientific learning.](https://statmodeling.stat.columbia.edu/2009/05/07/bayes_jeffreys/)
+- Conformal predictions is a machine learning framework that provides a way to quantify the uncertainty of predictions made by a model. It allows you to assign confidence measures to individual predictions, indicating how likely the predictions are to be correct.
 
 

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:59
+updated: 2024-06-22T09:43
 ---
 [[]]# Booklist 2024 
  
@@ -221,7 +221,7 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 512
 *Language*: English 
 
-#### The Missing Billionaires
+#### [The Missing Billionaires](Books/Book%20Reviews/The%20Missing%20Billionaires.md)
 *Author:* Victor Haghani, James White
 *Pages*: 416
 *Language*: English 
@@ -356,7 +356,7 @@ _Author:_ John Gall
 _Pages:_ 111
 _Language:_ English
 
-#### [Understanding Michael Porter](Personal/Books/Book%20Reviews/Understanding%20Michael%20Porter.md)
+#### [Understanding Michael Porter](Books/Book%20Reviews/Understanding%20Michael%20Porter.md)
 _Author:_ Joan Magretta
 _Pages:_ 245
 _Language:_ English
@@ -373,12 +373,12 @@ _Pages:_ 281
 _Language:_ English
 
 
-#### [Turn the Ship Around](Personal/Books/Book%20Reviews/Turn%20the%20Ship%20Around.md)
+#### [Turn the Ship Around](Books/Book%20Reviews/Turn%20the%20Ship%20Around.md)
 _Author:_ David Marquet
 _Pages:_ 272
 _Language:_ English
 
-#### [Data Engineering with dbt](Personal/Books/Book%20Reviews/Data%20Engineering%20with%20dbt.md)
+#### [Data Engineering with dbt](Books/Book%20Reviews/Data%20Engineering%20with%20dbt.md)
 _Author:_ Roberto Zagni
 _Pages:_ 583
 _Language:_ English
@@ -393,7 +393,7 @@ _Author:_ Peter Senge
 _Pages:_ 445
 _Language:_ English
 
-#### [Moral Mazes](Personal/Books/Book%20Reviews/Moral%20Mazes.md) 
+#### [Moral Mazes](Books/Book%20Reviews/Moral%20Mazes.md) 
 _Author:_ Robert Jackall
 _Pages:_ 294
 _Language:_ English
@@ -418,7 +418,7 @@ _Author:_ Caroline Carruthers
 _Pages:_ 224
 _Language:_ English
 
-#### [Survival of the Savvy](Personal/Books/Book%20Reviews/Survival%20of%20the%20Savvy.md)
+#### [Survival of the Savvy](Books/Book%20Reviews/Survival%20of%20the%20Savvy.md)
 _Author:_ Marty Seldman
 _Pages:_ 320
 _Language:_ English
@@ -432,3 +432,39 @@ _Language:_ English
 _Author:_ George Polya
 _Pages:_ 288
 _Language:_ English
+
+#### [Pro Git](Books/Book%20Reviews/Pro%20Git.md)
+_Author:_ Scott Chacon
+_Pages:_ 440
+_Language:_ English
+
+#### Pragmatics of Human Communication
+_Author:_ Paul Watzlavik
+_Pages:_ 304
+_Language:_ English
+
+#### Bernoullis Fallacy
+_Author:_ Aubrey Clayton
+_Pages:_ 368
+_Language:_ English
+
+#### The Delicate Art of Bureaucracy
+_Author:_ Paul Schwartz
+_Pages:_ 288
+_Language:_ English
+
+#### The Art of Business Value
+_Author:_ Paul Schwartz
+_Pages:_ 162
+_Language:_ English
+
+#### Modelling Mindsets
+_Author:_ Christoph Molnar
+_Pages:_ 115
+_Language:_ English
+
+#### Interpretable Machine Learning
+_Author:_ Christoph Molnar
+_Pages:_ 540
+_Language:_ English
+

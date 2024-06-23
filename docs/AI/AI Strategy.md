@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T21:12:00
-updated: 2024-01-25T15:09
+updated: 2024-06-14T14:52
 tags:
   - article
   - digital-garden
@@ -22,7 +22,7 @@ AI strategy is about having a clear view of how to enable the organization to ut
 - **Machine Learning Strategy**
 	Machine learning strategy covers the implementation of infrastructure, the serving of models, inferencing, and monitoring of machine learning models, and implementation of machine learning operations and platforms.
 - Data Science and Analytics Strategy.
-	The Data Science and Analytics strategy covers the implementation of a guideline for data science and integration with business. Data Science should bridge business use cases and the implementation of analytical and statistical methods. Data 
+	The Data Science and Analytics strategy covers the implementation of a guideline for data science and integration with business. Data Science should bridge business use cases and the implementation of analytical and statistical methods. 
 
 *Note: The use of AI strategy instead of machine learning strategy is because of the more technical nature of the term machine-learning versus the more ambiguous term AI*
 
@@ -31,6 +31,7 @@ AI strategy is about having a clear view of how to enable the organization to ut
 - 
 
 # Thoughts 
-- 
+- It is more important for business stakeholders to focus on viable business use cases and make measurable KPIs than finding out what machine learning can be utilised for. Machine Learning is just a means to an end, not the end goal itself. Let the machine learning engineers figure out the way there, that is what they are paid to do. 
+- Machine learning projects fail because there are no actionable effects from the output. The output of an AI project in itself is worthless; it is the business value that matters.
 
 

@@ -9,7 +9,7 @@ tags:
   - communism
 Finished: false
 created: 2023-06-21T09:25
-updated: 2024-01-07T17:14
+updated: 2024-06-14T12:38
 ---
 
 # Politics
@@ -68,10 +68,11 @@ I found this [video](https://www.youtube.com/watch?v=1T_98uT1IZs&ab_channel=Ryan
 
 # Links
 - [Tocqueville Effect, more equality makes inequality more apparent.](https://en.wikipedia.org/wiki/Tocqueville_effect)
-- [Colors of political movements](https://en.wikipedia.org/wiki/Political_colour#Blue)
+- [Colours of political movements](https://en.wikipedia.org/wiki/Political_colour#Blue)
 
 # Thoughts 
 - Politics is weird, man; I got my definition of Fascism from a guy on YouTube. 
 - Hitchens's life biography is very good when it comes to understanding some of the trends and political movements in the 20th century. Good name as well, [Hitch 22](../Books/Book%20Reviews/Hitch%2022.md)
+- People convince themselves of anything. It is a scary thought. 
 
 

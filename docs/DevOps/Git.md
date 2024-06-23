@@ -1,10 +1,17 @@
 ---
-finished: false
+finished: true
 tags:
   - article
   - digital-garden
+  - git
+  - github
+  - version-control
+  - programming
+  - developing
+  - teams
+  - career
 created: 2024-01-06T15:01
-updated: 2024-05-20T21:50
+updated: 2024-06-14T14:59
 ---
 
 
@@ -25,12 +32,24 @@ When you rebase, you put the difference in the branches as a new commit on top o
 3. Be careful when killing files, make sure that pull requests are reviewed and merged before doing any file killing (Killing in this case is deleting.)
 4. Don't be afraid to throw away code. If the branch has a lot of changes and a lot of merge conflicts, start over on a new branch. This is simple; you have already done the work, so don't be afraid to do it again. After all, it is also a good opportunity for you to work on refactoring the code. 
 
+### Git Bisect
+[Git Bisect](https://www.git-scm.com/docs/git-bisect) is an interesting command, which I learned about in the Pro Git book. It is a really cool command for finding breaking changes and doing investigative analyses. 
+
+
+### Git Blame
+As its name is a bit strongly worded, the command itself has been quite nice for understanding each individual commit and why it was made. 
+
+
+Both Git blame and Git biscet are fantastisc commands when you do not know the code base as a developer. Being able to find out when breaking changes were introduced and what the reasoning was for the breaking changes is great for debugging. 
 # Links
 - [Only need plaintext](https://www.youtube.com/watch?v=WgV6M1LyfNY&ab_channel=NoBoilerplate) Argues against anything other than Git and GitHub for software teams. 
 - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 - [Learn Git and Branching](https://learngitbranching.js.org/)
+- [Pro Git](../Books/Book%20Reviews/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
 
 # Thoughts 
-- 
+- Merge Conflicts are pain, but resolving them quickly is important. 
+- Git is not a perfect tool, and it has limitations. If the team is not working towards the strengths of git you will get a lot of issues. It is important that the team (and yourself) understand the purpose behind git.
+- Explain the following git concepts: head, commit-sha and bisect.  That will tell you all. 
 
 

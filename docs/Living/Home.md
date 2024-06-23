@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-23T17:57
+updated: 2024-06-17T08:19
 tags:
   - article
   - digital-garden
@@ -17,6 +17,14 @@ The things you have reflect the decisions you have made before, and they accumul
 
 
 I am not a fan of too much *stuff*. It is an easy trap to just think I should keep it as it *might* be useful. 
+
+
+## [Kitchen](../Food/Kitchen.md)
+
+## Living Room
+
+
+## Bedroom
 
 
 # Links

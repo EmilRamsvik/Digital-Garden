@@ -5,7 +5,7 @@ tags:
   - political-science
   - finance
 created: 2023-06-04T14:00:00
-updated: 2024-01-07T16:40
+updated: 2024-06-22T09:47
 ---
 
 
@@ -15,8 +15,7 @@ It is often called the dismal science. More than any other science, it is one of
 
 Isaac Newton said he could predict the motion of heavenly motions but not the madness of people. 
 
-[[Lectures#Economics Introduction]] was an excellent introduction to some of the good cases.  I especially liked the example of the taxi industry in NY. What was the welfare function of restricting the supply of taxis, who got them? [Taxi Cab Medalion](https://youtu.be/PC3qooaF5Xs?t=2087) Also, the taxi king medallion. 
-ng 
+In [Lectures](../Learning/Lectures.md) , I link to the course Introduction to Micro Economics, which was an excellent introduction to some of the good cases.  I especially liked the example of the taxi industry in NY. What was the welfare function of restricting the supply of taxis, who got them? [Taxi Cab Medalion Owners](https://youtu.be/PC3qooaF5Xs?t=2087) 
 
 
 # Links
@@ -27,7 +26,8 @@ ng
 - [Article on cooperation and how it increases welfare](https://ergodicityeconomics.com/2023/08/29/for-to-withhold-is-to-perish/)
 - [Baumol Effect - Wages in low productivity increasing sectors have to increase to compete with higher productivity sectors](https://en.wikipedia.org/wiki/Baumol_effect)
 - [Blog series about things like economics.](https://greyenlightenment.com/) Also, there are some funny takedowns of N.N. Taleb, who could use a couple of tablespoons of *humblebrew*.
-- [Wrights Law](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.) About the decreasing cost of the 
+- [Wrights Law](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.) About the decreasing cost of goods with an increase in production. 
+- [Monopsony](https://en.wikipedia.org/wiki/Monopsony) A single buyer controls the market as the major purchaser of goods and services.  [Oligopsony](https://en.wikipedia.org/wiki/Oligopsony) is the same but just a few major purchasers
 
 
 # Thoughts 

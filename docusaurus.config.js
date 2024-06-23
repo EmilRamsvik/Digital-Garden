@@ -90,7 +90,7 @@ const config = {
             items: [
               {
                 label: 'Garden',
-                to: '/docs/',
+                to: '/docs/Garden',
               },
             ],
           },

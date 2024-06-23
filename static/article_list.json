@@ -32,7 +32,8 @@
 ,  {"path": "docs/Working", "title": "Working"}
 ,  {"path": "docs/Working/Remote%20Work", "title": "Remote Work"}
 ,  {"path": "docs/Working/Agile", "title": "Agile"}
-,  {"path": "docs/Working/Job%20Searcing", "title": "Job Searcing"}
+,  {"path": "docs/Working/Job%20Searching/Salary%20Negotiation", "title": "Salary Negotiation"}
+,  {"path": "docs/Working/Job%20Searching/Job%20Searcing", "title": "Job Searcing"}
 ,  {"path": "docs/About/Education", "title": "Education"}
 ,  {"path": "docs/About/Other", "title": "Other"}
 ,  {"path": "docs/About", "title": "About"}
@@ -50,15 +51,15 @@
 ,  {"path": "docs/Books/Book%20Reviews/The%20Stranger", "title": "The Stranger"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Dictator's%20Handbook", "title": "The Dictator's Handbook"}
 ,  {"path": "docs/Books/Book%20Reviews/Fundamentals%20of%20Data%20Engineering", "title": "Fundamentals of Data Engineering"}
-,  {"path": "docs/Books/Book%20Reviews/Fifteen%20Hours", "title": "Fifteen Hours"}
-,  {"path": "docs/Books/Book%20Reviews/Red%20Country", "title": "Red Country"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Trusted%20Advisor", "title": "The Trusted Advisor"}
 ,  {"path": "docs/Books/Book%20Reviews/How%20the%20war%20was%20Won", "title": "How the war was Won"}
+,  {"path": "docs/Books/Book%20Reviews/Moral%20Mazes", "title": "Moral Mazes"}
 ,  {"path": "docs/Books/Book%20Reviews/Payments%20Systems%20in%20the%20US", "title": "Payments Systems in the US"}
 ,  {"path": "docs/Books/Book%20Reviews/Breath", "title": "Breath"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Managers%20Path", "title": "The Managers Path"}
 ,  {"path": "docs/Books/Book%20Reviews/A%20Mind%20for%20Numbers%20How%20to%20Excel%20at%20Math%20and%20Science", "title": "A Mind for Numbers How to Excel at Math and Science"}
 ,  {"path": "docs/Books/Book%20Reviews/Pricing%20and%20Revenue%20Optimization", "title": "Pricing and Revenue Optimization"}
+,  {"path": "docs/Books/Book%20Reviews/Data%20Science%20the%20Hard%20Parts", "title": "Data Science the Hard Parts"}
 ,  {"path": "docs/Books/Book%20Reviews/Material%20World", "title": "Material World"}
 ,  {"path": "docs/Books/Book%20Reviews/How%20Big%20Things%20Get%20Done", "title": "How Big Things Get Done"}
 ,  {"path": "docs/Books/Book%20Reviews/Machine%20Learning%20Engineering", "title": "Machine Learning Engineering"}
@@ -78,13 +79,14 @@
 ,  {"path": "docs/Books/Book%20Reviews/Letters%20to%20a%20Young%20Contrarian", "title": "Letters to a Young Contrarian"}
 ,  {"path": "docs/Books/Book%20Reviews/UltraLearning", "title": "UltraLearning"}
 ,  {"path": "docs/Books/Book%20Reviews/On%20Palestine", "title": "On Palestine"}
-,  {"path": "docs/Books/Book%20Reviews/Eisenhorn", "title": "Eisenhorn"}
 ,  {"path": "docs/Books/Book%20Reviews/Stoner", "title": "Stoner"}
 ,  {"path": "docs/Books/Book%20Reviews/Why%20we%20get%20fat%20and%20what%20to%20do%20about%20it", "title": "Why we get fat and what to do about it"}
 ,  {"path": "docs/Books/Book%20Reviews/Animal%20Farm", "title": "Animal Farm"}
 ,  {"path": "docs/Books/Book%20Reviews/Machine%20Learning%20Design%20Patterns", "title": "Machine Learning Design Patterns"}
+,  {"path": "docs/Books/Book%20Reviews/Analytical%20Skills%20for%20AI%20and%20Data%20Science", "title": "Analytical Skills for AI and Data Science"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Man%20from%20the%20Future%20The%20Visionary%20Life%20of%20John%20von%20Neumann", "title": "The Man from the Future The Visionary Life of John von Neumann"}
 ,  {"path": "docs/Books/Book%20Reviews/Made%20to%20Stick", "title": "Made to Stick"}
+,  {"path": "docs/Books/Book%20Reviews/Survival%20of%20the%20Savvy", "title": "Survival of the Savvy"}
 ,  {"path": "docs/Books/Book%20Reviews/Personal%20MBA", "title": "Personal MBA"}
 ,  {"path": "docs/Books/Book%20Reviews/Nonviolent%20Communication", "title": "Nonviolent Communication"}
 ,  {"path": "docs/Books/Book%20Reviews/Practical%20Recommendation%20Systems", "title": "Practical Recommendation Systems"}
@@ -112,6 +114,8 @@
 ,  {"path": "docs/Books/Book%20Reviews/The%20Blind%20Watchmaker", "title": "The Blind Watchmaker"}
 ,  {"path": "docs/Books/Book%20Reviews/Alchemy", "title": "Alchemy"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Structure%20of%20Scientific%20Revolutions", "title": "The Structure of Scientific Revolutions"}
+,  {"path": "docs/Books/Book%20Reviews/Turn%20the%20Ship%20Around", "title": "Turn the Ship Around"}
+,  {"path": "docs/Books/Book%20Reviews/Understanding%20Michael%20Porter", "title": "Understanding Michael Porter"}
 ,  {"path": "docs/Books/Book%20Reviews/Good%20Strategy%20Bad%20Strategy", "title": "Good Strategy Bad Strategy"}
 ,  {"path": "docs/Books/Book%20Reviews/Models", "title": "Models"}
 ,  {"path": "docs/Books/Book%20Reviews/Hooked", "title": "Hooked"}
@@ -135,7 +139,7 @@
 ,  {"path": "docs/Books/Book%20Reviews/Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20are%20High", "title": "Crucial Conversations Tools for Talking When Stakes are High"}
 ,  {"path": "docs/Books/Book%20Reviews/1776", "title": "1776"}
 ,  {"path": "docs/Books/Book%20Reviews/Getting%20Started%20with%20Streamlit%20for%20Data%20Science", "title": "Getting Started with Streamlit for Data Science"}
-,  {"path": "docs/Books/Book%20Reviews/The%20organized%20mind", "title": "The organized mind"}
+,  {"path": "docs/Books/Book%20Reviews/The%20Organized%20Mind", "title": "The Organized Mind"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Case%20Against%20the%20Sexual%20Revolution", "title": "The Case Against the Sexual Revolution"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20First%20World%20War", "title": "The First World War"}
 ,  {"path": "docs/Books/Book%20Reviews/Practical%20Vim", "title": "Practical Vim"}
@@ -147,13 +151,13 @@
 ,  {"path": "docs/Books/Book%20Reviews/When%20Reason%20goes%20on%20Holliday", "title": "When Reason goes on Holliday"}
 ,  {"path": "docs/Books/Book%20Reviews/Humanocracy", "title": "Humanocracy"}
 ,  {"path": "docs/Books/Book%20Reviews/Practical%20MLOps", "title": "Practical MLOps"}
-,  {"path": "docs/Books/Book%20Reviews/The%20Trouble%20with%20Peace", "title": "The Trouble with Peace"}
 ,  {"path": "docs/Books/Book%20Reviews/On%20Food%20and%20Cooking", "title": "On Food and Cooking"}
-,  {"path": "docs/Books/Book%20Reviews/Books", "title": "Books"}
 ,  {"path": "docs/Books/Book%20Reviews/The%20Myth%20of%20Sisyphus", "title": "The Myth of Sisyphus"}
 ,  {"path": "docs/Books/Book%20Reviews/Finansplaneten", "title": "Finansplaneten"}
 ,  {"path": "docs/Books/Book%20Reviews/Homage%20to%20Catalonia", "title": "Homage to Catalonia"}
 ,  {"path": "docs/Books/Book%20Reviews/Economics%20in%20One%20Lesson", "title": "Economics in One Lesson"}
+,  {"path": "docs/Books/Book%20Reviews/Data%20Engineering%20with%20dbt", "title": "Data Engineering with dbt"}
+,  {"path": "docs/Books", "title": "Books"}
 ,  {"path": "docs/Books/Book%20Quotes%202022", "title": "Book Quotes 2022"}
 ,  {"path": "docs/Podcasts", "title": "Podcasts"}
 ,  {"path": "docs/Politics", "title": "Politics"}
@@ -181,6 +185,7 @@
 ,  {"path": "docs/AI/AI%20Strategy", "title": "AI Strategy"}
 ,  {"path": "docs/AI/Language/NLP%20or%20LLM", "title": "NLP or LLM"}
 ,  {"path": "docs/AI/Data%20Drift", "title": "Data Drift"}
+,  {"path": "docs/AI/Data%20Engineering/dbt", "title": "dbt"}
 ,  {"path": "docs/AI/Data%20Science/Interpretable%20AI", "title": "Interpretable AI"}
 ,  {"path": "docs/AI/Data%20Science/Recommendation%20Systems", "title": "Recommendation Systems"}
 ,  {"path": "docs/AI/Data%20Science", "title": "Data Science"}
@@ -191,11 +196,11 @@
 ,  {"path": "docs/AI/Data%20Science/Machine%20Learning%20Models", "title": "Machine Learning Models"}
 ,  {"path": "docs/AI/Data%20Science/Computer%20Vision", "title": "Computer Vision"}
 ,  {"path": "docs/AI/Data%20Science/Data%20Science%20Project%20Start-Up%20Phase", "title": "Data Science Project Start-Up Phase"}
+,  {"path": "docs/AI/Data%20Science/Unsupervised%20Learning", "title": "Unsupervised Learning"}
 ,  {"path": "docs/AI/Data%20Science/Churn%20Analysis", "title": "Churn Analysis"}
 ,  {"path": "docs/AI/Data%20Science/Evaluation", "title": "Evaluation"}
 ,  {"path": "docs/AI", "title": "AI"}
 ,  {"path": "docs/Philosophy/Religion", "title": "Religion"}
-,  {"path": "docs/Philosophy/On%20The%20Duality%20of%20Rights%20and%20Responsibilities", "title": "On The Duality of Rights and Responsibilities"}
 ,  {"path": "docs/Philosophy", "title": "Philosophy"}
 ,  {"path": "docs/Cloud/GCP", "title": "GCP"}
 ,  {"path": "docs/Cloud", "title": "Cloud"}
@@ -233,6 +238,7 @@
 ,  {"path": "docs/Travel/Places/Laos", "title": "Laos"}
 ,  {"path": "docs/Travel/Places/Sapporo%20and%20Niseko", "title": "Sapporo and Niseko"}
 ,  {"path": "docs/Travel/Places/Italy", "title": "Italy"}
+,  {"path": "docs/Travel/Places/Denmark", "title": "Denmark"}
 ,  {"path": "docs/Travel/Places", "title": "Places"}
 ,  {"path": "docs/Travel", "title": "Travel"}
 ,  {"path": "docs/Motivation/Habits", "title": "Habits"}

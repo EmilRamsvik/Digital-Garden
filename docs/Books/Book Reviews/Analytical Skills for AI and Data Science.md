@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-06-08T15:40
+updated: 2024-06-08T18:32
 Pages: 242
 Author: Daniel Vaughan
 finished: true
@@ -20,7 +20,8 @@ tags:
 This book strives to merge the gap between business and data science. It is about understanding the business value of analytics and what is important to work on. 
 
 # 🎨 Impressions
-The most important skills of a data scientist are business savy and communication mastery. 
+The most important skills of a data scientist are business savvy and communication mastery. 
+Understanding the action is the driver of the value propositions. 
 
 
 # ✍️ My Top  Quotes
