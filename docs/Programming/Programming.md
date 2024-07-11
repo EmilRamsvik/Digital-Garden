@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: true
 created: 2023-06-09T13:30:00
-updated: 2024-04-24T18:08
+updated: 2024-06-30T11:43
 ---
 # Programming
 
@@ -69,3 +69,4 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - "Going to school to study software engineering is mostly good for understanding how to communicate with other software engineers. You understand the lingua" - Coworker. 
 - "_Code is just the residue of the work._" - Tim Ottinger.
 - "Code that is working in production is superior to code that has never operated in real life." - Tim Ottinger.
+- You are not your code, and you are not your ideas. Do not take criticism of your work as criticism of you as a person. 

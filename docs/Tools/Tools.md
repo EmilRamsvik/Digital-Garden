@@ -7,7 +7,7 @@ tags:
   - productivity
   - software/tools
 created: 2024-01-06T15:01
-updated: 2024-03-23T18:16
+updated: 2024-06-30T18:59
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -70,7 +70,18 @@ I think I will use more and more Apple ecosystem products because they are easy 
 
 
 ## Airpods Pro
-After using another small type of cordless headphones for exercise and movement, I bit the bullet and bought Airpods Pro. 
+After using another small type of cordless headphones for exercise and movement, I bit the bullet and bought Airpods Pro.  I am happy with them, mostly for the ease of compatibility. 
+
+
+# Windows 
+
+Sometimes you are forced to use Bill Gates Hell machines. If so, then it might be nice to have at least some sort of happy little automation. 
+
+
+## Autohotkey. 
+I love autohotkey. Its a very good program. 
+[This might be an interesting starting guide to AutoHotkey.](https://www.hillelwayne.com/post/ahk-scripts-project/)
+
 
 # Links
 - [Hacker News Thread on Tools.](https://news.ycombinator.com/item?id=31914087)

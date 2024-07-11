@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-04-21T17:26
+updated: 2024-06-30T18:55
 ---
 # Articles
 
@@ -52,6 +52,8 @@ Blogs that I have discovered are here:
 #### [Tim Ottinger](https://agileotter.blogspot.com/)
 *About:* Software, working. 
 
+#### [Charity](https://charity.wtf/)
+*About:* Software, working.
 # Thoughts 
 - I think a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 
 - This page works as a placeholder folder for oall the articles where I cannot find a parent file to store the links.

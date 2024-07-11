@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-07T09:15
+updated: 2024-06-30T18:53
 tags:
   - article
   - digital-garden
@@ -48,7 +48,7 @@ The three parameters `simple_ctr`, `combinations_ctr`, and `per_feature_ctr`�
 
 
 # Links
-- 
+- [Machine Learning](https://madewithml.com/)
 
 # Thoughts 
 - 

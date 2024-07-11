@@ -7,7 +7,7 @@ tags:
   - stocks
   - trading
 created: 2023-06-11T15:04:00
-updated: 2024-02-29T20:59
+updated: 2024-06-30T18:51
 ---
 
 
@@ -32,6 +32,7 @@ Books that have influenced my thoughts on investing are
 - [17 Rules for financial safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/) Don't borrow, make sure you know what you are doing, and remember that you might lose. 
 - [Seeing Like a bank.](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.)
 - [Browninan Motion](https://www.youtube.com/watch?v=7mmeksMiXp4&ab_channel=stepbil)
+- [Thoughts on debt](https://collabfund.com/blog/how-i-think-about-debt/)
 
 # Thoughts 
 - Probably the smartest thing to do is to invest in index funds. 
