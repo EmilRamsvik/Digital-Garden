@@ -1,5 +1,4 @@
 ---
-Date Started: 2023-10-29
 Finished: false
 tags:
   - article
@@ -9,8 +8,9 @@ tags:
   - thinking
   - kahneman
   - thinking-fast-and-slow
+  - complexity
 created: 2024-01-06T15:04
-updated: 2024-03-23T18:03
+updated: 2024-07-13T18:39
 ---
 
 
@@ -40,7 +40,10 @@ I think the best way is to extend the decision-making time to at least a couple 
 
 # Links
 - [Overchoice and How to Avoid it](https://gurwinder.substack.com/p/overchoice-and-how-to-avoid-it?utm_source=profile&utm_medium=reader2) - Note: *Buridan´s ass:* a mythical donkey that finds itself precisely equidistant from two identical bales of hay. The ass tries to make a firm decision as to whether to eat from the left bale or the right, but since there’s no rational reason to prefer either, the donkey wavers until it starves to death.
-- 
+- [Talk by Snowden on a lot of things but also about decision making.](https://www.youtube.com/watch?v=xYqWREPb3Lc&ab_channel=Metosin) 
+	- You look at 5 % of the data max. 
+	- You turn up the latest memories of similar events, discussions talks etc. 
+	- You make a decision
 
 # Thoughts 
 - Practice making decisions the right way the same way you practice other things. Do it a lot and then use the experience you get from doing the proper decision process in less essential decisions to reap the benefit in more significant decisions. It can be a decision to go on a hiking trip on Saturday, for example, but it will give you good practice. 

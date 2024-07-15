@@ -11,7 +11,7 @@ tags:
   - entropy
 Finished: false
 created: 2023-08-08T12:52:00
-updated: 2024-03-18T21:21
+updated: 2024-07-13T18:32
 ---
 
 
@@ -34,6 +34,6 @@ I find the chaotic process infinitely fascinating, it is the process of creating
 - Having a solid understanding of chaos and unpredictability is one of the most powerful mental models for understanding the world. 
 - The real world is non-linear.  You need to understand non-linearity to comprehend the world. 
 - *A pattern is as complex as the length of the shortest description that can be used to produce it* - Andrei Kolmogorov
-- 
+- **Anthro-complexity.** It means human beings are not ants. Humans complicate models of use. 
 
 
