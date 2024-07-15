@@ -51,8 +51,8 @@ const config = {
     ({
       algolia: {
         indexName: 'tinyknowledge',
-        appId: 'PW9ZB8I86O',
-        apiKey: '79370fbd2fe5f590d8889ab2409ef11f',
+        appId: 'IAV11MGXD0',
+        apiKey: 'e43f61d750eb51c99f970ba0adbeb783',
       },
       // Replace with your project's social card
       image: 'img/social-card.jpg',
