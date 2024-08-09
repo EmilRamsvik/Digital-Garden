@@ -53,6 +53,8 @@ const config = {
         indexName: 'tinyknowledge',
         appId: 'IAV11MGXD0',
         apiKey: 'e43f61d750eb51c99f970ba0adbeb783',
+        queryParameters: {
+        }
       },
       // Replace with your project's social card
       image: 'img/social-card.jpg',

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-06-22T09:43
+updated: 2024-08-09T10:21
 ---
 [[]]# Booklist 2024 
  
@@ -438,7 +438,7 @@ _Author:_ Scott Chacon
 _Pages:_ 440
 _Language:_ English
 
-#### Pragmatics of Human Communication
+#### [Pragmatics of Human Communication](Books/Book%20Reviews/Pragmatics%20of%20Human%20Communication.md)
 _Author:_ Paul Watzlavik
 _Pages:_ 304
 _Language:_ English
@@ -453,12 +453,12 @@ _Author:_ Paul Schwartz
 _Pages:_ 288
 _Language:_ English
 
-#### The Art of Business Value
+#### [The Art of Business Value](Personal/Books/Book%20Reviews/The%20Art%20of%20Business%20Value.md)
 _Author:_ Paul Schwartz
 _Pages:_ 162
 _Language:_ English
 
-#### Modelling Mindsets
+#### [Modelling Mindsets](Personal/Books/Book%20Reviews/Modelling%20Mindsets.md)
 _Author:_ Christoph Molnar
 _Pages:_ 115
 _Language:_ English
@@ -466,5 +466,10 @@ _Language:_ English
 #### Interpretable Machine Learning
 _Author:_ Christoph Molnar
 _Pages:_ 540
+_Language:_ English
+
+#### Fearless Salary Negotiation
+_Author:_ Josh Doody
+_Pages:_ 174
 _Language:_ English
 
