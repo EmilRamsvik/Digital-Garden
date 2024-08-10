@@ -7,7 +7,7 @@ tags:
   - productivity
   - software/tools
 created: 2024-01-06T15:01
-updated: 2024-06-30T18:59
+updated: 2024-08-09T15:23
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -75,12 +75,18 @@ After using another small type of cordless headphones for exercise and movement,
 
 # Windows 
 
-Sometimes you are forced to use Bill Gates Hell machines. If so, then it might be nice to have at least some sort of happy little automation. 
+Sometimes you are forced to use Bill Gates Hell Machines (BGHM). If so, then it might be nice to have at least some sort of happy little automation. 
 
 
-## Autohotkey. 
-I love autohotkey. Its a very good program. 
+I had an interesting discussion with an IT support person (A very sarcastic individual, wonder why). He mentioned that he did not like Macs because they were not easy to fix. This was a bit surprising to me, who likes Mac as my tool of choice, but I have never thought of the support aspect of it. This might be a reason why Windows dominates to such a degree, it is easier to fix, and therefore IT will argue for it.  In the same way, HR professionals do not choose Workday or Salespeople Salesforce, Windows is not chosen by the employees. 
+## AutoHotKey. 
+I love autohotkey. It's a very good program. 
+
+I use it as a proxy for when I have to use BGHM (Bill Gates Hell Machine)
+
 [This might be an interesting starting guide to AutoHotkey.](https://www.hillelwayne.com/post/ahk-scripts-project/)
+[A Beginners Guide to Autohotkey](../Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md) is a book that might be a good start. 
+[My dotfiles with AHK files](https://github.com/EmilRamsvik/dotfiles/tree/master/autohotkey)
 
 
 # Links
@@ -90,4 +96,4 @@ I love autohotkey. Its a very good program.
 
 # Thoughts 
 - *Tools shall be used but not misused.* What I mean is that it is important not to be afraid to use the tool but not to be careless either. Tools that are not used is waste. 
-
+- A great tool sharpened is better than a 100 rusting. 

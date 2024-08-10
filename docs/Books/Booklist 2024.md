@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-08-09T10:21
+updated: 2024-08-09T15:11
 ---
 [[]]# Booklist 2024 
  
@@ -131,14 +131,10 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 304
 *Language*: English
 
-#### The Mom Test
-*Author:* Rob Fitzpatrick
-*Pages*: 138 
-*Language*: English
 
 #### Risk Savvy 
 *Author:*  Gerd Gigerenzer
-*Pages*: 
+*Pages*: 336
 *Language*: English
 
 #### The Righteous Mind
@@ -173,11 +169,6 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 
 #### Scarcity Why Having Too Little Means So Much
 *Author:* Sendhil Mullainathan, Eldar Shafir
-*Pages*: 
-*Language*: English
-
-#### A Thousand Plateaus
-*Author:* Deleuze & Guattari
 *Pages*: 
 *Language*: English
 
@@ -408,7 +399,7 @@ _Author:_ Daniel Vaughan
 _Pages:_ 242
 _Language:_ English
 
-#### Driving Digital Strategy
+#### [Driving Digital Strategy](Personal/Books/Book%20Reviews/Driving%20Digital%20Strategy.md)
 _Author:_  Sunil Gupta
 _Pages:_ 288
 _Language:_ English
@@ -448,17 +439,17 @@ _Author:_ Aubrey Clayton
 _Pages:_ 368
 _Language:_ English
 
-#### The Delicate Art of Bureaucracy
+#### [The Delicate Art of Bureaucracy](Personal/Books/Book%20Reviews/The%20Delicate%20Art%20of%20Bureaucracy.md)
 _Author:_ Paul Schwartz
 _Pages:_ 288
 _Language:_ English
 
-#### [The Art of Business Value](Personal/Books/Book%20Reviews/The%20Art%20of%20Business%20Value.md)
+#### [The Art of Business Value](Books/Book%20Reviews/The%20Art%20of%20Business%20Value.md)
 _Author:_ Paul Schwartz
 _Pages:_ 162
 _Language:_ English
 
-#### [Modelling Mindsets](Personal/Books/Book%20Reviews/Modelling%20Mindsets.md)
+#### [Modelling Mindsets](Books/Book%20Reviews/Modelling%20Mindsets.md)
 _Author:_ Christoph Molnar
 _Pages:_ 115
 _Language:_ English
@@ -469,6 +460,11 @@ _Pages:_ 540
 _Language:_ English
 
 #### Fearless Salary Negotiation
+_Author:_ Josh Doody
+_Pages:_ 174
+_Language:_ English
+
+#### [A Beginners Guide to Autohotkey](Personal/Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md)
 _Author:_ Josh Doody
 _Pages:_ 174
 _Language:_ English

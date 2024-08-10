@@ -1,34 +1,35 @@
 ---
-created: 2024-01-02T21:12:00
-updated: 2024-08-09T14:55
+created: 2023-10-29T15:52
+updated: 2024-08-09T14:53
+Pages: 288
+Author: Sunil Gupta
+finished: true
+Date Finished: 2024-08-07
 tags:
-  - article
+  - books
   - digital-garden
-  - ai
+  - book-review
   - strategy
-  - design-thinking
-  - decision-making
   - data/strategy
-  - data/data-management
-  - machine-learning
-Finished: false
+  - digital-management
+  - digital-transformation
+  - management
+  - business-transformation
 ---
-# AI Strategy
-AI strategy is about having a clear view of how to enable the organization to utilize AI capabilities. An AI strategy should encompass the following subsets of strategies. 
+# Driving Digital Strategy
 
 
-- **Data Strategy**
-	Data strategy covers data management, accessibility, and utilization of data. 
-- **Machine Learning Strategy**
-	Machine learning strategy covers the implementation of infrastructure, the serving of models, inferencing, and monitoring of machine learning models, and implementation of machine learning operations and platforms.
-- Data Science and Analytics Strategy.
-	The Data Science and Analytics strategy covers the implementation of a guideline for data science and integration with business. Data Science should bridge business use cases and the implementation of analytical and statistical methods. 
+# 🚀 The Book in 3 Sentences
+This book covers how digital transformations are shaping all industries (Software eating the world). It covers platforms, product as a service and analytics as important concepts. 
 
-*Note: The use of AI strategy instead of machine learning strategy is because of the more technical nature of the term machine-learning versus the more ambiguous term AI*
+# 🎨 Impressions
 
+It was interesting, but a bit of the usual business book nonsense. 
+I kinda felt it did a good job of highlighting concepts within digitalization as well as strategies and examples. 
 
-# Links
-- [Driving Digital Strategy](../Books/Book%20Reviews/Driving%20Digital%20Strategy.md) - This is related to the AI strategy discussions- *The Weather Company is a case in point. When consumers moved away from TV to mobile phones but did not stay long enough to generate ad revenues, the company execs pivoted and created a service called WeatherFX, which uses data from its app to help retailers predict how the weather will affect consumer purchasing behavior.* 
+# ✍️ My Top  Quotes
+
+- *The Weather Company is a case in point. When consumers moved away from TV to mobile phones but did not stay long enough to generate ad revenues, the company execs pivoted and created a service called WeatherFX, which uses data from its app to help retailers predict how the weather will affect consumer purchasing behavior.* 
  
 - *Creating an independent unit is like launching a speedboat to turn around a large ship. Often the speedboat takes off but does little to move the ship.* 
  
@@ -108,10 +109,3 @@ AI strategy is about having a clear view of how to enable the organization to ut
  
 - *First, it is very time consuming. Deloitte found that it spends over two million hours per year to do performance evaluations for its 65,000 employees.* 
  
-
-
-# Thoughts 
-- It is more important for business stakeholders to focus on viable business use cases and make measurable KPIs than finding out what machine learning can be utilised for. Machine Learning is just a means to an end, not the end goal itself. Let the machine learning engineers figure out the way there, that is what they are paid to do. 
-- Machine learning projects fail because there are no actionable effects from the output. The output of an AI project in itself is worthless; it is the business value that matters.
-
-

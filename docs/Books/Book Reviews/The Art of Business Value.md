@@ -1,25 +1,29 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-08-09T11:01
-Pages: 
-Author: 
-finished: false
+updated: 2024-08-09T14:33
+Pages: 162
+Author: Paul Schwartz
+finished: true
 Date Finished: 
 tags:
   - books
   - digital-garden
   - book-review
+  - business
+  - business-communications
+  - money
+  - value-proposition
 ---
 # The Art of Business Value
 
 
 # 🚀 The Book in 3 Sentences
-It is a book that wants to define the concept Business Value in the context of software mostly. It also dvelves into the differnt ways of working and how it affects business value. 
+It is a book that wants to define the concept of Business Value in the context of software mostly. It also delves into the different ways of working and how it affects business value. 
 
 # 🎨 Impressions
-Busines value is a very abstract concept. Sometime it is money, sometimes other things. 
-One point to mention is that we do not really know what is business value, we assume that it is something
-
+Business value is a very abstract concept. Sometimes it is money, sometimes other things. 
+One point to mention is that we do not know what is business value, we assume that it is something and therefore most of the business value and business cases are a hypothesis. 
+I liked the book but as business value, it is also a bit vague.  Sometimes I felt like there was too much talk about frameworks such as agile rather than defining or methods to define business value. 
 # ✍️ My Top  Quotes
 
 - *To those who are deploying code. We can talk all we want about business value, but they are the ones creating it.* 
