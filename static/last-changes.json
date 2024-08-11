@@ -1,11 +1,11 @@
-[
-  {"path": "docs/Books/Book Reviews/The Art of Business Value.md"}
+{
+  "1": "docs/Books/Book Reviews/The Delicate Art of Bureaucracy.md"
 ,
-  {"path": "docs/Books/Book Reviews/Pragmatics of Human Communication.md"}
+  "2": "docs/Books/Book Reviews/The Art of Business Value.md"
 ,
-  {"path": "docs/Books/Book Reviews/Modelling Mindsets.md"}
+  "3": "docs/Books/Book Reviews/Driving Digital Strategy.md"
 ,
-  {"path": "docs/Articles/Articles.md"}
+  "4": "docs/Books/Book Reviews/A Beginners Guide to Autohotkey.md"
 ,
-  {"path": "docs/AI/Data Science/Machine Learning Models.md"}
-]
+  "5": "docs/AI/AI Strategy.md"
+}

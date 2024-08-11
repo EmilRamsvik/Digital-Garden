@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-23T13:41
+updated: 2024-08-10T18:14
 tags:
   - article
   - digital-garden
@@ -28,10 +28,10 @@ Good frameworks for telling stories are [STAR](https://uk.indeed.com/career-advi
 It is so important with these types of frameworks to know the answers to them in a good way. To make sure you are properly prepared, make a list of common questions and make a STAR or CAR for each one. This will help you a lot when you do practice interviews and real interviews. 
 
 ## Tell me about yourself. 
-This questions is extremely important to have down, it will probably always come up and is one of the most important questions you will answer. It is at the start of the interview and is proably about the time a lot of interviewers decide if they are going to hire you or not. 
+This question is extremely important to have down, it will probably always come up and is one of the most important questions you will answer. It is at the start of the interview and is probably about the time a lot of interviewers decide if they are going to hire you or not. 
 
 ### Framework
-Use the present, past, future framework. 
+Use the present, past, and future framework. 
 - **The past** - what is your background and relevant work experience? How did you get to where you are now?
 - **The present** - what is your current role? What do you do and what are your top accomplishments?
 - **The future** - what are you looking to do next? Why are you interested in the position? I think the future should also be Tied to the why questions: Why this company? Why this job? Why this field?

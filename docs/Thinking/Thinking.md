@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-18T21:21
+updated: 2024-08-10T18:11
 tags:
   - article
   - digital-garden
@@ -33,5 +33,7 @@ Here, I write about ways of thinking about the world and the whys and hows. I am
 # Thoughts 
 - Normalization of deviance example can be shown in the Challenger Space Shuttle Accident, which was coined in the accident investigation. 
 - You cannot predict the future, but you can train yourself for it. 
+- Everyone on this earth is at the core stupid. That includes both the reader and writer of this section. Make sure that you always take this simple fact into account. 
+- People judge themselves on their intents, but others on their actions. 
 
 

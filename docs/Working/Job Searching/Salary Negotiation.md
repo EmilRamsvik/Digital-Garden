@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-23T13:34
+updated: 2024-08-10T18:17
 tags:
   - article
   - digital-garden
@@ -49,7 +49,8 @@ Might be smart to name a number instead of doing the open type of question.
 - [Start with No](../../Books/Book%20Reviews/Start%20with%20No.md)
 -  [Salary Expectations](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 - [Website on Salary Negotiation](https://fearlesssalarynegotiation.com/)
-- [How to sabotate your salary negotiations before you even start.](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [How to sabotage your salary negotiations before you even start.](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
+- [50 min podcast about salary negotiation](https://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
 
 # Thoughts 
 - It would be smart to practice salary negotiation as well as interview techniques. 
@@ -57,4 +58,6 @@ Might be smart to name a number instead of doing the open type of question.
 - DO NOT TELL THEM YOUR SALARY EXPECTATIONS.
 - It's your job to be pushy at the offer stage. 
 - We do not want to share any actionable info too early (Time, Money, Contracts/Offers). It is like dating; you withhold information to gain a positive perception. 
+- Be positive and helpful. 
+- If they ask about your salary expectations, you want to have a good answer, I like Josh Doody´s example: “I want this move to be a big step forward for me in terms of both responsibility, and compensation,”
 
