@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-10T18:14
+updated: 2024-08-12T10:29
 tags:
   - article
   - digital-garden
@@ -66,13 +66,12 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - [The Job Closer](../Books/Book%20Reviews/The%20Job%20Closer.md): I read this book and found it interesting.
 - [Website about interviewing.](https://interviewing.io/)
 - [HN: Discussion around the topic](https://news.ycombinator.com/item?id=17776596) 
-
 - [Joel On interviewing version 3](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 
 # Thoughts 
 - A resume should be **clean** above all else. 
 
--  "**Competence Triggers:** basically, if you have to judge someone’s skill based on a series of brief interactions, you’re going to pattern match their behavior against other people who you like.  When people with hiring authority think of winners, they think of _people like them_ who live and breathe this business thing.  They negotiate things as a matter of course: that is a major portion of the value they bring to the company.  Volunteering a number when asked says the same thing to people with hiring authority that flunking FizzBuzz says to an engineer: this person may be a wonderful snowflake in other regards, but on the thing I care about, they’re catastrophically incompetent." - Patrick McKenzie.
-- Practice the questions you do not have the answer to, not the ones that you do. I had this experience once while practicing for an interview, and I only saw what I knew when practicing, foregoing what I did not know. This is a human tendency, and you should focus on things you do not know. How do you answer them? 
+-  "**Competence Triggers:** basically, if you have to judge someone’s skill based on a series of brief interactions, you’re going to pattern match their behaviour against other people who you like.  When people with hiring authority think of winners, they think of _people like them_ who live and breathe this business thing.  They negotiate things as a matter of course: that is a major portion of the value they bring to the company.  Volunteering a number when asked says the same thing to people with hiring authority that flunking FizzBuzz says to an engineer: this person may be a wonderful snowflake in other regards, but on the thing I care about, they’re catastrophically incompetent." - Patrick McKenzie.
+- Practice the questions you do not have the answer to, not the ones that you do. I had this experience once while practising for an interview, and I only saw what I knew when practising, foregoing what I did not know. This is a human tendency, and you should focus on things you do not know. How do you answer them? 
 - If having a virtual meeting, make sure to book a room beforehand that is booked not only for the duration of the meeting but also some time before the meeting. 
-- Practice your pitch (Aka, tell me about yourself) as much as possible, this needs to be top notch.
+- Practice your pitch (Aka, tell me about yourself) as much as possible, this needs to be top-notch.
