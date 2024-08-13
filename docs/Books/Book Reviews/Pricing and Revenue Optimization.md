@@ -6,7 +6,7 @@ tags:
   - books
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:54
+updated: 2024-08-12T14:58
 ---
 # Pricing and Revenue Optimization
 
@@ -55,7 +55,11 @@ Optimization problems related to pricing have in hindsight been quite an interes
  
 - *Customer value should be the key driver of price.* 
  
-- *The goal of pricing and revenue optimization is to provide the right price: • For every product • To every customer segment • Through every channel In addition, the goal is to update those prices over time in response to changing market conditions.* 
+- *The goal of pricing and revenue optimization is to provide the right price: 
+	-  *For every product* 
+	- *To every customer segment* 
+	- *Through every channel*
+	- *In addition, the goal is to update those prices over time in response to changing market conditions.* 
  
 - *Analyze alternatives. This activity is the one most widely identified with pricing and revenue optimization or revenue management. For many companies, it has historically involved the use of spreadsheets to compare pricing alternatives under different scenarios. Choose the best alternative. The choice of the best alternative requires a clear understanding of the goal for each price in the PRO cube—is it to maximize revenue or maximize price or some combination of the two? When many prices are changing quickly, an algorithm is typically required to solve the underlying optimization problem. Execute pricing. Finally, the prices that have been calculated need to be communicated to the market. This step is also referred to as pricing execution.* 
  
@@ -103,9 +107,13 @@ Optimization problems related to pricing have in hindsight been quite an interes
  
 - *Price differentiation refers to the practice of a seller charging different prices to different customers, either for exactly the same good or for slightly different versions of the same good.* 
  
-- *1. Successful price differentiation allows sellers to increase profitability by charging different prices to customers with different willingness to pay. 2. Cannibalization, imperfect segmentation, or arbitrage can destroy—or even reverse—the benefits of price differentiation* 
+	1. *Successful price differentiation allows sellers to increase profitability by charging different prices to customers with different willingness to pay.* 
+	2. *Cannibalization, imperfect segmentation, or arbitrage can destroy—or even reverse—the benefits of price differentiation*
  
-- *Four criteria must hold for group pricing to be successful. • There must be an unambiguous indicator of group membership. Examples of such indicators include a student ID card or a driver’s license that lists age. Furthermore, it must be difficult or impossible for members of one group to masquerade as members of another. Otherwise, cannibalization could easily reduce or even erase the benefits of price differentiation. • Group membership must strongly correlate with price sensitivity. Senior citizen discounts are predicated on the knowledge that senior citizens, on average, are more price sensitive than the public in general. • The product or service cannot be easily traded among purchasers. This is necessary to avoid arbitrage, in which some customers with access to low prices resell to customers who are quoted higher prices. • The segmentation must be both culturally and legally accepted. Group pricing can be extremely controversial. Certain group pricing practices—setting different prices for different races, for example—are illegal in many jurisdictions. Other group pricing practices such as gender-based pricing may or may not be illegal* 
+- *Four criteria must hold for group pricing to be successful. • There must be an unambiguous indicator of group membership. Examples of such indicators include a student ID card or a driver’s license that lists age. Furthermore, it must be difficult or impossible for members of one group to masquerade as members of another. Otherwise, cannibalization could easily reduce or even erase the benefits of price differentiation. 
+	-  *Group membership must strongly correlate with price sensitivity. Senior citizen discounts are predicated on the knowledge that senior citizens, on average, are more price sensitive than the public in general.* 
+	- *The product or service cannot be easily traded among purchasers. This is necessary to avoid arbitrage, in which some customers with access to low prices resell to customers who are quoted higher prices.* 
+	- *The segmentation must be both culturally and legally accepted. Group pricing can be extremely controversial. Certain group pricing practices—setting different prices for different races, for example—are illegal in many jurisdictions. Other group pricing practices such as gender-based pricing may or may not be illegal*
  
 - *Ride-share operators typically set a time- and distance-based base rate for each trip. These base rates, which may vary by city, establish a minimum rider price and hence a minimum driver payment. However, most ride-sharing operators soon established dynamic pricing in which the rider price and driver price varied by time and by location.* 
  

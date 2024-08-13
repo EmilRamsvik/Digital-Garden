@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-08-09T15:11
+updated: 2024-08-13T10:31
 ---
 [[]]# Booklist 2024 
  
@@ -399,7 +399,7 @@ _Author:_ Daniel Vaughan
 _Pages:_ 242
 _Language:_ English
 
-#### [Driving Digital Strategy](Personal/Books/Book%20Reviews/Driving%20Digital%20Strategy.md)
+#### [Driving Digital Strategy](Books/Book%20Reviews/Driving%20Digital%20Strategy.md)
 _Author:_  Sunil Gupta
 _Pages:_ 288
 _Language:_ English
@@ -439,7 +439,7 @@ _Author:_ Aubrey Clayton
 _Pages:_ 368
 _Language:_ English
 
-#### [The Delicate Art of Bureaucracy](Personal/Books/Book%20Reviews/The%20Delicate%20Art%20of%20Bureaucracy.md)
+#### [The Delicate Art of Bureaucracy](Books/Book%20Reviews/The%20Delicate%20Art%20of%20Bureaucracy.md)
 _Author:_ Paul Schwartz
 _Pages:_ 288
 _Language:_ English
@@ -459,13 +459,17 @@ _Author:_ Christoph Molnar
 _Pages:_ 540
 _Language:_ English
 
-#### Fearless Salary Negotiation
+#### [Fearless Salary Negotiation](Personal/Books/Book%20Reviews/Fearless%20Salary%20Negotiation.md)
 _Author:_ Josh Doody
 _Pages:_ 174
 _Language:_ English
 
-#### [A Beginners Guide to Autohotkey](Personal/Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md)
+#### [A Beginners Guide to Autohotkey](Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md)
 _Author:_ Josh Doody
 _Pages:_ 174
 _Language:_ English
 
+#### [Simply Said](Books/Book%20Reviews/Simply%20Said.md)
+_Author:_ Jay Sullivan
+_Pages:_ 288
+_Language:_ English
