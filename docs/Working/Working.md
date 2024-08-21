@@ -8,7 +8,7 @@ tags:
   - job-searching
 Finished: false
 created: 2023-10-15T15:28
-updated: 2024-07-07T16:00
+updated: 2024-08-15T13:15
 ---
 
 # Working
@@ -31,5 +31,6 @@ There is no shame in choosing your passion as your way of making your living, bu
 - If you look at a business not as a collective of people working towards a goal or product but rather as a bunch of kings and queens scrabbling over power and influence, things usually make more sense. 
 - You are always replaceable. 
 -  In a work-to rule action (the French call it *greve du zele*), employees begin doing their jobs by meticulously observing every one of the rules and regulations and performing only the duties stated in their job descriptions
+- There are too many titles, but still not enough. 
 
 

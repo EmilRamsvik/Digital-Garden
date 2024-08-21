@@ -4,7 +4,7 @@ tags:
   - article
   - digital-garden
 created: 2024-01-06T15:04
-updated: 2024-01-26T14:02
+updated: 2024-08-16T10:19
 ---
 
 
@@ -34,6 +34,7 @@ Techniques such as data augmentation for images:
 
 # Thoughts 
 - Never use the [pillow](https://pypi.org/project/Pillow/) if you can use [OpenCV](https://pypi.org/project/opencv-python/). The Pillow package usually mentions a lot of things in the image that might lead to bugs. 
+- Computer vision is a high-complexity machine learning task. Make sure the value is there before starting. 
 
 
 

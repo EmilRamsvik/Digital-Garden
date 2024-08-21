@@ -10,7 +10,7 @@ tags:
   - programming
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-06-06T13:09
+updated: 2024-08-15T09:39
 ---
 # Database
 
@@ -46,11 +46,12 @@ Database modeling is an important aspect of software development and should be t
 - [Benchmarking Databases by Providers is difficult. Because the database providers know their databases are slow.](https://danluu.com/anon-benchmark/)
 - [On Larry Ellison, the boss of Oracle and Oracle](https://news.ycombinator.com/item?id=5170246)
 # Thoughts 
-- Acid in a database stands for Atomicity, Consistency, Isolation, and Durability, which are properties that ensure the reliability and integrity of data transactions.
-- *"In the end, it is all just databases."* This is a quote from an experienced colleague. In business, this is kind of true. Don't overcomplicate; keep the data pure and protected, and ensure people can access it. 
-- Data flow is difficult
-- Understanding the data warehousing is probably a good way to have job security in the 21st century. But is it a career enhancer?
+- Acid in a database stands for Atomicity, Consistency, Isolation, and Durability, which ensure data transactions' reliability and integrity.
+- *"In the end, it is all just databases."* This is a quote from an experienced colleague. In business, this is true. Keep the data simple, pure and protected, and ensure people can access it. 
+- Data flow is difficult.
+- Understanding data warehousing is a good way to have job security in the 21st century. But is it a career enhancer?
 - A schema is a collection of schema objects. Examples of schema objects include **tables, views, sequences, synonyms, indexes, clusters, database links, snapshots, procedures, functions, and packages**.
+- There is a saying about database migrations: *Don't do them.* 
 
 
 

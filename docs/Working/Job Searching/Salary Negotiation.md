@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-13T11:46
+updated: 2024-08-15T11:38
 tags:
   - article
   - digital-garden
@@ -60,5 +60,5 @@ Might be smart to name a number instead of doing the open type of question.
 - It's your job to be pushy at the offer stage. 
 - We do not want to share any actionable info too early (Time, Money, Contracts/Offers). It is like dating; you withhold information to gain a positive perception. 
 - Be positive and helpful. 
-- If they ask about your salary expectations, you want to have a good answer, I like Josh Doody´s example: “I want this move to be a big step forward for me in terms of both responsibility, and compensation,”
+- If they ask about your salary expectations, you want to have a good answer; I like Josh Doody´s example: “I want this move to be a big step forward for me in terms of both responsibility and compensation,”
 

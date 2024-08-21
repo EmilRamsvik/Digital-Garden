@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-01-08T23:00
+updated: 2024-08-15T11:37
 Pages: 282
 Author: Tyler Richards
 finished: true
@@ -18,12 +18,12 @@ tags:
 ---
 # Getting Started with Streamlit for Data Science
 # 🚀 The Book in 3 Sentences
-This book gives a nice introduction to a module for Python that has grown out of proportion, meant in a good way. It gives a brief overview of the capabilities of the application as well as how the simplicity of the application leads itself to being a powerful tool for both newbies and experiecned data scientists. 
+This book is a welcoming introduction to a Python module that has seen rapid growth. It offers a brief overview of the application's capabilities and shows how its user-friendly nature makes it an inclusive tool for both new and experienced data scientists. 
 
 # 🎨 Impressions
-It was a good book; I liked that I had some very brief experience with it before starting; I just did the Hello World application plus some other stuff. I think it is a very interesting type of tool for data scientists to use and deploy; I bet there are a ton of applications that just live protected by a simple password. 
+It was a good book; I liked that I had some very brief experience with it before starting. I just did the Hello World application, plus some other stuff. I think it is a very interesting tool for data scientists to use and deploy; I bet there are a ton of applications that live protected by a simple password. 
 
-Deployment is key here; being able to easily deploy would be something that would be very interesting to look into. 
+Deployment is key here; being able to deploy easily would be something that would be very interesting to look into. 
 # ✍️ My Top  Quotes
 
 - *Streamlit is a web application framework that helps you build and develop Python-based web applications that can be used to share analytics results, build complex interactive experiences, and illustrate new machine learning models.* 

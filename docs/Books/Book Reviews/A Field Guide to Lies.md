@@ -9,7 +9,7 @@ tags:
   - science
 Date Finished: 2023-11-04
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:57
+updated: 2024-08-21T10:41
 ---
 # A Field Guide to Lies
 
@@ -18,7 +18,7 @@ updated: 2024-06-06T13:57
 This book is akin to calling bullshit, where it goes through all the ways people fool themselves and others. The book might make you too aware and skeptical of everything. 
 
 # 🎨 Impressions
-I found it good but not as good as [[Calling Bullshit]]. It was thought but lacked the examples that made Calling Bullshit such a good read. 
+I found it good but not as good as [Calling Bullshit](Calling%20Bullshit.md). It was thought but lacked the examples that made Calling Bullshit such a good read. 
 
 ## How I Discovered It
 Calling bullshit recommended it as well as I had read a book by the author before. 

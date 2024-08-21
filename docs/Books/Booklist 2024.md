@@ -6,9 +6,9 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-08-13T10:31
+updated: 2024-08-20T21:04
 ---
-[[]]# Booklist 2024 
+# Booklist 2024 
  
 #### [On Food and Cooking](Book%20Reviews/On%20Food%20and%20Cooking.md)
 *Author:* Harold McGee
@@ -257,7 +257,7 @@ _Author:_  Natu Lauchande
 _Pages:_ 248
 _Language:_ English
 
-#### Hands-On Unsupervised Learning Using Python
+#### [Hands-On Unsupervised Learning Using Python](Books/Book%20Reviews/Hands-On%20Unsupervised%20Learning%20Using%20Python.md)
 _Author:_  Ankur Patel
 _Pages:_ 359
 _Language:_ English
@@ -357,7 +357,6 @@ _Author:_ Bil Karwin
 _Pages:_ 334
 _Language:_ English
 
-
 #### [Managing Humans](Book%20Reviews/Managing%20Humans.md)
 _Author:_ Michael Loop
 _Pages:_ 281
@@ -419,11 +418,6 @@ _Author:_ William Miller
 _Pages:_ 338
 _Language:_ English
 
-#### How to solve it
-_Author:_ George Polya
-_Pages:_ 288
-_Language:_ English
-
 #### [Pro Git](Books/Book%20Reviews/Pro%20Git.md)
 _Author:_ Scott Chacon
 _Pages:_ 440
@@ -459,12 +453,12 @@ _Author:_ Christoph Molnar
 _Pages:_ 540
 _Language:_ English
 
-#### [Fearless Salary Negotiation](Personal/Books/Book%20Reviews/Fearless%20Salary%20Negotiation.md)
+#### [Fearless Salary Negotiation](Books/Book%20Reviews/Fearless%20Salary%20Negotiation.md)
 _Author:_ Josh Doody
 _Pages:_ 174
 _Language:_ English
 
-#### [A Beginners Guide to Autohotkey](Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md)
+#### [A Beginner Guide to Autohotkey](Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md)
 _Author:_ Josh Doody
 _Pages:_ 174
 _Language:_ English
@@ -472,4 +466,19 @@ _Language:_ English
 #### [Simply Said](Books/Book%20Reviews/Simply%20Said.md)
 _Author:_ Jay Sullivan
 _Pages:_ 288
+_Language:_ English
+
+#### Gap Selling
+_Author:_ Keenan
+_Pages:_ 262
+_Language:_ English
+
+#### [Presentation Zen](Books/Book%20Reviews/Presentation%20Zen.md)
+_Author:_ Garr Reynolds
+_Pages:_ 229
+_Language:_ English
+
+#### If You Want to Write
+_Author:_ Brenda Ueland
+_Pages:_ 179
 _Language:_ English
