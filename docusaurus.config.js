@@ -53,7 +53,7 @@ const config = {
         indexName: 'tinyknowledge',
         appId: 'IAV11MGXD0',
         apiKey: 'e43f61d750eb51c99f970ba0adbeb783',
-        contextualSearch: true,
+        contextualSearch: false,
         queryParameters: {
         }
       },
