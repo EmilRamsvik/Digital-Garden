@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-05-23T18:33
+updated: 2024-09-09T09:26
 tags:
   - places
   - travel
@@ -19,6 +19,7 @@ Here I write about places I have visited, what I liked and other things.
 [Singapore](Singapore.md)
 [Italy](Personal/Travel/Places/Italy.md)
 [Denmark](Personal/Travel/Places/Denmark.md)
+[Oslo](Oslo.md)
 # Links
 - 
 

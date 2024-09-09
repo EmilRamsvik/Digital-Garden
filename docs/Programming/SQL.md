@@ -9,13 +9,13 @@ tags:
   - database/sql
 finished: false
 created: 2023-06-15T13:31:00
-updated: 2024-04-28T13:47
+updated: 2024-08-28T12:36
 ---
 # SQL
 
 
 ## PostgreSQL
-
+My best experience with SQL data bases have been PostGres by far. It is open source, works splendidly and is fast and simple to learn and use and has a lot of awesome functionality. 
 
 
 

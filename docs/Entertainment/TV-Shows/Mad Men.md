@@ -2,7 +2,7 @@
 Date Finished: Jun 09, 2023
 Creator: 
 Genre: Historical Drama
-Finished: false
+Finished: true
 tags:
   - show
   - entertainment
@@ -11,7 +11,7 @@ tags:
   - historical-drama
   - drama
 created: 2023-06-09T10:36
-updated: 2024-02-02T13:31
+updated: 2024-08-25T15:43
 ---
 # Mad Men
 

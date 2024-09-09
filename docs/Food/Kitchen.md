@@ -9,7 +9,7 @@ tags:
   - home
   - kitchen/dishes
 created: 2023-12-03T12:20
-updated: 2024-06-17T08:18
+updated: 2024-08-29T13:17
 ---
 # Kitchen
 
@@ -41,7 +41,7 @@ Having a quick way of washing single items is good. Try and make a routine where
 ### Washing Machine
 I think having a dishwashing machine is critical, not only do you not have to care about doing the dishes, it also functions as a storage room for dirty dishes. Some things I have learned about using the dishwashing properly. 
 - Having a dishwasher ready for dirty dishes is important. 
-- Clean your filters regularly
+- Clean your filters regularly.
 - You don't have to use that much detergent, and also the cheapest option is more than okay. 
 - Have some detergent in the prewashing cycle, to help clean. 
 - If you have any problems, check if anything is blocking the rotating spinning water hoses. 

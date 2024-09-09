@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-04-20T12:10
+updated: 2024-08-29T16:02
 Pages: 252
 Author: Daniel Vaughan
 finished: true
@@ -40,9 +40,8 @@ Another important aspect is that a data scientist owns the data, which is a huge
  
 - *But the job is also hard because you have to be a great communicator who tells compelling stories to nontechnical stakeholders who may not be used to making decisions in a data-driven way.* 
  
-- *In my book Analytical Skills for AI and Data Science (O’Reilly), I presented this general approach to value creation with data* 
- 
-- *The idea is simple: data by itself creates no value. The value is derived from the quality of the decisions that are* 
+- *In my book Analytical Skills for AI and Data Science (O’Reilly), I presented this general approach to value creation with data: 
+	 *The idea is simple: data by itself creates no value. The value is derived from the quality of the decisions that are made.* 
  
 - *Data scientists have one advantage over the rest of the organization: they own the data and are constantly asked to calculate and present the key metrics of the team.* 
  
@@ -85,7 +84,7 @@ Another important aspect is that a data scientist owns the data, which is a huge
  
 - *Believe that a natural growth path in data science (DS) is to go from making things overly complex to doing smart simplification. By smart I mean what Einstein expressed when saying you should aim at making “everything as simple as possible, but not simpler.”* 
  
-- *The Laws of Simplicity by John Maeda (MIT Press) takes a designer’s point of view on how to achieve simplicity.* 
+- *The[ Laws of Simplicity](http://lawsofsimplicity.com/) by John Maeda (MIT Press) takes a designer’s point of view on how to achieve simplicity.* 
  
 - *The KPI is a function of your ML model performance metric. I emphasize the function part because you need to be able to convert the performance metric into a monetary value, like revenue, to make it comparable with the costs.* 
  

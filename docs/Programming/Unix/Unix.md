@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-05-08T17:54
+updated: 2024-08-28T13:19
 tags:
   - article
   - digital-garden
@@ -17,8 +17,10 @@ Finished: false
 
 
 ## Vim
+I think that Vim has been one of the big productivity increasing tools for me. I had some challenges when learning them but after a while things got going and I felt more productive. What I enjoy the most is the easy and simple ways I can quickly manipulate text and get going. It kind of abstracts away the boring parts of it. 
 
-
+### Neovim
+[AstroVim Course](https://lazyvim-ambitious-devs.phillips.codes/)
 ## Grep
 **grep** stands for "Global Regular Expression Print." It's a powerful command-line utility found in Unix-like operating systems
 **Common Use Cases**
@@ -27,8 +29,11 @@ Finished: false
 - **General Text Manipulation:** Extracting information like email addresses, phone numbers, or other structured data from unstructured text.
 
 ## Emacs
-Emacs can be defined as a cult
+Emacs can be defined as a cult.
+I have not delved down that rabbit hole, and I do not think I intend to. 
 
+
+Cults are cool if you are in them, so maybe it is worth it. Who am I to know. 
 # Links
 - 
 

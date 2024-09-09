@@ -1,11 +1,13 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-25T18:03
+updated: 2024-08-29T11:00
 tags:
   - article
   - digital-garden
   - data-analysis
   - machine-learning
+  - data/churn
+  - data/eda
 Finished: false
 ---
 # Churn Analysis

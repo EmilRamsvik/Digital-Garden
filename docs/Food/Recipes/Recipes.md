@@ -8,7 +8,7 @@ tags:
   - cooking
   - health
 created: 2023-05-27T05:50
-updated: 2024-04-09T21:08
+updated: 2024-08-29T11:19
 ---
 
 
@@ -59,10 +59,11 @@ American food is, to me, Southern-style food. It is the Gumbo, Jambalaya, and al
 # Scandinavian 
 
 ### Finish Salmon Soup
-A very good meal for the long winters. Finsh Salmon soup is very similar to all the fish soups of Norway and can be changed to include different types of seafood. It is similar to chowder soups of america. 
+A very good meal for the long winters. Finsh Salmon soup is very similar to all the fish soups of Norway and can be changed to include different types of seafood. It is similar to the chowder soups of America. 
 
 # Links
 - [Breakfast Burger](https://www.youtube.com/watch?v=xBudhk6XzDM&ab_channel=Waitrose%26Partners)
+- [Flavour Bases from around the Worl.](https://youtu.be/P_kutEN02Fo?si=0GVZtq-7lTdMiOP5)
 
 # Thoughts 
 - I think the book Kitchen Confidential by Antony Bourdain had some interesting thoughts related to making "haute cuisine" food. 

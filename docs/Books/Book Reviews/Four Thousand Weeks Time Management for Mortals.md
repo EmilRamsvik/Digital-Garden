@@ -11,7 +11,7 @@ tags:
   - philosophy
   - time-management
 created: 2024-01-06T15:04
-updated: 2024-01-07T19:31
+updated: 2024-09-09T09:38
 ---
 # Four Thousand Weeks Time Management for Mortals
 
@@ -42,7 +42,7 @@ I think I got a more profound understanding of my own limitations and why they a
  
 - *“I have by sundry people been horribly cheated,” fumed the iron magnate Ambrose Crowley, from County Durham in England, in a memo from the 1790s, announcing his new policy of deducting pay for time spent “smoking, singing, reading of news history, contention, disputes, anything foreign to my business or in any way loitering.” The way Crowley saw it, his lackadaisical employees were thieves, illegitimately helping themselves to containers from the conveyor belt of time.* 
  
-- It leads to the insight that meaningful productivity often comes not from hurrying things up but from letting them take the time they take, surrendering to what in German has been called Eigenzeit, or the time inherent to a process itself.* 
+- *It leads to the insight that meaningful productivity often comes not from hurrying things up but from letting them take the time they take, surrendering to what in German has been called Eigenzeit, or the time inherent to a process itself.* 
  
 - *Helen Petersen writes in a widely shared essay on millennial burnout, you can’t fix such problems “with vacation, or an adult coloring book, or ‘anxiety baking,’ or the Pomodoro Technique, or overnight fucking oats.”* 
  
@@ -96,9 +96,9 @@ I think I got a more profound understanding of my own limitations and why they a
  
 - *“Nothing is more alien to the present age than idleness,” writes the philosopher John Gray. He adds: “How can there be play in a time when nothing has meaning unless it leads to something else?”* 
  
-- *philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim.* 
+- *Philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim.* 
  
-- *(It has been calculated that if Amazon’s front page loaded one second more slowly, the company would lose $1.6 billion in annual sales.)* 
+- *It has been calculated that if Amazon’s front page loaded one second more slowly, the company would lose $1.6 billion in annual sales.* 
  
 - *People complain that they no longer have “time to read,” but the reality, as the novelist Tim Parks has pointed out, is rarely that they literally can’t locate an empty half hour in the course of the day.* 
  
@@ -120,9 +120,9 @@ I think I got a more profound understanding of my own limitations and why they a
  
 - *“Spring is here, even in London N1, and they can’t stop you enjoying it.”* 
  
-- *but perhaps the simplest is to keep two to-do lists, one “open” and one “closed.” The open list is for everything that’s on your plate and will doubtless be nightmarishly long.* 
+- *Perhaps the simplest is to keep two to-do lists, one “open” and one “closed.” The open list is for everything that’s on your plate and will doubtless be nightmarishly long.* 
  
 - *Meanwhile, as far as possible, choose devices with only one purpose, such as the Kindle ereader, on which it’s tedious and awkward to do anything but read.* 
  
-- *to give money, check in on a friend, send an email praising someone’s work—act on the impulse right away, rather than putting it off until later. When we fail to act on such urges, it’s rarely out of mean-spiritedness, or because we have second thoughts about whether the prospective recipient deserves it.* 
+- *To give money, check in on a friend, send an email praising someone’s work—act on the impulse right away, rather than putting it off until later. When we fail to act on such urges, it’s rarely out of mean-spiritedness, or because we have second thoughts about whether the prospective recipient deserves it.* 
  

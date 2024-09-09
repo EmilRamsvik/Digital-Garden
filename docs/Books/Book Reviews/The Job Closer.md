@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-04-15T15:22
+updated: 2024-08-30T11:24
 Pages: 192
 Author: Steve Dalton
 finished: true
@@ -78,7 +78,7 @@ I have used this as a reference when working on interviews a lot, and it is one 
  
 - *An accomplishment statement is a description of the impact you made with the responsibilities you held, rather than just the responsibilities themselves. This is the key factor that differentiates Good and Great Resumes from Basic Resumes.* 
  
-- *Responsible for refrigerated biscuit marketing budget of $400 million (BASIC RESUME) Analyzed advertising channels to optimally allocate $400 million marketing budget (GOOD RESUME) Optimized $400 million marketing budget by analyzing historical returns and increasing budget to highest-return channel (newspaper inserts), increasing profits by 22 percent (GREAT RESUME* 
+- *Responsible for refrigerated biscuit marketing budget of $400 million (BASIC RESUME) Analyzed advertising channels to optimally allocate $400 million marketing budget (GOOD RESUME) Optimized $400 million marketing budget by analyzing historical returns and increasing budget to highest-return channel (newspaper inserts), increasing profits by 22 percent (GREAT RESUME)* 
  
 - *The good news is that cover letters are far more interesting than resumes. They illustrate how well you can construct an argument (when responding to the question “Why should we consider you?” specifically).* 
  

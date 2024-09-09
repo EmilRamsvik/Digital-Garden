@@ -1,6 +1,6 @@
 ---
 Pages: 301
-Author: Dan bader
+Author: Dan Bader
 finished: true
 tags:
   - books
@@ -9,7 +9,7 @@ tags:
   - programming
 Date Finished: 2023-12-08
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-08-27T11:31
 ---
 # Python Tricks
 
@@ -19,8 +19,6 @@ This book is just a lot of neet tricks to use in python.  It contains knowledge 
 
 # 🎨 Impressions
 Fun and light read without too much work
-
-# ☘️ How the Book Changed Me
 
 
 # ✍️ My Top  Quotes
@@ -47,15 +45,15 @@ Fun and light read without too much work
  
 - *Dan’s Python String Formatting Rule of Thumb: If your format strings are user-supplied, use Template Strings to avoid security issues. Otherwise, use Literal String Interpolation if you’re on Python 3.6+, and “New Style” String Formatting if you’re not.* 
  
-- *Functions that can accept other functions as arguments are also called higher-order functions. They are* 
+- *Functions that can accept other functions as arguments are also called higher-order functions. * 
  
 - *Functions that can accept other functions as arguments are also called higher-order functions. They are a necessity for the functional programming style.* 
  
-- *Functions are objects—they can be assigned to variables and passed to and returned from other functions Functions can be defined inside other functions—and a child function can capture the parent function’s local state (lexical closures* 
+- *Functions are objects—they can be assigned to variables and passed to and returned from other functions Functions can be defined inside other functions—and a child function can capture the parent function’s local state (lexical closures)* 
  
 - *This clearly shows in what order the decorators were applied: from bottom to top.* 
  
-- * *args collects extra positional arguments as a tuple. ** kwargs collects the extra keyword arguments as a dictionary.* 
+- *args collects extra positional arguments as a tuple. ** kwargs collects the extra keyword arguments as a dictionary.* 
  
 - *Putting a * before an iterable in a function call will unpack it and pass its elements as separate positional arguments to the called function.* 
  
@@ -74,8 +72,6 @@ Fun and light read without too much work
 - *In summary, dictionaries are one of the most frequently used and most important data structures in computer science.* 
  
 - *Dictionaries are the central data structure in Python. The built-in dict type will be “good enough” most of the time. Specialized implementations, like read-only or ordered dicts, are available in the Python standard library.* 
- 
-- *If condition\]* 
  
 - *Both are useful tools in practice. There’s one caveat to Python’s comprehensions though—as you get more proficient at using them, it becomes easier and easier to write code that’s difficult to read. If you’re not careful, you might have to deal with monstrous list, set, and dict comprehensions soon.* 
  

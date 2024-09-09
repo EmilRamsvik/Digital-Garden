@@ -7,7 +7,7 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2024-03-12T11:41
+updated: 2024-09-03T14:17
 ---
 # Personal
 
@@ -34,7 +34,7 @@ CAE stands for Create, Add, and Enhance and is a task list for daily entries. To
 	- To add or enhance, I have a custom dataview script that takes entries i have not changed lately and picks out a random article which i can go into and either research something and add it or enhance the article. 
 By using the CAE workflow, I can let the thought of always finishing things go and rather focus on writing for the fun of it. 
 
-THe key to making this work is to automate as much as possible and make sure you are put in a position to succeed. Making reminders, creating scheduled tasks that pop up, or just noting down each time you do some entries or fix things help make it much easier to consistently work.
+The key to making this work is to automate as much as possible and make sure you are put in a position to succeed. Making reminders, creating scheduled tasks that pop up, or just noting down each time you do some entries or fix things help make it much easier to work consistently.
 
 # Links 
 - [Awesome Digital Gardens](https://github.com/kyrose/awesome-digital-gardens)
@@ -45,6 +45,7 @@ THe key to making this work is to automate as much as possible and make sure you
 - I want the digital garden to be a place where I enjoy writing and filling in. It should be a pleasant experience. 
 -  I want to share this with the world, but only when it is large enough to be useful. 
 - Articles that are not finished are not marked as finished in the header so that I can do some sort of differentiation between articles.  One thing I would like to do is work with [dataview](https://github.com/blacksmithgu/obsidian-dataview) and use it to create an unfinished table so that I can use that to finish up unfinished articles. 
+- Access to my Mac has been a driver for this. When I worked on an engagement as a consultant, I had issues with writing down and having the normal workflow, which makes it a lot easier to jot down quickly some notes and then later, during the daily review, actually write down more comprehensive thoughts. 
 
 
 

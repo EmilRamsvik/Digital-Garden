@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-02-22T08:02
+updated: 2024-08-25T15:44
 tags:
   - article
   - digital-garden
@@ -14,6 +14,12 @@ Finished: false
 
 Open-source database. 
 I prefer Postgres for my "only" SQL work as it is very powerful and can be amended a lot. Knowing databases is a super skill. 
+
+I think Postgres is way above the rest as it is efficient, open-source and performant. It is a super nice skill to have and work on this. 
+
+
+
+
 ### JSON and JSONB in Postgres
 
 PostgreSQL offers native support for JSON data types. This feature allows you to store, query, and manipulate JSON data directly in PostgreSQL.

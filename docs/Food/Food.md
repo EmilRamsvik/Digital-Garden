@@ -7,7 +7,7 @@ tags:
   - knife
   - kitchen
 created: 2023-08-14T13:56
-updated: 2024-03-12T11:51
+updated: 2024-08-29T13:14
 ---
 # Food
 
@@ -24,7 +24,7 @@ One of the most important and fun aspects of cooking is the ability to explore o
 - Do you measure each ingredient? Why?
 
 ### Prefabricated or bottom up. 
-I learned to cook from my mother, and despite some bad habits (such as refusing to have a clean kitchen), I learned a lot about food and preparation. The most important lesson is understanding that if you take time to invest in yourself and your skills, making things from the bottom up can be almost as fast as making 
+I learned to cook from my mother, and despite some bad habits (such as refusing to have a clean kitchen), I learned a lot about food and preparation. The most important lesson is understanding that if you take time to invest in yourself and your skills, making things from the bottom up can be almost as fast as making some pre-fabricated stuff, if you know how and is mindful. 
 ## Useful condiments
 
 Useful condiments that should be in a kitchen makes versatile and from the ground-up food. 
@@ -52,6 +52,8 @@ When cooking fish or searing meat in a pan, don't throw away the burnt stuff at 
 
 # [Baking](Baking.md)
 
+
+
 # Fish
 Good things to have with the fish are:
 
@@ -63,7 +65,7 @@ Good things to have with the fish are:
 - [](Personal/Books/)
 
 # Thoughts 
-- Don't be afraid to go outside the recipes, especially when cooking, you will never be good if you never fail. 
+- Don't be afraid to go outside the recipes, especially when cooking; you will never be good if you never fail. 
 - Focus on the fundamentals; one of my greatest advantages is that I quickly prepare ingredients and knife work. The disadvantage is that in order to be the greatest asset, 
 - Being good at knife work makes you seem like a pro. Very funny. 
 - I have been to a couple of food cooking classes in my life, and usually, people ask me if I am a professional. This is, of course, because I look the part when prepping food. 

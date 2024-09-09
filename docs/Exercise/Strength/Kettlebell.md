@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-07-23T15:16
+updated: 2024-08-29T11:18
 tags:
   - article
   - digital-garden
@@ -62,7 +62,7 @@ EMOM stands for Every Minute On the Minute, a principle used in strength trainin
 
 
 # Links
-- 
+- [30 Kettlebell Exercises.](https://www.youtube.com/watch?v=Qd-U8cNqWgg&list=PLj2BU-vBHHb2WPq2OeNalfVrA4J-sJkub)
 
 # Thoughts 
 - This is important for older people even more so than younger. It helps keep you healthy longer. 

@@ -7,7 +7,7 @@ tags:
   - "#drinks"
   - "#food"
 created: 2023-12-29T11:00
-updated: 2024-02-13T14:49
+updated: 2024-08-25T14:57
 ---
 
 
@@ -35,10 +35,13 @@ White port wine with tonic water. A lighter alternative to Gin & Tonic. Furtherm
 
 # Non-Alcoholic
 
+[Brazilian Lemonade has been quite nice](https://www.allrecipes.com/recipe/54083/brazilian-lemonade/)
+
+
 # Links
 
 
 # Thoughts 
-- 
+- I like to have some time each year to cut down on alcohol, but then it is difficult to also stay away from sugary drinks also. 
 
 

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-08-20T21:04
+updated: 2024-09-06T15:21
 ---
 # Booklist 2024 
  
@@ -468,7 +468,7 @@ _Author:_ Jay Sullivan
 _Pages:_ 288
 _Language:_ English
 
-#### Gap Selling
+#### [Gap Selling](Personal/Books/Book%20Reviews/Gap%20Selling.md)
 _Author:_ Keenan
 _Pages:_ 262
 _Language:_ English
@@ -481,4 +481,30 @@ _Language:_ English
 #### If You Want to Write
 _Author:_ Brenda Ueland
 _Pages:_ 179
+_Language:_ English
+
+#### Coaching for Performance
+_Author:_ John Whitmore
+_Pages:_ 240
+_Language:_ English
+
+#### A Beautiful Constraint
+_Author:_ Adam Morgan 
+_Pages:_ 288
+_Language:_ English
+
+#### [Fluent Python](Books/Book%20Reviews/Fluent%20Python.md)
+_Author:_ Luciana Ramalho
+_Pages:_ 790
+_Language:_ English
+
+#### [NextJS Quick Start Guide](Books/Book%20Reviews/NextJS%20Quick%20Start%20Guide.md)
+_Author:_ Kirill Koonshin
+_Pages:_ 164
+_Language:_ English
+
+
+#### Slow Productivity
+_Author:_ Cal Newport
+_Pages:_ 25
 _Language:_ English

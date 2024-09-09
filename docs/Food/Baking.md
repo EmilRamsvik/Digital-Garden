@@ -7,7 +7,7 @@ tags:
   - bread
 Finished: false
 created: 2023-06-06T18:08:00
-updated: 2024-01-23T13:43
+updated: 2024-08-29T13:15
 ---
 # Baking
 
@@ -33,6 +33,7 @@ Levain, also known as a sourdough starter or simply "starter, " is a traditional
 - [Binging with Babish Sourdough](https://www.youtube.com/watch?v=bSYdABrPrtM&ab_channel=BabishCulinaryUniverse)
 
 # Thoughts 
-- 
+- Levain bread is actually used a lot in Sweden, which I found interesting. 
+- If you read this, make some scones and tea today and share with a loved one. 
 
 

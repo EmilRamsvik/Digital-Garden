@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-06-06T13:11
+updated: 2024-08-23T12:28
 tags:
   - article
   - digital-garden
@@ -16,7 +16,16 @@ Finished: false
 
 dbt is an open-source command-line tool that enables data transformation and modeling in a structured and efficient manner. It allows data engineers and analysts to define and manage the data transformation pipeline using SQL queries. With dbt, you can write modular and reusable SQL code, called "models," which define the transformations required to convert raw data into structured and analysis-ready data. These models can be organized, tested, and documented within the dbt framework. dbt leverages the power of SQL and provides a layer of abstraction on top of the data warehouse, making it easier to develop, test, and maintain complex data transformations. It promotes best practices such as version control, testing, and documentation, enabling collaborative and maintainable data modeling workflows. dbt integrates with various data warehouses and can be used in conjunction with other data tools and orchestration platforms to create a robust and reliable data pipeline.
 
+# Why DBT
+The killer feature of dbt is abstracting away the complexities and leaving only the modeling as a complexity. It gives data analysts a tool to work with data and doing it in the right way. What are those ways
 
+- Version control
+- Dev-Ops pipelines (CI/CD)
+- Referneces
+- Documentation
+And a host of other features. 
+
+This means your data engineers time can be released 
 
 ### DML
 Data Manipulation Language (DML) is a class of SQL statements that are used to query, edit, add and delete row-level data from database tables or views. The main DML statements are `SELECT`, `INSERT`, `DELETE`, and `UPDATE`.

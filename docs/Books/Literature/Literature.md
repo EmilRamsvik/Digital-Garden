@@ -7,7 +7,7 @@ tags:
   - norwegian-books
   - classics
 created: 2024-01-06T15:04
-updated: 2024-02-08T08:41
+updated: 2024-09-06T09:46
 ---
 
 
@@ -31,7 +31,6 @@ The difference between Dostoyevsky and Hamsun is that Dostoyevsky has a moral he
 
 
 # Links
-- 
 - [The Brothers Karamazov](../Book%20Reviews/The%20Brothers%20Karamazov.md) 
 
 # Thoughts 

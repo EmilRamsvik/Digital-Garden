@@ -6,16 +6,23 @@ tags:
   - python
   - data-science
   - fast-api
-Finished: false
+Finished: true
 created: 2023-08-09T09:33:00
-updated: 2024-02-23T12:04
+updated: 2024-08-27T11:26
 ---
 # Python
 
 
 ## Scripting 
-I find Python to be very useful for scripting. I use scripting for a lot of small things such as working on 
+I find Python to be very useful for scripting. I use scripting for a lot of small things, such as working on text parsing, simple automation and others.
+I did, for example create a script for parsing book quotes from the Kindle ([Here is the script](https://github.com/EmilRamsvik/dotfiles/blob/master/scripts/get_quotes.py))
 
+
+## Ecosystem
+
+Managing dependencies in Python is one of the most challenging and annoying things to work on. You should not only understand the differences between Conda, pip-environments and Poetry. But also understand why you want to use each one and why you prefer the one you do. 
+
+For simple tasks, I use pip with a virtual environment, I strive to be as consistent with creating environments as possible. I will work on using poetry more and more. 
 
 
 ## Data Science
@@ -41,7 +48,9 @@ Python is the dominant working language for data science and machine learning.
 - 8. For test dependencies (e.g. pytest) or dev dependencies (e.g. test server) leverage optional dependencies in the pyproject.toml file. This plays very nicely with tools like tox, which you should use. Use pre-commit for linting etc.
 # Links
 - [Python Learning Resources](https://learnbyexample.github.io/py_resources/)
-- 
+- [Python Tricks](../../Books/Book%20Reviews/Python%20Tricks.md)
+- [Python Testing with pytest](../../Books/Book%20Reviews/Python%20Testing%20with%20pytest.md)
+- [Pytest](Pytest.md)
 
 # Thoughts 
 - 

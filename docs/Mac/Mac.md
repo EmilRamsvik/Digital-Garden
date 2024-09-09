@@ -8,7 +8,7 @@ tags:
   - work
   - productivity
 created: 2023-06-01T15:36:00
-updated: 2024-03-22T21:50
+updated: 2024-08-25T15:00
 ---
 
 # Mac
@@ -30,7 +30,7 @@ Rectangle is for window management, I use it together with [Karabiner](Karabiner
 
 ### [Bear](https://bear.app/)
 Bear is a markdown editor. 
-It is nice to have as an alternative to [Obsidian](Obsidian.md), and one of the reasons I quite like it is because it is easy for me to just have it and only it as a writing tool. It is on a freemium plan and to be honest the feature i was looking for, the ability to export to .pdf formats is quite bad. 
+It is nice to have as an alternative to [Obsidian](Obsidian.md), and one of the reasons I quite like it is because it is easy for me to just have it and only it as a writing tool. It is on a freemium plan, and to be honest, the feature I was looking for, the ability to export to .pdf formats, is quite bad. 
 
 
 ## [Obsidian](../Obsidian/Obsidian.md)

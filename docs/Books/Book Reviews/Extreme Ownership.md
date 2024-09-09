@@ -11,7 +11,7 @@ tags:
   - management
   - warfare
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-08-27T11:04
 ---
 # Extreme Ownership
 
@@ -21,15 +21,11 @@ Leif and Jocko go through their combat experiences in combat and the lessons in 
 
 # 🎨 Impressions
 It was a good book, I think the most important lesson is that leaders take ownership. Teams and organizations are the product of their leaders.  *But without a team—a group of individuals working to accomplish a mission—there can be no leadership. The only meaningful measure for a leader is whether the team succeeds or fails.*  Most important concept of the book. 
+Sometimes I feel like the hard and strong stuff in military leadership can be too harsh, and one should take into account that combat is not like other situations. I think the best thing of being in highly stressful environments is the ability to focus on being stable and consistent.  "Slow is smooth, smooth is fast."
 
-## How I Discovered It
-I heard Jocko a lot on podcasts and thought it would be a good book.
+People who need to understand leadership as a concept should read this book. This is for those who don't understand how empathy and responsibility are the things that matter in a leadership context. 
 
-## Who Should Read It?
-People who need to understand leadership as a concept. This is for those who don't understand how empathy and responsibility are the things that matter in a leadership context. 
-
-# ☘️ How the Book Changed Me
-Made me reflect on the times I did not take responsibility and the fact that when I do not have too much motivation I can be a crappy person to be around. Made me rethink a lot about the concepts of leading myself as well as other people. 
+The book made me reflect on the times I did not take responsibility and the fact that when I do not have too much motivation, I can be a crappy person to be around. Made me rethink a lot about the concepts of leading myself as well as other people. 
 
 # ✍️ My Top  Quotes
 
@@ -37,7 +33,7 @@ Made me reflect on the times I did not take responsibility and the fact that whe
  
 - *For all the definitions, descriptions, and characterizations of leaders, there are only two that matter: effective and ineffective. Effective leaders lead successful teams that accomplish their mission and win. Ineffective leaders do not.* 
  
-- *Beyond the literal fog of war impeding our vision, the figurative “fog of war,” often attributed to Prussian military strategist Carl von Clausewitz,1 had descended upon us, and it was thick with confusion, inaccurate information, broken communications, and mayhem.* 
+- *Beyond the literal fog of war impeding our vision, the figurative “fog of war,” often attributed to Prussian military strategist Carl von Clausewitz, had descended upon us, and it was thick with confusion, inaccurate information, broken communications, and mayhem.* 
  
 - *The planning process and briefing must be a forum that encourages discussion, questions, and clarification from even the most junior personnel. If frontline troops are unclear about the plan and yet are too intimidated to ask questions, the team’s ability to effectively execute the plan radically decreases. Thus, leaders must ask questions of their troops, encourage interaction, and ensure their teams understand the plan.* 
  
@@ -63,15 +59,14 @@ Made me reflect on the times I did not take responsibility and the fact that whe
  
 - *“The true test for a good brief,” Jocko continued, “is not whether the senior officers are impressed. It’s whether or not the troops that are going to execute the operation actually understand it. Everything else is bullshit. Does any of that complex crap help one of your SEAL machine gunners understand what he needs to do and the overall plan for what will happen on this operation?”* 
  
-- *that was far beyond most of the SEAL operators in my platoon. Yet, if I didn’t fully comprehend or appreciate the strategic impact of what we had done, how could I expect my frontline troops—my junior SEAL operators not in a leadership role—to get it? The answer: I couldn’t. For a young SEAL shooter with a very limited role in the planning process who was out working on his weapons and gear, conducting maintenance on our vehicles, or building demolition charges for the breacher, he walked into our mission briefs wondering: What are we doing next? He had no context for why we were doing the operation or how the next tactical mission fit into the bigger picture of stabilizing and securing Ramadi. I realized now that, as their leader, I had failed to explain it to them. Clearly, there was some level of strategic perspective and comprehension that would only come with time and reflection. But I could have done a far better job as a leader to understand for myself the strategic impact of our operations and passed this insight to my troops. When Jocko saw my reaction to the slide and* 
+- *That was far beyond most of the SEAL operators in my platoon. Yet, if I didn’t fully comprehend or appreciate the strategic impact of what we had done, how could I expect my frontline troops—my junior SEAL operators not in a leadership role—to get it? The answer: I couldn’t. For a young SEAL shooter with a very limited role in the planning process who was out working on his weapons and gear, conducting maintenance on our vehicles, or building demolition charges for the breacher, he walked into our mission briefs wondering: What are we doing next? He had no context for why we were doing the operation or how the next tactical mission fit into the bigger picture of stabilizing and securing Ramadi. I realized now that, as their leader, I had failed to explain it to them. Clearly, there was some level of strategic perspective and comprehension that would only come with time and reflection. But I could have done a far better job as a leader to understand for myself the strategic impact of our operations and passed this insight to my troops. When Jocko saw my reaction to the slide and* 
  
 - *Any good leader is immersed in the planning and execution of tasks, projects, and operations to move the team toward a strategic goal. Such leaders possess insight into the bigger picture and why specific tasks need to be accomplished. This information does not automatically translate to subordinate leaders and the frontline troops.* 
  
 - *Ask those questions up the chain to clarify, so that you can understand it. Provide them with constructive feedback so they can appreciate the impact those plans or requirements have on your operations. That is what Extreme Ownership is all about.” “I guess I never really thought about it like that,” said the field manager. “That’s ‘leading up the chain of command,’” I explained.* 
  
-- *learned in SEAL training that if I wanted any extra time to study the academic material we were given, prepare our room and my uniforms for an inspection, or just stretch out aching muscles, I had to make that time because it did not exist on the written schedule. When I checked into my first SEAL Team, that practice continued. If I wanted extra time to work on my gear, clean my weapons, study tactics or new technology, I needed to make that time.* 
+- *I learned in SEAL training that if I wanted any extra time to study the academic material we were given, prepare our room and my uniforms for an inspection, or just stretch out aching muscles, I had to make that time because it did not exist on the written schedule. When I checked into my first SEAL Team, that practice continued. If I wanted extra time to work on my gear, clean my weapons, study tactics or new technology, I needed to make that time.* 
  
 - *It all tied into discipline. By discipline, I mean an intrinsic self-discipline—a matter of personal will. The best SEALs I worked with were invariably the most disciplined. They woke up early. They worked out every day. They studied tactics and technology. They practiced their craft. Some of them even went out on the town, drank, and stayed out until the early hours of the morning. But they still woke up early and maintained discipline at every level.* 
  
-- *To take charge of minute details just to demonstrate and reinforce to the team a leader’s authority is the mark of poor, inexperienced leadership lacking in confidence.* 
- 
+- *To take charge of minute details just to demonstrate and reinforce to the team that a leader’s authority is the mark of poor, inexperienced leadership lacking in confidence.* 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-21T11:32
+updated: 2024-09-06T12:50
 tags:
   - article
   - digital-garden
@@ -55,10 +55,11 @@ Stakeholders are the persons or entities that defines and enables your delivery.
 
 # Links
 - [The Trusted Advisor](../Books/Book%20Reviews/The%20Trusted%20Advisor.md) Book on consulting.
-- 
+- [The difference that makes the difference](https://www.youtube.com/watch?v=9p1lnjsMriY)
 
 # Thoughts
 - As a consultant, ensure you have your stakeholders' personal number and contact info, and at least 3. If you have issues, need to get access to the building or are locked out of your computer, this might be a lifesaver. This has helped me on multiple occasions. 
 - Use your available network to help you get aligned on the job as quickly as possible. You will get a lot of goodwill if you lessen the onboarding workload for the stakeholders. 
 - Communication is everything. 
+- Some things are easier to deal with as a consultant, and some things are more difficult. Getting access and permissions are definetly in the latter part. 
 

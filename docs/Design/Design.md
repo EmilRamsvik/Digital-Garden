@@ -8,7 +8,7 @@ tags:
   - development
 Finished: false
 created: 2023-08-11T15:01:00
-updated: 2024-04-20T11:03
+updated: 2024-09-03T13:00
 ---
 # Design
 
@@ -48,6 +48,7 @@ Very similar to the first-level thinking of Kahneman and Tversky. It seems to me
 - [Laws of UX](https://lawsofux.com/) Interesting reading, good ways of understanding UX.
 - [Playbook for Universal Design](https://universaldesignguide.com/) There are Lots of excellent methods for having exercises based on the data.
 - [Laws of simplicity](http://lawsofsimplicity.com/)
+- [Designing AI Solutions](https://medium.com/@rie.s.christensen/explaining-ai-when-there-is-no-time-for-explanations-dbb4bb554149)
 
 # Thoughts 
 - The ratio of designers to developers should be low, especially if designers are not also taking on other roles.  1-5 is not an insufficient number here. 

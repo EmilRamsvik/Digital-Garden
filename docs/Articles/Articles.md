@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-06-30T18:55
+updated: 2024-08-28T12:28
 ---
 # Articles
 
@@ -44,7 +44,7 @@ Blogs that I have discovered are here:
 *About*: Programming, China, other musings. Thought that his yearly newsletter on China was pure gold. 
 
 #### [Lucidity](https://ludic.mataroa.blog/) 
-*About*: Programming, rage, funny blog about everything. 
+*About*: Programming, rage, funny blog about everything. Just do not take it too seriously, it's a bit condescending and negative.
 
 #### [Patrick Mackenzie](https://www.kalzumeus.com/) 
 *About:* Some software, some job searching advice and similar. 
@@ -54,6 +54,12 @@ Blogs that I have discovered are here:
 
 #### [Charity](https://charity.wtf/)
 *About:* Software, working.
+
+#### [Kate Matsudaira](https://chimes-semicircle-a6xa.squarespace.com/blog)
+*About:* Software, working, leadership, management. Weird problems as some of the articles are paywall, some other.
+
+
+
 # Thoughts 
 - I think a good and smart strategy is to work with yourself to go back and read what you thought was interesting. 
 - This page works as a placeholder folder for oall the articles where I cannot find a parent file to store the links.
