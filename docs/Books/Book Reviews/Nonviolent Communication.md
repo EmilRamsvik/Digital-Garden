@@ -3,7 +3,7 @@ Pages: 264
 Date Finished: Aug 13, 2023
 Author: Marshal B. Rosenberg
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-10T12:23
 ---
 # Nonviolent Communication
 
@@ -15,20 +15,17 @@ This book is about understanding that communication is listening objectively and
 # 🎨 Impressions
 It was a bit of a 60s vibe of the book, it was not a particularly gripping read, but I thought it was a cool book all in all. The point is maybe being better at communicating and maybe i should try to think about this more and being better at following through on the advice. Sometimes I feel like communication is like driving a motorbike, you have to train your brain to do things that it is conditioned to avoid. And just like on a motorcycle, if you do the conditioned thing you crash. 
 
-## How I Discovered It
-
-Hacker news probably. 
-## Who Should Read It?
-People who cannot communicate or have trouble expressing their feelings. 
-
-# ☘️ How the Book Changed Me
 This book is the last in a long line of books where I read about communicating and hope that I can condition myself to be a better one. Step by step I might be improving. 
 
 # ✍️ My Top  Quotes
 
 - *As a person of color, growing up in apartheid South Africa in the 1940s was not something anyone relished. Especially not if you were brutally reminded of your skin color every moment of every day.* 
  
-- *Four components of NVC: 1.observations 2.feelings 3.needs 4.requests* 
+- *Four components of NVC: 
+	1. *Observations* 
+	2. *Feelings* 
+	3. *Needs* 
+	4. *Requests*
  
 - *Two parts of NVC: expressing honestly through the four component receiving empathically through the four components* 
  

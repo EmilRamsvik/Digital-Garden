@@ -10,8 +10,9 @@ tags:
   - "#power"
   - politics
   - economics
+  - system-thinking
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-10T12:15
 ---
 # The Dictator's Handbook
 
@@ -20,16 +21,17 @@ updated: 2024-01-07T17:55
 Nobody rules alone. In order to rule you need to reward your supporters. Everyone who wastes money is likely to be replaced by those who don't.  The more concentrated your supporting groups are, the more power is given to them. 
 
 # 🎨 Impressions
-A bit of a sobering read, where the good intentions displayed by people are swept away by the hunger for power. There is some encouraging reading as well, on how we can design good systems. One interesting effect is that the authors argue that foreign aid is just increasing the likelihood that dictators stay in power. In order for dictators to lose power, they need to lose the money/go broke.  ^dfe13e
+A bit of a sobering read, where the hunger for power sweeps away the good intentions displayed by people. There is some encouraging reading as well on how we can design good systems. One interesting effect is that the authors argue that foreign aid is just increasing the likelihood that dictators will stay in power. In order for dictators to lose power, they need to lose the money/go broke. 
 
-## How I Discovered It
-[Rules for Rulers on YouTube](https://www.youtube.com/watch?v=rStL7niR7gs&ab_channel=CGPGrey) by [CGPGray](https://www.youtube.com/@CGPGrey) 
+[Rules for Rulers on YouTube](https://www.youtube.com/watch?v=rStL7niR7gs&ab_channel=CGPGrey) by [CGPGray](https://www.youtube.com/@CGPGrey) is an interesting quick talk related to this book. 
 
-## Who Should Read It?
-People who like political science and think from a first principles perspective. 
+This book is interesting in that it looks at political science from almost a first principles type of thinking, which is quite different from a lot of other perspectives.
 
-# ☘️ How the Book Changed Me
-More able to understand the dynamics of power and use political science's first principles to create mental models of the political spectrum. 
+More able to understand the dynamics of power and use political science's first principles to create mental models of the political spectrum was definetly something that affected me when I read this book.  I think that being more in line with what drives the power structures is quite interesting. 
+
+To be fair, it is a bit of a cynical book and do not take it too literary. It does not account for the irrationality of people, and it might be a useful and interesting book that gives a lot of the underlying  principles it will never be good at predicting unique cases.
+
+A good book to also consider is the [Seeing Like a State](Seeing%20Like%20a%20State.md) which deals more with some of the technical problem of state systems. 
 
 # ✍️ My Top  Quotes
 
@@ -37,7 +39,7 @@ More able to understand the dynamics of power and use political science's first 
 
 - *L’etat, c’est moi: the state, it is me.*
 
-- *A simple way to think of these groups is: interchangeables, influentials, and essentials. In the United States, the voters are the nominal selectorate—interchangeables . As for the real selectorate—influentials—the electors of the electoral college really choose the president (just like the party faithful picked their general secretary back in the USSR), but the electors nowadays are normatively bound to vote the way their state’s voters voted, so they don’t really have much independent clout in practice. In the United States, the nominal selectorate and real selectorate are therefore pretty closely aligned. This is why, even though you’re only one among many voters, interchangeable with others, you still feel like your vote is influential—that it counts and is counted. The winning coalition—essentials—in the United States is the smallest bunch of voters, properly distributed among the states, whose support for a candidate translates into a*
+- *A simple way to think of these groups is: interchangeables, influentials, and essentials. In the United States, the voters are the nominal selectorate—interchangeables. As for the real selectorate—influentials—the electors of the electoral college really choose the president (just like the party faithful picked their general secretary back in the USSR). Still, the electors nowadays are normatively bound to vote the way their state’s voters voted, so they don’t really have much independent clout in practice. In the United States, the nominal selectorate and real selectorate are, therefore, pretty closely aligned. This is why, even though you’re only one among many voters, interchangeable with others, you still feel like your vote is influential—that it counts and is counted. The winning coalition—essentials—in the United States is the smallest bunch of voters, properly distributed among the states, whose support for a candidate translates into a win*
 
 - *Rule 1: Keep your winning coalition as small as possible.*
 - *Rule 2: Keep your nominal selectorate as large as possible.*
@@ -49,7 +51,7 @@ More able to understand the dynamics of power and use political science's first 
 
 - *But people who argue for debt forgiveness construct their arguments in terms of how they think the world should operate, rather than how it actually works.*
 
-- *financial crises are one of the important reasons leaders are compelled to democratize.*
+- *Financial crises are one of the important reasons leaders are compelled to democratize.*
 
 - *Oxford is a breeding ground for authoritarians. It certainly is the alma mater of many, including Zimbabwe’s Robert Mugabe, the Bhutto family of Pakistan, kings of Jordan, Bhutan, Malaysia, and even little Tonga.*
 

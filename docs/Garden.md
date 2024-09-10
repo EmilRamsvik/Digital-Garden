@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-21T17:29
+updated: 2024-09-10T11:10
 tags:
   - article
   - digital-garden
@@ -35,3 +35,9 @@ Booklist from 2024: some of the books have not been read through yet; the books 
 
 ## Other things
 I write a little bit about [Mathematics](Mathematics/Mathematics.md) and some thoughts about [Thinking](Thinking/Thinking.md) and [Learning](Learning/Learning.md); I think the article on [Lectures](Learning/Lectures.md) contains a lot of good information as well.  [Travel](Travel/Travel.md) contains a little bit of information about where I have been and places I have traveled to. It might be a good guide sometimes for someone who goes to the same places. 
+
+
+
+#### Links
+- [About Digital Gardens](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+- 

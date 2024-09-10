@@ -7,7 +7,7 @@ tags:
   - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2024-09-09T12:45
+updated: 2024-09-09T15:28
 ---
 # Oslo
 I live in Oslo, and I think that this is more of a nice little guide to people who have not been there.
@@ -45,6 +45,13 @@ Lots of good options for different food in Oslo, and there are few things that m
 I am using Singapore slang for Western food, although the cuisine from these places is more than steaks, fries and some coleslaw (Do not forget the beans).
 - [Apostrophe](https://www.restaurant-apostrophe.com/) has Splendid service, excellent food, very nice location. If it is warm enough, sit outside and enjoy the fantastic location. 
 - 
+#### Norweigan Traditional Food
+- Kaffistova
+- Cafe Schrøder
+- Smalhans
+- Stortorvet Gjæstgiveri
+- Lorry
+
 
 ### Mich
 
@@ -56,7 +63,7 @@ I am using Singapore slang for Western food, although the cuisine from these pla
 - [Hei Solvik](https://heisolvik.no/) Long way away from the rest of oslo, but if you have a bike and some time you can bicylce there and enjoy a nice meal in the island. It is a bit far away and closes at around 18, so best for luncheon. 
 # Links
 - [Visit Oslo](https://www.visitoslo.com/en/)
-- 
+- [Instagram post with reccomendations](https://www.tinyknowledge.com/docs/Travel/Places/Oslo)
 
 # Thoughts 
 - 

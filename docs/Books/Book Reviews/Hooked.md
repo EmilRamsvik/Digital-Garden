@@ -13,25 +13,16 @@ tags:
   - web-development
   - habits
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-10T12:28
 ---
 # Hooked
-
-Tags: #books #non-fiction #development #psychology #apps 
+ 
 
 # 🚀 The Book in 3 Sentences
 This book is about the psychology of modern web apps and how we get people "hooked" to the apps and websites. It goes into detail about the steps required to get people invested in the product they are using and how to maintain that investment. 
 
 # 🎨 Impressions
 I was not that impressed, to be honest; felt it was a bit too high-level and not that deep into how the basic first principles work. 
-
-## How I Discovered It
-Hacker news, or some article about tech. 
-
-## Who Should Read It?
-
-Tech bros.
-# ☘️ How the Book Changed Me
 
 More interested in the investment part of getting people hooked to your platform, most of the other things are things that I know about from before. 
 
@@ -41,7 +32,7 @@ More interested in the investment part of getting people hooked to your platform
  
 - *Perhaps more startling, fully one-third of Americans say they would rather give up sex than lose their cell phones.* 
  
-- *A 2011 university study suggested people check their phones 34 times per day.\[iii\] However, industry insiders believe that number is closer to an astounding 150 daily sessions.* 
+- *A 2011 university study suggested people check their phones 34 times per day. However, industry insiders believe that number is closer to an astounding 150 daily sessions.* 
  
 - *Trigger is the actuator of behavior — the spark plug in the engine. Triggers come in two types: external and internal.* 
  
@@ -66,7 +57,6 @@ More interested in the investment part of getting people hooked to your platform
 - *Two-thirds of alcoholics who complete a rehabilitation program will pick up the bottle, and their old habits, within a year’s time.* 
  
 - *Which demonstrated that consumers’ preference for an online retailer increases when they are offered competitive price information.* 
- 
 - *Habits are like pearls. Oysters create natural pearls by accumulating layer upon layer of a nacre called mother-of-pearl, eventually forming the smooth treasure over several years.* 
  
 - *But what causes the nacre to begin forming a pearl? The arrival of a tiny irritant, such as a piece of grit or an unwelcome parasite, triggers the oyster’s system to begin blanketing the invader with layers of shimmery coating.* 
@@ -75,7 +65,7 @@ More interested in the investment part of getting people hooked to your platform
  
 - *Unfortunately, some companies utilize viral loops and relationship triggers in unethical ways by deploying so-called “dark patterns.” When designers intentionally trick users into inviting friends or blasting a message to their social networks, they may see some initial growth, but it comes at the expense of the social currency of users, including their goodwill and trust.* 
  
-- *“We identified several features of Internet usage that correlated with depression,” wrote Sriram Chellappan, one of the study’s authors.\[xlvii\] “For example, participants with depressive symptoms tended to engage in very high email usage…Other characteristic features of depressive Internet behavior included increased amounts of video watching, gaming, and chatting.”* 
+- *“We identified several features of Internet usage that correlated with depression,” wrote Sriram Chellappan, one of the study’s authors. “For example, participants with depressive symptoms tended to engage in very high email usage…Other characteristic features of depressive Internet behavior included increased amounts of video watching, gaming, and chatting.”* 
  
 - *As Fogg describes it, non-routine is a factor of simplicity, and the more familiar a behavior is, the more likely the user is to do it.* 
  
@@ -93,15 +83,15 @@ More interested in the investment part of getting people hooked to your platform
  
 - *Ability is influenced by the six factors of time, money, physical effort, brain cycles, social deviance, and non-routineness. Ability is dependent on users and their context at that moment.* 
  
-- *To combat the trolls, the game creators designed a reward system leveraging Bandura’s social learning theory, which they called Honor Points (figure 23). The system gave players the ability to award points for particularly sportsmanlike conduct worthy of recognition.* 
+- *To combat the trolls, the game creators designed a reward system leveraging Bandura’s social learning theory, which they called Honor Points. The system gave players the ability to award points for particularly sportsmanlike conduct worthy of recognition.* 
  
-- *Early humans killed animals using a technique known as “persistence hunting,” a practice still common among today’s few remaining pre-agrarian societies. One of these groups, the San people of Southern Africa, hunt for kudu, a large deer-like animal, using a technique similar to the way Lieberman believes humans hunted for the vast majority of our species’ history. The way we evolved to hunt wild game may help explain why we find ourselves compelled to use certain products today. In Africa, the chase begins when a group of San hunters separate a large kudu bull from the herd. The animal’s heavy antlers slows him down, making him less agile than the female kudus. Once the animal is isolated from the pack, a single San hunter begins the hunt, keeping a steady pace as the animal leaps ahead in fear. At first, it appears the man will never catch up to the bounding beast. At times he struggles to keep the animal in sight through the dry brush. But the hunter knows he can use the animal’s weaknesses to his advantage. The powerful kudu is much faster in short sprints, but the kudu’s skin is covered with fur and can not dissipate heat like the runner’s skin can. According to Lieberman, “Quadrupeds can not pant and gallop at the same time.”\[lxxxiii\] So while the kudu must stop to catch his breath, the hunter begins closing in, not to catch it but to run it to exhaustion. After being tracked for a sweltering eight hours under the African sun, the beast is finally ready to give up, collapsing in surrender with barely a struggle. The meager hundred-pound San hunter outlasts the powerful 500 pound beast with little more than his persistence and the biomechanical gifts evolution has given him.* 
+- *Early humans killed animals using a technique known as “persistence hunting,” a practice still common among today’s few remaining pre-agrarian societies. One of these groups, the San people of Southern Africa, hunt for kudu, a large deer-like animal, using a technique similar to the way Lieberman believes humans hunted for the vast majority of our species’ history. The way we evolved to hunt wild game may help explain why we find ourselves compelled to use certain products today. In Africa, the chase begins when a group of San hunters separate a large kudu bull from the herd. The animal’s heavy antlers slows him down, making him less agile than the female kudus. Once the animal is isolated from the pack, a single San hunter begins the hunt, keeping a steady pace as the animal leaps ahead in fear. At first, it appears the man will never catch up to the bounding beast. At times he struggles to keep the animal in sight through the dry brush. But the hunter knows he can use the animal’s weaknesses to his advantage. The powerful kudu is much faster in short sprints, but the kudu’s skin is covered with fur and can not dissipate heat like the runner’s skin can. According to Lieberman, “Quadrupeds can not pant and gallop at the same time. So while the kudu must stop to catch his breath, the hunter begins closing in, not to catch it but to run it to exhaustion. After being tracked for a sweltering eight hours under the African sun, the beast is finally ready to give up, collapsing in surrender with barely a struggle. The meager hundred-pound San hunter outlasts the powerful 500 pound beast with little more than his persistence and the biomechanical gifts evolution has given him.* 
  
 - *Online games like FarmVille suffer from what I call “finite variability” — an experience that becomes predictable after use. While Breaking Bad built suspense over time as the audience wondered how the series would end, eventually interest in the show would wane when it finally concluded.* 
  
 - *Fundamentally, variable reward systems must satisfy users’ needs, while leaving them wanting to re-engage. The most habit-forming products and services utilize one or more of the three variable rewards types of tribe, hunt and self. In fact, many habit-forming products offer multiple variable rewards.* 
  
-- *In a satirical take on Zynga’s FarmVille franchise, Ian Bogost created Cow Clicker, a Facebook app where users did nothing but incessantly click on virtual cows to hear a satisfying “moo.”\[cxxiii\] Bogost intended to lampoon FarmVille by blatantly implementing the same game mechanics and viral hacks he thought would be laughably obvious to users. But after the app’s usage exploded and some people became frighteningly obsessed with the game, Bogost shut it down, bringing on what he called “The Cowpocalypse.”* 
+- *In a satirical take on Zynga’s FarmVille franchise, Ian Bogost created Cow Clicker, a Facebook app where users did nothing but incessantly click on virtual cows to hear a satisfying “moo.” Bogost intended to lampoon FarmVille by blatantly implementing the same game mechanics and viral hacks he thought would be laughably obvious to users. But after the app’s usage exploded and some people became frighteningly obsessed with the game, Bogost shut it down, bringing on what he called “The Cowpocalypse.”* 
  
 - *Capsaicin, the compound that creates the sensation of heat in spicy food.* 
  
@@ -109,11 +99,15 @@ More interested in the investment part of getting people hooked to your platform
  
 - *Tinder quickly captured the attention of millions of people looking for love with a simple interface, generating 3. million matches from 350 million swipes each day.* 
  
-- *What do users really want? What pain is your product relieving? (Internal Trigger) 2.   What brings users to your service? (External Trigger) 3.   What is the simplest action users take in anticipation of reward, and how can you simplify your product to make this action easier? (Action) 4.   Are users fulfilled by the reward, yet left wanting more? (Variable Reward) 5.   What “bit of work” do users invest in your product? Does it load the next trigger and store value to improve the product with use? (Investment* 
+*1. What do users really want? What pain is your product relieving? (Internal Trigger) 
+	2.   What brings users to your service? (External Trigger) 
+	3.   What is the simplest action users take in anticipation of reward, and how can you simplify your product to make this action easier? (Action) 
+	4.   Are users fulfilled by the reward, yet left wanting more? (Variable Reward) 
+	5.   What “bit of work” do users invest in your product? Does it load the next trigger and store value to improve the product with use? (Investment* 
  
 - *Ian Bogost, the famed game creator and professor, calls the wave of habit-forming technologies the “cigarette of this century” and warns of their equally addictive and potentially destructive side-effects.* 
  
-- *According to famed Silicon Valley investor Paul Graham, we haven’t had time to develop societal “antibodies to addictive new things.”\[cxvii\] Graham places responsibility on the user: “Unless we want to be canaries in the coal mine of each new addiction — the people whose sad example becomes a lesson to future generations — we’ll have to figure out for ourselves what to avoid and how.”* 
+- *According to famed Silicon Valley investor Paul Graham, we haven’t had time to develop societal “antibodies to addictive new things Graham places responsibility on the user: “Unless we want to be canaries in the coal mine of each new addiction — the people whose sad example becomes a lesson to future generations — we’ll have to figure out for ourselves what to avoid and how.”* 
  
 - *Facilitators use their own product and believe it can materially improve people’s lives. They have the highest chance of success because they most closely understand the needs of their users.* 
  

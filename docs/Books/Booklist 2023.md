@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2024-08-09T10:20
+updated: 2024-09-10T12:08
 ---
 
 #### [Made to Stick](Book%20Reviews/Made%20to%20Stick.md)
@@ -20,7 +20,7 @@ updated: 2024-08-09T10:20
 *Pages*: 264
 *Language*: Norwegian
 
-#### [The Dictator's Handbook](Book%20Reviews/The%20Dictator's%20Handbook.md)]
+#### [The Dictator's Handbook](Book%20Reviews/The%20Dictator's%20Handbook.md)
 *Author*: Bruce Bueno de Mesquita 
 *Pages*: 319
 *Language*: English

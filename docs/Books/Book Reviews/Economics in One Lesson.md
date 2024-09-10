@@ -11,7 +11,7 @@ tags:
   - prices
   - money
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-10T12:22
 ---
 # Economics in One Lesson
 
@@ -24,13 +24,9 @@ This book is about prices and the fact that the economic machine should not be t
 I liked it well enough that I am partially inclined to the school of Austrian economics, with some degree of moderation in relation to their more "enthusiastic" notions. But all in all, it is a good book. When you tamper with a system, it will behave unexpectedly.
 The central tenet of the book is that economics, like most things in this world, is non-linear, and we, therefore, cannot hope to understand it fully. And only a fool thinks in linearities. 
 
-## How I Discovered It
-I think it was on Hacker News.
 
-## Who Should Read It?
 I think people who would like a pure reminder of why interventions and political meddling in the economy are destructive should read it. 
 
-# ☘️ How the Book Changed Me
 I am getting increasingly convinced that you need to understand chaos and non-linear theories to understand the world. It is such an important concept, and I don't know if there are any more critical drivers in the world today.
 
 # ✍️ My Top  Quotes
