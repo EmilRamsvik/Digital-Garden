@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-09-06T15:21
+updated: 2024-09-14T11:47
 ---
 # Booklist 2024 
  
@@ -317,7 +317,7 @@ _Author:_ Steve Dalton
 _Pages:_ 192
 _Language:_ English
 
-#### The Strategist Handbook
+#### [The Strategist Handbook](Books/Book%20Reviews/The%20Strategist%20Handbook.md)
 _Author:_ Timothy Galpin
 _Pages:_ 272
 _Language:_ English
@@ -507,4 +507,14 @@ _Language:_ English
 #### Slow Productivity
 _Author:_ Cal Newport
 _Pages:_ 25
+_Language:_ English
+
+#### [Dancing in the Glory of Monsters](Personal/Books/Book%20Reviews/Dancing%20in%20the%20Glory%20of%20Monsters.md)
+_Author:_ Jason Stearns 
+_Pages:_ 416
+_Language:_ English
+
+#### Secrets of Consulting
+_Author:_ Gerald Weinberg
+_Pages:_ 228
 _Language:_ English

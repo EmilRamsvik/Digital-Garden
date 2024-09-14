@@ -1,12 +1,12 @@
 ---
-Finished: false
+Finished: true
 tags:
   - article
   - blog
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-08-28T12:28
+updated: 2024-09-11T14:02
 ---
 # Articles
 
@@ -56,8 +56,10 @@ Blogs that I have discovered are here:
 *About:* Software, working.
 
 #### [Kate Matsudaira](https://chimes-semicircle-a6xa.squarespace.com/blog)
-*About:* Software, working, leadership, management. Weird problems as some of the articles are paywall, some other.
+*About:* Software, working, leadership, management. Weird problems as some of the articles are paywalls, some others.
 
+#### [Minding Our Way](https://mindingourway.com/)
+*About:* Rationalism, other AI existentialism things, and others. 
 
 
 # Thoughts 

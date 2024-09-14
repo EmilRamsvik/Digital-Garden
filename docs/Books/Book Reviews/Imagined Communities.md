@@ -11,7 +11,7 @@ tags:
   - politics
   - language
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-10T12:44
 ---
 # Imagined Communities
 
@@ -23,17 +23,10 @@ updated: 2024-01-07T17:55
 # 🎨 Impressions
 It is a kinda of half Marxist, half academic book about how language primarily shaped nation-states and how written language is the primary factor of nationalism. Imagined comities, aka the nation as a concept, are shaped by languages. 
 
-## How I Discovered It
-Hacker news.
-
-## Who Should Read It?
-I think it is important to read in the historical context of nation-states and nationalism 
-
-# ☘️ How the Book Changed Me
 It became obvious to me that if you consider the printing of books/printing press to be a capitalistic phenomenon, then nationalism is a capitalistic phenomenon. However, I still think it is a bit of a stretch to just take the assumptions as is. It is more complicated than that.  I think that this is a bit of a stretch, then after those assumptions, everything is capitalistic. 
-
-
 Ivar Aasen and New Norwegian as a driver of nationalism. 
+
+
 # ✍️ My Top  Quotes
 - *‘The theory of nationalism represents Marxism’s great historical failure.’* 
  

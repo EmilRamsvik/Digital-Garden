@@ -10,14 +10,14 @@ tags:
   - diet
 finished: false
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:49
+updated: 2024-09-10T12:48
 ---
 # Why we get fat and what to do about it
 
 
 
 # 🚀 The Book in 3 Sentences
-
+THis book goes into the fact that we are more or less getting fatter and tries to understand the reasing. 
 
 # 🎨 Impressions
 Not that interesting, I worked a little with dietary medicine and it was a nice way for me to have a base knowledge for the job.

@@ -11,7 +11,7 @@ tags:
   - books
   - non-fiction
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:24
+updated: 2024-09-10T12:57
 ---
 # The Structure of Scientific Revolutions
 
@@ -22,13 +22,11 @@ This book examines what constitutes a "scientific revolution". The book goes int
 
 # 🎨 Impressions
 I liked the book, it was short and to the point, although sometimes a bit dull. 
-I think that it is interesting that the author notes multiple incidents where the old theory is basically meeting so many inconsistencies so that 
+I think that it is interesting that the author notes multiple incidents where the old theory is basically meeting so many inconsistencies that 
 
-Might be interesting for those who are interested in how things evolve. To quote the not-so-great Vladimir Lenin, "There are decades where nothing happens, and there are weeks where decades happen". 
+It might be interesting for those who are interested in how things evolve. To quote the not-so-great Vladimir Lenin, "There are decades where nothing happens, and there are weeks where decades happen". 
 
-# ☘️ How the Book Changed Me
-
-I got more interested in science, and also I want to become better at understanding more in detail what drives these revolutions. Why are they so important? 
+It is the inconsistencies that drive scientific revolutions. It is a fact that more and more things in the old theories are off, and more and more things start to look weird. Furthermore, more and more complexity is added to the current theory until it becomes cumbersome enough that a new one is more or less destined to arrive. 
 
 # ✍️ My Top  Quotes
 
@@ -44,7 +42,7 @@ I got more interested in science, and also I want to become better at understand
  
 - *“A science that hesitates to forget its founders is lost.”* 
  
-- *A very different approach to this whole network of problems has been developed by Karl R. Popper who denies the existence of any verification procedures at all. Instead, he emphasizes the importance of falsification, i.e., of the test that, because its outcome is negative, necessitates the rejection of an established theory.* 
+- *A very different approach to this whole network of problems has been developed by Karl R. Popper, who denies the existence of any verification procedures at all. Instead, he emphasizes the importance of falsification, i.e., of the test that, because its outcome is negative, necessitates the rejection of an established theory.* 
  
 - *In the case of the wave theory, one main source of professional conversions was even more dramatic. French resistance collapsed suddenly and relatively completely when Fresnel was able to demonstrate the existence of a white spot at the center of the shadow of a circular disk. That was an effect that not even he had anticipated but that Poisson, initially one of his opponents, had shown to be a necessary if absurd consequence of Fresnel’s theory.* 
  
