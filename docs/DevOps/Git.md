@@ -11,10 +11,8 @@ tags:
   - teams
   - career
 created: 2024-01-06T15:01
-updated: 2024-06-14T14:59
+updated: 2024-09-16T13:31
 ---
-
-
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  
 
@@ -46,10 +44,12 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 - [Learn Git and Branching](https://learngitbranching.js.org/)
 - [Pro Git](../Books/Book%20Reviews/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
+- [Idiot Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases)
+
 
 # Thoughts 
-- Merge Conflicts are pain, but resolving them quickly is important. 
-- Git is not a perfect tool, and it has limitations. If the team is not working towards the strengths of git you will get a lot of issues. It is important that the team (and yourself) understand the purpose behind git.
+- Merge Conflicts are painful, but resolving them quickly is important. They are not fatal by any means. 
+- Git is not a perfect tool, and it has limitations. If the team is not working towards the strengths of Git, you will get a lot of issues. The team (and yourself) must understand the purpose behind git.
 - Explain the following git concepts: head, commit-sha and bisect.  That will tell you all. 
-
+- I think understanding the git fundamentals makes you an extremely valuable engineer.
 

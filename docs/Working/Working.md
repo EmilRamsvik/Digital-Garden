@@ -8,7 +8,7 @@ tags:
   - job-searching
 Finished: false
 created: 2023-10-15T15:28
-updated: 2024-08-15T13:15
+updated: 2024-09-14T15:00
 ---
 
 # Working
@@ -24,6 +24,7 @@ There is no shame in choosing your passion as your way of making your living, bu
 - [3 Budgets](https://swizec.com/blog/the-3-budgets/) Context related to how and where the IT is budgeted and how it affects your job. 
 - [4 types of teams from Team Topologies](https://itrevolution.com/articles/four-team-types/)
 - [25 year engineering retrospective](https://hybridhacker.email/p/my-25-year-engineering-career-retrospective)
+- [Advice to Young People](https://jxnl.co/writing/2024/06/01/advice-to-young-people/)
 
 # Thoughts 
 - In the midst of Shannon’s career, some lawyers in the patent department at Bell Labs decided to study whether there was an organizing principle that could explain why certain individuals at the Labs were more productive than others. They discerned only one common thread: Workers with the most patents often shared lunch or breakfast with a Bell Labs electrical engineer named Harry Nyquist. It wasn’t the case that Nyquist gave them specific ideas. Rather, as one scientist recalled, “he drew people out, got them thinking.” More than anything, Nyquist asked good questions

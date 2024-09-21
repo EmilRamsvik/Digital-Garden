@@ -2,7 +2,7 @@
 Pages: 336
 Author: Barbara Oakley
 created: 2024-01-06T15:04
-updated: 2024-09-15T21:53
+updated: 2024-09-15T21:52
 tags:
   - books
   - mathematics
@@ -19,9 +19,16 @@ tags:
 This is not a book about excelling at math and science; it is a book about excelling at learning. It contains insightful knowledge that I have not read anywhere else. The problems are clear, and their solutions are discussed in a concise and understandable manner.
 
 # 🎨 Impressions
-I quite liked it, things like the Einstellung effect and Diffuse mode were not known to me, and I found those concepts quite interesting.
+I quite liked it, things like the Einstellung effect and Diffuse mode were not known to me and I found those concepts quite interesting.
 
-I will try to be more mindful of my work when it comes to diffuse and active mode, and I will work more on being disconnected from some problems to avoid getting stuck. 
+## How I Discovered It
+I cannot remember, but it was probably hacker news. 
+
+## Who Should Read It?
+People starting high school or universtity. 
+
+# ☘️ How the Book Changed Me
+I will try to be more mindful of my work when it comes to diffuse and active mode and I will work more on being dis-connected from some problems to avoid getting stuck. 
 
 # ✍️ My Top  Quotes
 
@@ -51,7 +58,7 @@ I will try to be more mindful of my work when it comes to diffuse and active mod
  
 - *Mistakes are inevitable. To work past them, start early on your assignments and, unless you are really enjoying what you are doing, keep your working sessions short.* 
  
-- *General Diffuse-Mode Activators Go to the gym Play a sport like soccer or basketball Jog, walk, or swim Dance Go for a drive (or tag along for the ride) Draw or paint Take a bath or shower Listen to music, especially without words Play songs you know well on a musical instrument Meditate or pray Sleep (the ultimate diffuse mode!*
+- *General Diffuse-Mode Activators Go to the gym Play a sport like soccer or basketball Jog, walk, or swim Dance Go for a drive (or tag along for the ride) Draw or paint Take a bath or shower Listen to music, especially without words Play songs you know well on a musical instrument Meditate or pray Sleep (the ultimate diffuse mode!* 
  
 - *Remember, accepting the first idea that comes to mind when you are working on an assignment or test problem can prevent you from finding a better solution.* 
  

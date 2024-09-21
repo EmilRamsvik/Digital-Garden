@@ -10,7 +10,7 @@ tags:
   - post-modernism
   - science
 created: 2023-06-21T04:55
-updated: 2024-04-05T08:05
+updated: 2024-09-15T19:28
 ---
 # Philosophy 
 
@@ -43,6 +43,7 @@ The basic claim is that it is through our active engagement with bodily external
 
 
 # Thoughts 
-- 
+- _The philosopher Kwame Appiah writes that “in life, the challenge is not so much to figure out how best to play the game; the challenge is to figure out what game you’re playing.”_
 
 
+	

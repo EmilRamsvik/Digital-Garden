@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-26T03:19
+updated: 2024-09-15T21:06
 tags:
   - article
   - digital-garden
@@ -30,5 +30,7 @@ I felt like a lot of the stuff with VS-Code made it a bit cumbersome, and I real
 - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 # Thoughts 
 - It is written in rust, so it must be good. 
+- I quite like the minimalistic feeling of it. It is quite nice.
+- I really like the easy vim keybinding which for me is quite important. 
 
 

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-09-14T11:47
+updated: 2024-09-20T07:40
 ---
 # Booklist 2024 
  
@@ -448,7 +448,7 @@ _Author:_ Christoph Molnar
 _Pages:_ 115
 _Language:_ English
 
-#### Interpretable Machine Learning
+#### [Interpretable Machine Learning](Books/Book%20Reviews/Interpretable%20Machine%20Learning.md)
 _Author:_ Christoph Molnar
 _Pages:_ 540
 _Language:_ English
@@ -468,7 +468,7 @@ _Author:_ Jay Sullivan
 _Pages:_ 288
 _Language:_ English
 
-#### [Gap Selling](Personal/Books/Book%20Reviews/Gap%20Selling.md)
+#### [Gap Selling](Books/Book%20Reviews/Gap%20Selling.md)
 _Author:_ Keenan
 _Pages:_ 262
 _Language:_ English
@@ -509,12 +509,37 @@ _Author:_ Cal Newport
 _Pages:_ 25
 _Language:_ English
 
-#### [Dancing in the Glory of Monsters](Personal/Books/Book%20Reviews/Dancing%20in%20the%20Glory%20of%20Monsters.md)
+#### [Dancing in the Glory of Monsters](Books/Book%20Reviews/Dancing%20in%20the%20Glory%20of%20Monsters.md)
 _Author:_ Jason Stearns 
 _Pages:_ 416
 _Language:_ English
 
-#### Secrets of Consulting
+#### [Secrets of Consulting](Books/Book%20Reviews/Secrets%20of%20Consulting.md)
 _Author:_ Gerald Weinberg
-_Pages:_ 228
+_Pages:_ *228*
+_Language:_ English
+
+#### SQL Antipatterns
+_Author:_ 
+_Pages:_ 
+Language:_ English
+
+#### Understanding Variation
+_Author:_  Donald Wheeler
+_Pages:_ 136
+_Language:_ English
+
+#### The Mom Test
+_Author:_ 
+_Pages:_ 
+_Language:_ English
+
+#### A New Economics
+_Author:_ Richard Demming
+_Pages:_ 240
+_Language:_ English
+
+#### 
+_Author:_ 
+_Pages:_ 
 _Language:_ English

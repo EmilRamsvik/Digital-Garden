@@ -14,7 +14,7 @@ tags:
   - food-prep
 Finished: true
 created: 2023-10-29T15:46
-updated: 2024-02-02T14:22
+updated: 2024-09-15T21:46
 ---
 # Biryani
 
@@ -34,6 +34,7 @@ I think having a good base for the sauce is good, and therefore, I recommend tha
 
 # Links
 - [Youtube Mutton Biryani](https://www.youtube.com/watch?v=DNwkk-NI8G8&t=356s&ab_channel=AndyCooks)
+- [Michelin Biraniy](https://www.youtube.com/watch?v=au2v9cevX0c&ab_channel=Fallow)
 
 # Thoughts
 - We used to do a lot of this together in Mlinao (My exchange roommates and I.)
@@ -46,4 +47,5 @@ I think having a good base for the sauce is good, and therefore, I recommend tha
 - Don't make it complicated; it is meant as a dish that should be easy to make. It is perfectly okay to make it with spice mix. 
 - Spice mix is good, spice paste is not good in my experience. 
 - Tried to experiment with coconut oil 
+- A good tip is to cook a lot of rice in the oven. This is a good [guide](https://www.spendwithpennies.com/baked-rice/).
 

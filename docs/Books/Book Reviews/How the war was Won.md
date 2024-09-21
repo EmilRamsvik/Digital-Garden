@@ -10,7 +10,7 @@ tags:
   - warfare
   - military
 created: 2024-01-06T15:04
-updated: 2024-06-04T21:20
+updated: 2024-09-16T17:18
 ---
 
 # How the war was Won
@@ -30,6 +30,8 @@ I was really astonished by how much resources were delegated to aircraft and ves
 It is insane to me that the enormous losses of the Soviets and also the Germans to an extent on the east front were, at the time, not that relevant We humans were reduced to a small portion of what war really was about. I think the industrialisation of war has made us small cogs in the system, with the horrendous consequences that it has entailed.
 
 One thing I learned later in [Turn the Ship Around](Turn%20the%20Ship%20Aroundmd) was the massive impact of the American submarine force during WWII. In this book this is debated and it is not certain the amount of impact the submarine warfare against Japan.
+
+[A podcast on the same topic](https://open.spotify.com/episode/6RCLt331T05twiubLjtuzL?si=9eac1b3169d644e4)
 
 # ✍️ My Top Quotes
 

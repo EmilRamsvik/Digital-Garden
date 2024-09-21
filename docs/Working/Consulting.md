@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-06T12:50
+updated: 2024-09-20T07:25
 tags:
   - article
   - digital-garden
@@ -38,16 +38,16 @@ When concluding an engagement, it's important to consider the following:
 
 ## Stakeholders
 
-Stakeholders are the persons or entities that defines and enables your delivery. They decides if your delivery is a success or not. 
+Stakeholders are the persons or entities that define and enable your delivery. They decide if your delivery is a success or not. 
 
 ### Types of stakeholders. 
 - **Gatekeepers**: These stakeholders control access to critical people or systems. Their purpose is to regulate who gets access to resources and ensure that protocols are followed.  Examples of gatekeepers are IT departments, HR, and product owners of various applications. 
 
 - **Resources**: These individuals or teams are responsible for executing tasks and getting things done. They are essential for project implementation and progress.  
 
-- **Authorisers**: These stakeholders have the authority to sign off on decisions and provide formal leadership. They are often in charge of approving budgets, timelines, and major project milestones.  
+- **Authorizers**: These stakeholders have the authority to sign off on decisions and provide formal leadership. They are often in charge of approving budgets, timelines, and major project milestones.  
 
-- **Network Nodes**: These are the connectors within the organisation, possessing a wide range of contacts and relationships. They are key for navigating the organizational landscape and building alliances.  
+- **Network Nodes**: These are the connectors within the organization, possessing a wide range of contacts and relationships. They are key for navigating the organizational landscape and building alliances.  
 
 - **Tech Influencers**: These stakeholders have deep technical knowledge and influence over technology-related decisions. They can guide the direction of technical choices and innovations.  
 
@@ -56,6 +56,9 @@ Stakeholders are the persons or entities that defines and enables your delivery.
 # Links
 - [The Trusted Advisor](../Books/Book%20Reviews/The%20Trusted%20Advisor.md) Book on consulting.
 - [The difference that makes the difference](https://www.youtube.com/watch?v=9p1lnjsMriY)
+- [Consulting Articles from a person in the AI space](https://jxnl.co/writing/category/consulting/)
+- [Secrets of Consulting](../Books/Book%20Reviews/Secrets%20of%20Consulting.md): Another book on consulting
+
 
 # Thoughts
 - As a consultant, ensure you have your stakeholders' personal number and contact info, and at least 3. If you have issues, need to get access to the building or are locked out of your computer, this might be a lifesaver. This has helped me on multiple occasions. 

@@ -14,7 +14,7 @@ tags:
   - data/eda
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-08-29T15:50
+updated: 2024-09-21T10:45
 ---
 
 # Data Science
@@ -57,6 +57,7 @@ Experience and skill are the things driving velocity, so focus on gaining as muc
 - *Selection bias*: Training data is not representative of the real world. The distribution of training data does not match real-world deployment distribution. This happens for a lot of reasons. Examples are Time, over-filtering data, rare events, and convenience-based collections. (Only survey your friends or in a single location.)
 - [A famous empiricist once said, “With great power comes great responsibility.” In Bayesian terms, the stronger we make our model–following the excellent precepts of Jeffreys and Jaynes–the more able we will be to find the model’s flaws and thus perform scientific learning.](https://statmodeling.stat.columbia.edu/2009/05/07/bayes_jeffreys/)
 - Conformal predictions is a machine learning framework that provides a way to quantify the uncertainty of predictions made by a model. It allows you to assign confidence measures to individual predictions, indicating how likely the predictions are to be correct.
-- See if you can overfit, if you can overfit you can predict. 
+- See if you can overfit. If you can overfit, you can predict.  
+- A data scientist´s main enemy is not adversarial stakeholders or bad data in itself. It is the fast and chaotic nature of business and the demand for quick and dirty insights that a rigorous analytical framework is not suited for. 
 
 

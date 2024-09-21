@@ -10,7 +10,7 @@ tags:
   - programming
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-08-15T09:39
+updated: 2024-09-15T18:31
 ---
 # Database
 
@@ -45,6 +45,7 @@ Database modeling is an important aspect of software development and should be t
 # Links
 - [Benchmarking Databases by Providers is difficult. Because the database providers know their databases are slow.](https://danluu.com/anon-benchmark/)
 - [On Larry Ellison, the boss of Oracle and Oracle](https://news.ycombinator.com/item?id=5170246)
+- [Lecture Series on Databases](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG)
 # Thoughts 
 - Acid in a database stands for Atomicity, Consistency, Isolation, and Durability, which ensure data transactions' reliability and integrity.
 - *"In the end, it is all just databases."* This is a quote from an experienced colleague. In business, this is true. Keep the data simple, pure and protected, and ensure people can access it. 

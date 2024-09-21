@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-05T18:29
+updated: 2024-09-15T21:06
 tags:
   - article
   - digital-garden
@@ -25,7 +25,7 @@ As a manager, do not start personal development discussions as an open book, hav
 
 ## Dunbars Number
 
-[Dunbar´s number](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships) is about the maximum amount of relationships one can have. As with all things related to psychology, one must take it with a grain of salt, but a manager needs to understand that the higher one reaches into the corporate ladder and the more people you have under you, the less time (and energy) you will have to enable those you are responsible to excel.  So you need to have a plan about not only how you can enable the ones "beneath" you to excel but also if you have the capacity to enable them to succeed. If not you need to help them. 
+[Dunbar´s number](https://www.bbc.com/future/article/20191001-dunbars-number-why-we-can-only-maintain-150-relationships) is about the maximum amount of relationships one can have. As with all things related to psychology, one must take it with a grain of salt, but a manager needs to understand that the higher one reaches into the corporate ladder and the more people you have under you, the less time (and energy) you will have to enable those you are responsible to excel.  So you need to have a plan about not only how you can enable the ones "beneath" you to excel but also if you have the capacity to enable them to succeed. If not, you need to help them. 
 # Links
 - [Some work on the management from an engineering perspective](https://lethain.com/tags/executive/)
 - [MVP versus MBI](https://www.pmi.org/disciplined-agile/process/product-management/mvps-and-mbis) 

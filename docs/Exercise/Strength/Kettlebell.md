@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-29T11:18
+updated: 2024-09-16T13:35
 tags:
   - article
   - digital-garden
@@ -59,7 +59,18 @@ This will be a good starting point for kettlebell workouts, when you feel more c
 EMOM stands for Every Minute On the Minute, a principle used in strength training. At the start of each minute, you perform a specific exercise for a certain number of reps. The remaining time within that minute is for rest before the next round begins. I found this to be a good way to finish off a workout.  A good example of this is the [bye-bye legs EMOM](https://youtu.be/Zf9ElVivHC4?list=PLj6G9fPqougk6c93KSpvzGhHKCxY-RZ8O&t=732)
 - [List of some good EMOM exercises with Kettlebell](https://www.boxrox.com/emom-crossfit-kettlebell-workouts-to-improve-skill/)
 - [Kettlebell Kings have good materials, I especially like their shorts for inspiration. ](https://www.youtube.com/@KettlebellKingsAustin)
+### AMRAP
+AMRAP stands for "as many rounds as possible" or "as many reps as possible." In a workout, AMRAP means completing a designated set of exercises and repetitions as many times as you can within a specific time frame. 
 
+#### Full Body Kettlebell AMRAP
+Single kettlebell, do the following on each arm. 
+- 1 Kettlebell standstill snatch
+- 1 Kettlebell shoulder press
+- 2 Squats. 
+- 1 Pushup on Kettlebell
+- Switch kettlebell in plank position
+- 1 Push up. 
+- Turkish get up (Only get up!)
 
 # Links
 - [30 Kettlebell Exercises.](https://www.youtube.com/watch?v=Qd-U8cNqWgg&list=PLj2BU-vBHHb2WPq2OeNalfVrA4J-sJkub)

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-05-12T20:55
+updated: 2024-09-16T16:41
 Pages: 282
 Author: David Marquet
 finished: true
@@ -27,7 +27,7 @@ One of the most important things to understand from this book is how to enable y
 
 I enjoyed reading about the importance of immediate recognition of the top performers and would like to include it if I can. 
 
-Also, interesting tidbits about the US submarine force and it is closely linked to [How the war was Won](How%20the%20war%20was%20Won.md) book and how it describes the massive effect of air-sea power. 
+Also, interesting tidbits about the US submarine force and it is closely linked to [How the War was Won](How%20the%20War%20was%20Won.md) book and how it describes the massive effect of air-sea power. 
 # ✍️ My Top  Quotes
 
 - *He is not alone. A recent survey indicated that 44 percent of business leaders reported their disappointment in the performance results of their employees* 

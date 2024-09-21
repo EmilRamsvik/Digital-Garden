@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-12T10:29
+updated: 2024-09-15T10:32
 tags:
   - article
   - digital-garden
@@ -75,3 +75,4 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - Practice the questions you do not have the answer to, not the ones that you do. I had this experience once while practising for an interview, and I only saw what I knew when practising, foregoing what I did not know. This is a human tendency, and you should focus on things you do not know. How do you answer them? 
 - If having a virtual meeting, make sure to book a room beforehand that is booked not only for the duration of the meeting but also some time before the meeting. 
 - Practice your pitch (Aka, tell me about yourself) as much as possible, this needs to be top-notch.
+- When considering a job switch, make sure that you 

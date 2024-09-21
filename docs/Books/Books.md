@@ -7,7 +7,7 @@ tags:
   - distractions
 Finished: false
 created: 2023-06-10T15:04:00
-updated: 2024-06-08T15:40
+updated: 2024-09-15T17:33
 ---
 # Books 
 Books are an excellent way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 
@@ -33,6 +33,8 @@ I am a sucker for reading science fiction, it is a guilty pleasure and to be hon
 - [Ryan Holliday Reading list](https://ryanholiday.net/the-reading-list/)
 - [Hacker News Most Mentioned Books](https://hacker-recommended-books.vercel.app/category/0/all-time/page/0/0)
 - [Choosing what to read](https://tratt.net/laurie/blog/2024/choosing_what_to_read.html)
+- [Hacker News Bookmap](https://hnbooks.pieterma.es/)
+- [Reading list website](https://www.readthistwice.com/)
 
 # Thoughts 
 - Books demand your attention in a very different way than other things. If you stop reading, then you stop, period. This means that phones, TVs, and other distractions are basically just that, distractions. When I started to read again seriously, I constantly reached for my phone to check it. It was strange to really see how little attention span I had. 

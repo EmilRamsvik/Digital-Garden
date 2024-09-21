@@ -11,7 +11,7 @@ tags:
   - leadership
   - management
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-09-16T16:41
 ---
 # The First World War
 
@@ -19,7 +19,7 @@ updated: 2024-01-07T17:55
 This book is about the history of the great world war. It covers the major strategic themes and goes in-depth on the conflicts outside of the Western front. It is a book that focuses on the war and only the war. 
 
 # 🎨 Impressions
-I found it to be an insightful and informative book that is more detailed than I am used to when it comes to history. As my thoughts have been focused more on logistics and the economy as part of the war, it was interesting for me to read the book with that context in mind. Books such as [[How the war was Won]] by Phillips O´Brien show that the economy is uber alles in modern warfare. And to be sure, the great war was the first modern war. I also found it interesting how personal cognitive biases often hampered the success of battle and this was one of the factors that ultimately led to the defeat of the Axis powers. Also, German high-handedness in the face of their allies was deemed to be a fatal flaw. Many interesting quotes from the book.  
+I found it to be an insightful and informative book that is more detailed than I am used to when it comes to history. As my thoughts have been focused more on logistics and the economy as part of the war, it was interesting for me to read the book with that context in mind. Books such as [[How the War was Won]] by Phillips O´Brien show that the economy is uber alles in modern warfare. And to be sure, the great war was the first modern war. I also found it interesting how personal cognitive biases often hampered the success of battle and this was one of the factors that ultimately led to the defeat of the Axis powers. Also, German high-handedness in the face of their allies was deemed to be a fatal flaw. Many interesting quotes from the book.  
 
 
 ## How I Discovered It

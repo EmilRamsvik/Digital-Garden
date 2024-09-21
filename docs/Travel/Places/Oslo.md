@@ -7,7 +7,7 @@ tags:
   - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2024-09-09T15:28
+updated: 2024-09-17T09:56
 ---
 # Oslo
 I live in Oslo, and I think that this is more of a nice little guide to people who have not been there.
@@ -30,8 +30,11 @@ If you like to do some walks in Oslo, follow the Akerselva trail, it is a quite 
 ## Food
 Lots of good options for different food in Oslo, and there are few things that might be nice to know. 
 
-- Tips is not something that is mandatory so dont feel obligated to tip. 
+- Tips are not something that is mandatory, so dont feel obligated to tip. 
 - Food is generally expensive, as all things in Norway. 
+
+### [Restaurant Map](https://www.google.com/maps/d/u/0/edit?mid=1iiJTTYMnHUdEWqcIViBskA0FKNdo9fo&usp=sharing)
+Based on a friends list of maps, divided by sections fo
 
 
 ### Asian Cuisine
@@ -58,12 +61,13 @@ I am using Singapore slang for Western food, although the cuisine from these pla
 
 - [Haralds Vaffel](https://www.haraldsvaffel.no/) Really nice to grab an authentic Haralds Vaffel and enjoy very authentic Norwegian Vaffel.
 - [King Falafel](https://no.tripadvisor.com/Restaurant_Review-g190479-d15850818-Reviews-King_Falafel-Oslo_Eastern_Norway.html) Vegan options.
-- [Oslo Street Food](https://www.oslo-streetfood.no/) It actaully quite expensive, but lots of options. 
-- [Njokobok](https://www.oslo-streetfood.no/) Very cool atmosphere. Senegalese food.
-- [Hei Solvik](https://heisolvik.no/) Long way away from the rest of oslo, but if you have a bike and some time you can bicylce there and enjoy a nice meal in the island. It is a bit far away and closes at around 18, so best for luncheon. 
+- [Oslo Street Food](https://www.oslo-streetfood.no/) It actually quite expensive, but lots of options. 
+- [Njokobok](https://www.oslo-streetfood.no/): Very cool atmosphere. Senegalese food.
+- [Hei Solvik](https://heisolvik.no/) long way away from the rest of oslo, but if you have a bike and some time you can bicycle there and enjoy a nice meal in the island. It is a bit far away and closes at around 18, so best for luncheon. 
 # Links
 - [Visit Oslo](https://www.visitoslo.com/en/)
-- [Instagram post with reccomendations](https://www.tinyknowledge.com/docs/Travel/Places/Oslo)
+- [Instagram post with recommendations](https://www.tinyknowledge.com/docs/Travel/Places/Oslo)
+- [Map with Resturants](https://www.google.com/maps/d/u/0/edit?mid=1iiJTTYMnHUdEWqcIViBskA0FKNdo9fo&usp=sharing)
 
 # Thoughts 
 - 

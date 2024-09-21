@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2024-09-10T12:08
+updated: 2024-09-16T16:41
 ---
 
 #### [Made to Stick](Book%20Reviews/Made%20to%20Stick.md)
@@ -184,7 +184,7 @@ updated: 2024-09-10T12:08
 *Pages*: 336
 *Language*: English
 
-#### [How the war was Won](Book%20Reviews/How%20the%20war%20was%20Won.md)
+#### [How the War was Won](Book%20Reviews/How%20the%20War%20was%20Won.md)
 *Author:* Phillips P. O´Brien
 *Pages*: 640
 *Language*: English
