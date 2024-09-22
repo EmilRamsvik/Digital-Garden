@@ -6,7 +6,7 @@ tags:
   - interesting-reading
   - reading
 created: 2023-06-03T13:29:00
-updated: 2024-09-11T14:02
+updated: 2024-09-22T11:55
 ---
 # Articles
 
@@ -60,6 +60,10 @@ Blogs that I have discovered are here:
 
 #### [Minding Our Way](https://mindingourway.com/)
 *About:* Rationalism, other AI existentialism things, and others. 
+
+
+#### [Engineering Leadership](https://peterszasz.com/tag/engineering-leadership-challenges/)
+*About:* Engineering, management, leadership. 
 
 
 # Thoughts 

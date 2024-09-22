@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-15T21:06
+updated: 2024-09-22T09:35
 tags:
   - article
   - digital-garden
@@ -29,9 +29,9 @@ As a manager, do not start personal development discussions as an open book, hav
 # Links
 - [Some work on the management from an engineering perspective](https://lethain.com/tags/executive/)
 - [MVP versus MBI](https://www.pmi.org/disciplined-agile/process/product-management/mvps-and-mbis) 
-- [Peopleware](../../Books/Book%20Reviews/Peopleware.md)
-- [Managing Humans](../../Books/Book%20Reviews/Managing%20Humans.md)
-- [The Managers Path](../../Books/Book%20Reviews/The%20Managers%20Path.md)
+- [Peopleware](../../Books/Book%20Reviews/Communication/Peopleware.md)
+- [Managing Humans](../../Books/Book%20Reviews/Communication/Leadership/Managing%20Humans.md)
+- [The Managers Path](../../Books/Book%20Reviews/Communication/Leadership/The%20Managers%20Path.md)
 
 # Thoughts 
 - This is also quite related to my experience as a tech lead. 

@@ -6,11 +6,13 @@ tags:
   - digital-garden
   - music
   - sharing
+  - humans
+  - relationships
 created: 2024-01-06T15:01
-updated: 2024-01-30T14:46
+updated: 2024-09-22T12:10
 ---
 # Discover and Sharing
-I try to expand my musical horizon as much as possible. So that I can have music for all my moods and situations. Most of all, the music I discover is either through Spotify or YouTube, but sometimes I think that the best experiences are going to a festival or concert and getting introduced to new artists. 
+I try to expand my musical horizon as much as possible. So that I can have music for all my moods and situations, most of all, the music I discover is either through Spotify or YouTube, but sometimes I think that the best experiences are going to a festival or concert and getting introduced to new artists. 
 
 I love sharing things that I discover, and I believe that sharing things that interest me is of great importance for building relationships. 
 
@@ -23,7 +25,8 @@ I send out almost weekly songs to people who I am close to and want to share wha
 - 
 
 # Thoughts 
-- 
+-  I like new music on Friday slack channels were everyone can just share what they like. 
+- Sharing Music is part of relationships 
 
 
 

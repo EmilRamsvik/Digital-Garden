@@ -7,7 +7,7 @@ tags:
   - distractions
 Finished: false
 created: 2023-06-10T15:04:00
-updated: 2024-09-15T17:33
+updated: 2024-09-21T18:03
 ---
 # Books 
 Books are an excellent way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 
@@ -23,7 +23,10 @@ I mostly read nonfiction, as I usually do not find it that difficult to get into
 
 # Fiction
 Fiction is something that is important to read, and great works may stay with you for a long time. There is no shame in reading fantasy or science fiction. 
-I am a sucker for reading science fiction, it is a guilty pleasure and to be honest, I does not require that much brain power. 
+I am a sucker for reading science fiction; it is a guilty pleasure, and to be honest, it does not require that much brain power.  
+
+
+
 
 # Links
 - [People who don´t read books](https://www.theatlantic.com/ideas/archive/2023/01/kanye-west-sam-bankman-fried-books-reading/672823/)

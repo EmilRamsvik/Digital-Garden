@@ -8,7 +8,7 @@ tags:
   - design-thinking
   - design-sprint
 created: 2024-01-06T15:04
-updated: 2024-02-25T18:32
+updated: 2024-09-22T08:58
 ---
 
 
@@ -62,7 +62,7 @@ A machine learning projects can fail for many reasons, and most actually do. Typ
 # Thoughts 
 - Data Centric AI should have significant considerations here. 
 - This might be one of the hardest ways to 
-- Data Science projects and Machine learning projects probably have a lot to learn from how large projects are being done. The planning stage is super important for all types of major endeavors, as well as having an experienced leadership that has done things like this before. [How Big Things Get Done](../../Books/Book%20Reviews/How%20Big%20Things%20Get%20Done.md)
+- Data Science projects and Machine learning projects probably have a lot to learn from how large projects are being done. The planning stage is super important for all types of major endeavors, as well as having an experienced leadership that has done things like this before. [How Big Things Get Done](../../Books/Book%20Reviews/Science/World/How%20Big%20Things%20Get%20Done.md)
 
 
 

@@ -8,7 +8,7 @@ tags:
   - fast-api
 Finished: true
 created: 2023-08-09T09:33:00
-updated: 2024-08-27T11:26
+updated: 2024-09-22T09:46
 ---
 # Python
 
@@ -42,17 +42,19 @@ Python is the dominant working language for data science and machine learning.
 - 2. Make virtualenv using virtualenvwrapper,
 - 3. Write project.toml file for setuptools,
 - 4. pip install -e .
-- 5. To add deps, add them to pyproject.toml and repeat step 4. Do not pip install deps directly. Do not pin deps to any particular version, but if you have to you can add constraints like >=5 (I need a feature introduced in v5).
-- 6. If you are writing a package to be pip installed by others then you're done. Read setuptools docs for how to build etc.
-- 7. If you also want to build an environment to run your code (e.g. docker image for deployment or serverless deployment etc) use pip-tools to pin your dependencies. (This is the only reason you need requirements.txt).
-- 8. For test dependencies (e.g. pytest) or dev dependencies (e.g. test server) leverage optional dependencies in the pyproject.toml file. This plays very nicely with tools like tox, which you should use. Use pre-commit for linting etc.
+- 5. To add deps, add them to pyproject.toml and repeat step 4. Do not pip install deps directly. Do not pin deps to any particular version, but if you have to, you can add constraints like >=5 (I need a feature introduced in v5).
+- 6. If you are writing a package to be pip-installed by others then you're done. Read setuptools docs for how to build etc.
+- 7. If you also want to build an environment to run your code (e.g. docker image for deployment or serverless deployment, etc) use pip-tools to pin your dependencies. (This is the only reason you need requirements.txt).
+- 8. For test dependencies (e.g. pytest) or dev dependencies (e.g. test server), leverage optional dependencies in the pyproject.toml file. This plays very nicely with tools like tox, which you should use. Use pre-commit for linting etc. 
 # Links
 - [Python Learning Resources](https://learnbyexample.github.io/py_resources/)
-- [Python Tricks](../../Books/Book%20Reviews/Python%20Tricks.md)
-- [Python Testing with pytest](../../Books/Book%20Reviews/Python%20Testing%20with%20pytest.md)
+- [Python Tricks](../../Books/Book%20Reviews/Programming/Python/Python%20Tricks.md)
+- [Python Testing with pytest](../../Books/Book%20Reviews/Programming/Python/Python%20Testing%20with%20pytest.md)
 - [Pytest](Pytest.md)
+- [Pyinstryment to check performance](https://github.com/joerick/pyinstrument)
 
 # Thoughts 
-- 
+- Mastering python is easier than other languages, but understanding python demands a lot. 
+- If you are the best you know at python, you probably are like 3 out of 9 on a skill scale of best python programmers. 
 
 

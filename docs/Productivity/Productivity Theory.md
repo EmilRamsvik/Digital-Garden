@@ -7,7 +7,7 @@ tags:
   - productivity-hack
   - cognitive-biases
 created: 2023-12-27T12:37
-updated: 2024-04-14T20:35
+updated: 2024-09-22T09:35
 ---
 
 
@@ -20,7 +20,7 @@ This means that if you cannot measure something, it is not that you cannot measu
 	- Cost of measurement. 
 	- Secondary effects of measuring. 
 	- People deal badly with uncertainty. 
-- Glib´s law is also mentioned in [[../Books/Book Reviews/Peopleware]]
+- Glib´s law is also mentioned in [[../Books/Book Reviews/Communication/Peopleware]]
 
 # The missing middle. 
 The "Missing Middle" theorem refers to businesses focusing on high-end, premium products or services or on low-end, budget-friendly offerings while neglecting the middle market. This can lead to a gap in the market for mid-range products or services.

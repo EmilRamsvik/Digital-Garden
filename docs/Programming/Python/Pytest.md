@@ -8,7 +8,7 @@ tags:
   - programming
 Finished: false
 created: 2023-06-04T13:18:00
-updated: 2024-04-09T14:01
+updated: 2024-09-22T09:04
 ---
 # Pytest
 
@@ -68,7 +68,7 @@ One of the hardest, or maybe not hardest, but definitely most cumbersome things 
 - [Quick overview of mocks](https://changhsinlee.com/pytest-mock/)
 - [Anatomy of a test](https://docs.pytest.org/en/7.1.x/explanation/anatomy.html)
 - [Use Weird Tests to capture tacit knowledge](https://jmduke.com/posts/essays/weird-tests-tacit-knowledge/#:~:text=in%20general%2C%20a%20good%20mental%20exercise%20whenever%20you're%20reviewing%20a%20pr%20is%20%22could%20a%20test%20have%20caught%20this%3F%22%2C%20and%20then%20reminding%20yourself%20that%20a%20test%20should%20be%20defined%20less%20as%20%22a%20thing%20that%20exercises%20business%20logic%22%20and%20more%20as%20a%20%22script%20that%20exercises%20your%20codebase%22.)
-- [Python Testing with pytest](../../Books/Book%20Reviews/Python%20Testing%20with%20pytest.md)
+- [Python Testing with pytest](../../Books/Book%20Reviews/Programming/Python/Python%20Testing%20with%20pytest.md)
 
 # Thoughts 
 - Not always easy to configure tests in VSCode. It is good to try to find any errors that occur in the code. I find the 3-step debugging process helpful

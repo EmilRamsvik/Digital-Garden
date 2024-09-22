@@ -9,7 +9,7 @@ tags:
   - communism
 Finished: false
 created: 2023-06-21T09:25
-updated: 2024-06-14T12:38
+updated: 2024-09-22T08:56
 ---
 
 # Politics
@@ -72,7 +72,7 @@ I found this [video](https://www.youtube.com/watch?v=1T_98uT1IZs&ab_channel=Ryan
 
 # Thoughts 
 - Politics is weird, man; I got my definition of Fascism from a guy on YouTube. 
-- Hitchens's life biography is very good when it comes to understanding some of the trends and political movements in the 20th century. Good name as well, [Hitch 22](../Books/Book%20Reviews/Hitch%2022.md)
+- Hitchens's life biography is very good when it comes to understanding some of the trends and political movements in the 20th century. Good name as well, [Hitch 22](../Books/Book%20Reviews/Fiction/Memoirs/Hitch%2022.md)
 - People convince themselves of anything. It is a scary thought. 
 
 

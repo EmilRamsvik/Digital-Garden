@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-15T10:32
+updated: 2024-09-22T11:54
 tags:
   - article
   - digital-garden
@@ -57,7 +57,7 @@ Sparring interviews are more fast and focus on repetition. You can nail down the
 
 A good plan for interview sessions are to do sparring interviews until the techincal bits are seamless and the big four questions are also down to a tee. Then you find example job postings and role play the entire interview.
 # Resume
-You should not use more than 4 hours on the resume. In [The Job Closer](../../Books/Book%20Reviews/The%20Job%20Closer.md), the research highlights that the average time spent on a resume is measured in seconds, not minutes or hours, seconds. 
+You should not use more than 4 hours on the resume. In [The Job Closer](../../Books/Book%20Reviews/Work/Jobs/The%20Job%20Closer.md), the research highlights that the average time spent on a resume is measured in seconds, not minutes or hours, seconds. 
 - A resume should be correct.
 - A resume should show outcomes.
 - A resume is clean and easily readable. 
@@ -67,6 +67,8 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - [Website about interviewing.](https://interviewing.io/)
 - [HN: Discussion around the topic](https://news.ycombinator.com/item?id=17776596) 
 - [Joel On interviewing version 3](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
+- [Get hired as an engineering manager](https://peterszasz.com/get-hired-as-an-engineering-manager-part-1-capturing-your-preferences/)
+- [Book on the tech tesume for developers, or people in tech in general](https://thetechresume.com/?ref=peterszasz.com)
 
 # Thoughts 
 - A resume should be **clean** above all else. 

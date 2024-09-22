@@ -7,7 +7,7 @@ tags:
   - stocks
   - trading
 created: 2023-06-11T15:04:00
-updated: 2024-08-25T15:52
+updated: 2024-09-22T12:01
 ---
 
 
@@ -40,9 +40,11 @@ Books that have influenced my thoughts on investing are
 - [Seeing Like a Bank.](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.)
 - [Brownian Motion](https://www.youtube.com/watch?v=7mmeksMiXp4&ab_channel=stepbil)
 - [Thoughts on debt](https://collabfund.com/blog/how-i-think-about-debt/)
+- [Book review of The Laws of Trading](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading)
 
 # Thoughts 
 - Probably the smartest thing to do is to invest in index funds. 
 - Great investing can be described in one word: *asymmetry*.  You are looking for the greatest possible outcome with the smallest amount of risk. You need to stack great investment strategies on top of each other.  - Graham Weaver
+- "The smartest guys in the room..."
 
 

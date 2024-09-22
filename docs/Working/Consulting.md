@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-20T07:25
+updated: 2024-09-22T09:34
 tags:
   - article
   - digital-garden
@@ -54,10 +54,10 @@ Stakeholders are the persons or entities that define and enable your delivery. T
 - **Sponsors**: These are high-level executives who provide strategic direction and support for the project. They are often responsible for securing funding and championing the project within the organization.  Keep Sponsors informed of the project's progress, highlighting achievements and how they align with strategic goals. Sponsors might be quite busy so be aware that their time is critical and their knowledge of the particular project is limited. 
 
 # Links
-- [The Trusted Advisor](../Books/Book%20Reviews/The%20Trusted%20Advisor.md) Book on consulting.
+- [The Trusted Advisor](../Books/Book%20Reviews/Work/Consulting/The%20Trusted%20Advisor.md) Book on consulting.
 - [The difference that makes the difference](https://www.youtube.com/watch?v=9p1lnjsMriY)
 - [Consulting Articles from a person in the AI space](https://jxnl.co/writing/category/consulting/)
-- [Secrets of Consulting](../Books/Book%20Reviews/Secrets%20of%20Consulting.md): Another book on consulting
+- [Secrets of Consulting](../Books/Book%20Reviews/Work/Consulting/Secrets%20of%20Consulting.md): Another book on consulting
 
 
 # Thoughts

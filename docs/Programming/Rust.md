@@ -6,7 +6,7 @@ tags:
   - rust
   - programming
 created: 2023-12-04T13:29
-updated: 2024-03-04T14:48
+updated: 2024-09-22T11:49
 ---
 
 
@@ -22,7 +22,7 @@ updated: 2024-03-04T14:48
 - [shill rust](https://pbs.twimg.com/media/Docf6V9XgAUevS5.jpg:large)
 - [The crust of rust](https://youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa&si=wbQ8JehrYV10gsrV) Intermediate.
 - [Rustlings Repo with Rust Exercises](https://github.com/rust-lang/rustlings)
-
+- [Rust stuff from Nikiv](https://wiki.nikiv.dev/looking-back/2023/2023-july)
 # Thoughts 
 - Always promote rewriting everything in Rust. 
 

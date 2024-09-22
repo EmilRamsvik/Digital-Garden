@@ -14,7 +14,7 @@ tags:
   - data/eda
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-09-21T10:45
+updated: 2024-09-22T08:53
 ---
 
 # Data Science
@@ -50,7 +50,7 @@ Experience and skill are the things driving velocity, so focus on gaining as muc
 - [Articles on Applied ML](https://github.com/eugeneyan/applied-ml)
 - [When too much evidence is bad](https://phys.org/news/2016-01-evidence-bad.html), an Interesting article argues that when the results are too good to be true, then it probably is. If there are some fantastic numbers and everything is correct, then something is off. We expect that data shows some inconsistencies. 
 - [Statistical methods](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)
-- [Data Science the Hard Parts](../../Books/Book%20Reviews/Data%20Science%20the%20Hard%20Parts.md) is a good starting point to look at data science as a manager and stakeholder problem, rather than a technical and scientific issue. 
+- [Data Science the Hard Parts](../../Books/Book%20Reviews/Data/Data%20Science/Data%20Science%20the%20Hard%20Parts.md) is a good starting point to look at data science as a manager and stakeholder problem, rather than a technical and scientific issue. 
 
 # Thoughts 
 - A machine learning (ML) model is a software artifact “compiled” from data.

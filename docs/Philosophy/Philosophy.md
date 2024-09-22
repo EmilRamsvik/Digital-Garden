@@ -10,7 +10,7 @@ tags:
   - post-modernism
   - science
 created: 2023-06-21T04:55
-updated: 2024-09-15T19:28
+updated: 2024-09-22T09:08
 ---
 # Philosophy 
 
@@ -24,7 +24,7 @@ Karl Marx is considered the last system-building philosopher.
 
 
 ## Denim Philosophy
-Denim Philosophy is the term I gave to the layman's philosophy. It is the musings of Pirisig in [[../Books/Book Reviews/Zen & The Art of Motorcycle Maintenance]], it is the thoughts of the stoics in a modern society.  It is the thoughts from a ride on a Harley across long landscapes.  It is the unbound and unrestricted philosophy of the blue-collar worker, with none of the academic riddles and rules.  It is the philosophy of experience and experimentation. 
+Denim Philosophy is the term I gave to the layman's philosophy. It is the musings of Pirisig in [[../Books/Book Reviews/Mich/Zen & The Art of Motorcycle Maintenance]], it is the thoughts of the stoics in a modern society.  It is the thoughts from a ride on a Harley across long landscapes.  It is the unbound and unrestricted philosophy of the blue-collar worker, with none of the academic riddles and rules.  It is the philosophy of experience and experimentation. 
 
 
 ## Active Externalism 

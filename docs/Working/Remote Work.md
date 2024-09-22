@@ -8,7 +8,7 @@ tags:
   - productivity
   - travel
 created: 2023-05-29T04:12
-updated: 2024-08-27T09:10
+updated: 2024-09-22T09:08
 ---
 # Remote Work
 I did some remote working when I was at Bali, working primarily on my side projects. I felt like it is very difficult to motivate oneself if one does not have a social society or connection. It was fun however to experience new places. 
@@ -26,7 +26,7 @@ The number of small issues that can be resolved with just a quick question is in
 
 One of the biggest improvements I had in home-office/remote working was actually taking a lot of time and effort to set up a functional and also well-functioning home office space to make sure I had everything I needed to be productive. 
 
-[Your Brain at Work](../Books/Book%20Reviews/Your%20Brain%20at%20Work.md) says that a good thing for productivity is actually having quite a large screen, which also is good because it feels nice to have such a screen. 
+[Your Brain at Work](../Books/Book%20Reviews/Work/Productivity/Your%20Brain%20at%20Work.md) says that a good thing for productivity is actually having quite a large screen, which also is good because it feels nice to have such a screen. 
 
 When possible, I recommend having your own office space outside of your normal working spaces. It makes the change from work to normal life better. 
 

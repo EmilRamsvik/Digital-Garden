@@ -12,7 +12,7 @@ tags:
   - "#snowpark"
   - "#Snowflake"
 created: 2023-09-20T00:00:00
-updated: 2024-06-06T13:09
+updated: 2024-09-22T09:44
 ---
 # Snowflake
 
@@ -48,6 +48,7 @@ Snowpark is the "ML Framework" of Snowflake, as well as functioning as a general
 # Links
 - [Repo with Starting Guide to do ML on Snowflake](https://github.com/Snowflake-Labs/sfguide-getting-started-dataengineering-ml-snowpark-python/tree/main)
 - [Snowflake Learning Resources](https://learn.snowflake.com/en/)
+- [Quick Start Data Engineering Pipelines with Snowpark](https://quickstarts.snowflake.com/guide/data_engineering_pipelines_with_snowpark_python/index.html?index=..%2F..index#0)
 
 # Thoughts 
 - 

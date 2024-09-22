@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-21T14:40
+updated: 2024-09-22T08:52
 tags:
   - article
   - digital-garden
@@ -39,7 +39,7 @@ One of my reflections from my first anesthesia operation was that it was much mo
 
 # Links
 - [Sleeping Relaxing Dog Gentle White Noise for Sleeping](https://www.youtube.com/watch?v=_zfDvQd3F_o&ab_channel=VortexAmbient)
-- [Breath](../Books/Book%20Reviews/Breath.md) is a good book about breathing and what makes breathing right so important. 
+- [Breath](../Books/Book%20Reviews/Psychology/Breath.md) is a good book about breathing and what makes breathing right so important. 
  
 # Thoughts 
 - 

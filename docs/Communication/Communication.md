@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-01T21:22
+updated: 2024-09-22T08:59
 tags:
   - article
   - digital-garden
@@ -55,8 +55,8 @@ Make a structure around the topic, an example can be answering/completing the fo
 
 
 # Links
-- [Never Split the Difference](../Books/Book%20Reviews/Never%20Split%20the%20Difference.md)
-- [Nonviolent Communication](../Books/Book%20Reviews/Nonviolent%20Communication.md)
+- [Never Split the Difference](../Books/Book%20Reviews/Communication/Negotiations/Never%20Split%20the%20Difference.md)
+- [Nonviolent Communication](../Books/Book%20Reviews/Communication/Nonviolent%20Communication.md)
 
 # Thoughts 
 - 

@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T21:12:00
-updated: 2024-08-09T14:55
+updated: 2024-09-22T08:53
 tags:
   - article
   - digital-garden
@@ -28,7 +28,7 @@ AI strategy is about having a clear view of how to enable the organization to ut
 
 
 # Links
-- [Driving Digital Strategy](../Books/Book%20Reviews/Driving%20Digital%20Strategy.md) - This is related to the AI strategy discussions- *The Weather Company is a case in point. When consumers moved away from TV to mobile phones but did not stay long enough to generate ad revenues, the company execs pivoted and created a service called WeatherFX, which uses data from its app to help retailers predict how the weather will affect consumer purchasing behavior.* 
+- [Driving Digital Strategy](../Books/Book%20Reviews/Strategy/Driving%20Digital%20Strategy.md) - This is related to the AI strategy discussions- *The Weather Company is a case in point. When consumers moved away from TV to mobile phones but did not stay long enough to generate ad revenues, the company execs pivoted and created a service called WeatherFX, which uses data from its app to help retailers predict how the weather will affect consumer purchasing behavior.* 
  
 - *Creating an independent unit is like launching a speedboat to turn around a large ship. Often the speedboat takes off but does little to move the ship.* 
  

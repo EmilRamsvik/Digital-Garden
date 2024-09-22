@@ -7,7 +7,7 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2024-09-03T14:17
+updated: 2024-09-21T18:09
 ---
 # Personal
 
@@ -31,11 +31,17 @@ CAE stands for Create, Add, and Enhance and is a task list for daily entries. To
 	- I do this by having a learning section in my daily note, where the purpose is to write down a paragraph about something new I learned that day. This enables me to easily create new sections or ittems. 
 - *Add* is when I want to add something to an existing item. It can be a sentence or thought. The goal is to improve all items. If no particular things have been added, then going through the unfinished list is good. 
 - *Enhance* is that I should improve either a process or item during the daily entry. A process can be a script used in the digital garden sorting the entries or fixing the style of some articles to the newest style. The goal is to improve the items in the digital garden continuously. The enhancement should be used on a different article than add. 
-	- To add or enhance, I have a custom dataview script that takes entries i have not changed lately and picks out a random article which i can go into and either research something and add it or enhance the article. 
+	- To add or enhance, I have a custom dataview script that takes entries I have not changed lately and picks out a random article that I can go into and either research something and add it or enhance the article. 
 By using the CAE workflow, I can let the thought of always finishing things go and rather focus on writing for the fun of it. 
 
 The key to making this work is to automate as much as possible and make sure you are put in a position to succeed. Making reminders, creating scheduled tasks that pop up, or just noting down each time you do some entries or fix things help make it much easier to work consistently.
 
+
+## Problems and Disadvantages
+
+I think a lot of the work I do is difficult to immediately assess correctly. Should I have my own data engineering folder? Well, not at the start when data science, AI engineering and ML engineering dominated my work. However, after working for a while, this might change. Also, sometimes I don't really have to split the articles into granular enough places so that i cannot find the best place to put it. 
+
+I think I would like to have a better way of taking my book notes out of my Booklist folder and having them in other sections. Maybe have them in sections on fiction, classics, machine learning, leadership folders etc. As of 2024, I have not done this, but with over 100 book reviews, it might be a good strategy. 
 # Links 
 - [Awesome Digital Gardens](https://github.com/kyrose/awesome-digital-gardens)
 # Thoughts 

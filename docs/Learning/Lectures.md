@@ -8,7 +8,7 @@ tags:
   - lectures
   - courses
 created: 2023-06-30T11:30
-updated: 2024-06-09T16:42
+updated: 2024-09-22T08:52
 ---
 
 
@@ -61,7 +61,7 @@ Lectures that can be listended to is much easier than the ones that are
 - I wrote an article, highlighting the concepts from the lectures: [Calling Bullshit](https://medium.com/@emilseverin93/calling-bullshit-3f2ff2451040)
 - Very interesting series of lectures would love to read the book as well. 
 - [Brandolini´s Bullshit Asymmetry](https://en.wikipedia.org/wiki/Brandolini%27s_law): *The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it.*
-- [Calling Bullshit](../Books/Book%20Reviews/Calling%20Bullshit.md) Book Review 
+- [Calling Bullshit](../Books/Book%20Reviews/Science/Math/Statistics/Calling%20Bullshit.md) Book Review 
 
 ### [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/)
 I have not looked much into this course as of yet.  But I like the premise very much. 

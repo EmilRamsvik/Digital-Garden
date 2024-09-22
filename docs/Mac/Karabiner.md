@@ -11,7 +11,7 @@ tags:
   - productivity-hack
   - keyboard
 created: 2023-06-21T04:24
-updated: 2024-06-22T13:50
+updated: 2024-09-22T09:42
 ---
 # Karabiner
 Karabiner is a powerful and customizable keyboard remapping tool designed specifically for macOS. It allows users to modify the behavior of their keyboards by remapping keys, creating shortcuts, and implementing various keyboard modifications. With Karabiner, users can redefine keys to perform different functions or assign complex combinations of keys to trigger specific actions. This enables users to personalize their keyboard layout and streamline their workflow, making it easier and more efficient to navigate through applications and perform tasks.
@@ -37,8 +37,10 @@ However, I recommend starting the journey by reading other documentation regardi
 - [swyx on karabiner elements](https://dev.to/swyx/notes-on-karabiner-elements-from-john-lindquist-4cmo)¨
 - [Remapping arrows](http://vadimpleshkov.me/notes/all/remapping-arrows/) -> [Github](https://github.com/vdmp/karabinersetup)
 - [Karabiner with Typescript](https://github.com/mxstbr/karabiner)
+- [Karabiner.edn file](https://github.com/kchen0x/k-goku/blob/master/karabiner.edn )
 
 # Thoughts 
 - I find it quite hard to understand in a layer how you most effectively can map some commands ¨
 - Search [GitHub]( [https://github.com/search?l=&q=filename%3Akarabiner.edn&type=Code](https://github.com/search?l=&q=filename%3Akarabiner.edn&type=Code)) for karabiner.edn inspiration.
+- I like and recommend Karabiner to everyone who programs and like to automate. 
 

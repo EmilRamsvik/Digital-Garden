@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-09T10:55
+updated: 2024-09-22T09:43
 tags:
   - article
   - digital-garden
@@ -34,6 +34,7 @@ Microsoft Fabric is like an MS copy of data warehouses such as Snowflake and Dat
 - 
 
 ## [Snowflake](../../Database/Snowflake.md)
+
 
 # Links
 - 

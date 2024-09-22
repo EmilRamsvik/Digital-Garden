@@ -11,7 +11,7 @@ tags:
   - teams
   - career
 created: 2024-01-06T15:01
-updated: 2024-09-16T13:31
+updated: 2024-09-22T09:04
 ---
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  
@@ -43,7 +43,7 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - [Only need plaintext](https://www.youtube.com/watch?v=WgV6M1LyfNY&ab_channel=NoBoilerplate) Argues against anything other than Git and GitHub for software teams. 
 - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 - [Learn Git and Branching](https://learngitbranching.js.org/)
-- [Pro Git](../Books/Book%20Reviews/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
+- [Pro Git](../Books/Book%20Reviews/Programming/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
 - [Idiot Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases)
 
 

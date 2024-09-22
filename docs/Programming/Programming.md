@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: true
 created: 2023-06-09T13:30:00
-updated: 2024-08-29T08:22
+updated: 2024-09-22T11:52
 ---
 # Programming
 
@@ -21,28 +21,11 @@ An underrated aspect of programming is understanding computers; for engineers an
 
 
 
-### Base64 Encoding
-Base64 is a method of encoding binary data into an ASCII text format using a set of 64 characters (hence the name "Base64"). This encoding is used when there is a need to encode binary data, especially in circumstances where the communication or storage medium only supports text, such as in emails or some older file systems.
-This is useful when you need to send or expose files as a text string or other (type API/JSON). 
-- **Encoding:** In Base64 encoding, the binary data is divided into 6-bit blocks. Each block is then mapped to a specific character from the Base64 character set (which includes A-Z, a-z, 0-9, '+', '/', and sometimes '=' for padding). This process converts the binary data into a text string, making it easier to handle in text-based systems.
-- **Decoding:** Decoding is the reverse process where the Base64 encoded text is converted back into its original binary form. This is necessary because the actual binary data is needed for processing or displaying (like rendering an image in a browser).
-
-### Basic Concepts of Asynchronous Programming
-
-1. **Synchronous Programming**: Traditionally, most programming is synchronous, meaning tasks are performed one after another. Each task must complete before the next one starts.
-2. **Asynchronous Programming**: In contrast, asynchronous programming allows multiple tasks to be processed in an overlapping manner. It's particularly useful for tasks that involve waiting (like waiting for data from a network), as it allows other tasks to run in the meantime.
-##### How `async` Works
-
-1. **Creating a Coroutine**: When you define a function with `async def`, it becomes a coroutine. It's important to note that simply defining a coroutine does not execute it.
-    
-2. **Awaiting a Coroutine**: To execute the coroutine, you must `await` it. The `await` keyword is used to pause the coroutine's execution and wait for its result.
-    
-3. **The Event Loop**: The core of asynchronous programming in Python is the event loop. When you await a coroutine, the event loop handles its execution. It schedules the coroutine's tasks and resumes their execution when the awaited operation (like an I/O task) is complete.
-
 # API
 How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The Python programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
 
 To me, thinking of an API as a contract is a useful metaphor. This 'contract' ensures that if you make a request in a specific, agreed-upon format, you will receive a predictable response. An API is a structurally agreed-upon way for two programs to interact with each other. 
+- [Free Public API that are tested every day](https://www.freepublicapis.com/)
 
 
 # Links
@@ -64,6 +47,7 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8&t=321s)
 - [Programming is mostly thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html).
 - [Viedoes with Crash Courses and other Guides](https://www.youtube.com/@NetNinja/playlists?view=1&sort=lad&flow=grid)
+- [10k Hours of coding lessons](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 
 # Thoughts 
 - My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. With the concepts and logic, I become more into the latter category. 
@@ -71,3 +55,4 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - "_Code is just the residue of the work._" - Tim Ottinger.
 - "Code that is working in production is superior to code that has never operated in real life." - Tim Ottinger.
 - You are not your code, and you are not your ideas. Do not take criticism of your work as criticism of you as a person. 
+- 

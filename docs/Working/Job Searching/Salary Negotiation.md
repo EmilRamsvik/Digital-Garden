@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-15T11:38
+updated: 2024-09-22T09:33
 tags:
   - article
   - digital-garden
@@ -44,14 +44,14 @@ Might be smart to name a number instead of doing the open type of question.
 
 
 # Links
-- [Never Split the Difference](../../Books/Book%20Reviews/Never%20Split%20the%20Difference.md)
-- [Nonviolent Communication](../../Books/Book%20Reviews/Nonviolent%20Communication.md)
-- [Start with No](../../Books/Book%20Reviews/Start%20with%20No.md)
+- [Never Split the Difference](../../Books/Book%20Reviews/Communication/Negotiations/Never%20Split%20the%20Difference.md)
+- [Nonviolent Communication](../../Books/Book%20Reviews/Communication/Nonviolent%20Communication.md)
+- [Start with No](../../Books/Book%20Reviews/Communication/Negotiations/Start%20with%20No.md)
 -  [Salary Expectations](https://fearlesssalarynegotiation.com/salary-expectations-interview-question/)
 - [Website on Salary Negotiation](https://fearlesssalarynegotiation.com/)
 - [How to sabotage your salary negotiations before you even start.](https://interviewing.io/blog/sabotage-salary-negotiation-before-even-start)
 - [50 min podcast about salary negotiation](https://www.kalzumeus.com/2016/06/03/kalzumeus-podcast-episode-12-salary-negotiation-with-josh-doody/)
-- [Fearless Salary Negotiation](../../Books/Book%20Reviews/Fearless%20Salary%20Negotiation.md) Book on salary negotiating. 
+- [Fearless Salary Negotiation](../../Books/Book%20Reviews/Work/Jobs/Fearless%20Salary%20Negotiation.md) Book on salary negotiating. 
 
 # Thoughts 
 - It would be smart to practice salary negotiation as well as interview techniques. 

@@ -8,7 +8,7 @@ tags:
   - concentration
 Finished: false
 created: 2024-01-06T15:01
-updated: 2024-04-21T14:38
+updated: 2024-09-21T18:04
 ---
 
 
@@ -28,6 +28,7 @@ YouTube is primarily for music that is unavailable on Spotify, mainly because of
 ### Good Live sets
 - [Parcels Live Set](https://www.youtube.com/watch?v=ePSivyATBqg) From La Cigale, Paris. Outstanding sound quality. 
 - [Cercle Mix is Awesome](https://www.youtube.com/watch?v=3lTUAWOgoHs&t=27s)
+- [Sons of the East live in Copenhagen.](https://www.youtube.com/watch?v=XsJqG35u7iA&t=620s&ab_channel=CasperHolst)
 
 
 #### Brown Noise

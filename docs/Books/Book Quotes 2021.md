@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01T17:32
-updated: 2024-03-22T20:19
+updated: 2024-09-22T09:29
 ---
 ### Black Swan
 **Nassim Niclas Taleb**
@@ -529,7 +529,7 @@ Vietnam and the civil rights movement.*
 - *Vietnam and the civil rights movement.*
 - *Abolitionists were at the most, never more than 15% of the population of the northern states.*
 - *The American contradiction: The largest slave state in the world built on the first thriving republic.*
-### [Stuff Matters](Personal/Books/Book%20Reviews/Stuff%20Matters.md)
+### [Stuff Matters](Book%20Reviews/Science/World/Stuff%20Matters.md)
 **Mark Miodownik**
 
 ### Chaos
@@ -710,18 +710,18 @@ The third best indicator of success in the Navy Seal training was being on the w
 - *Blue helmets are obligated to follow the rules of their host government, even when that government commits acts of genocide.*
 - *"Governments lie, it is in the nature to do so." - Mort Rosenblum*
 - *"If governments are not deceiving their citizens with a preconceived goal in mind, they are busy deceiving themselves." - Mort Rosenblum*
-### [Humanocracy](Personal/Books/Book%20Reviews/Humanocracy.md)
+### [Humanocracy](Book%20Reviews/Science/Sociology/Bureaucracy/Humanocracy.md)
 **Gary Hammel**
 
-### [Finansplaneten](Book%20Reviews/Finansplaneten.md)
+### [Finansplaneten](Book%20Reviews/Economics/Finansplaneten.md)
 **Niall Ferguson**
 
-### [Serengeti Rules](Book%20Reviews/Serengeti%20Rules.md)
+### [Serengeti Rules](Book%20Reviews/Science/Evolution/Serengeti%20Rules.md)
 
-### [UltraLearning](Book%20Reviews/UltraLearning.md)
+### [UltraLearning](Book%20Reviews/Work/Productivity/UltraLearning.md)
 **Scott H. Young**
 
-### [The Evolution of Everything](Book%20Reviews/The%20Evolution%20of%20Everything.md)
+### [The Evolution of Everything](Book%20Reviews/Science/Evolution/The%20Evolution%20of%20Everything.md)
 
 ### Other Quotes
 - *Effrontery: Insolent or impertinent behavior.*

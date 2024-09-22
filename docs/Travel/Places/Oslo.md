@@ -7,7 +7,7 @@ tags:
   - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2024-09-17T09:56
+updated: 2024-09-22T12:22
 ---
 # Oslo
 I live in Oslo, and I think that this is more of a nice little guide to people who have not been there.
@@ -61,13 +61,14 @@ I am using Singapore slang for Western food, although the cuisine from these pla
 
 - [Haralds Vaffel](https://www.haraldsvaffel.no/) Really nice to grab an authentic Haralds Vaffel and enjoy very authentic Norwegian Vaffel.
 - [King Falafel](https://no.tripadvisor.com/Restaurant_Review-g190479-d15850818-Reviews-King_Falafel-Oslo_Eastern_Norway.html) Vegan options.
-- [Oslo Street Food](https://www.oslo-streetfood.no/) It actually quite expensive, but lots of options. 
+- [Oslo Street Food](https://www.oslo-streetfood.no/) It is actually quite expensive, but lots of options.  I really like the Japanese street food, which reminds me of Singapore. 
 - [Njokobok](https://www.oslo-streetfood.no/): Very cool atmosphere. Senegalese food.
-- [Hei Solvik](https://heisolvik.no/) long way away from the rest of oslo, but if you have a bike and some time you can bicycle there and enjoy a nice meal in the island. It is a bit far away and closes at around 18, so best for luncheon. 
+- [Hei Solvik](https://heisolvik.no/) is a long way away from the rest of oslo, but if you have a bike and some time you can bicycle there and enjoy a nice meal in the island. It is a bit far away and closes at around 18, so best for luncheon. 
 # Links
 - [Visit Oslo](https://www.visitoslo.com/en/)
 - [Instagram post with recommendations](https://www.tinyknowledge.com/docs/Travel/Places/Oslo)
-- [Map with Resturants](https://www.google.com/maps/d/u/0/edit?mid=1iiJTTYMnHUdEWqcIViBskA0FKNdo9fo&usp=sharing)
+- [Map with Restaurants](https://www.google.com/maps/d/u/0/edit?mid=1iiJTTYMnHUdEWqcIViBskA0FKNdo9fo&usp=sharing)
 
 # Thoughts 
-- 
+- Oslo is like a mini Copenhagen. 
+- Exploit the nature. 

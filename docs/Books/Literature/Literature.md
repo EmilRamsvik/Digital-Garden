@@ -7,7 +7,7 @@ tags:
   - norwegian-books
   - classics
 created: 2024-01-06T15:04
-updated: 2024-09-06T09:46
+updated: 2024-09-22T09:05
 ---
 
 
@@ -31,7 +31,7 @@ The difference between Dostoyevsky and Hamsun is that Dostoyevsky has a moral he
 
 
 # Links
-- [The Brothers Karamazov](../Book%20Reviews/The%20Brothers%20Karamazov.md) 
+- [The Brothers Karamazov](../Book%20Reviews/Fiction/Classics/The%20Brothers%20Karamazov.md) 
 
 # Thoughts 
 - Ulysses by James Joyce is often referenced as a PhD killer because it blows the mind of every PhD who attempts it, and all they can talk about is the book. 

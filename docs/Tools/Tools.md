@@ -7,7 +7,7 @@ tags:
   - productivity
   - software/tools
 created: 2024-01-06T15:01
-updated: 2024-09-15T21:05
+updated: 2024-09-22T08:49
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -85,7 +85,7 @@ I love AutoHotKey. It's a very good program.
 I use it as a proxy for when I have to use BGHM (Bill Gates Hell Machine)
 
 [This might be an interesting starting guide to AutoHotkey.](https://www.hillelwayne.com/post/ahk-scripts-project/)
-[A Beginners Guide to Autohotkey](../Books/Book%20Reviews/A%20Beginners%20Guide%20to%20Autohotkey.md) is a book that might be a good start. 
+[A Beginners Guide to Autohotkey](../Books/Book%20Reviews/Programming/Productivity/A%20Beginners%20Guide%20to%20Autohotkey.md) is a book that might be a good start. 
 [My dotfiles with AHK files](https://github.com/EmilRamsvik/dotfiles/tree/master/autohotkey)
 
 

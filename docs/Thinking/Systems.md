@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-04-26T17:16
+updated: 2024-09-22T09:05
 tags:
   - article
   - digital-garden
@@ -9,7 +9,7 @@ tags:
 Finished: true
 ---
 # Systems
-Systems are what we have around us, and instead of focusing on the thing itself, is about how things interact with other things. I got introduced to thinking in systems from the book [Thinking in Systems](../Books/Book%20Reviews/Thinking%20in%20Systems.md) and I have tried to explore those topics more in detail later. 
+Systems are what we have around us, and instead of focusing on the thing itself, is about how things interact with other things. I got introduced to thinking in systems from the book [Thinking in Systems](../Books/Book%20Reviews/Science/Systems/Thinking%20in%20Systems.md) and I have tried to explore those topics more in detail later. 
 
 Understanding systems is a tremendous advantage when it comes to understanding the world. This is especially true for social systems such as organizations, businesses, and other human social structures. 
 
@@ -21,7 +21,7 @@ The term _**systemantics**_ is a commentary on prior work by [Alfred Korzybsk
 4. All systems are infinitely complex.
 
 ## Reading list for System Thinkers
-First, i think the best way to start is the book [Systematics](../Books/Book%20Reviews/Systematics.md), as it is short and concise and really hammers down the point of system thinking. Then, I think a deeper exercise would be to take on [Thinking in Systems](../Books/Book%20Reviews/Thinking%20in%20Systems.md), as it is more technical in nature and explains the core concepts well. After that, reading [The Fifth Discipline](../Books/Book%20Reviews/The%20Fifth%20Discipline.md) is a nice follow up, where the focus is more on the organization in the system thinking context. 
+First, i think the best way to start is the book [Systematics](../Books/Book%20Reviews/Science/Systems/Systematics.md), as it is short and concise and really hammers down the point of system thinking. Then, I think a deeper exercise would be to take on [Thinking in Systems](../Books/Book%20Reviews/Science/Systems/Thinking%20in%20Systems.md), as it is more technical in nature and explains the core concepts well. After that, reading [The Fifth Discipline](../Books/Book%20Reviews/Science/Systems/The%20Fifth%20Discipline.md) is a nice follow up, where the focus is more on the organization in the system thinking context. 
 
 # Links
 - [The purpose of a system is what it does](https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does).
