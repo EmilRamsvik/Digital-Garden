@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-22T09:35
+updated: 2024-09-27T20:35
 tags:
   - article
   - digital-garden
@@ -35,5 +35,6 @@ As a manager, do not start personal development discussions as an open book, hav
 
 # Thoughts 
 - This is also quite related to my experience as a tech lead. 
+- "Leadership matters and leadership is not sufficient". Consider this when working in organizations. 
 
 

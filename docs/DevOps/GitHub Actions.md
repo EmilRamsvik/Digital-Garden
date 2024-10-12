@@ -6,7 +6,7 @@ tags:
   - github-actions
   - github-reusable-workflows
 created: 2023-06-12T15:01:00
-updated: 2024-03-23T09:46
+updated: 2024-10-12T16:51
 ---
 # GitHub Actions
 
@@ -25,6 +25,7 @@ Reusable workflows are how you can combine public and other workflows together a
 - [Awesome GitHub Actions](https://github.com/sdras/awesome-actions)
 
 # Thoughts 
-- 
+- Understanding how easy it is to use Github actins as a supplement or replacement for lambda functions in AWS or Azure functions in Azure is a good trick to have. 
+- Get to know how to use service principals to get the most out of Githyb's actions. 
 
 

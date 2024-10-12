@@ -1,5 +1,5 @@
 ---
-Finished: 
+Finished: false
 tags:
   - article
   - digital-garden
@@ -8,10 +8,12 @@ tags:
   - hacking
   - code-scanning
 created: 2024-01-06T15:01
-updated: 2024-02-29T20:50
+updated: 2024-09-22T21:07
 ---
 # CyberSecurity
 
+Cybersecurity is interesting as for the "defender", you need to think about everything and for the "attacker", you only need to be right once. 
+As a maker of apps with responsibility for cybersecurity, there a a couple of things that you can do to make the app or service a lot more secure. An attacker will go for the easy pickings. 
 
 
 
@@ -45,5 +47,7 @@ Executing attacks:
 - Just don't post any secrets to Git Hub. 
 - Again, keep them secrets out. 
 - The best programming practice is cyber-security best practice. 
+- A lot of the attackers used to be bored kids; now, it is still bored kids but also government actors.  
+- 
 
 

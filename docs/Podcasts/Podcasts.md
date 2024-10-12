@@ -8,7 +8,7 @@ tags:
   - politics
 Finished: false
 created: 2023-10-29T15:32
-updated: 2024-02-08T07:44
+updated: 2024-09-22T21:18
 ---
 # Podcasts
 
@@ -39,6 +39,18 @@ Alex and Ranjan are not only capable but also fun to hear about. Reading Ranjan 
 
 ### [Business Books & Co](https://open.spotify.com/show/3AHsPplOB57xM25RtJwYQg?si=2b53b4fbb451425b)
 Discussions around popular business books. The hosts are good at describing the contents of the books and it feels like you get about 80 % of the contents of the books through each episode. It is also good to hear some criticisms of the books to stay a bit neutral. 
+
+### [Latent Space](https://open.spotify.com/show/2p7zZVwVF6Yk0Zsb4QmT7t?si=bda2e2b96be142a0)
+This is about AI engineering. Very good. Especially for IT engineers wanting to explore the AI engineering space. This is a good starting point. 
+
+Especially liked the episodes on [datasets](https://open.spotify.com/episode/23x4LKlYGaULX2bw5yVhrU?si=9724c8d7af58423f) and [benchmarks](https://open.spotify.com/episode/16vo3YLUTZI0nwAbrhjWYT?si=566051b5746b42b7)
+
+### [Complex Systems](https://open.spotify.com/show/3Mos4VE3figVXleHDqfXOH?si=87845761654947e9) 
+I really like the theme and topics on this IT and How the World Works podcast. 
+
+### [We have ways of making you talk](https://open.spotify.com/show/34VlAepHmeloDD76RX4jtc?si=a4713a9fc9a74453)
+A funny history podcast. 
+
 
 # Good Podcast Episodes
 - 

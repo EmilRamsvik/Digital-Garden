@@ -6,7 +6,7 @@ tags:
   - flexibility
 Finished: false
 created: 2023-07-07T00:00:00
-updated: 2024-02-12T13:53
+updated: 2024-09-22T20:59
 ---
 # Flexibility
 I started working on flexibility far too late, but it is an awesome way of doing quick workouts at home. 
@@ -14,6 +14,18 @@ I started working on flexibility far too late, but it is an awesome way of doing
 All you need is a phone with some guidance, a yoga mat, and maybe a pillow. As long as you are alone, you don't even need clothes :). 
 
 ## Yoga
+I think yoga has been a tremendous addition to the workout regimen i have. There has been a couple of things that I would have liked to understand earlier.
+- **Hatha**: Gentle yoga
+- **Vinyasa**: Flowing yoga
+- **Ashtanga**: Intense yoga
+- **Bikram**: Hot yoga
+- **Iyengar**: Precise alignment yoga
+- **Kundalini**: Spiritual yoga
+- **Restorative**: Relaxing yoga
+- **Yin**: Slow-paced yoga focusing on connective tissues
+- **Pilates**: Core-strengthening exercise system inspired by yoga
+
+Sometimes, I have just joined and hoped for the best. It has been very cool and one heck of a challenge from time to time. 
 ### Links
 - [Vagus nerve work](https://www.youtube.com/watch?v=IPgYSmrKb1A&ab_channel=YogaWithTim)
 - 
