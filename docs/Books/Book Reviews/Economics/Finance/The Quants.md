@@ -14,7 +14,7 @@ tags:
   - black-swan
   - game-theory
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-10-13T13:10
 ---
 # The Quants
 
@@ -104,8 +104,6 @@ Not much, more interested in learning about chaos and non-linearities, as it is 
 - *A Markov process, named after Russian mathematician Andrey Markov, models a sequence of events in a system that have no direct relation to one another.* 
  
 - *Mercer, meanwhile, was simply known as the “big gun” at Renaissance. When a thorny problem cropped up that required focused attention, the firm would “just aim Bob at it and fire,” said a former employee.* 
- 
-- *Elsesser was one of the first to hit the road, moving on to study gender issues in the workplace at UCLA. She’d grown sick of Morgan’s Big Swinging Dick, macho culture, even though she was relatively isolated from the worst behavior under PDT’s protective bubble. Traders often treated her as if she were Muller’s secretary. One time soon after they’d launched PDT, Elsesser was trading futures contracts electronically. A man walked into PDT’s office, stared at Elsesser, looked around, left. He came again, looked, and left. The next time he came, looking around in confusion, scratching his crotch, Elsesser finally asked, “Can I help you?” “They keep telling me some quant trader is in here trading futures and I keep telling them there’s nobody back here.”* 
  
 - *Elsesser was one of the first to hit the road, moving on to study gender issues in the workplace at UCLA. She’d grown sick of Morgan’s Big Swinging Dick, macho culture, even though she was relatively isolated from the worst behavior under PDT’s protective bubble. Traders often treated her as if she were Muller’s secretary. One time soon after they’d launched PDT, Elsesser was trading futures contracts electronically. A man walked into PDT’s office, stared at Elsesser, looked around, left. He came again, looked, and left. The next time he came, looking around in confusion, scratching his crotch, Elsesser finally asked, “Can I help you?” “They keep telling me some quant trader is in here trading futures and I keep telling them there’s nobody back here.” After a furious pause, Elsesser said, “That’s me.” The guy stood staring at her slack-jawed, then left again without saying a word.* 
  

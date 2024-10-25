@@ -11,7 +11,7 @@ tags:
   - management
 Date Finished: 2023-11-09
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:27
+updated: 2024-10-13T13:10
 ---
 # Personal MBA
 

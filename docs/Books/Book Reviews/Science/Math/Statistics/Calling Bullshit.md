@@ -11,7 +11,7 @@ tags:
   - science
   - politics
 created: 2024-01-06T15:04
-updated: 2024-01-23T15:16
+updated: 2024-10-13T13:10
 ---
 # Calling Bullshit
 

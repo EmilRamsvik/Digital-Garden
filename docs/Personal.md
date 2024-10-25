@@ -7,7 +7,7 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2024-09-21T18:09
+updated: 2024-10-13T13:10
 ---
 # Personal
 

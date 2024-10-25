@@ -8,7 +8,7 @@ Pages: 267
 Author: Tore Skeie
 Date Finished: 2021-01-03
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-10-13T13:10
 ---
 # Kvitekrist
 

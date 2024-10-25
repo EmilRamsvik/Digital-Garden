@@ -7,7 +7,7 @@ tags:
   - "#automation"
   - "#non-fiction"
 created: 2023-05-14T15:04:00
-updated: 2024-01-07T20:51
+updated: 2024-10-13T13:10
 ---
 # Automating Your Mac
 

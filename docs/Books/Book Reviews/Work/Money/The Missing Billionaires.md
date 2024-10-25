@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-06-09T15:41
+updated: 2024-10-13T13:10
 Pages: 416
 Author: Victor Haghani
 finished: true
@@ -65,7 +65,7 @@ Another interesting aspect is risk in relation to your happiness. If you are dee
  
 - *Bet size is a function of individual risk attitudes (, but should be made consistently across bets with differing attractiveness. Bet size should be proportional to expected gain ( Bet size should be inversely proportional to the square of risk (: if risk halves, bet size should quadruple. We saw how these three characteristics come together to give us an optimal betting rule, the Merton share:* 
  
-- *The determination of the value of an item must not be based on the price, but rather on the Utility it yields. —Daniel Bernoulli, Swiss mathematician and gambler (1738* 
+- *The determination of the value of an item must not be based on the price, but rather on the Utility it yields. —Daniel Bernoulli, Swiss mathematician and gambler (1738*)
  
 - *If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is. —John von Neumann* 
  

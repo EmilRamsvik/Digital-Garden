@@ -9,7 +9,7 @@ tags:
   - programming
 Date Finished: 2023-12-08
 created: 2024-01-06T15:04
-updated: 2024-08-27T11:31
+updated: 2024-10-13T13:10
 ---
 # Python Tricks
 

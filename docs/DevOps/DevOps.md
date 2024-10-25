@@ -11,7 +11,7 @@ tags:
   - agile
 Finished: 
 created: 2023-06-13T15:01:00
-updated: 2024-06-04T21:24
+updated: 2024-10-08T11:30
 ---
 # DevOps
 
@@ -23,12 +23,14 @@ DevOps has been closely linked to [Agile](../Working/Agile.md) and Lean processe
 
 
 # Links
-- 
+- [DevOps Roadmap](https://roadmap.sh/devops)
 
 # Thoughts 
 - DevOps is about culture, not processes. 
 - What are the reasons you are not deploying faster? Is it because of processes, culture, or something else?
 - Are you afraid of prod?
+- https://www.srenity.online/
+- 
 
 
-
+e

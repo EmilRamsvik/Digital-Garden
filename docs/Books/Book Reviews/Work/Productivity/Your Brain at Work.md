@@ -13,7 +13,7 @@ tags:
   - programming
   - self-improvement
 created: 2024-01-06T15:04
-updated: 2024-05-31T16:32
+updated: 2024-10-13T13:10
 ---
 # Your Brain at Work
 

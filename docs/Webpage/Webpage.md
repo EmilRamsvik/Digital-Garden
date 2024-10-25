@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-12T16:52
+updated: 2024-10-12T16:53
 tags:
   - article
   - digital-garden
@@ -99,5 +99,5 @@ The code is on [GitHub](https://github.com/EmilRamsvik/Digital-Garden), as it is
 # Thoughts 
 - I am very pleased with how I worked on this project; I think it has been a good journey so far, and I hope to learn a lot more and share a lot more when it comes to working on the different things I try to learn. 
 - Vercel is a super duper awesome product. 
-- The ease of deployment is important, 
+- The ease of deployment is important; just type a command, and you get a new web page. Quite nice. 
 

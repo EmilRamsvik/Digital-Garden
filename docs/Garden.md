@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-10T11:10
+updated: 2024-09-20T10:39
 tags:
   - article
   - digital-garden
@@ -16,8 +16,8 @@ Welcome to my Digital Garden.  Here, I try to gather my personal knowledge and s
 The garden is by no means a finished work, even my publications of articles are somewhat sketchy, as I have often published unfinished articles that might even be a dummy. However, it is all part of the process of writing and discovering. It is a garden, not a building; it should let its ihabitants live and grow and die naturally. 
 
 ## [AI](AI/AI.md) 
-I write a lot about AI, and these are my articles on AI.  [Data Science](AI/Data%20Science/Data%20Science.md) is a sub-phase that I think will be good to go through with later. 
-
+I write a lot about AI, and these are my articles on AI.  [Data Science](AI/Data%20Science/Data%20Science.md) is a sub-phase that I think will be good to go through later. 
+I work a lot with data and have tried to figure out the path of a great datacre
 
 ## Tools and Methods
 

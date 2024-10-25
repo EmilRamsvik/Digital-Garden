@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-27T20:35
+updated: 2024-10-22T14:30
 tags:
   - article
   - digital-garden
@@ -32,9 +32,10 @@ As a manager, do not start personal development discussions as an open book, hav
 - [Peopleware](../../Books/Book%20Reviews/Communication/Peopleware.md)
 - [Managing Humans](../../Books/Book%20Reviews/Communication/Leadership/Managing%20Humans.md)
 - [The Managers Path](../../Books/Book%20Reviews/Communication/Leadership/The%20Managers%20Path.md)
+- [A death march, in a project management setting](https://en.wikipedia.org/wiki/Death_march_(project_management))
 
 # Thoughts 
 - This is also quite related to my experience as a tech lead. 
-- "Leadership matters and leadership is not sufficient". Consider this when working in organizations. 
+- "Leadership matters, and leadership is not sufficient". Consider this when working in organizations. 
 
 

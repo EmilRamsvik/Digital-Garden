@@ -10,7 +10,7 @@ tags:
   - communism
   - jim-crow
 created: 2024-01-06T15:04
-updated: 2024-01-07T17:55
+updated: 2024-10-13T13:10
 ---
 # Black Boy
 

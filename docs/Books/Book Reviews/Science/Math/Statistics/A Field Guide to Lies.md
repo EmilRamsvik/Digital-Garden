@@ -9,7 +9,7 @@ tags:
   - science
 Date Finished: 2023-11-04
 created: 2024-01-06T15:04
-updated: 2024-09-22T08:55
+updated: 2024-10-13T13:10
 ---
 # A Field Guide to Lies
 

@@ -11,7 +11,7 @@ tags:
   - philosophy
   - time-management
 created: 2024-01-06T15:04
-updated: 2024-09-09T09:38
+updated: 2024-10-13T13:10
 ---
 # Four Thousand Weeks Time Management for Mortals
 

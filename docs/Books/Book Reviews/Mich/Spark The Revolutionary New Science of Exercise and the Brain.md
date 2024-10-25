@@ -9,7 +9,7 @@ tags:
   - brain
   - motivation
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:51
+updated: 2024-10-13T13:10
 ---
 # Spark The Revolutionary New Science of Exercise and the Brain
 

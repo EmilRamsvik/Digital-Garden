@@ -3,7 +3,7 @@ Pages: 464
 Date Finished: Sep 02, 2023
 Author: Robert Pirzig
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:52
+updated: 2024-10-13T13:10
 tags:
   - books
   - philosophy

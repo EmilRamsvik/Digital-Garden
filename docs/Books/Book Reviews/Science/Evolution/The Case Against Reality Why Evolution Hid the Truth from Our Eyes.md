@@ -3,7 +3,7 @@ Pages: 272
 Date Finished: Aug 19, 2023
 Author: Daniel Hofman
 created: 2024-01-06T15:04
-updated: 2024-05-28T08:22
+updated: 2024-10-13T13:10
 tags:
   - books
   - non-fiction

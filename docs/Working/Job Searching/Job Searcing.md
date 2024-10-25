@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-22T11:54
+updated: 2024-10-22T21:58
 tags:
   - article
   - digital-garden
@@ -63,12 +63,12 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - A resume is clean and easily readable. 
 
 # Links
-- [The Job Closer](../Books/Book%20Reviews/The%20Job%20Closer.md): I read this book and found it interesting.
+- [The Job Closer](../../Books/Book%20Reviews/Work/Jobs/The%20Job%20Closer.md): I read this book and found it interesting.
 - [Website about interviewing.](https://interviewing.io/)
 - [HN: Discussion around the topic](https://news.ycombinator.com/item?id=17776596) 
 - [Joel On interviewing version 3](https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/)
 - [Get hired as an engineering manager](https://peterszasz.com/get-hired-as-an-engineering-manager-part-1-capturing-your-preferences/)
-- [Book on the tech tesume for developers, or people in tech in general](https://thetechresume.com/?ref=peterszasz.com)
+- [Book on the tech resume for developers or people in tech in general](https://thetechresume.com/?ref=peterszasz.com)
 
 # Thoughts 
 - A resume should be **clean** above all else. 

@@ -3,7 +3,7 @@ Pages: 256
 Date Finished: Jul 17, 2023
 Author: Neven Sesardic
 created: 2024-01-06T15:04
-updated: 2024-06-06T13:22
+updated: 2024-10-13T13:10
 tags:
   - books
   - philosophy

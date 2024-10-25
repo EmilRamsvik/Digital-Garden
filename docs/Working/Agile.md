@@ -9,7 +9,7 @@ tags:
   - working
   - productivity
 created: 2023-10-15T15:34
-updated: 2024-05-03T10:45
+updated: 2024-10-14T12:42
 ---
 
 
@@ -29,6 +29,7 @@ Planning poker in software development is a straightforward process where each t
 - SAFe is the inevitable corruption of the Agile methodology. 
 - Is it possible to actually do Agile in a large company? Half of the issues stemming from the corruption of Agile in a large company are what makes a large company work. Large ceremonies, hats instead of people, big estimations, and tracking. I do not know, but I think in order to understand what processes and frameworks can be implemented in a workload 
 - Programmers are always saying you cannot make software as you do a car or a table, but why not? Are the complexities in writing code that much different from building a car? Anyways, the lean principles are derived from Toyota.
-- Agile, is similar to *Aiguille* in French, which means needle.
+- Agile is similar to *Aiguille* in French, which means needle.
 - "If you cannot cancel or kill the product, you are not the product owner" - Kijana Woodard
-- In a retro, you should not adress cooperation or inter-collegial issues, those are not relevant for the team to solve. 
+- In a retro, you should not address cooperation or inter-collegial issues; those are not relevant for the team to solve.  
+- Estimating user stories as T-shirt sizes rather than story points or hours or whatever is quite a good idea. Too many details and complexity are quite cumbersome. Keep it simple/stupid. 

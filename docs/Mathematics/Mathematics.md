@@ -6,7 +6,7 @@ tags:
   - article
   - game-theory
 created: 2023-08-17T12:02
-updated: 2024-03-07T13:40
+updated: 2024-10-14T09:31
 ---
 # Mathematics
 
@@ -23,6 +23,6 @@ The quest to determine if [Fermat's Last Theorem](https://en.wikipedia.org/wiki/
 - [Statistics, Hoeffding's D Statistical Measure](https://github.com/Dicklesworthstone/hoeffdings_d_explainer)
 
 # Thoughts 
-- 
+- I think not understanding mathematics is as much a choice as a skill. Everyone can become good at mathematics if they apply themselves. 
 
 

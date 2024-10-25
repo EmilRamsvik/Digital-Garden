@@ -3,7 +3,7 @@ Pages: 264
 Date Finished: Aug 13, 2023
 Author: Marshal B. Rosenberg
 created: 2024-01-06T15:04
-updated: 2024-09-10T12:23
+updated: 2024-10-13T13:10
 ---
 # Nonviolent Communication
 

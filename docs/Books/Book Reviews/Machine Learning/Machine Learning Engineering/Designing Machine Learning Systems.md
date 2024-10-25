@@ -12,7 +12,7 @@ tags:
   - non-fiction
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-02-20T13:43
+updated: 2024-10-13T13:10
 ---
 # Designing Machine Learning Systems
 

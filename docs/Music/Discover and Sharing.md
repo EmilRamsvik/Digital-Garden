@@ -9,7 +9,7 @@ tags:
   - humans
   - relationships
 created: 2024-01-06T15:01
-updated: 2024-09-22T12:10
+updated: 2024-10-13T13:10
 ---
 # Discover and Sharing
 I try to expand my musical horizon as much as possible. So that I can have music for all my moods and situations, most of all, the music I discover is either through Spotify or YouTube, but sometimes I think that the best experiences are going to a festival or concert and getting introduced to new artists. 

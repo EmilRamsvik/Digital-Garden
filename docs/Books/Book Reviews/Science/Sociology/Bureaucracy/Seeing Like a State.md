@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-04-02T18:46
+updated: 2024-10-13T13:10
 Pages: 
 Author: 
 finished: true
@@ -48,7 +48,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *Monocultures are, as a rule, more fragile and hence more vulnerable to the stress of disease and weather than polycultures are.* 
  
-- *A good part of the politics of measurement sprang from what a contemporary economist might call the "stickiness" of feudal rents. Noble and clerical claimants often found it difficult to increase feudal dues directly; the levels set for various charges were the result of long struggle, and even a small increase above the customary level was viewed as a threatening breach of tradition.42 Adjusting the measure, however, represented a roundabout way of achieving the same end. The local lord might, for example, lend grain to peasants in smaller baskets and insist on repayment in larger baskets. He might surreptitiously or even boldly enlarge the size of the grain sacks accepted for milling (a monopoly of the domain lord) and reduce the size of the sacks used for measuring out flour; he might also collect feudal dues in larger baskets and pay wages in kind in smaller baskets.* 
+- *A good part of the politics of measurement sprang from what a contemporary economist might call the "stickiness" of feudal rents. Noble and clerical claimants often found it difficult to increase feudal dues directly; the levels set for various charges were the result of long struggle, and even a small increase above the customary level was viewed as a threatening breach of tradition. Adjusting the measure, however, represented a roundabout way of achieving the same end. The local lord might, for example, lend grain to peasants in smaller baskets and insist on repayment in larger baskets. He might surreptitiously or even boldly enlarge the size of the grain sacks accepted for milling (a monopoly of the domain lord) and reduce the size of the sacks used for measuring out flour; he might also collect feudal dues in larger baskets and pay wages in kind in smaller baskets.* 
  
 - *Kula estimates that the size of the bushel (boisseau) used to collect the main feudal rent (taille) increased by one-third between 1674 and 1716 as part of what was called the reaction feodale.* 
  
@@ -78,7 +78,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *Categories that organize people's daily experience precisely because* 
  
-- *The aspiration to such uniformity and order alerts us to the fact that modern statecraft is largely a project of internal colonization, often glossed, as it is in imperial rhetoric, as a "civilizing mission." The builders of the modern nation-state do not merely describe, observe, and map; they strive to shape a people and landscape that will fit their techniques of observation.R7* 
+- *The aspiration to such uniformity and order alerts us to the fact that modern statecraft is largely a project of internal colonization, often glossed, as it is in imperial rhetoric, as a "civilizing mission." The builders of the modern nation-state do not merely describe, observe, and map; they strive to shape a people and landscape that will fit their techniques of observation.*
  
 - *Literature on administrative coordination, concludes, "central coordinating schemes do work effectively under conditions where the task environment is known and unchanging, where it can be treated as a closed system."" The more static, standardized, and uniform a population or social space is, the more legible it is, and the more amenable it is to the techniques of state officials.* 
  
@@ -90,7 +90,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *But here it is important to note that many of the great state-sponsored calamities of the twentieth century have been the work of rulers with grandiose and utopian plans for their society. One can identify a highmodernist utopianism of the right, of which Nazism is surely the diagnostic example.' The massive social engineering under apartheid in South Africa, the modernization plans of the Shah of Iran, villagization in Vietnam, and huge late-colonial development schemes (for example, the Gezira scheme in the Sudan) could be considered under this rubric.'* 
  
-- *As Oscar Wilde remarked, "A map of the world which does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing."°* 
+- *As Oscar Wilde remarked, "A map of the world which does not include Utopia is not worth even glancing at, for it leaves out the one country at which Humanity is always landing."* 
  
 - *High modernism is thus a particularly sweeping vision of how the benefits of technical and scientific progress might be applied-usually through the state-in every field of human activity."* 
  
@@ -124,7 +124,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *Compared to uniformity, diversity is always more difficult to design, build, and control.* 
  
-- *"Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody."*  Also a very very good statement. 
+- *"Cities have the capability of providing something for everybody, only because, and only when, they are created by everybody."*  Also a very, very good statement. 
  
 - *We know enough by now to be exceptionally skeptical about forecasting from current trends in fertility rates, urban migration, or the structure of employment and income. Such predictions have often been wildly wrong.* 
  
@@ -162,7 +162,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *In certain vital respects, Soviet high modernism is not a sharp break from Russian absolutism. Ernest Gellner has argued that of the two facets of the Enlightenment-the one asserting the sovereignty of the individual and his interests, the other commending the rational authority of experts-it was the second that spoke to rulers who wanted their "backward" states to catch up.* 
  
-- *Nearly everything they planned was on a monumental scale, from cities and individual buildings (the Palace of Soviets) to construction projects (the White Sea Canal) and, later, the great industrial projects of the first Five Year Plan (Magnitogorsk), not to mention collectivization. Sheila Fitzpatrick has appropriately called this passion for sheer size "giganto- mania."5* 
+- *Nearly everything they planned was on a monumental scale, from cities and individual buildings (the Palace of Soviets) to construction projects (the White Sea Canal) and, later, the great industrial projects of the first Five Year Plan (Magnitogorsk), not to mention collectivization. Sheila Fitzpatrick has appropriately called this passion for sheer size "giganto- mania."* 
  
 - *New "revolutionary" funeral and marriage ceremonies were invented amidst much fanfare, and a ritual of "Octobering" was encouraged as an alternative to baptism* 
  
@@ -196,7 +196,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *The peasants began to say that the acronym for the All-Union Communist Party-vKP-stood for vtoroe krepostnoe pravo, or "second serfdom.* 
  
-- *The parallel was not a mere figure of speech; the resemblances to serfdom were remarkable.61 The kolkhoz members were required to work on the state's land at least half-time for wages, in cash or kind, that were derisory. They depended largely on their own small private plots to grow the food they needed (other than grain), although they had little free time to cultivate their gardens.69 The quantity to be delivered and price paid for kolkhoz produce was set by the state. The kolkhozniki owed annual corvee labor dues for roadwork and cartage. They were obliged to hand over quotas of milk, meat, eggs, and so on from their private plots. The collective's officials, like feudal masters, were wont to use kolkhoz labor for their private sidelines and had, in practice if not in law, the arbitrary power to insult, beat, or deport the peasants. As they were under serfdom, they were legally immobilized.* 
+- *The parallel was not a mere figure of speech; the resemblances to serfdom were remarkable. The kolkhoz members were required to work on the state's land at least half-time for wages, in cash or kind, that were derisory. They depended largely on their own small private plots to grow the food they needed (other than grain), although they had little free time to cultivate their gardens. The quantity to be delivered and price paid for kolkhoz produce was set by the state. The kolkhozniki owed annual corvee labor dues for roadwork and cartage. They were obliged to hand over quotas of milk, meat, eggs, and so on from their private plots. The collective's officials, like feudal masters, were wont to use kolkhoz labor for their private sidelines and had, in practice if not in law, the arbitrary power to insult, beat, or deport the peasants. As they were under serfdom, they were legally immobilized.* 
  
 - *What must strike even a casual student of collectivization, however, is how it largely failed in each of its highmodernist aims, despite huge investments in machinery, infrastructure, and agronomic research. Its successes, paradoxically, were in the domain of traditional statecraft.* 
  
@@ -206,7 +206,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *High-modernist plans tend to "travel" as an abbreviated visual image of efficiency that is less a scientific proposition to be tested than a quasi-religious faith in a visual sign or representation of order.* 
  
-- *As Jacobs suggested, they may substitute an apparent visual order for the real thing. The fact that they look right becomes more important than whether they work; or, better put, the assumption is that if the arrangement looks right, it will also, ipso facto, function well.* 
+- *As Jacobs suggested, they may substitute an apparent visual order for the real thing. The fact that they look right becomes more important than whether they work; or, better put, the assumption is that if the arrangement looks right, it will also, ipso facto, function well.*
  
 - *Administrative convenience, not ecological considerations, governed the selection of sites; they were often far from fuelwood and water, and their population often exceeded the carrying capacity of the land.* 
  
@@ -222,9 +222,9 @@ It is also important to understand that informal processes and practical knowled
  
 - *When you begin making decisions and cutting it up rules and names appear And once names appear, you should know when to stop. -Tao-to-ching* 
  
-- *Cultivation is simplification. Even the most cursory forms of agriculture typically produce a floral landscape that is less diverse than an unmanaged landscape. The* 
+- *Cultivation is simplification. Even the most cursory forms of agriculture typically produce a floral landscape that is less diverse than an unmanaged landscape. * 
  
-- *The variety of landraces is significant in another sense. All modern crops of any economic significance are the product of landraces. Until about 1930 all scientific crop breeding was essentially a process of selection from among the existing landraces.10 Landraces and their wild progenitors and "escapes" represent the "germ plasm" or seed-stock capital upon which modern agriculture is based. In other words, as James Boyce has put it, modern varieties and traditional agriculture are complements, not substitutes."* 
+- *The variety of landraces is significant in another sense. All modern crops of any economic significance are the product of landraces. Until about 1930 all scientific crop breeding was essentially a process of selection from among the existing landraces. Landraces and their wild progenitors and "escapes" represent the "germ plasm" or seed-stock capital upon which modern agriculture is based. In other words, as James Boyce has put it, modern varieties and traditional agriculture are complements, not substitutes."* 
  
 - *"Genetic variability," as Jack Ralph Kloppenberg notes, "is the enemy of mechanization* 
  
@@ -244,7 +244,7 @@ It is also important to understand that informal processes and practical knowled
  
 - *Believe that this uncritical, and hence unscientific, trust in the artifacts and techniques of what became codified as scientific agriculture was responsible for its failures. The logical companion to complete faith in a quasi-industrial model of high modernist agriculture was an often explicit contempt for the practices of actual cultivators and what might be learned from them. Whereas a scientific spirit would have counseled skepticism and dispassionate inquiry into these practices, modern agriculture, as a blind faith, preached scorn and summary dismissal.* 
  
-- *In a work-to rule action (the French call it greve du zele), employees begin doing their jobs by meticulously observing every one of the rules and regulations and performing only the duties stated in their job descriptions. The result, fully intended in this case, is that the work grinds to a halt, or at least to a snail's pace. The workers achieve the practical effect of a walkout while remaining on the job and following their instructions to the letter. Their action also illustrates pointedly how actual work processes depend more heavily on informal understandings and improvisations than upon formal work rules. In the long work-to-rule action against Caterpillar, the large equipment manufacturer, for example, workers reverted to following the inefficient proce dures specified by the engineers, knowing they would cost the company valuable time and quality, rather than continuing the more expeditious practices they had long ago devised on the job.'* 
+- *In a work-to rule action (the French call it greve du zele), employees begin doing their jobs by meticulously observing every one of the rules and regulations and performing only the duties stated in their job descriptions. The result, fully intended in this case, is that the work grinds to a halt, or at least to a snail's pace. The workers achieve the practical effect of a walkout while remaining on the job and following their instructions to the letter. Their action also illustrates pointedly how actual work processes depend more heavily on informal understandings and improvisations than upon formal work rules. In the long work-to-rule action against Caterpillar, the large equipment manufacturer, for example, workers reverted to following the inefficient procedures specified by the engineers, knowing they would cost the company valuable time and quality, rather than continuing the more expeditious practices they had long ago devised on the job.'* 
  
 - *On a much bigger, higher-stakes canvas, war diplomacy and politics more generally are metis-laden skills. The successful practitioner, in each case, tries to shape the behavior of partners and opponents to his own ends. Unlike the sailor, who can adjust to the wind and the waves but not influence them directly, the general and the politician are in constant interaction with their counterparts, each of whom is trying to outfox the other.* 
  

@@ -1,9 +1,13 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-06-06T12:59
+updated: 2024-09-23T12:28
 tags:
   - article
   - digital-garden
+  - master-thesis
+  - education
+  - maritime
+  - hydrodynamics
 Finished: true
 ---
 # Education
@@ -54,8 +58,11 @@ In my work, I felt primarily that I lacked a lot of computer science skills, and
 
 # Thoughts 
 - There are two types of master students: those who arrive before 10 AM and those who ask for an extension of time. 
-- After about 4 years of studying, I felt capable and ready for the workforce, the last year was just icing on the cake for me. 
-- Before starting on a subject, go through a couple of exams, and understand what they are asking about.
+- After about four years of studying, I felt capable and ready for the workforce, the last year was just icing on the cake for me. 
+- Before starting on a subject, go through a couple of exams and understand what they are asking about.
+- I wish I had taken as many notes during my studies as I do now, it would have been awesome to have my knowledge in the garden from my studies. 
+- I used a lot of LateX in my studies. Never used it much outside of that. 
+- 
 
 
 

@@ -15,7 +15,7 @@ tags:
   - statistics
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2024-04-16T09:51
+updated: 2024-10-13T13:10
 ---
 # Practical Recommendation Systems
 

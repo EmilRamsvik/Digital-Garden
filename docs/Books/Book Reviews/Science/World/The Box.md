@@ -12,7 +12,7 @@ tags:
   - containers
   - history
 created: 2024-01-06T15:04
-updated: 2024-09-22T09:31
+updated: 2024-10-13T13:10
 ---
 # The Box 
 ### How the Shipping Container Made the World Smaller and the World Economy Bigger

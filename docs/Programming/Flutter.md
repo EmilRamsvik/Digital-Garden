@@ -8,7 +8,7 @@ tags:
   - "#dart"
 finished: false
 created: 2023-05-30T13:28:00
-updated: 2024-01-12T17:14
+updated: 2024-10-08T13:21
 ---
 
 
@@ -55,6 +55,7 @@ I think the provider package is very useful for handling state and state-related
 - [Robert Brunhage has a lot of good tutorials](https://www.youtube.com/@RobertBrunhage)
 - [Flutter Introduction](https://flutteragencyinfo.medium.com/why-flutter-is-the-future-of-mobile-app-development-in-2024-846568efe461)
 - [Stateful vs Stateless](https://www.redhat.com/en/topics/cloud-native-apps/stateful-vs-stateless)
+- [Flutter Roadmap](https://roadmap.sh/flutter)
 
 # Thoughts Brundage
 - Flutter introduced me to the trials of state, which, when I started, became one of the hardest things to understand and work with. 
