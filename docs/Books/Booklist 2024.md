@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-11-12T21:37
+updated: 2024-11-12T22:16
 ---
 # Booklist 2024 
  
@@ -116,12 +116,12 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 383
 *Language*: English
 
-#### [Churchill](Personal/Books/Book%20Reviews/Churchill.md)
+#### [Churchill](Books/Book%20Reviews/Churchill.md)
 *Author:* Andrew Roberts
 *Pages*: 1152
 *Language*: English
 
-#### Poor Economics
+#### [Poor Economics](Books/Book%20Reviews/Poor%20Economics.md)
 *Author:* Abhijit V. Banerjee and Esther Duflo
 *Pages*: 
 *Language*: English

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-11-12T21:53
+updated: 2024-11-12T22:14
 Pages: 1150
 Author: Andrew Roberts
 finished: true
@@ -179,7 +179,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Balfour said it was ‘Winston’s brilliant autobiography, disguised as a history of the universe* 
  
-- *‘My father had very strong views about no animal being slaughtered for food once he had said “Good morning” to it.’47 Of a particular goose he said, ‘You carve, Clemmie. He was a friend of mine.’* 
+- *‘My father had very strong views about no animal being slaughtered for food once he had said “Good morning” to it.’ Of a particular goose he said, ‘You carve, Clemmie. He was a friend of mine.’* 
  
 - *‘What a swine this Mussolini is,’ Churchill wrote to Clementine in September 1923.* 
  
@@ -195,7 +195,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Mayo’s paeans to the ways the British were attempting to educate the Untouchables, prevent cruelty to animals and improve medicine – all worthy projects regularly stymied by Hindu religious leaders – increased Churchill’s antipathy to Indian independence.* 
  
-- *In late August he almost met Hitler in Munich, when the Nazi Party publicist, Harvard-educated Ernst ‘Putzi’ Hanfstaengl, tried to arrange an encounter between the two men.70 ‘Herr Hitler,’ Hanfstaengl said to his leader in his apartment, ‘don’t you realize the Churchills are sitting in the restaurant? … They are expecting you for coffee and will think this a deliberate insult.’ Hitler was unshaven and had too much to do. ‘What on earth would I talk to him about?’ he asked.71 It probably would not have been a very fruitful conversation, as Churchill sent an oral message via Hanfstaengl: ‘Tell your boss from me that anti-Semitism may be a good starter, but it is a bad sticker.’* 
+- *In late August he almost met Hitler in Munich, when the Nazi Party publicist, Harvard-educated Ernst ‘Putzi’ Hanfstaengl, tried to arrange an encounter between the two men. ‘Herr Hitler,’ Hanfstaengl said to his leader in his apartment, ‘don’t you realize the Churchills are sitting in the restaurant? … They are expecting you for coffee and will think this a deliberate insult.’ Hitler was unshaven and had too much to do. ‘What on earth would I talk to him about?’ he asked. It probably would not have been a very fruitful conversation, as Churchill sent an oral message via Hanfstaengl: ‘Tell your boss from me that anti-Semitism may be a good starter, but it is a bad sticker.’* 
  
 - *‘I remember the tears pouring down his cheeks one day before the war in the House of Commons,’ Attlee recalled many years later, ‘when he was telling me what was being done to the Jews in Germany.’* 
  
@@ -225,7 +225,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *The extra year that Munich ‘bought’ for peace was put to good use by Germany; one-third of the tanks used in the invasion of France were of Czech manufacture.* 
  
-- *‘How horrible, fantastic, incredible it is that we should be digging trenches and trying on gas-masks here because of a quarrel in a faraway country between people of whom we know nothing.’ Britain had been a leading signatory to the Treaty* 
+- *‘How horrible, fantastic, incredible it is that we should be digging trenches and trying on gas-masks here because of a quarrel in a faraway country between people of whom we know nothing.’*
  
 - *Churchill said, ‘Alexander the Great remarked that the people of Asia were slaves because they had not learned to pronounce the word “No”. Let that not be the epitaph of the English-speaking peoples or of Parliamentary democracy, or of France, or of the many surviving liberal states of Europe.’* 
  
@@ -237,15 +237,15 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Churchill had discovered beyond doubt how fundamentally unsound the ex-King was about the Nazis. He remained respectful throughout this ‘prolonged argument’, but did point out to him that ‘When our kings are in conflict with our constitution, we change our kings.’* 
  
-- *On 30 January in the Reichstag, Hitler described Churchill, Duff Cooper and Eden as ‘apostles of war’.46 He also openly promised ‘the destruction of the Jewish race in Europe’ should war break out.* 
+- *On 30 January in the Reichstag, Hitler described Churchill, Duff Cooper and Eden as ‘apostles of war’. He also openly promised ‘the destruction of the Jewish race in Europe’ should war break out.* 
  
 - *Supposing (as I do not for one moment suppose) that Mr Kennedy were correct in his most tragic utterance, then I for one would willingly lay down my life in combat, rather than, in fear of defeat, surrender to the menaces of these most sinister men.* 
  
-- *Churchill’s ‘face had ceased smiling’, Spears recalled, ‘and the shake of his head was ominous when he observed … that it would be very unwise to think the Ardennes were impassable to strong forces … “Remember,” he said, “that we are faced with a new weapon, armour in great strength, on which the Germans are no doubt concentrating, and that forests will be particularly tempting to such forces since they will offer concealment from the air.” ’92 The French disbelief that any such attack was possible reminded Spears of an occasion in 1915 when Churchill had tried to explain his theory of ‘land cruisers’ (that is, tanks) to a French general, who found it absurd, and who, after he had left, said to Spears, ‘Your politicians are even funnier than ours.’* 
+- *Churchill’s ‘face had ceased smiling’, Spears recalled, ‘and the shake of his head was ominous when he observed … that it would be very unwise to think the Ardennes were impassable to strong forces … “Remember,” he said, “that we are faced with a new weapon, armour in great strength, on which the Germans are no doubt concentrating, and that forests will be particularly tempting to such forces since they will offer concealment from the air.” ’ The French disbelief that any such attack was possible reminded Spears of an occasion in 1915 when Churchill had tried to explain his theory of ‘land cruisers’ (that is, tanks) to a French general, who found it absurd, and who, after he had left, said to Spears, ‘Your politicians are even funnier than ours.’* 
  
 - *When Corbin tried to speak of ‘technical difficulties’ in declaring war, Churchill retorted, ‘I suppose you would call it a technical difficulty for a Pole if a German bomb fell on his head!’* 
  
-- *Chamberlain wrote to Ida from Chequers, ‘What I hope for is not a military victory – I very much doubt the possibility of that – but a collapse of the German home front.’113 It was hardly the right mentality for the man who was leading Britain into war.* 
+- *Chamberlain wrote to Ida from Chequers, ‘What I hope for is not a military victory – I very much doubt the possibility of that – but a collapse of the German home front.’ It was hardly the right mentality for the man who was leading Britain into war.* 
  
 - *He told the Admiralty that he would be arriving later in the afternoon to take up his office, whereupon the Board signalled to the Fleet: ‘WINSTON IS BACK’. Some captains, such as Lord Louis Mountbatten commanding the destroyer HMS Kelly, found the message inspirational, while others took it more in the nature of a warning that a ball of energy was about to burst upon them.* 
  
@@ -265,7 +265,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Churchill quipped to Jock Colville, then Chamberlain’s private secretary, ‘If I were the first of May, I should be ashamed of myself.’ Colville, who at this time admired Chamberlain and was sceptical about Churchill, acidly recorded in his diary, ‘Personally I think he ought to be ashamed of himself in any case.’* 
  
-- *Despite the litany of errors, there were some consolations from the Norway campaign. Whereas the Royal Navy had lost an aircraft carrier, two cruisers, a sloop and nine destroyers, Germany had lost three cruisers, and ten of her twenty-two destroyers and her only two operational battleships were damaged, much greater losses proportionately to the size of her navy than Britain’s.181 An intact German Navy fighting off Dunkirk the following month could have been a decisive force, but in early May the Germans had only one large cruiser, two light cruisers and seven destroyers ready for immediate service, not enough even to come out of port.* 
+- *Despite the litany of errors, there were some consolations from the Norway campaign. Whereas the Royal Navy had lost an aircraft carrier, two cruisers, a sloop and nine destroyers, Germany had lost three cruisers, and ten of her twenty-two destroyers and her only two operational battleships were damaged, much greater losses proportionately to the size of her navy than Britain’s. An intact German Navy fighting off Dunkirk the following month could have been a decisive force, but in early May the Germans had only one large cruiser, two light cruisers and seven destroyers ready for immediate service, not enough even to come out of port.* 
  
 - *The men of destiny do not wait to be sent for; they come when they feel their time has come. They do not ask to be recognized, they declare themselves; they come like fate; they are inevitable.* 
  
@@ -281,11 +281,11 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *He had not appreciated the extent to which the losses of the Great War and the social and political crises of the 1930s had sapped military morale.* 
  
-- *When Italian ciphers were broken in July 1941). The Bletchley code-breakers – as many as 10,000 men and women by the end of the war – were, as Churchill put it, ‘the geese who laid the golden eggs’ and who, just as importantly, ‘never cackled’.* 
+- *When Italian ciphers were broken in July 1941. The Bletchley code-breakers – as many as 10,000 men and women by the end of the war – were, as Churchill put it, ‘the geese who laid the golden eggs’ and who, just as importantly, ‘never cackled’.* 
  
 - *During the militarily disastrous Black Week in the Boer War, Queen Victoria had said, ‘We are not interested in the possibilities of defeat; they do not exist.’ Churchill had three copies of that quotation made, which he now placed along the Cabinet table.* 
  
-- *He said that if he did ever have to make such a speech, it would end with the words: ‘The hour has come; kill the Hun.’179 He also intended to use the phrase, ‘You can always take one with you.’* 
+- *He said that if he did ever have to make such a speech, it would end with the words: ‘The hour has come; kill the Hun. He also intended to use the phrase, ‘You can always take one with you.’* 
  
 - *On 30 May, he told Gort that once no further organized resistance was possible at Dunkirk he was ordered to ‘capitulate formally and to avoid useless slaughter* 
  
@@ -293,7 +293,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *This decision not to commit the remainder of British air forces to France, despite overweening pressure from his ally and his own Francophilia, was one of the most critical judgements he ever made.* 
  
-- *Chamberlain went to update the King on ‘what is being done to his Empire’, and the tricolour was flown over Westminster Abbey for the only time in history. ‘Who knows,’ Colville joked, ‘we may yet see the “fleurs de lys” restored to the Royal Standard!’261fn16  He thought the new country might be called ‘Frangland* 
+- *Chamberlain went to update the King on ‘what is being done to his Empire’, and the tricolour was flown over Westminster Abbey for the only time in history. ‘Who knows,’ Colville joked, ‘we may yet see the “fleurs de lys” restored to the Royal Standard!’  He thought the new country might be called ‘Frangland* 
  
 - *‘He had to be rude to the British in order to prove to French eyes that he was not a British puppet,’ he wrote.* 
  
@@ -305,13 +305,13 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Churchill exploded and ‘told him if he did not mind his own business he would perhaps have no business to mind!’* 
  
-- *Cabinet set up the Special Operations Executive, or SOE, after weeks of inter-departmental wrangling, ‘to coordinate all action, by way of subversion and sabotage, against the enemy’. ‘And now,’ Churchill told Hugh Dalton, its first director, ‘go and set Europe ablaze!’111 Churchill disliked Dalton personally, but thought him effective, and approvingly dubbed him ‘the Minister for Ungentlemanly Warfare’.* 
+- *Cabinet set up the Special Operations Executive, or SOE, after weeks of inter-departmental wrangling, ‘to coordinate all action, by way of subversion and sabotage, against the enemy’. ‘And now,’ Churchill told Hugh Dalton, its first director, ‘go and set Europe ablaze!’ Churchill disliked Dalton personally, but thought him effective, and approvingly dubbed him ‘the Minister for Ungentlemanly Warfare’.* 
  
 - *By total contrast with Churchill, Hitler virtually stopped making broadcasts once the war started going badly. During the whole of 1944, for example, he spoke on German radio only once.* 
  
-- *It was hard to see how British strategic interests were served by aiding Greece, but on being informed that Athens had been bombed Churchill replied without hesitation, ‘Then we must bomb Rome.’138 (‘Rome will not be unbuilt in a day,’ he told a Tory MP.* 
+- *It was hard to see how British strategic interests were served by aiding Greece, but on being informed that Athens had been bombed Churchill replied without hesitation, ‘Then we must bomb Rome.’ (‘Rome will not be unbuilt in a day,’ he told a Tory MP.* 
  
-- *With Roosevelt safely re-elected, Churchill sent him a telegram on 16 November that he later described as ‘one of the most important I ever wrote’, asking for arms to be lent or leased to Britain under a programme whereby Britain would repay the United States over the very long term.153 (Even he would probably not have guessed that the final instalment of the loan, of $83.25 million, would only be repaid in 2006.* 
+- *With Roosevelt safely re-elected, Churchill sent him a telegram on 16 November that he later described as ‘one of the most important I ever wrote’, asking for arms to be lent or leased to Britain under a programme whereby Britain would repay the United States over the very long term. (Even he would probably not have guessed that the final instalment of the loan, of $83.25 million, would only be repaid in 2006.* 
  
 - *Cripps could not be moved from Moscow as ‘He is a lunatic in a country of lunatics, and it would be a pity to move him.’* 
  
@@ -321,7 +321,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Discussing scientific matters, probably for Conant’s benefit, Churchill asked the Prof why, if it ‘is constantly halving itself, is there any uranium left on earth?’* 
  
-- *He was right; the destruction of Poland at the hands of both the Nazis and Soviets was cataclysmic. Between 1939 and 1945 the population of Poland declined by 17.2 per cent, more than that of any other European country.* 
+- *He was right; the destruction of Poland at the hands of both the Nazis and Soviets was cataclysmic. Between 1939 and 1945, the population of Poland declined by 17.2 percent, more than that of any other European country.* 
  
 - *Hitler’s secretary, Christa Schroeder, recalled that ‘emotion would take over’ when he dictated to her about three subjects – Roosevelt, Churchill and Bolshevism. ‘His voice often skipped over bits’ as a result. ‘Then his choice of words would not be so fussy,’ she wrote.* 
  
@@ -329,7 +329,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Yet Churchill’s view ‘was that Russia was now at war; innocent peasants were being slaughtered; and we should forget about Soviet systems or the Comintern and extend our hand to fellow human beings in distress’. Colville recalled that this argument ‘was extremely vehement’.* 
  
-- *Churchill said that after victory ‘There should be an end to all bloodshed, though he should like to see Mussolini, the bogus mimic of Ancient Rome, strangled like Vercingetorix in old Roman fashion.’14 Hitler and the leading Nazis would be sent to a remote island, though not St Helena, as that would ‘desecrate’ Napoleon’s memory.* 
+- *Churchill said that after victory ‘There should be an end to all bloodshed, though he should like to see Mussolini, the bogus mimic of Ancient Rome, strangled like Vercingetorix in old Roman fashion.’ Hitler and the leading Nazis would be sent to a remote island, though not St Helena, as that would ‘desecrate’ Napoleon’s memory.* 
  
 - *On the train back to London, Churchill asked for a Benedictine liqueur, and ten minutes later for a brandy. Reminded by the attendant that he had already had a Benedictine, he said, ‘I know; I want some brandy to clear it up.’* 
  
@@ -339,7 +339,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *On 25 August, with the Germans outside Kiev, Britain and Russia jointly invaded Iran with a small force. They were victorious in three days, and the Shah’s son was installed in his father’s place on the Peacock Throne. Britain was now able to supply Russia by land, and to protect the Anglo-Iranian Oil Company’s Abadan oilfields. ‘We had been doing something for which we had justification but no right,’ Churchill admitted privately.* 
  
-- *Churchill told Colville that ‘So far the Government had only made one error of judgment: Greece.’105 He now blamed that campaign on Sir John Dill. Colville knew that the Greek campaign had in fact been Churchill’s idea and that Dill had initially opposed it, but the Prime Minister ‘has now got his knife right into Dill and frequently disparages him’.* 
+- *Churchill told Colville that ‘So far the Government had only made one error of judgment: Greece.’ He now blamed that campaign on Sir John Dill. Colville knew that the Greek campaign had in fact been Churchill’s idea and that Dill had initially opposed it, but the Prime Minister ‘has now got his knife right into Dill and frequently disparages him’.* 
  
 - *The following day Churchill made light of the criticisms, telling his fellow MPs, ‘There was a custom in Imperial China that anyone who wished to criticize the Government had the right to … and, provided he followed that up by committing suicide, very great respect was paid to his words, and no ulterior motive was assigned. That seems to me to have been, from many points of view, a wise custom, but I certainly would be the last to suggest that it should be made retrospective.’* 
  
@@ -359,13 +359,13 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *On the rare occasions when they used the Annexe air-raid shelter, Pamela slept on the top bunk and Churchill, snoring so powerfully it made the metal bunk-bed shake, slept on the bottom, while Clementine sensibly stayed in her own room.* 
  
-- *On 5 May, he wrote of a report from Libya, ‘What is the meaning of the expression “Failed to silence machine-gun posts”? It seems an odd description of an action. Evidently what happened was merely a skirmish. Surely the way to silence machine-guns is to bring up some guns and shell them.’141 Brooke, a Royal Artilleryman and acknowledged expert, who was one of the officers credited with inventing the ‘creeping barrage’ in the Great War, did not appreciate being lectured on such matters, not least because he knew Churchill knew that it was impractical always to call up artillery to deal with a troublesome machine gun.* 
+- *On 5 May, he wrote of a report from Libya, ‘What is the meaning of the expression “Failed to silence machine-gun posts”? It seems an odd description of an action. Evidently what happened was merely a skirmish. Surely the way to silence machine-guns is to bring up some guns and shell them.’ Brooke, a Royal Artilleryman and acknowledged expert, who was one of the officers credited with inventing the ‘creeping barrage’ in the Great War, did not appreciate being lectured on such matters, not least because he knew Churchill knew that it was impractical always to call up artillery to deal with a troublesome machine gun.* 
  
 - *At the War Cabinet meeting on 1 June, however, Pound had to report that a convoy from Iceland to Russia had been very heavily mauled. Of its thirty-five ships, six had been sunk by bombers and one by a U-boat, with the overall loss of 147 tanks, thirty-seven aircraft and 770 vehicles.* 
  
 - *On the second day of the debate, Aneurin Bevan, a high-living left-wing Labour MP for whom Bracken coined the phrase ‘Bollinger Bolshevik’, woundingly remarked, ‘The Prime Minister wins debate after debate, and loses battle after battle.* 
  
-- *The belief that the Tirpitz, then the largest battleship afloat, was on its way towards the Anglo-American PQ17 convoy, ordered its thirty-five ships to scatter. Pound feared that otherwise Tirpitz ‘would have sunk every single vessel within an hour or so’.26 Yet the intelligence was wrong, and the Tirpitz was not in the area, whereas German bombers and U-boats were. No fewer than twenty-three vessels, comprising 118,000 out of the convoy’s 200,000 tons of shipping, were sunk. Four hundred tanks and 210 planes went to the bottom of the sea.* 
+- *The belief that the Tirpitz, then the largest battleship afloat, was on its way towards the Anglo-American PQ17 convoy, ordered its thirty-five ships to scatter. Pound feared that otherwise Tirpitz ‘would have sunk every single vessel within an hour or so’. Yet the intelligence was wrong, and the Tirpitz was not in the area, whereas German bombers and U-boats were. No fewer than twenty-three vessels, comprising 118,000 out of the convoy’s 200,000 tons of shipping, were sunk. Four hundred tanks and 210 planes went to the bottom of the sea.* 
  
 - *The Defence Committee cancelled the August convoy, but the September one lost twelve ships out of forty. For the next two years, convoys ran only during the winter months, resulting in fewer losses.* 
  
@@ -379,7 +379,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Churchill has rightly been castigated for remarks such as these, but the many encomia he paid to the Indian Army – at 2.5 million, the largest all-volunteer army in history – have tended to be ignored, along with the fact that he did continue to protect India with British Army divisions that could have been put to very good use elsewhere. ‘The unsurpassed bravery of Indian soldiers and officers, Moslem and Hindu alike,’ he said, and their ‘glorious heroism’ in campaigns from Abyssinia and North Africa to Burma and Italy, ‘shine forever in the annals of war’.* 
  
-- *Churchill’s sights were now on Italy. ‘When a nation is thoroughly beaten in war it does all sorts of things which no one can imagine beforehand,’ he told the War Cabinet on 22 November.14 The Combined Chiefs of Staff were not yet thinking in terms of an Italian mainland campaign, but Churchill was, and had been since his four memoranda of the previous year. He saw it as a way of drawing German resources away from the beaches of north-west France.fn2* 
+- *Churchill’s sights were now on Italy. ‘When a nation is thoroughly beaten in war it does all sorts of things which no one can imagine beforehand,’ he told the War Cabinet on 22 November. The Combined Chiefs of Staff were not yet thinking in terms of an Italian mainland campaign, but Churchill was, and had been since his four memoranda of the previous year. He saw it as a way of drawing German resources away from the beaches of north-west France.fn2* 
  
 - *Roosevelt had grown to loathe de Gaulle for his French chauvinism, his habit of constantly giving priority to French interests over Allied ones and his attempts to sabotage US–Vichy relations. ‘De Gaulle is out to achieve one-man government in France,’ the President told his son Elliott. ‘I can’t imagine a man I would distrust more.’* 
  
@@ -393,7 +393,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *A year after the first thousand-bomber raid, on Cologne, Churchill was starting to have doubts about the saturation-bombing policy. He was shown a film at Chequers in late June made by the RAF of the bombing of Wuppertal in Westphalia and asked afterwards, ‘Are we beasts? Are we taking this too far?’* 
  
-- *He commissioned a judge, Sir John Singleton, to produce a report on the bombing policy, which eventually called for more of an emphasis on strategic bombing rather than the carpet-bombing of cities.105 German cities continued to be smashed night after night, however, a campaign that severely restricted the increase in the war-materiel production of the Third Reich, at the total cost of over 55,000 Bomber Command airmen.106 ‘Even when most ill,’ Doris Miles wrote to her husband of Churchill, ‘he would ring up Bomber Command in the early hours of the morning to find out how many casualties we had (not how many bombs had been dropped) and how many planes had got back safely.’* 
+- *He commissioned a judge, Sir John Singleton, to produce a report on the bombing policy, which eventually called for more of an emphasis on strategic bombing rather than the carpet-bombing of cities.105 German cities continued to be smashed night after night, however, a campaign that severely restricted the increase in the war-materiel production of the Third Reich, at the total cost of over 55,000 Bomber Command airmen. ‘Even when most ill,’ Doris Miles wrote to her husband of Churchill, ‘he would ring up Bomber Command in the early hours of the morning to find out how many casualties we had (not how many bombs had been dropped) and how many planes had got back safely.’* 
  
 - *Eden characterized the Jewish position as ‘You clear out and we’ll settle with the Arabs.’ Amery added that the Government ‘Can’t be stampeded by Jewish extremists.’ Cranborne argued that the ‘Jews and Arabs were both playing off against us.’ Wavell’s view was that ‘From the point of view of security of the British Empire, the present aspirations of Jews in Palestine are a real menace to our position in the Middle East and subsequently in India.’* 
  
@@ -401,27 +401,25 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *Churchill’s policy of doing everything possible to keep the Soviet Union supplied, even at the inadvertent cost of Singapore, had clearly been the correct one. Yet, as Ian Jacob pointed out in a lecture to the Royal United Services Institute after the war, ‘There was little or no communication of facts or ideas and we had no real idea of Russian military thinking. The fundamental Russian distrust of the West, which was temporarily allayed by the German attack on Russia and our immediate response to it, very soon re-established itself and prevailed throughout. Fortunately, the almost complete geographical separation of the Russian theatre of war mitigated these disadvantages.’* 
  
-- *Another quadrupedal gift that year, though this time living, was Rota, a fully grown lion, given by a Mr and Mrs Thompson, which Churchill gave to the London Zoo. ‘If there are any shortcomings in your work I shall send you to him,’ he said to one of his humourless civil servants. ‘Meat is very short now.’117 (The man took him seriously and reported that the Prime Minister was ‘in a delirium’.) When Churchill visited Rota at the zoo in August 1943, he also went inside the swan enclosure, telling the swans, ‘I suppose you would like to feed me.’* 
+- *Another quadrupedal gift that year, though this time living, was Rota, a fully grown lion, given by a Mr and Mrs Thompson, which Churchill gave to the London Zoo. ‘If there are any shortcomings in your work I shall send you to him,’ he said to one of his humourless civil servants. ‘Meat is very short now.’ (The man took him seriously and reported that the Prime Minister was ‘in a delirium’.) When Churchill visited Rota at the zoo in August 1943, he also went inside the swan enclosure, telling the swans, ‘I suppose you would like to feed me.’* 
  
 - *In July 1943, the Germans had twelve divisions in Italy and the Balkans, which by the end of the year had grown to more than thirty.* 
- 
-- *To prevent the Allies from hitting southern* 
  
 - *Churchill held forth on one of his favourite subjects, the many benefits of the British Empire for its native peoples.* 
  
 - *The military situation was made all the more difficult by Gandhi’s campaign to force the British to quit India, which he did not end despite the imminent Japanese threat.* 
  
-- *By the end of 1944, one million tons of grain had been secured from Australia and the South-East Asia Command, which has led some to conclude that without Churchill the Bengal Famine would actually have been worse.152 One historian of the famine has concluded that ‘Far from seeking to starve India, Churchill and his Cabinet sought every way to alleviate the suffering without undermining the war effort.’* 
+- *By the end of 1944, one million tons of grain had been secured from Australia and the South-East Asia Command, which has led some to conclude that without Churchill the Bengal Famine would actually have been worse. One historian of the famine has concluded that ‘Far from seeking to starve India, Churchill and his Cabinet sought every way to alleviate the suffering without undermining the war effort.’* 
  
 - *The next day, Chamberlain’s black cat at No. 10, the Munich Mouser, was found dead in the Foreign Office. ‘Winston says he died of remorse and chose his deathbed accordingly,’ recorded Eden.* 
  
 - *In early March, in a ‘benevolent but sombre mood’, he admitted to his guests at Chequers that he was disturbed by Stalin’s attitude over Poland, saying that he felt like telling the Russians, ‘Personally I fight tyranny whatever uniform it wears or slogans it utters.’* 
  
-- *At lunch at the Annexe on 1 June, there was an extraordinary series of exchanges between the King, his private secretary and the Prime Minister. In light of the advice of Ramsay and the others, the King said that neither of them should go. Churchill countered that he could not recommend to the Cabinet that the King should go, but that he himself was certainly going. When Lascelles told Churchill that the King would find it hard to find a new prime minister in the midst of a major invasion of France, Churchill replied, ‘Oh, that’s all arranged for,’ presumably referring to the sealed letter that he and the King had written proposing Eden as his successor.158 Lascelles then argued that constitutionally Churchill could not leave the country without the King’s consent, to which Churchill argued that as he would be on a British ship he would not actually be abroad. Lascelles pointed out that the ship would be outside British territorial waters, so in fact he would be.* 
+- *At lunch at the Annexe on 1 June, there was an extraordinary series of exchanges between the King, his private secretary and the Prime Minister. In light of the advice of Ramsay and the others, the King said that neither of them should go. Churchill countered that he could not recommend to the Cabinet that the King should go, but that he himself was certainly going. When Lascelles told Churchill that the King would find it hard to find a new prime minister in the midst of a major invasion of France, Churchill replied, ‘Oh, that’s all arranged for,’ presumably referring to the sealed letter that he and the King had written proposing Eden as his successor. Lascelles then argued that constitutionally Churchill could not leave the country without the King’s consent, to which Churchill argued that as he would be on a British ship he would not actually be abroad. Lascelles pointed out that the ship would be outside British territorial waters, so in fact he would be.* 
  
 - *Seems extraordinary, but even on the eve of D-Day, four years after de Gaulle had set up the Free French in London, the leaders of both Britain and the United States felt such distrust of him. But they detested his French chauvinism and genuinely feared that he might try to turn France into an anti-Western Gaullist dictatorship after the war.* 
  
-- *The first of 9,521 V-1fn1  rockets started to land on Britain on 13 June. Nicknamed ‘doodlebugs’ and ‘buzz-bombs’, they forced Churchill back into the Annexe again. On 8 September, the first of around 1,500 V-2 rocket-bombs landed on southern England, continuing until March 1945. Flying at 3,580mph, the V-2 struck without warning with a one-ton payload that could destroy entire streets. Together, the V-1 and V-2 killed 8,938 British civilians and 2,917 servicemen, seriously injured 25,000 people and destroyed 107,000 homes in London and the south-east.* 
+- *The first of 9,521 V-1f  rockets started to land on Britain on 13 June. Nicknamed ‘doodlebugs’ and ‘buzz-bombs’, they forced Churchill back into the Annexe again. On 8 September, the first of around 1,500 V-2 rocket-bombs landed on southern England, continuing until March 1945. Flying at 3,580mph, the V-2 struck without warning with a one-ton payload that could destroy entire streets. Together, the V-1 and V-2 killed 8,938 British civilians and 2,917 servicemen, seriously injured 25,000 people and destroyed 107,000 homes in London and the south-east.* 
  
 - *Then, referring to the three American Joint Chiefs of Staff, he added, ‘The Arnold–King–Marshall combination is one of the stupidest strategic teams ever seen.’* 
  
@@ -433,13 +431,13 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *The next day, after another difficult meeting, Brooke wrote, ‘I find it hard to remain civil. And the wonderful thing is that three-quarters of the population of the world imagine that Winston Churchill is one of the Strategists of History, a second Marlborough, and the other quarter have no conception what a public menace he is and has been throughout this war! It is far better that the world should never know, and never suspect the feet of clay of that otherwise superhuman being. Without him England was lost for a certainty, with him England has been on the verge of disaster time and again … Never have I admired and despised a man simultaneously to the same extent.’* 
  
-- *A settlement between the London and the Lublin Poles would be hard to achieve without the active support of the Roosevelt Administration, but it was such a sensitive subject in American politics given the millions of Polish-American voters that an early accord was unlikely, in which case ‘We shall have to hush the matter up and spin it out until after the presidential election.’131 That is exactly what happened.* 
+- *A settlement between the London and the Lublin Poles would be hard to achieve without the active support of the Roosevelt Administration, but it was such a sensitive subject in American politics given the millions of Polish-American voters that an early accord was unlikely, in which case ‘We shall have to hush the matter up and spin it out until after the presidential election.’ That is exactly what happened.* 
  
 - *On 24 January 1945, Churchill told Colville that it was half a century since his father’s death. Colville wondered what Lord Randolph, his son Winston and his grandson Randolph all had in common, and decided it was their undeniable ‘capacity for being utterly unreasonable’.* 
  
 - *With omnipresent flies and midges, Churchill called Yalta ‘the Riviera of Hades’.* 
  
-- *Great pity to stuff the Polish goose so full of German food that it died of indigestion,’ but territory in the west that was ethnically and historically German was nonetheless added to Poland, and remains there to this day.22 By 1950, between twelve and fourteen million Germans had moved from those historically German territories to lands behind the new German border, the largest movement of people in modern European history.* 
+- *Great pity to stuff the Polish goose so full of German food that it died of indigestion,’ but territory in the west that was ethnically and historically German was nonetheless added to Poland, and remains there to this day. By 1950, between twelve and fourteen million Germans had moved from those historically German territories to lands behind the new German border, the largest movement of people in modern European history.* 
  
 - *Between 18 May and 2 June 1945, the 1st Guards Brigade, part of the British V Corps that occupied Carinthia, the southern province of Austria, and several other British units handed over some 40,000 anti-Soviet Cossacks to the Red Army, including many who were not Soviet citizens and never had been. Similarly, though in this case there was no treaty obligation to do so, 30,000 Yugoslavs who had fought against Marshal Tito were sent to him. Most of these Cossacks and Yugoslavs were liquidated on arrival; the rest were incarcerated and cruelly punished for years. For the Foreign Office officials involved, suggests the historian of the British culpability for these events, ‘The fate of the Russians whose return they enforced was an unfortunate but unavoidable sacrifice to the greater aim.’* 
  
@@ -447,25 +445,25 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *On 27 March, the day the last V-2 rocket fell on London, Churchill saw off Clementine, who was now president of the Red Cross Aid to Russia Fund, on a long journey to the Soviet Union.* 
  
-- *That same day, he learned that fourteen Polish leaders representing non-Communist political parties, including the heroic General Kazimierz Okulicki, one of the former commanders of the Home Army, had been arrested by the Red Army near Warsaw, despite written guarantees of safe conduct. After weeks of silence it transpired that they were going to be put on trial in Moscow.73 If there was any one moment when Churchill was forced to recognize that Stalin had simply been lying to him at Yalta, and there was likely to be a rift with Russia after the German surrender, it was then. He described it in his memoirs as ‘this sinister episode’.* 
+- *That same day, he learned that fourteen Polish leaders representing non-Communist political parties, including the heroic General Kazimierz Okulicki, one of the former commanders of the Home Army, had been arrested by the Red Army near Warsaw, despite written guarantees of safe conduct. After weeks of silence it transpired that they were going to be put on trial in Moscow. If there was any one moment when Churchill was forced to recognize that Stalin had simply been lying to him at Yalta, and there was likely to be a rift with Russia after the German surrender, it was then. He described it in his memoirs as ‘this sinister episode’.* 
  
-- *Diplomatic relations with Russia deteriorated still further when Stalin accused the British and Americans of conducting secret negotiations with the Germans at Berne in Switzerland, when in fact all Alexander had done was to inform Kesselring of how to go about surrendering unconditionally.84 Stalin’s distrust and paranoia were obvious.* 
+- *Diplomatic relations with Russia deteriorated still further when Stalin accused the British and Americans of conducting secret negotiations with the Germans at Berne in Switzerland, when in fact all Alexander had done was to inform Kesselring of how to go about surrendering unconditionally. Stalin’s distrust and paranoia were obvious.* 
  
-- *‘What is now Hitler’s best course?’ Churchill asked a lunch party at Chequers in early April, suggesting that the Führer might try to fly to Britain like Rudolf Hess and say, ‘I am responsible; wreak your vengeance on me but spare my people.’89 At this, the Duchess of Marlborough retorted that ‘In such a case the only course would be to take him back and drop him by parachute over Germany.’* 
+- *‘What is now Hitler’s best course?’ Churchill asked a lunch party at Chequers in early April, suggesting that the Führer might try to fly to Britain like Rudolf Hess and say, ‘I am responsible; wreak your vengeance on me but spare my people.’ At this, the Duchess of Marlborough retorted that ‘In such a case the only course would be to take him back and drop him by parachute over Germany.’* 
  
-- *Churchill asked Clementine to ‘express to Stalin personally my cordial feelings and my resolve and confidence that a complete understanding between the English-speaking world and Russia will be achieved and maintained for many years, as this is the only hope of the world.’108 When she presented Stalin with a gold fountain pen as a gift from Churchill, he ungraciously replied, ‘I only write with a pencil.’* 
+- *Churchill asked Clementine to ‘express to Stalin personally my cordial feelings and my resolve and confidence that a complete understanding between the English-speaking world and Russia will be achieved and maintained for many years, as this is the only hope of the world.’ When she presented Stalin with a gold fountain pen as a gift from Churchill, he ungraciously replied, ‘I only write with a pencil.’* 
  
 - *Churchill did not invent the term Iron Curtain, which had been around since 1918 and had appeared in a book Philip Snowden’s wife Dame Ethel Snowden wrote about Bolshevism in 1920, but he stored the evocative phrase away in his extraordinarily capacious memory for a quarter of a century, before deploying it to maximum effect in 1946.* 
  
 - *Although the Soviet Union suffered over 90 per cent of the casualties of the Big Three Powers, Churchill did not want the Americans to behave as if Stalin’s totalitarian dictatorship had some sort of moral equivalency with the Western democracies. Truman nonetheless went ahead and met Stalin privately.* 
  
-- *Socialism is the philosophy of failure, the creed of ignorance, and the gospel of envy. Churchill,* 
+- *Socialism is the philosophy of failure, the creed of ignorance, and the gospel of envy.*
  
 - *Churchill kept up a constant fire against socialism and the Labour Party in Parliament, mocking the Government’s rationing regime as a ‘Queuetopia’. ‘The inherent vice of capitalism is the unequal sharing of blessings,’ he said in a debate in October.* 
  
 - *‘From Stettin in the Baltic to Trieste in the Adriatic,’ he declared, an iron curtain has descended across the Continent. Behind that line lie all the capitals of the ancient states of Central and Eastern Europe: Warsaw, Berlin, Prague, Vienna, Budapest, Belgrade, Bucharest and Sofia, all these famous cities and the populations around them lie in what I must call the Soviet sphere, and all are subject in one form or another, not only to Soviet influence but to a very high and, in many cases, increasing measure of control from Moscow … The Communist parties, which were very small in all these Eastern States of Europe, have been raised to pre-eminence and power far beyond their numbers and are seeking everywhere to obtain totalitarian control. Police governments are prevailing in nearly every case, and so far, except in Czechoslovakia, there is no true democracy.* 
  
-- *The reaction was immediate and almost unanimously denunciatory. Eleanor Roosevelt, the President’s widow, pronounced herself outraged. Trygve Lie, the Secretary-General of the United Nations, told the British Ambassador to the UN that the speech had played into the hands of anti-Western elements in Moscow.50 The Democrats in the US Congress were furious. The press, not just on the left, was overwhelmingly negative in both Britain and America, let alone elsewhere. More than a hundred Labour MPs signed a motion denouncing the speech.* 
+- *The reaction was immediate and almost unanimously denunciatory. Eleanor Roosevelt, the President’s widow, pronounced herself outraged. Trygve Lie, the Secretary-General of the United Nations, told the British Ambassador to the UN that the speech had played into the hands of anti-Western elements in Moscow. The Democrats in the US Congress were furious. The press, not just on the left, was overwhelmingly negative in both Britain and America, let alone elsewhere. More than a hundred Labour MPs signed a motion denouncing the speech.* 
  
 - *‘Great peoples forget sufferings, but not humiliations.’* 
  
@@ -475,7 +473,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - *I hope you have all mastered the official Socialist jargon which our masters, as they call themselves, wish us to learn. You must not use the word ‘poor’; they are described as the ‘lower income group’. When it comes to a question of freezing a workman’s wages, the Chancellor of the Exchequer speaks of ‘arresting increases in personal income’ … There is a lovely one about houses and homes. They are in future to be called ‘accommodation units’. I don’t know how we are to sing our old song ‘Home Sweet Home’. ‘Accommodation Unit, Sweet Accommodation Unit, There’s no place like our Accommodation Unit.’ I hope to live to see the British democracy spit all this rubbish from their* 
  
-- *He still dominated the Cabinet, now more Buddha than Achilles. John Colville on Churchill’s second premiership2* 
+- *He still dominated the Cabinet, now more Buddha than Achilles. John Colville on Churchill’s second premiership* 
  
 - *Over Suez, Churchill profoundly disagreed with Eden, who believed that Britain should cede the Canal Zone unilaterally to foster good relations with Egypt.* 
  
