@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2024-11-09T17:38
 Pages: 
 Author: 
 finished: true
@@ -179,7 +179,7 @@ The laws on pricing and advertising is good. THere is much to learn from just re
  
 - *Bolton, Robert. People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts.* 
  
-- *Kennedy, Eugene.On Becoming a Counselor.* 
+- *Kennedy, Eugene: [On Becoming a Counselor.](https://www.amazon.com/Becoming-Counselor-Fourth-Counselors-Helpers/dp/0809153211)* 
  
-- *Steele, Fritz.Consulting for Organizational Change.* 
+- *Steele, Fritz: [Consulting for Organizational Change](https://www.amazon.com/Consulting-organizational-change-Fritz-Steele/dp/0870231669).* 
  

@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2024-11-12T21:37
 ---
 # Booklist 2024 
  
@@ -116,7 +116,7 @@ https://astralcodexten.substack.com/p/your-book-review-the-laws-of-trading Where
 *Pages*: 383
 *Language*: English
 
-#### Churchill
+#### [Churchill](Personal/Books/Book%20Reviews/Churchill.md)
 *Author:* Andrew Roberts
 *Pages*: 1152
 *Language*: English
@@ -307,7 +307,7 @@ _Author:_ Andriy Burkov
 _Pages:_ 310
 _Language:_ English
 
-#### Fighting Churn With Data
+#### [Fighting Churn With Data](Books/Book%20Reviews/Fighting%20Churn%20With%20Data.md)
 _Author:_ Carl S. Gold
 _Pages:_ 352
 _Language:_ English
@@ -536,4 +536,26 @@ _Language:_ English
 #### Practical Machine Learning Engineering
 _Author:_ 
 _Pages:_ 
+_Language:_ English
+
+
+#### [Effective Python](Books/Book%20Reviews/Effective%20Python.md)
+_Author:_ Brett Slatkin
+_Pages:_ 440
+_Language:_ English
+
+#### Consulting for Organizational Change
+_Author:_ Fritz Steele
+_Pages:_ 202
+_Language:_ English
+
+#### On Becoming a Counselor 
+_Author:_ Eugene Kennedy
+_Pages:_ 552
+_Language:_ English
+
+
+#### People Skills
+_Author:_ Robert Bolton
+_Pages:_ 300
 _Language:_ English

@@ -8,7 +8,7 @@ tags:
   - cooking
   - health
 created: 2023-05-27T05:50
-updated: 2024-08-29T11:19
+updated: 2024-11-09T18:06
 ---
 
 
@@ -46,7 +46,7 @@ It is very similar to Biryani but with more Middle Eastern flavor (pun intended)
 It combines the sweetness of the dates and raisins and more rounded spices. Maqloube means top-down or turned or something. This is because the pot is turned upside down. 
 
 # South East Asian
-
+[Saengs Kitchen](https://www.saengskitchen.com/l) Has a lot awesoem Lao recipies. I really fell in love with the Laotian kitchen during my travels to [Laos](../../Travel/Places/Laos.md). 
 
 # North Asian
 

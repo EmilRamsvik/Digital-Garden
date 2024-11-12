@@ -5,7 +5,7 @@ tags:
   - political-science
   - finance
 created: 2023-06-04T14:00:00
-updated: 2024-06-22T09:47
+updated: 2024-11-07T14:22
 ---
 
 
@@ -28,6 +28,7 @@ In [Lectures](../Learning/Lectures.md) , I link to the course Introduction to Mi
 - [Blog series about things like economics.](https://greyenlightenment.com/) Also, there are some funny takedowns of N.N. Taleb, who could use a couple of tablespoons of *humblebrew*.
 - [Wrights Law](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.) About the decreasing cost of goods with an increase in production. 
 - [Monopsony](https://en.wikipedia.org/wiki/Monopsony) A single buyer controls the market as the major purchaser of goods and services.  [Oligopsony](https://en.wikipedia.org/wiki/Oligopsony) is the same but just a few major purchasers
+- [Hottelings law](https://en.wikipedia.org/wiki/Hotelling%27s_law): It is beneficial for produces to make their product as similar as possible. 
 
 
 # Thoughts 

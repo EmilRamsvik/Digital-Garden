@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-22T14:30
+updated: 2024-11-09T18:03
 tags:
   - article
   - digital-garden
@@ -22,6 +22,15 @@ However, I think we are missing a crucial aspect of management, which is a manag
 
 As a manager, do not start personal development discussions as an open book, have a set of possible actions to take, and help the person identify the path instead of letting them figure it out. They will eventually figure it out (I most certainly did), but why make it cumbersome? 
 
+
+# Coaching
+
+I would like to write a little bit on the role of coaching and mentorship as a way to develop as a manager. 
+
+I believe that coaching is one of the most underrated skills a leader can have.  Coaching is challenge and empathy, mixed together. 
+Working with people and coaching them is 
+
+In one of the places I was very lucky to work in, there was a concept called delivery coach (It was a consultancy). The concept was that a lot of the time, having a sparring partner was a huge boon to the productivity of the consultant. Having a veteran who lent their time to the project helped the juniors immensely to 
 
 ## Dunbars Number
 

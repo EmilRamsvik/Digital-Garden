@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:10
+updated: 2024-11-07T14:16
 tags:
   - article
   - digital-garden
@@ -58,6 +58,7 @@ Stakeholders are the persons or entities that define and enable your delivery. T
 - [The difference that makes the difference](https://www.youtube.com/watch?v=9p1lnjsMriY)
 - [Consulting Articles from a person in the AI space](https://jxnl.co/writing/category/consulting/)
 - [Secrets of Consulting](../Books/Book%20Reviews/Work/Consulting/Secrets%20of%20Consulting.md): Another book on consulting
+- [Need Money?](https://bitfieldconsulting.com/posts/need-money)
 
 
 # Thoughts
@@ -65,4 +66,7 @@ Stakeholders are the persons or entities that define and enable your delivery. T
 - Use your available network to help you get aligned on the job as quickly as possible. You will get a lot of goodwill if you lessen the onboarding workload for the stakeholders. 
 - Communication is everything. 
 - Some things are easier to deal with as a consultant, and some things are more difficult. Getting access and permissions are definetly in the latter part. 
+- Your stakeholders might be more interested in progress than results. So giving them continous updates and showing your work might buy you a lot of time. Their being involved makes it easier for them to see what is progressing, and that will make them happy. 
+-  _Sometimes the client needs to feel the pain of not taking your advice, before they’re ready to take your advice._ - Bitfields´s First Law of Consulting
+- Remember, consultants take amongst themselves.
 
