@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:12
+updated: 2024-11-14T21:33
 tags:
   - article
   - digital-garden
@@ -47,8 +47,7 @@ Data Definition Language (DDL) is a group of SQL statements that you can execute
 
 **Dimension**
 - People places or things.
-- Things that might change. 
-![](../../../static/images/Pasted%20image%2020240428140431.png)
+- Things that might change. ~~~~
 [See also medallion architecture](https://www.databricks.com/glossary/medallion-architecture)
 
 # Links

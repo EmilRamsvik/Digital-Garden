@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-11-12T22:16
+updated: 2024-11-14T14:08
 ---
 # Booklist 2024 
  
@@ -538,7 +538,6 @@ _Author:_
 _Pages:_ 
 _Language:_ English
 
-
 #### [Effective Python](Books/Book%20Reviews/Effective%20Python.md)
 _Author:_ Brett Slatkin
 _Pages:_ 440
@@ -554,8 +553,12 @@ _Author:_ Eugene Kennedy
 _Pages:_ 552
 _Language:_ English
 
-
 #### People Skills
 _Author:_ Robert Bolton
 _Pages:_ 300
+_Language:_ English
+
+#### Built to Sell
+_Author:_ John Warrillow
+_Pages:_ 188
 _Language:_ English

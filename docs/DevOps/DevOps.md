@@ -11,7 +11,7 @@ tags:
   - agile
 Finished: 
 created: 2023-06-13T15:01:00
-updated: 2024-10-08T11:30
+updated: 2024-11-13T15:18
 ---
 # DevOps
 
@@ -31,6 +31,3 @@ DevOps has been closely linked to [Agile](../Working/Agile.md) and Lean processe
 - Are you afraid of prod?
 - https://www.srenity.online/
 - 
-
-
-e

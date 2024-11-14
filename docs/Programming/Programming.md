@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: true
 created: 2023-06-09T13:30:00
-updated: 2024-09-22T11:52
+updated: 2024-11-13T15:18
 ---
 # Programming
 
@@ -46,7 +46,7 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - [Software Engineering Practices](https://thetechenabler.substack.com/p/software-engineering-practices-you)
 - [Premature Optimization](https://www.youtube.com/watch?v=tKbV6BpH-C8&t=321s)
 - [Programming is mostly thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html).
-- [Viedoes with Crash Courses and other Guides](https://www.youtube.com/@NetNinja/playlists?view=1&sort=lad&flow=grid)
+- [Videoes with Crash Courses and other Guides](https://www.youtube.com/@NetNinja/playlists?view=1&sort=lad&flow=grid)
 - [10k Hours of coding lessons](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 
 # Thoughts 
