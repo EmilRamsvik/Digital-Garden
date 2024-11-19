@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:13
+updated: 2024-11-19T11:37
 tags:
   - article
   - digital-garden
@@ -46,9 +46,10 @@ Things that are good with ADX (Azure Data Explorer)
 - [Good blog on Fabric](https://www.kevinrchant.com/)
 - [Old Reddit post on deployment pipelines for ](https://www.reddit.com/r/MicrosoftFabric/comments/1dtfeyh/fabric_is_not_production_ready_until_deployment/)
 - [Mounting a lakehouse](https://fabric.guru/how-to-mount-a-lakehouse-and-identify-the-mounted-lakehouse-in-fabric-notebook)
+- [Service Principal for Fabric. ](https://prodata.ie/2023/11/15/service-principal-fabric/)
 
 # Thoughts 
 - Everyone seems quite happy with the Kusto Query Language (KQL). 
-- The deployment pipelines on Fabric sucks, it is the culmination of a lot of oversimplifications and abstraction which in my opinion is due to Demo Driven Development (DDD) which is to dazzle people in demos to make the product look easy to use and have a lot of bugs. 
+- The deployment pipelines on Fabric suck, it is the culmination of a lot of oversimplifications and abstraction, which in my opinion, is due to Demo Driven Development (DDD) which is to dazzle people in demos to make the product look easy to use and have a lot of bugs. 
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-11-17T23:00
+updated: 2024-11-19T12:28
 Pages: 317
 Author: Jennifer Pahlka
 finished: true
@@ -49,7 +49,7 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - *Spending time with frontline staff, watching them work, and asking questions about how and why they do what they do are critical.* 
  
-- *One reason the IRS has so much trouble modernizing its systems, for instance, is that there are over seventy-three thousand pages in the statutes and regulations the agency must implement.3 Between 2001 and 2012, the tax code changed 4,680 times, an average of once per day.4 When former IRS commissioner John Koskinen would get called in front of Congress and its members would gripe about the tax system, he would shake his head and say, “I didn’t write the tax laws, you did.”5 He had a point.* 
+- *One reason the IRS has so much trouble modernizing its systems, for instance, is that there are over seventy-three thousand pages in the statutes and regulations the agency must implement. Between 2001 and 2012, the tax code changed 4,680 times, an average of once per day. When former IRS commissioner John Koskinen would get called in front of Congress and its members would gripe about the tax system, he would shake his head and say, “I didn’t write the tax laws, you did.” He had a point.* 
  
 - *The federal DOL sets the goal for timeliness of payments at 87 percent, meaning that state labor agencies get a good grade even if one in every eight workers who apply has to wait over three weeks to receive a first payment.* 
  
@@ -91,8 +91,8 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - *When Dominic tried it, he couldn’t believe it had come from the VA. He told the team it was “easy to read, straightforward, so much better.” The IEDs and the spikes were gone. But even this victory could have been short-lived. As Mary Ann and Emily suspected, Dominic had not been the only veteran who couldn’t access the previous application form. When the new form went live and worked on the vast majority of computers, the number of incoming health care applications jumped by a factor of ten. While the team celebrated, the blowback began. None of the systems that processed the applications were ready for ten times the volume. People all over the building were suddenly drowning in work, which was particularly bad because the VA was already facing fierce criticism for a myriad of other backlogs. Now there was going to be another one. Bureaucrats across the VA started calling up everyone in power: Revert to the old application form!* 
  
-- *The inability to apply had been largely invisible, both in the press and inside the building, but the backlog of unprocessed applications starting to build up was very visible. What* 
- 
+- *The inability to apply had been largely invisible, both in the press and inside the building, but the backlog of unprocessed applications starting to build up was very visible.*
+
 - *Eric Schoonover was one of Weaver’s colleagues on the OCX project. He now works for a startup defense contractor, and he has become accustomed to what he called “the weird ESB imperative.” “I’ve spent a lot of my time just relabeling presentations,” he says. “I would create a PowerPoint that described what we were doing, and then somebody would say, ‘You don’t have an ESB on here.’ So I would just relabel one of the boxes ‘ESB’ and then go through the PowerPoint again.” No one ever asked Eric which software components were using the ESB, or even if there was anything installed on the machine at all. Today, Eric’s ESBs are all fictional.* 
  
 - *In the business world, they say that culture eats strategy for breakfast—meaning that the people implementing the strategy, and the skills, attitudes, and assumptions they bring to it, will make more difference than even the most brilliant plan.* 
@@ -100,10 +100,6 @@ I am getting more and more convinced that waterfall and agile are not about team
 - *The Trump administration ordered the Border Patrol to start separating detained children from their parents. The cruelty of the new policy provoked a storm of controversy, but while the debate raged, the agents were left to sort out the practical consequences of the sudden change. Reprocessing every child as an “unaccompanied minor” generated a new A number for each one. Previously, the only children to have their own A numbers had been those old enough to have made it across the border on their own, but now agents found themselves sticking Post-it notes with A numbers on infants’ onesies. Worse, the system had no provision for recording a link between two separate A numbers. Some border agents tried to keep notes connecting the A numbers of parents and children, but in the chaos of the rapid transition these were easily lost.* 
  
 - *Small teams work, if they have the right mindset and the right skills. And the reality was that many of the thousands of people from the thirty-four outside vendors did not have the skills.* 
- 
-- *One of Todd’s recruits told me about finding a flaw in the code* 
- 
-- *And asking one of the contractors to log in and make a change.* 
  
 - *One of Todd’s recruits told me about finding a flaw in the code and asking one of the contractors to log in and make a change. The contractor was a member of the technical team, but this recruit had an uneasy feeling about him, so he wrote out exactly the change the contractor was to make in the code. The next day, the error had not gone away, so Todd’s group asked to look at the codebase. There was the change, just as directed—but it was preceded by two forward slashes. Two slashes before a line designated a comment, essentially a note programmers leave for the next programmer who’ll come along. The slashes told the computer not to read that line as code but to ignore it. Why did the contractor do that? “I saw other lines had these slashes so I thought I should put them in too,” he explained. This supposedly technical staff member had never written a line of code.* 
  
