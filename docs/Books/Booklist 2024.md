@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-11-14T14:08
+updated: 2024-11-17T22:05
 ---
 # Booklist 2024 
  
@@ -548,7 +548,7 @@ _Author:_ Fritz Steele
 _Pages:_ 202
 _Language:_ English
 
-#### On Becoming a Counselor 
+#### On Becoming a Counselor
 _Author:_ Eugene Kennedy
 _Pages:_ 552
 _Language:_ English
@@ -561,4 +561,9 @@ _Language:_ English
 #### Built to Sell
 _Author:_ John Warrillow
 _Pages:_ 188
+_Language:_ English
+
+#### [Recoding America](Books/Book%20Reviews/Recoding%20America.md)
+_Author:_ Jennifer Pahlka 
+_Pages:_ 317
 _Language:_ English
