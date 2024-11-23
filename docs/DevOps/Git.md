@@ -11,7 +11,7 @@ tags:
   - teams
   - career
 created: 2024-01-06T15:01
-updated: 2024-11-05T09:24
+updated: 2024-11-21T12:43
 ---
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  
@@ -55,4 +55,5 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - Git is not a perfect tool, and it has limitations. If the team is not working towards the strengths of Git, you will get a lot of issues. The team (and yourself) must understand the purpose behind git.
 - Explain the following git concepts: head, commit-sha and bisect.  That will tell you all. 
 - I think understanding the git fundamentals makes you an extremely valuable engineer.
+
 

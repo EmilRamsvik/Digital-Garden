@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-11-19T12:28
+updated: 2024-11-23T09:55
 Pages: 317
 Author: Jennifer Pahlka
 finished: true
@@ -79,7 +79,6 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - *THE GLOBAL POSITIONING System has to be one of the most successful investments the US has ever made, and not just because GPS-enabled map apps on mobile phones have saved the directionally challenged like me from perpetually getting lost. GPS also powers thousands of critical services that we take for granted today, like routing cell phone calls, sending electricity to our homes, and enabling us to get cash from an ATM. Even stock exchange trades now rely on GPS.* 
  
-- *But it was supposed to be available only to the military. In 1983, however, the crew of Korean Air Lines Flight 007, flying from New York City to Seoul via Anchorage, Alaska, made an error in their navigational calculations and accidentally strayed into the prohibited airspace of the USSR.* 
  
 - *In 1983, however, the crew of Korean Air Lines Flight 007, flying from New York City to Seoul via Anchorage, Alaska, made an error in their navigational calculations and accidentally strayed into the prohibited airspace of the USSR. Mistaking the airliner for a spy plane, the Soviets shot it down, killing all 269 people aboard, including Larry McDonald, a US congressman from Georgia. Recognizing that GPS could have prevented this tragedy, President Ronald Reagan directed the Department of Defense to make GPS freely available for civilian use. As a common good, it became even more powerful than Reagan could have imagined.* 
  
@@ -137,7 +136,7 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - *Project management is the art of getting things done. Product management is deciding what to do in the first place—and also, as in the case of the benefit screeners, deciding what not to do.* 
  
-- *Mike Byrne, the guy who built the broadband map for the FCC, estimates that most government tech projects could cost 10 percent of what they do and still provide 85 percent of the functionality.5 I hereby dub this “Byrne’s Law.”* 
+- *Mike Byrne, the guy who built the broadband map for the FCC, estimates that most government tech projects could cost 10 percent of what they do and still provide 85 percent of the functionality. I hereby dub this “Byrne’s Law.”* 
  
 - *Gall’s Law, named for pediatrician and systems design theorist John Gall. “A complex system that works is invariably found to have evolved from a simple system that worked,” Gall wrote. “A complex system designed from scratch never works and cannot be patched up to make it work.* 
  

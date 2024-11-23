@@ -1,7 +1,7 @@
 ---
 Date Started: May 29, 2023
 created: 2023-05-30T15:11:00
-updated: 2024-02-29T20:58
+updated: 2024-11-23T10:00
 tags:
   - article
   - productivity
@@ -56,6 +56,7 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 - [Very interesting advice on programming productivity.](https://malisper.me/how-to-improve-your-productivity-as-a-working-programmer/) It is also necessary to understand that being patient is one of the most important aspects of being more productive. 
 - [Good Tips on Hacking Your Brain](https://www.youtube.com/watch?v=XUZ9VATeF_4&list=WL&index=29)
 - [5 AM Club](https://www.youtube.com/watch?v=Kxvp3eOYphY&ab_channel=UpgradedMentality)
+- [On Being Productive](https://www.furidamu.org/blog/2024/09/13/being-productive/)
 
 
 # Thoughts 
