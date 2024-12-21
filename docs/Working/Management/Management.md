@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-11-09T18:03
+updated: 2024-12-18T20:16
 tags:
   - article
   - digital-garden
@@ -45,6 +45,6 @@ In one of the places I was very lucky to work in, there was a concept called del
 
 # Thoughts 
 - This is also quite related to my experience as a tech lead. 
-- "Leadership matters, and leadership is not sufficient". Consider this when working in organizations. 
+- "Leadership matters and leadership is not sufficient". Consider this when working in organizations. 
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-14T07:56
+updated: 2024-12-03T14:47
 tags:
   - article
   - digital-garden
@@ -26,7 +26,6 @@ There are primarily two cost drivers for the electricity bill you have.
 2. Cost of the grid.
 The cost of the grid is a reflection of how the market has evolved over time. 
 
-Think a lot of the 
 ## Auctioning 
 
 Bid - What the buyer is willing to give for goods. 
@@ -41,7 +40,7 @@ A forward curve is the estimation of the price of a good based on futures contra
 
 A forward curve is for the business in a commodity to understand the different possibilities of the market. This is what the market thinks the price of the good will be in that period.
 
-
+This is similar to the other commodity market. 
 ### EPADS
 
 

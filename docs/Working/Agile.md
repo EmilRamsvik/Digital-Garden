@@ -9,7 +9,7 @@ tags:
   - working
   - productivity
 created: 2023-10-15T15:34
-updated: 2024-10-14T12:42
+updated: 2024-12-18T19:35
 ---
 
 
@@ -33,3 +33,4 @@ Planning poker in software development is a straightforward process where each t
 - "If you cannot cancel or kill the product, you are not the product owner" - Kijana Woodard
 - In a retro, you should not address cooperation or inter-collegial issues; those are not relevant for the team to solve.  
 - Estimating user stories as T-shirt sizes rather than story points or hours or whatever is quite a good idea. Too many details and complexity are quite cumbersome. Keep it simple/stupid. 
+- A product team have an incentive to never reduce their size as development scales down creating a conflict of interest with the broader business objectives. 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-23T13:31
+updated: 2024-12-18T19:34
 tags:
   - article
   - digital-garden
@@ -76,5 +76,6 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - Practice the questions you do not have the answer to, not the ones that you do. I had this experience once while practicing for an interview, and I only saw what I knew when practicing, foregoing what I did not know. This is a human tendency, and you should focus on things you do not know. How do you answer them? 
 - If having a virtual meeting, make sure to book a room beforehand that is booked not only for the duration of the meeting but also some time before the meeting. 
 - Practice your pitch (Aka, tell me about yourself) as much as possible; this needs to be top-notch.
-- When considering a job switch, make sure that you understand the future aspects and the fact that the future your boss and management promise you is what it is, just words.  [Show me the money](https://youtu.be/FFrag8ll85w?t=44)
+- When considering a job switch, make sure that you understand the future aspects and the fact that the future your boss and management promise you is what it is, just words.  [Show me the money](https://youtu.be/FFrag8ll85w?t=44) (Note: See [Salary Negotiation](Salary%20Negotiation.md))
 - [It is what the money says](https://youtu.be/s8uL7qtyeGI?t=118). Do not do it for the money; do it for what the money says. It says you are worth it. 
+- Be prepared for uncomfortable, rude, and even illegal questions in an interview. Those who interview you are not that well-trained and might not know or even care about what they are allowed to ask in an interview. 

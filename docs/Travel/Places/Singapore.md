@@ -8,7 +8,7 @@ tags:
   - south-east-asia
 Finished: true
 created: 2023-10-23T17:26
-updated: 2024-02-29T20:36
+updated: 2024-11-30T21:12
 ---
 # Singapore
 
@@ -70,7 +70,10 @@ This is as of 2023, some things might have changed.
 - [[Chili Crab ]]- National dish of Singapore, a super nice dish that is perfect to 
 - [[Laksa]] - My favorite dish to have in Singapore. 
 - [[Char Siew ]]- Kinda cool, very easy to make as well. 
-
+- [Zion Food Center by GWC has very good dumplings.](https://maps.app.goo.gl/s83KMJjhMeA5xSFy5)
+- [Ayer Rajah Food Court](https://maps.app.goo.gl/6cb4PkS1KiBtRsGz8)
+- [Keng Eng Seafood](https://maps.app.goo.gl/3JngyFu5zZcT7ZwP8) is great for chili crab dinners. Reminder: it is often a bit busy, so you should book beforehand. 
+- [Turkish Restaurant](https://maps.app.goo.gl/anFusKPXE3HcV1Sd8) Good for non-drinking evenings, also a very good neighborhood.  Cool to see the mosque and some bars not too far away if there is a need for a drink as well.
 # Links
 - [Singapore in Color](https://www.straitstimes.com/multimedia/graphics/2023/08/singapore-in-colour/)
 

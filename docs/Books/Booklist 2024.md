@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-11-17T22:05
+updated: 2024-12-19T07:52
 ---
 # Booklist 2024 
  
@@ -566,4 +566,61 @@ _Language:_ English
 #### [Recoding America](Books/Book%20Reviews/Recoding%20America.md)
 _Author:_ Jennifer Pahlka 
 _Pages:_ 317
+_Language:_ English
+
+
+#### Tech Resume 
+_Author:_ Gerogoly Orosz
+_Pages:_ 215
+_Language:_ English
+
+
+#### The Earths Biosphere
+_Author:_ Vaclav Smil
+_Pages:_ 357
+_Language:_ English
+
+#### Change
+_Author:_ Paul Watzlawick
+_Pages:_ 176
+_Language:_ English
+
+#### The Identity Trap
+_Author:_ Yascha Mounk
+_Pages:_ 416
+_Language:_ English
+
+#### Influence 
+_Author:_ Robert Cialdini
+_Pages:_ 290
+_Language:_ English
+
+#### The Science of Selling
+_Author:_ David Hoffeld
+_Pages:_ 288
+_Language:_ English
+
+#### Fanatical Prospecting
+_Author:_ Jeb Blount
+_Pages:_ 304
+_Language:_ English
+
+#### Critical Thinking for Strategic Intelligence
+_Author:_ Katherine Pherson
+_Pages:_ 360
+_Language:_ English
+
+#### Pyramid Principle
+_Author:_ Barbaro Minto
+_Pages:_ 192
+_Language:_ English
+
+#### The First 90 Days
+_Author:_ Michael Watkins 
+_Pages:_ 304
+_Language:_ English
+
+#### Flawless Consulting
+_Author:_ Peter Block
+_Pages:_ 323
 _Language:_ English

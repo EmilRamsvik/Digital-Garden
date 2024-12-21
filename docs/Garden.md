@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-20T10:39
+updated: 2024-12-18T16:41
 tags:
   - article
   - digital-garden
@@ -40,4 +40,3 @@ I write a little bit about [Mathematics](Mathematics/Mathematics.md) and some th
 
 #### Links
 - [About Digital Gardens](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
-- 

@@ -6,7 +6,7 @@ tags:
   - flexibility
 Finished: false
 created: 2023-07-07T00:00:00
-updated: 2024-09-22T20:59
+updated: 2024-12-15T13:36
 ---
 # Flexibility
 I started working on flexibility far too late, but it is an awesome way of doing quick workouts at home. 
@@ -28,7 +28,7 @@ I think yoga has been a tremendous addition to the workout regimen i have. There
 Sometimes, I have just joined and hoped for the best. It has been very cool and one heck of a challenge from time to time. 
 ### Links
 - [Vagus nerve work](https://www.youtube.com/watch?v=IPgYSmrKb1A&ab_channel=YogaWithTim)
-- 
+- [More challenging yoga classes](https://www.youtube.com/@BreatheAndFlow)
 
 ### Thoughts 
 - Hot yoga is quite cool. Relaxing and in winter time in Norway it is very good to have some warmth in your body. 

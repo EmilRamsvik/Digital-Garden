@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-22T09:33
+updated: 2024-12-18T20:01
 tags:
   - article
   - digital-garden
@@ -61,4 +61,5 @@ Might be smart to name a number instead of doing the open type of question.
 - We do not want to share any actionable info too early (Time, Money, Contracts/Offers). It is like dating; you withhold information to gain a positive perception. 
 - Be positive and helpful. 
 - If they ask about your salary expectations, you want to have a good answer; I like Josh Doody´s example: “I want this move to be a big step forward for me in terms of both responsibility and compensation,”
+- - [It is what the money says](https://youtu.be/s8uL7qtyeGI?t=118). Do not do it for the money; do it for what the money says. It says you are worth it. 
 

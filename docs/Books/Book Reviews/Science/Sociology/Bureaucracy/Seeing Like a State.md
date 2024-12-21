@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2024-12-19T14:46
 Pages: 
 Author: 
 finished: true
@@ -30,6 +30,8 @@ It was an interesting book. I think the concept of legibility is very important 
 I think the legibility concept, combined with a lack of understanding of entropy, is a very bad and catastrophic way of organizing society. 
 It is also important to understand that informal processes and practical knowledge are quite important forces in society today, and we need to work more to create opportunities for these forces to thrive instead of suppressing them. 
 
+
+This is actually a book that is super highly relevant in hindsight. It is a book that is recommended again and again and [again](https://www.simplermachines.com/why-you-need-a-wtf-notebook/).  It is a book that you wish other people had read cause it would make discussions a lot more interesting.  This means it is a must-read in the context of sociology. 
 # ✍️ My Top  Quotes
 
 - *I shall argue that the most tragic episodes of state-initiated social engineering originate in a pernicious combination of four elements. All four are necessary for a full-fledged disaster. The first element is the administrative ordering of nature and society-the transformative state simplifications described above.* 

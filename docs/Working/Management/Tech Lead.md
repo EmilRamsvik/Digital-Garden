@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-15T19:27
+updated: 2024-12-18T20:02
 tags:
   - article
   - digital-garden
@@ -19,7 +19,7 @@ The official role of tech lead is a bit
 # Thoughts 
 - Cultural debt. A spin-off on the concept of technical debt. It is the increase of work needed to fix cultural aspects of the organization. It is the quintessential "we have always done it this way."
 - Code culture. A concept of having a culture of excellence and being consistently good. It is the small things. Very relatable to the DevOps culture. I, for one, think that some of the things DevOps does is instill rules that serve as a process or guardrails. I for one, think that working on creating good engineers and a good code culture is quite much more important. 
-- One of the most important things as a leader of engineers is instilling a sense of craftsmanship and pride in their work. This is one of the most important aspects. Being there as a manager. 
+- One of the most important things as a leader of engineers is instilling a sense of craftsmanship and pride in their work. This is one of the most important aspects. Being there as a manager and a teacher for the junior engineers. 
 - 
 
 

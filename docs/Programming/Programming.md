@@ -9,7 +9,7 @@ tags:
   - dart
 Finished: true
 created: 2023-06-09T13:30:00
-updated: 2024-11-13T15:18
+updated: 2024-11-25T21:51
 ---
 # Programming
 
@@ -48,6 +48,7 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - [Programming is mostly thinking](https://agileotter.blogspot.com/2014/09/programming-is-mostly-thinking.html).
 - [Videoes with Crash Courses and other Guides](https://www.youtube.com/@NetNinja/playlists?view=1&sort=lad&flow=grid)
 - [10k Hours of coding lessons](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
+- [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
 
 # Thoughts 
 - My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. With the concepts and logic, I become more into the latter category. 

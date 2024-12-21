@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-22T08:49
+updated: 2024-12-18T16:41
 tags:
   - article
   - digital-garden
@@ -39,5 +39,5 @@ Cults are cool if you are in them, so maybe it is worth it. Who am I to know.
 
 # Thoughts 
 - Ubuntu is zulu for: "A person is a person through (other) persons." ([97 Things Every Programmer Should Know](../../Books/Book%20Reviews/Programming/97%20Things%20Every%20Programmer%20Should%20Know.md))
-- 
+- Would be awesome to be good at grep and sed. But alas.
 
