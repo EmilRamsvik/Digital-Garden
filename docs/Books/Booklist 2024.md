@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2024-12-19T07:52
+updated: 2024-12-26T21:00
 ---
 # Booklist 2024 
  
@@ -585,7 +585,7 @@ _Author:_ Paul Watzlawick
 _Pages:_ 176
 _Language:_ English
 
-#### The Identity Trap
+#### [The Identity Trap](Books/Book%20Reviews/The%20Identity%20Trap.md)
 _Author:_ Yascha Mounk
 _Pages:_ 416
 _Language:_ English
@@ -623,4 +623,87 @@ _Language:_ English
 #### Flawless Consulting
 _Author:_ Peter Block
 _Pages:_ 323
+_Language:_ English
+
+#### Wisdom's Workshop: The Rise of the Modern University
+_Author:_ James Axtell
+_Pages:_ 418
+_Language:_ English
+
+
+#### The Blue Machine
+_Author:_ Helen Czerski
+_Pages:_ 465
+_Language:_ English
+
+#### Drinking Molotov Cocktails with Gandhi.
+_Author:_ Peter Boyle
+_Pages:_ 240
+_Language:_ English
+
+#### The Wager
+_Author:_ David Grann
+_Pages:_ 
+_Language:_ English
+
+#### The Catalyst
+_Author:_ Thomas Cech
+_Pages:_ 
+_Language:_ English
+
+#### Grand Transitions
+_Author:_ Vaclav Smil
+_Pages:_ 
+_Language:_ English
+
+
+#### Wounded Tigris
+_Author:_ Leon McCarron
+_Pages:_ 
+_Language:_ English
+
+#### The Alchemy of Air
+_Author:_ Thomas Hager
+_Pages:_ 
+_Language:_ English
+
+
+#### The Making of the Atomic Bomb
+_Author:_ Richard Rhodes
+_Pages:_ 
+_Language:_ English
+
+#### Religion
+_Author:_ Christian Smith
+_Pages:_ 
+_Language:_ English
+
+#### The rise and fall of American growth
+_Author:_ Robert Gordon
+_Pages:_ 
+_Language:_ English
+
+#### Good Energy
+_Author:_ Casey Means
+_Pages:_  
+_Language:_ English
+
+#### Extremely Hardcore
+_Author:_ Zoe Schiffer
+_Pages:_ 
+_Language:_ English
+
+#### AI Snake Oil
+_Author:_ Arvind Narayanan
+_Pages:_ 360
+_Language:_ English
+
+#### How We Got to Now
+_Author:_ Steven Johnson
+_Pages:_ 
+_Language:_ English
+
+#### Traffic
+_Author:_ Tom Vanderbilt
+_Pages:_ 416
 _Language:_ English
