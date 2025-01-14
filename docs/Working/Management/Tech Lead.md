@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-18T20:02
+updated: 2025-01-10T09:04
 tags:
   - article
   - digital-garden
@@ -12,7 +12,7 @@ Finished: false
 # Tech Lead
 Here, I write about my experience with the concept of tech-lead. This pertains both to my experience working with tech leads as well as working in such a capacity. 
 
-The official role of tech lead is a bit 
+The official role of tech lead is a bit confusing, as they don't have managerial responsibilities but rather act as a bridge between technical and business roles. 
 # Links
 - 
 

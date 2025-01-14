@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-11-07T14:16
+updated: 2025-01-05T15:32
 tags:
   - article
   - digital-garden
@@ -68,5 +68,6 @@ Stakeholders are the persons or entities that define and enable your delivery. T
 - Some things are easier to deal with as a consultant, and some things are more difficult. Getting access and permissions are definetly in the latter part. 
 - Your stakeholders might be more interested in progress than results. So giving them continous updates and showing your work might buy you a lot of time. Their being involved makes it easier for them to see what is progressing, and that will make them happy. 
 -  _Sometimes the client needs to feel the pain of not taking your advice, before they’re ready to take your advice._ - Bitfields´s First Law of Consulting
-- Remember, consultants take amongst themselves.
+- Remember, consultants talk amongst themselves.
+- There is no such thing as a "safe" workspace for consultants. If there are no engagements, you won't have a job, regardless of what people say. 
 
