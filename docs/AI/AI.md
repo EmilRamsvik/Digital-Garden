@@ -4,7 +4,7 @@ tags:
   - article
 finished: 
 created: 2024-01-06T15:04
-updated: 2024-08-21T10:41
+updated: 2025-01-14T12:41
 ---
 
 
@@ -31,6 +31,7 @@ I wrote a lot about LLMs in 2023, some of which may be outdated, but it is still
 
 - [The conspiracy to make AI harder than it is!](https://www.youtube.com/watch?v=2eWuYf-aZE4)
 - [Guides, Courses and Articles on Machine Learning focus on LLM](https://mlabonne.github.io/blog/)
+- [AI Engineering Reading List](https://www.latent.space/p/2025-papers)
 
 # Thoughts 
 - Even though machine learning LLMs such as GPT-3, GPT-4, and LLama are non-deterministic. There are a few parameters that determine the output; there are few outputs that determine the inconsistency.

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-01-09T08:27
+updated: 2025-01-13T11:54
 Pages: 240
 Author: Edward Demming
 finished: true
@@ -24,8 +24,10 @@ A bit of a challenge to the old way of thinking of economics. Edward Demming is 
 
 # 🎨 Impressions
 
+A very interesting book, I found Edward Demming thoughts to be repeated a lot in other sources, so this was intersting. 
 
-
+I had some flashback to [Zen & The Art of Motorcycle Maintenance](Mich/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance.md)
+and Robert Pirzigs reflections on quality. 
 # ✍️ My Top  Quotes
 
 - *What is quality? The basic problem anywhere is quality. What is quality? A product or a service possesses quality if it helps somebody and enjoys a good and sustainable market. Trade depends on quality.* 

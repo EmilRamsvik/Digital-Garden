@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2025-01-08T19:46
+updated: 2025-01-14T14:57
 ---
 
 #### Tech Resume 
@@ -285,7 +285,7 @@ _Author:_ Eugene Kennedy
 _Pages:_ 552
 _Language:_ English
 
-#### People Skills
+#### [People Skills](Personal/Books/Book%20Reviews/People%20Skills.md)
 _Author:_ Robert Bolton
 _Pages:_ 300
 _Language:_ English
