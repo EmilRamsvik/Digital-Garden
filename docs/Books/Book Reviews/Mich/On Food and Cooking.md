@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-01-17T08:46
 Pages: 896
 Author: Harold McGee
 finished: true
@@ -48,17 +48,16 @@ I quite liked the etymology of the words; very interesting.
  
 - *According to business legend, the American Gail Borden reinvented evaporated milk around 1853 after a rough transatlantic crossing that sickened the ship’s cows. Borden added large amounts of sugar to keep his concentrated milk from spoiling.* 
  
-- *For sweetened condensed milk, the milk is first concentrated by evaporation, and then table sugar is added to give a total sugar concentration of about 55%.* 
  
-- *For sweetened condensed milk, the milk is first concentrated by evaporation, and then table sugar is added to give a total sugar concentration of about 55%. Microbes can’t grow at this osmotic pressure, so sterilization is unnecessary.* 
+- *For sweetened condensed milk, the milk is first concentrated by evaporation, and then table sugar is added to give a total sugar concentration of about 55%. Microbes can’t grow at this [osmotic](https://en.wikipedia.org/wiki/Osmotic_pressure) pressure, so sterilization is unnecessary.* 
  
 - *Powdered or dry milk is the result of taking evaporation to the extreme. Milk is pasteurized at a high temperature; then about 90% of its water is removed by vacuum evaporation, and the remaining 10% in a spray drier* 
  
-- *Cooking Sweetened Condensed Milk Because it contains concentrated protein and sugar, sweetened condensed milk will “caramelize” (actually, undergo the Maillard browning reaction, p. 778* 
+- *Cooking Sweetened Condensed Milk Because it contains concentrated protein and sugar, sweetened condensed milk will “caramelize” (actually, undergo the Maillard browning reaction.* 
  
 - *Milk foams are more fragile than egg foams and whipped cream, and are generally made immediately before serving, usually as a topping for coffee drinks.* 
  
-- *Milk owes its foaming power to its proteins, which collect in a thin layer around the pockets of air, isolate them, and prevent the water’s strong cohesive forces from popping the bubbles. Egg foams are also stabilized by proteins (p. 101), while the foam formed by whipping cream is stabilized by fat (below, p. 31).* 
+- *Milk owes its foaming power to its proteins, which collect in a thin layer around the pockets of air, isolate them, and prevent the water’s strong cohesive forces from popping the bubbles. Egg foams are also stabilized by proteins, while the foam formed by whipping cream is stabilized by fat.* 
  
 - *Milk foams are more fragile and short-lived than egg foams because milk’s proteins are sparse — just 3% of the milk’s weight, where egg white is 10% protein* 
  
