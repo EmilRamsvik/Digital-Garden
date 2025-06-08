@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>Pricing and Revenue Optimization</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Quartz 4"/><meta property="og:title" content="Pricing and Revenue Optimization"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="Pricing and Revenue Optimization"/><meta name="twitter:description" content="Pricing and Revenue Optimization 🚀 The Book in 3 Sentences It is a book about price optimization as well as revenue management."/><meta property="og:description" content="Pricing and Revenue Optimization 🚀 The Book in 3 Sentences It is a book about price optimization as well as revenue management."/><meta property="og:image:alt" content="Pricing and Revenue Optimization 🚀 The Book in 3 Sentences It is a book about price optimization as well as revenue management."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization"/><link rel="icon" href="../../../../static/icon.png"/><meta name="description" content="Pricing and Revenue Optimization 🚀 The Book in 3 Sentences It is a book about price optimization as well as revenue management."/><meta name="generator" content="Quartz"/><link href="../../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL2VtaWxyYW1zdmlrL0RvY3VtZW50cy9wcm9qZWN0cy9EaWdpdGFsLUdhcmRlbi9xdWFydHovY29tcG9uZW50cy9zdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Books/Book-Reviews/Machine-Learning/Modeling/Pricing-and-Revenue-Optimization"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../../..">Quartz 4</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-content"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div class="explorer-content" aria-expanded="false"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/">Books</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/">Book Reviews</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/Machine-Learning/">Machine Learning</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/Machine-Learning/Modeling/">Modeling</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>Pricing and Revenue Optimization</a></div></nav><h1 class="article-title">Pricing and Revenue Optimization</h1><p show-comma="true" class="content-meta"><time datetime="2024-01-06T14:04:00.000Z">Jan 06, 2024</time><span>25 min read</span></p><ul class="tags"><li><a href="../../../../tags/books" class="internal tag-link">books</a></li></ul></div></div><article class="popover-hint"><h1 id="pricing-and-revenue-optimization">Pricing and Revenue Optimization<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#pricing-and-revenue-optimization" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-the-book-in-3-sentences">🚀 The Book in 3 Sentences<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-the-book-in-3-sentences" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>It is a book about price optimization as well as revenue management. It consists of multiple ways to do price optimization and deals with techniques from the industry.</p>
+<h1 id="-impressions">🎨 Impressions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-impressions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>It is especially the hotel and airline industry that drove price optimization and revenue management. Things I especially found interesting were how to structure the optimization problem and how to deal with some problems.
+Optimization problems related to pricing have in hindsight been quite an interesting read for me. I go back to this from time to time and in discussions it has been quite helpful.</p>
+<h1 id="️-my-top--quotes">✍️ My Top  Quotes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-my-top--quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li>
+<p><em>What is a cynic? … A man who knows the price of everything and the value of nothing.</em></p>
+</li>
+<li>
+<p><em>One of the distinguishing characteristics of pricing and revenue optimization is its use of analytical techniques derived from management science, statistics, and machine learning.</em></p>
+</li>
+<li>
+<p><em>One of the first applications of pricing optimization was revenue management, which was first used by the passenger airlines in the 1980s.</em></p>
+</li>
+<li>
+<p><em>Pricing and revenue optimization can deliver more than just short-term profitability benefits. Revenue management enabled American Airlines to meet the challenge posed by PeopleExpress.</em></p>
+</li>
+<li>
+<p><em>For example, one article estimated that in 2018 Amazon changed 2.5 million prices every day</em>.</p>
+</li>
+<li>
+<p><em>“Traditional price-sensitivity research can cost up to $300,000 for each product category and take anywhere from six to ten weeks to complete… . On the Internet, however, prices can be tested continually in real time, and customers’ responses can be instantly received”</em></p>
+</li>
+<li>
+<p><em>Because of this success, machine learning is often offered as a panacea for any complex business decision</em>.</p>
+</li>
+<li>
+<p><em>In particular, training a neural net generally requires observations that span the range of combinations of possible decisions and environmental factors with enough observations to enable statistically reliable recommendations of price for all future combinations that might occur.</em></p>
+</li>
+<li>
+<p>*All four factors that have accelerated the field of pricing and revenue optimization</p>
+<ul>
+<li><em>The success of revenue management</em></li>
+<li><em>The evolving computational environment</em></li>
+<li><em>The rise of e-commerce</em></li>
+<li><em>The increasing sophistication of machine learning</em>
+<em>point in the same direction, toward a future in which pricing will be increasingly dynamic and supported by a wealth of information and sophisticated algorithms.</em></li>
+</ul>
+</li>
+<li>
+<p><em>Time-consuming offline analyses will become increasingly irrelevant—their results will be obsolete before they can be completed because the world moves too quickly.</em></p>
+</li>
+<li>
+<p><em>So concluded a pioneering study by McKinsey and Company, which concluded that a 1% improvement in profit would, on average, result in an improvement in operating profit of 11.1%. By contrast, 1% improvements in variable cost, volume, and fixed cost would produce operating improvements of 7.8%, 3.3%, and 2.3%, respectively.</em></p>
+</li>
+<li>
+<p><em>2018 book gave an example of a case in which a 5% improvement in price would lead to a profit improvement of 50%, while 5% improvements in unit costs, sales volume, and fixed costs would lead to profit gains of 30%, 20%, and 11.5%, respectively</em></p>
+</li>
+<li>
+<p><em>For this reason it is critical to distinguish between the list price of a good and its pocket price—that is, what a particular customer ends up actually paying.</em></p>
+</li>
+<li>
+<p><em>The price waterfall was introduced by McKinsey and Company as a graphical way of illustrating the discounts that occur between the list price of a good and its pocket price.</em></p>
+</li>
+<li>
+<p><em>Smart buyers will quickly detect a disorganized or dispersed pricing organization and exploit it to their advantage.</em></p>
+</li>
+<li>
+<p><em>Market-based pricing means different things in different contexts. In this book it refers to the practice of pricing based solely on the prices being offered by the competition.</em></p>
+</li>
+<li>
+<p><em>Customer value should be the key driver of price.</em></p>
+</li>
+<li>
+<p>*The goal of pricing and revenue optimization is to provide the right price:</p>
+<ul>
+<li><em>For every product</em></li>
+<li><em>To every customer segment</em></li>
+<li><em>Through every channel</em></li>
+<li><em>In addition, the goal is to update those prices over time in response to changing market conditions.</em></li>
+</ul>
+</li>
+<li>
+<p><em>Analyze alternatives. This activity is the one most widely identified with pricing and revenue optimization or revenue management. For many companies, it has historically involved the use of spreadsheets to compare pricing alternatives under different scenarios. Choose the best alternative. The choice of the best alternative requires a clear understanding of the goal for each price in the PRO cube—is it to maximize revenue or maximize price or some combination of the two? When many prices are changing quickly, an algorithm is typically required to solve the underlying optimization problem. Execute pricing. Finally, the prices that have been calculated need to be communicated to the market. This step is also referred to as pricing execution.</em></p>
+</li>
+<li>
+<p><em>Set goals and business rules. A key initial step in pricing and revenue optimization is to specify the overall goal of the process. Without a clear goal, it is impossible to make consistent decisions and to evaluate decisions in order to improve the process over time.</em></p>
+</li>
+<li>
+<p><em>For many companies, pricing involves a complex set of decisions that is often poorly managed or unmanaged. In many cases, the pocket prices charged to customers are the result of a large number of uncoordinated and arbitrary decisions.</em></p>
+</li>
+<li>
+<p><em>Many of the approaches to calculating optimal prices in this book are based on a classic forecast-and-optimize approach in which we derive an explicit model of how we believe that demand will respond to the prices we offer and use the techniques of mathematical optimization to find the prices that best meet our objective function.</em></p>
+</li>
+<li>
+<p><em>In the economics literature, determining the value that every customer places on a product and then charging them that value is called perfect third-degree price discrimination by a monopolist.</em></p>
+</li>
+<li>
+<p><em>Propensity to shop is related to the value that an individual places on personal time. Students and retirees are often found to be highly price sensitive—this can be explained in part by the relatively low opportunity cost of their time.</em></p>
+</li>
+<li>
+<p><em>Assume that we have a population of customers of size D. The number of customers who will purchase at a price p is equal to the number of customers whose willingness to pay for the product is greater than or equal to p. (For simplicity, we assume that if a customer’s willingness to pay is exactly equal to the price, she will purchase.) Define the function f(x) as the density function for willingness to pay across the population, and define D as the potential demand—the number of customers who are potentially interested in purchasing the product and are aware of its price. Then, for any price p,  is the fraction of the population with willingness to pay ≽ p, and the demand for the product at price p, which we denote d(p), can be written as</em></p>
+</li>
+<li>
+<p><em>One of the advantages of Equation 3.1 is that it partitions the price-response function into a potential-demand component D and a willingness-to-pay component f(x). This is often a convenient way to model a market.</em></p>
+</li>
+<li>
+<p><em>Dt in Equation 3.3 is a measure of potential demand while F̄(p) is the fraction of potential demand that converts to actual demand at price p.</em></p>
+</li>
+<li>
+<p><em>The three most common measures for price sensitivity are slope, hazard rate, and elasticity.</em></p>
+<ul>
+<li><em>The slope in the context of price sensitivity refers to the gradient of the demand curve. It measures the change in quantity demanded per unit change in price. A steeper slope implies more sensitivity to price changes since a small change in price leads to a significant change in quantity demanded or sold.</em></li>
+<li><em>The hazard rate is often used in survival analysis but can also apply to understand how the probability of a sale (or no sale) changes with changes in price. It effectively measures the instantaneous risk of the desired outcome (e.g., purchase) happening at a particular price, assuming it has not yet occurred. This can help businesses optimize pricing over time.</em></li>
+<li><em>Price elasticity of demand measures how the quantity demanded of an item responds to a change in the price of that item. It is calculated as the percentage change in quantity demanded divided by the percentage change in price. A higher elasticity means demand is more sensitive to price changes. Elasticities greater than one indicate high sensitivity (elastic demand), while those less than one indicate low sensitivity (inelastic demand).</em></li>
+</ul>
+</li>
+<li>
+<p><em>In order to estimate these properties from data, we assume that we have observations of demand at two different prices d̂(p1) and d̂(p2). Here, the caret indicates that the demand is actually being observed from data rather than derived from a model.</em></p>
+</li>
+<li>
+<p><em>Some typical values that have been estimated for cross-price elasticities are .66 for butter and margarine and .28 for beef and pork (Frank 2015). This would suggest that a 1% increase in the price of butter would lead to a 0.66% increase in demand for margarine.</em></p>
+</li>
+<li>
+<p><em>A measure related to cross-price elasticity that is sometimes useful is the diversion ratio, which measures what fraction of the change in demand for product i that occurs with a change in product i’s price is borne by product j. That is, if we raise the price for product i, what fraction of the reduced demand for product i will translate into increased demand for product j?</em></p>
+</li>
+<li>
+<p><em>Axiom of completeness, which states that, given any two products A and B, a consumer either prefers A to B or prefers B to A or is indifferent between them. Another example is the axiom of transitivity, which states that if a consumer prefers A to B and prefers B to C, she must also prefer A to C.</em></p>
+</li>
+<li>
+<p><em>This means that what we are selling is a good—something people are willing to buy—rather than an illth—something people are willing to pay to get rid of.</em></p>
+</li>
+<li>
+<p><em>A criticism of A/B tests is that they may be subject to the so-called <a href="https://en.wikipedia.org/wiki/Hawthorne_effect" class="external">Hawthorn effect<svg aria-hidden="true" class="external-icon" style="max-width:0.8em;max-height:0.8em;" viewBox="0 0 512 512"><path d="M320 0H288V64h32 82.7L201.4 265.4 178.7 288 224 333.3l22.6-22.6L448 109.3V192v32h64V192 32 0H480 320zM32 32H0V64 480v32H32 456h32V480 352 320H424v32 96H64V96h96 32V32H160 32z"></path></svg></a>, which occurs when the fact that the staff of a store know that it has been chosen for a test changes their behavior in a way that influences the outcome.</em></p>
+</li>
+<li>
+<p><em>It is this rounding that provides the price discontinuity that can be exploited—a 1.249 surge would be rounded down to 1.2 while a 1.251 surge would be rounded up to 1.3. It is reasonable to assume that conditions (and the characteristics of customers) when the calculated surge is 1.249 should be almost the same as those when the calculated surge is 1.251, so the fact that one group got charged 1.2 and the other 1.3 is very close to a randomized experiment. By applying this methodology to a sample of 50 million UberX customers in Uber’s four largest cities, the company was able to estimate price elasticities, which fell largely between 0.4 and 0.6.</em></p>
+</li>
+<li>
+<p><em>Glance views, defined as customer visits to a product detail page. Amazon also provides marketplace sellers with their glance view conversion rates for each product, defined as the number of orders divided by the number of glance views. Information such as glance views, which we call potential demand, can be extremely valuable in enabling more accurate price-response estimates.</em></p>
+</li>
+<li>
+<p>*This model is called the champion. Once we have established an initial champion, we can determine a final model using a champion-challenger process, which proceeds in five steps:</p>
+</li>
+</ul>
+<ol>
+<li><em>Choose a set of variables and variable transformations that has not been tried before.</em></li>
+<li><em>Run a regression using the variables, variable combinations, and variable transformations on the training set. The resulting model is called the challenger.</em></li>
+<li><em>Measure the performance of the challenger on the test data. If the challenger performs better than the champion, then the challenger becomes the new champion. If the champion outperforms the challenger, then the champion remains the champion.</em></li>
+<li><em>Go to step 1 and continue until performance is no longer improving as new challengers are evaluated.</em></li>
+<li><em>Once a final champion has been chosen, reestimate the coefficients of the model using all of the available data (training data and test data).</em></li>
+</ol>
+<ul>
+<li>
+<p><em>The lesson for price-response estimation is that all price-response regressions should be tested for endogeneity. The Durbin-Wu-Hausman test is the most popular test and is available in most statistical packages,</em></p>
+</li>
+<li>
+<p><em>Finally, the ultimate cure for endogeneity, as for collinearity, is price testing. Data from a properly randomized price will be free from both collinearity and endogeneity.</em></p>
+</li>
+<li>
+<p><em>The cost used in pricing and revenue optimization is the incremental cost of a customer commitment. It is the difference between the total costs a company would incur from satisfying the commitment versus not making it. The incremental cost will vary with the duration and size of the commitment and is not a fully allocated cost. A rule of thumb is that if a change in demand resulting from a change in price would not change the cost, then the cost should not be included in determining the price.</em></p>
+</li>
+<li>
+<p><em>Price differentiation refers to the practice of a seller charging different prices to different customers, either for exactly the same good or for slightly different versions of the same good.</em></p>
+<ol>
+<li><em>Successful price differentiation allows sellers to increase profitability by charging different prices to customers with different willingness to pay.</em></li>
+<li><em>Cannibalization, imperfect segmentation, or arbitrage can destroy—or even reverse—the benefits of price differentiation</em></li>
+</ol>
+</li>
+<li>
+<p>*Four criteria must hold for group pricing to be successful.</p>
+<ul>
+<li><em>There must be an unambiguous indicator of group membership. Examples of such indicators include a student ID card or a driver’s license that lists age. Furthermore, it must be difficult or impossible for members of one group to masquerade as members of another. Otherwise, cannibalization could easily reduce or even erase the benefits of price differentiation.</em></li>
+<li><em>Group membership must strongly correlate with price sensitivity. Senior citizen discounts are predicated on the knowledge that senior citizens, on average, are more price sensitive than the public in general.</em></li>
+<li><em>The product or service cannot be easily traded among purchasers. This is necessary to avoid arbitrage, in which some customers with access to low prices resell to customers who are quoted higher prices.</em></li>
+<li><em>The segmentation must be both culturally and legally accepted. Group pricing can be extremely controversial. Certain group pricing practices—setting different prices for different races, for example—are illegal in many jurisdictions. Other group pricing practices such as gender-based pricing may or may not be illegal</em></li>
+</ul>
+</li>
+<li>
+<p><em>Ride-share operators typically set a time- and distance-based base rate for each trip. These base rates, which may vary by city, establish a minimum rider price and hence a minimum driver payment. However, most ride-sharing operators soon established dynamic pricing in which the rider price and driver price varied by time and by location.</em></p>
+</li>
+<li>
+<p><em>The ride-sharing service typically knows the number of people in the area who have the app open—we denote that potential demand by D.</em></p>
+</li>
+<li>
+<p><em>One question about dynamic pricing of this sort is whether it is good for customers. Note that, if a region is in a state of excess demand and prices are not increased, service quality will decrease: riders will see increased time to arrival for their ride or, in the extreme, that no cars are available. While an excess of demand may seem like a good situation for drivers, in actuality it is not. The increased arrival times mean that drivers are being sent from distant regions to satisfy the demand and are thus spending excessive time driving to pickups—time for which they do not get paid. Furthermore, the price has been kept low, so the result is lower driver payments per hour.</em></p>
+</li>
+<li>
+<p><em>With multiple market segments, the optimal price can be found by solving a constrained-optimization problem. At the optimal price, the marginal revenue will be the same for all segments, but it will not be equal to marginal cost if the constraint is binding.</em></p>
+</li>
+<li>
+<p><em>A supply constraint has an associated total opportunity cost, defined as the additional operating profit the business could achieve if the supply constraint were eliminated. The marginal opportunity cost associated with a supply constraint is defined as the additional operating profit the seller would realize if one additional unit of supply were available.</em></p>
+</li>
+<li>
+<p><em>Virtual restaurant is one whose brand appears only online, although it may be tied to a differently named physical restaurant. A ghost kitchen is an establishment that exists only to serve the delivery market—there is no associated dining establishment. Confusingly, ghost kitchens are sometimes referred to as virtual restaurants.</em></p>
+</li>
+<li>
+<p><em>Revenue management (RM) (once called yield management) refers to the strategy and tactics used by a number of industries—notably the passenger airlines but also including hotels, rental cars, cruise lines, and others—to manage the allocation of their capacity to different fare classes over time in order to maximize revenue.</em></p>
+</li>
+<li>
+<p><em>Revenue management can be considered a special case of variable and dynamic pricing with constrained supply. However, the final two conditions give revenue management its special flavor. Revenue management is based not on setting and updating prices but directly on setting and updating the availability of fare classes, where each fare class has an associated fare (price) that remains constant through the booking period.</em></p>
+</li>
+<li>
+<p><em>This is a prime revenue management sin—an airline cannot maximize revenue by rejecting high-fare customers to save seats for low-fare customers.</em></p>
+</li>
+<li>
+<p><em>Since almost 30% of airline bookings are canceled before departure, the booking management process at a passenger airline needs to update booking limits when cancellations occur.</em></p>
+</li>
+<li>
+<p><em>Revenue management needs to be implemented at three levels. At the strategic level, it requires identifying customer segments and creating virtual products and other ways of differentiating prices. At the booking-control level, it requires determining in real time whether or not booking requests should be accepted or rejected. At an intermediate level, tactical revenue management periodically recalculates and updates the booking limits used for booking controls.</em></p>
+</li>
+<li>
+<p>*Tactical revenue management consists of three interrelated problems:</p>
+<ul>
+<li><em>Capacity allocation: How should fare class booking limits be set for a single-resource product?</em></li>
+<li><em>Network management: How should bookings for multi-resource products be controlled?</em></li>
+<li><em>Overbooking: How many total bookings should be allowed for a resource?</em></li>
+</ul>
+</li>
+<li>
+<p><em>“Passengers do not come with Y-Class or M-Class stamped on their foreheads.” Rather, customers search for the best combination of fare and travel option that meets their needs. The</em></p>
+</li>
+<li>
+<p><em>Then the revenue opportunity metric (ROM) is the revenue actually achieved from that flight minus the revenue that would have been achieved under no revenue management expressed as a percentage of the total revenue opportunity.</em></p>
+</li>
+<li>
+<p><em>The term “bid price” is unfortunate because it is easily confused with the idea of bidding in an auction. This is not the situation in revenue management usage—the bid price is the minimum price that a seller would accept for another unit of a resource (such as a seat on a flight). The closest concept in auction theory is the reserve price, which is the minimum amount a seller would accept for an item.</em></p>
+</li>
+<li>
+<p><em>Bid price: the minimum price we should accept for a customer on a leg • Opportunity cost: the revenue we would gain from an additional seat on a leg • Displacement cost: the revenue we would lose if we had one seat less on a leg • Marginal value of the capacity constraint in the network linear program • Boundary between the highest closed and lowest open fare classes in a single-leg problem • Closed bucket boundary: boundary between the highest closed and lowest open buckets on a leg in a virtual nest</em></p>
+</li>
+<li>
+<p><em>Network management is an issue for any revenue management company that sells products consisting of a combination of two or more of the resources it controls.</em></p>
+</li>
+<li>
+<p><em>Key challenge in network management is the size and complexity of the problem. A large hub-and-spoke network may have millions of product–fare class combinations it needs to manage for future departures. The size and complexity of the problem is a major consideration in implementing solutions.</em></p>
+</li>
+<li>
+<p><em>American Airlines estimated that about 50% of its reservations resulted in either a cancellation or a no-show (Smith, Leimkuhler, and Darrow 1992).</em></p>
+</li>
+<li>
+<p><em>When a passenger is bumped against her will, it is known as an involuntary denied boarding. In 1966, the Civil Aeronautics Board estimated that the involuntary denied-boarding rate was about 7.7 per 10,000 boarded passengers.</em></p>
+</li>
+<li>
+<p><em>Overbooking is applicable in industries with all the following three characteristics. • Capacity (or supply) is constrained and perishable, and bookings are accepted for use of future capacity. • Customers are allowed to cancel or not show. • The cost of denying service to a customer with a booking is relatively low.</em></p>
+</li>
+<li>
+<p><em>This is a classic trade-off between exploration and exploitation; the challenge in using a data-driven approach in this setting is to experiment periodically by setting the booking limit artificially high for some departures to observe the pattern of shows and then use that information to set the optimal booking limits for future departures.</em></p>
+</li>
+<li>
+<p><em>Two metrics that are used to measure the effectiveness of overbooking are the spoilage rate and the denied-service (or denied-boarding) rate. Spoilage measures the seats that could have been filled but were left empty as a result of a booking limit that was too low, and denied service measures the number of passengers who showed but were denied boarding on a flight because shows exceeded available capacity.</em></p>
+</li>
+<li>
+<p><em>Nobody but a fungoid creature from another galaxy with no familiarity with earthly ways would ever pay list price for anything.</em></p>
+</li>
+<li>
+<p><em>This chapter discusses the tactics behind markdown management. The point of markdown management is to determine the timing and magnitude of markdowns that move the inventory while maximizing revenue.</em></p>
+</li>
+<li>
+<p>*These examples show, from the seller’s point of view, markdown products typically share two characteristics:</p>
+<ol>
+<li><em>Inventory (or capacity) is fixed.</em></li>
+<li><em>The inventory must be sold by a certain out date or its value drops precipitously.</em></li>
+</ol>
+</li>
+<li>
+<p>*Three criteria are all required for a markdown opportunity to be present.</p>
+<ul>
+<li><em>The item for sale must be perishable.</em></li>
+<li><em>The supply must be limited.</em></li>
+<li><em>The desirability of the item must hold constant or decrease as it approaches its perishability date.</em></li>
+</ul>
+</li>
+<li>
+<p><em>In customized pricing, potential customers approach the seller, one by one, and the seller quotes each one a price. Often (but not always) each potential buyer wants something different—either a different bundle of products or services, a different quantity, or a different variation on a basic product.</em></p>
+</li>
+<li>
+<p><em>In customized pricing, the seller can quote a different price for each request.</em></p>
+</li>
+<li>
+<p>*The customized-pricing modality has three characteristics that differentiate it from list pricing.</p>
+<ol>
+<li><em>Customers approach the seller prior to seeing a final price. In the cases described above, the customer takes the initiative and describes what she wants to purchase prior to seeing the price.</em></li>
+<li><em>The seller can quote a different price to each customer. The customized price can (and should) reflect the best information—including customer-specific information—that the seller has at that time. Of course, the seller will usually not have perfect information about the preferences of any individual customer or about competitive prices. But, as we will see, he can use statistical reasoning to increase his expected profitability for each bid.</em></li>
+<li><em>In customized pricing, the seller can track lost business. In a customized-pricing situation, the seller will either win—that is, get the business—or lose. In some (but not all) situations, a losing seller can find out which of his competitors won the business. However, even when this information is not available, the buyer knows that a potential customer has inquired about his product and decided not to purchase. This is in contrast to list pricing, in which the seller can only observe how many units he sold—not how many customers considered buying his product but decided against it. This lost bid information is important because it can form the basis for statistical estimation of customer bid-response functions.</em></li>
+</ol>
+</li>
+<li>
+<p><em>Here, deal means a particular piece of business, which may be a single order or a contract to provide future products and services. Bid means the price we offer.</em></p>
+</li>
+<li>
+<p><em>We could use bottom-up modeling to derive a bid-response function from our probability distributions based on how we believe our competitors will bid and the selection process we believe the buyer will use.</em></p>
+<ul>
+<li><em>We could convene the people within the company who have knowledge of this particular deal, experience with the customer, understanding of the competition, and experience with similar bidding situations and derive a bid-response function based on their expert judgment. This approach is often used when a deal is particularly large, important, or unique.</em></li>
+<li><em>We could use statistical estimation based on the historical patterns of wins and losses we have experienced with the same (or similar buyers) in similar past bidding situations.  We describe an approach that uses statistical analysis of prior bids to estimate an optimal price for each bid moving forward.</em></li>
+</ul>
+</li>
+<li>
+<p><em>Customized pricing requires two steps: estimating the bid-response function and then optimizing to find the price that maximizes the expected contribution for each bid.</em></p>
+</li>
+<li>
+<p>*We can use historical information about bids won and lost at different prices to estimate a bid-response function if three conditions hold.</p>
+<ol>
+<li><em>The historical record includes bids for similar products to similar customers.</em></li>
+<li><em>The current market conditions and products being offered are similar to those in the historical record.</em></li>
+<li><em>There is a sufficient number of bids in the historical record to estimate a statistically significant bid-response function.</em></li>
+</ol>
+</li>
+<li>
+<p><em>For customized pricing, the independent variable is price and all of the characteristics of a particular deal, and the dependent variable is the won/lost indicator, which can be either 0 or 1. This means that we want to fit a function that incorporates information about each deal to predict a binary dependent value. This is a problem of binary or Bernoulli regression.</em></p>
+</li>
+<li>
+<p><em>The bid-response function specification in Equation 13.10 has a drawback: estimating all the values of aijk and bijk requires running MLE independently for each cell in the PRO cube. However, reliable estimation of the parameters of the logit bid-response function requires at least 200 historical observations.</em></p>
+</li>
+<li>
+<p><em>Constraint 13.12 guarantees that the company will have at least a 75% probability of winning each bid to an online retailer.</em></p>
+</li>
+<li>
+<p><em>Let ρi(p) and fi(p) be the bid-response function and the contribution, respectively, for a particular deal, i. One way for the package express company to meet its market-share target would be to solve the constrained optimization problem subject to whenever it is bidding to an online retailer. (Bids to all other customers would still be unconstrained.) Constraint 13.12 guarantees that the company will have at least a 75% probability of winning each bid to an online retailer. If the unconstrained optimal price would result in a probability of winning the bid that was greater than 75%, the constraint will not make any difference—the optimal price will be the same.</em></p>
+</li>
+<li>
+<p><em>Approximations will suffice. Infeasibility. Business rules are usually applied for good reasons. However, there can be a dangerous tendency for business rules to accrue over time, particularly if obsolete rules are never removed.</em></p>
+</li>
+<li>
+<p><em>Effective customized pricing requires a disciplined business process both to calculate and administer prices and to ensure that the parameters of the bid-response functions are updated to capture changes in the market.</em></p>
+</li>
+<li>
+<p>*There are three core steps in the customized-pricing process.</p>
+<ol>
+<li><em>Calculate bid-response function. Using available information about the customer, the product (or products) she wishes to purchase, and the channel through which the request was received, the seller estimates how the probability of winning this customer’s business varies as a function of price. This requires retrieving (or calculating) the parameters of the bid-response function that apply to this particular combination of segment, channel, and product.</em></li>
+<li><em>Calculate deal contribution. The seller estimates the deal contribution function relating contribution from this deal to its price.</em></li>
+<li><em>Determine optimal price. Combining the bid-response function and the deal contribution function, the seller calculates the price that maximizes expected contribution (or other goal) subject to applicable business rules.</em></li>
+</ol>
+</li>
+<li>
+<p><em>Customized pricing occurs when customers approach a seller individually and describe their desired product (or products) prior to purchasing. Customized pricing is commonplace in business-to-business marketplaces as well as some consumer marketplaces, notably lending and insurance.</em></p>
+</li>
+<li>
+<p><em>Many behavioral studies have found effects of pricing that might be hard to use in the real world—for example, that customers are less sensitive to prices when the cents match their birthday</em></p>
+</li>
+<li>
+<p><em>Economic theory allows for the possibility of Giffen goods, whose demand rises as their price rises because of substitution effects.</em></p>
+</li>
+<li>
+<p><em>Prospect theory was introduced by Daniel Kahneman and Amos Tversky in 1979 based on their observation that people do not evaluate opportunities based on a strict evaluation of expected costs and benefits. Rather, they use various mental shortcuts and rules of thumb to make decisions.</em></p>
+</li>
+<li>
+<p><em>Dual entitlement. Dual entitlement postulates that consumers believe they are entitled to a “reasonable” price and firms are entitled to a “reasonable” profit.</em></p>
+</li>
+<li>
+<p><em>Customers may prefer simple pricing to complex pricing, but they are not willing to pay for it. Customers praised the simplicity of value pricing, but when the time came to purchase a ticket, they bought from the airline that was offering the cheapest seat—not from the one offering the simplest fare structure.</em></p>
+</li>
+<li>
+<p><em>Although the idea of Giffen goods dates from the mid-nineteenth century, the first empirical evidence for a Giffen good in the real world—rice markets in Hunan Province in China—was not provided until the twenty-first century, although their claim is controversial. If Giffen goods do exist in the real world, they are quite rare and have little relevance to the practical problem of setting prices.</em></p>
+</li>
+<li>
+<p><em>Optimization is a mathematical operation on this model that produces values of decision variables—in our case, primarily prices or booking limits—that can then be applied in the real world. For applications such as pricing and revenue optimization, this is often called a forecast then optimize approach—we build a mathematical model that forecasts what we believe would happen for different decisions we could make (often with a probability distribution) and then use an optimization model to calculate the values of the decision variables that maximize our objective function.</em></p>
+</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul class="toc-content overflow" id="list-1"><li class="depth-0"><a href="#pricing-and-revenue-optimization" data-for="pricing-and-revenue-optimization">Pricing and Revenue Optimization</a></li><li class="depth-0"><a href="#-the-book-in-3-sentences" data-for="-the-book-in-3-sentences">🚀 The Book in 3 Sentences</a></li><li class="depth-0"><a href="#-impressions" data-for="-impressions">🎨 Impressions</a></li><li class="depth-0"><a href="#️-my-top--quotes" data-for="️-my-top--quotes">✍️ My Top  Quotes</a></li><li class="overflow-end"></li></ul></div><div class="backlinks"><h3>Backlinks</h3><ul id="list-2" class="overflow"><li><a href="../../../../Working/Sales" class="internal">Sales</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.1</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../../../postscript.js" type="module"></script></html>

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en"><head><title>The Quants</title><meta charset="utf-8"/><link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com"/><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Schibsted Grotesk:wght@400;700&amp;family=Source Sans Pro:ital,wght@0,400;0,600;1,400;1,600&amp;family=IBM Plex Mono:wght@400;600&amp;display=swap"/><link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin="anonymous"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta name="og:site_name" content="Quartz 4"/><meta property="og:title" content="The Quants"/><meta property="og:type" content="website"/><meta name="twitter:card" content="summary_large_image"/><meta name="twitter:title" content="The Quants"/><meta name="twitter:description" content="The Quants 🚀 The Book in 3 Sentences This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work."/><meta property="og:description" content="The Quants 🚀 The Book in 3 Sentences This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work."/><meta property="og:image:alt" content="The Quants 🚀 The Book in 3 Sentences This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work."/><meta property="twitter:domain" content="quartz.jzhao.xyz"/><meta property="og:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Economics/Finance/The-Quants"/><meta property="twitter:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Economics/Finance/The-Quants"/><link rel="icon" href="../../../../static/icon.png"/><meta name="description" content="The Quants 🚀 The Book in 3 Sentences This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work."/><meta name="generator" content="Quartz"/><link href="../../../../index.css" rel="stylesheet" type="text/css" spa-preserve/><style>.expand-button {
+  position: absolute;
+  display: flex;
+  float: right;
+  padding: 0.4rem;
+  margin: 0.3rem;
+  right: 0;
+  color: var(--gray);
+  border-color: var(--dark);
+  background-color: var(--light);
+  border: 1px solid;
+  border-radius: 5px;
+  opacity: 0;
+  transition: 0.2s;
+}
+.expand-button > svg {
+  fill: var(--light);
+  filter: contrast(0.3);
+}
+.expand-button:hover {
+  cursor: pointer;
+  border-color: var(--secondary);
+}
+.expand-button:focus {
+  outline: 0;
+}
+
+pre:hover > .expand-button {
+  opacity: 1;
+  transition: 0.2s;
+}
+
+#mermaid-container {
+  position: fixed;
+  contain: layout;
+  z-index: 999;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  display: none;
+  backdrop-filter: blur(4px);
+  background: rgba(0, 0, 0, 0.5);
+}
+#mermaid-container.active {
+  display: inline-block;
+}
+#mermaid-container > #mermaid-space {
+  border: 1px solid var(--lightgray);
+  background-color: var(--light);
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 80vh;
+  width: 80vw;
+  overflow: hidden;
+}
+#mermaid-container > #mermaid-space > .mermaid-content {
+  padding: 2rem;
+  position: relative;
+  transform-origin: 0 0;
+  transition: transform 0.1s ease;
+  overflow: visible;
+  min-height: 200px;
+  min-width: 200px;
+}
+#mermaid-container > #mermaid-space > .mermaid-content pre {
+  margin: 0;
+  border: none;
+}
+#mermaid-container > #mermaid-space > .mermaid-content svg {
+  max-width: none;
+  height: auto;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  gap: 8px;
+  padding: 8px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 6px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 2;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  border: 1px solid var(--lightgray);
+  background: var(--light);
+  color: var(--dark);
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-family: var(--bodyFont);
+  transition: all 0.2s ease;
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:hover {
+  background: var(--lightgray);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:active {
+  transform: translateY(1px);
+}
+#mermaid-container > #mermaid-space > .mermaid-controls .mermaid-control-button:nth-child(2) {
+  width: auto;
+  padding: 0 12px;
+  font-size: 14px;
+}
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VSb290IjoiL1VzZXJzL2VtaWxyYW1zdmlrL0RvY3VtZW50cy9wcm9qZWN0cy9EaWdpdGFsLUdhcmRlbi9xdWFydHovY29tcG9uZW50cy9zdHlsZXMiLCJzb3VyY2VzIjpbIm1lcm1haWQuaW5saW5lLnNjc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7O0FBR0Y7RUFDRTtFQUNBOztBQUdGO0VBQ0U7OztBQUtGO0VBQ0U7RUFDQTs7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7O0FBR0Y7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTs7QUFHRjtFQUNFO0VBQ0E7O0FBSUo7RUFDRTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBOztBQUVBO0VBQ0U7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTs7QUFFQTtFQUNFOztBQUdGO0VBQ0U7O0FBSUY7RUFDRTtFQUNBO0VBQ0EiLCJzb3VyY2VzQ29udGVudCI6WyIuZXhwYW5kLWJ1dHRvbiB7XG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgZGlzcGxheTogZmxleDtcbiAgZmxvYXQ6IHJpZ2h0O1xuICBwYWRkaW5nOiAwLjRyZW07XG4gIG1hcmdpbjogMC4zcmVtO1xuICByaWdodDogMDsgLy8gTk9URTogcmlnaHQgd2lsbCBiZSBzZXQgaW4gbWVybWFpZC5pbmxpbmUudHNcbiAgY29sb3I6IHZhcigtLWdyYXkpO1xuICBib3JkZXItY29sb3I6IHZhcigtLWRhcmspO1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB2YXIoLS1saWdodCk7XG4gIGJvcmRlcjogMXB4IHNvbGlkO1xuICBib3JkZXItcmFkaXVzOiA1cHg7XG4gIG9wYWNpdHk6IDA7XG4gIHRyYW5zaXRpb246IDAuMnM7XG5cbiAgJiA+IHN2ZyB7XG4gICAgZmlsbDogdmFyKC0tbGlnaHQpO1xuICAgIGZpbHRlcjogY29udHJhc3QoMC4zKTtcbiAgfVxuXG4gICY6aG92ZXIge1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBib3JkZXItY29sb3I6IHZhcigtLXNlY29uZGFyeSk7XG4gIH1cblxuICAmOmZvY3VzIHtcbiAgICBvdXRsaW5lOiAwO1xuICB9XG59XG5cbnByZSB7XG4gICY6aG92ZXIgPiAuZXhwYW5kLWJ1dHRvbiB7XG4gICAgb3BhY2l0eTogMTtcbiAgICB0cmFuc2l0aW9uOiAwLjJzO1xuICB9XG59XG5cbiNtZXJtYWlkLWNvbnRhaW5lciB7XG4gIHBvc2l0aW9uOiBmaXhlZDtcbiAgY29udGFpbjogbGF5b3V0O1xuICB6LWluZGV4OiA5OTk7XG4gIGxlZnQ6IDA7XG4gIHRvcDogMDtcbiAgd2lkdGg6IDEwMHZ3O1xuICBoZWlnaHQ6IDEwMHZoO1xuICBvdmVyZmxvdzogaGlkZGVuO1xuICBkaXNwbGF5OiBub25lO1xuICBiYWNrZHJvcC1maWx0ZXI6IGJsdXIoNHB4KTtcbiAgYmFja2dyb3VuZDogcmdiYSgwLCAwLCAwLCAwLjUpO1xuXG4gICYuYWN0aXZlIHtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gIH1cblxuICAmID4gI21lcm1haWQtc3BhY2Uge1xuICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogdmFyKC0tbGlnaHQpO1xuICAgIGJvcmRlci1yYWRpdXM6IDVweDtcbiAgICBwb3NpdGlvbjogZml4ZWQ7XG4gICAgdG9wOiA1MCU7XG4gICAgbGVmdDogNTAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIGhlaWdodDogODB2aDtcbiAgICB3aWR0aDogODB2dztcbiAgICBvdmVyZmxvdzogaGlkZGVuO1xuXG4gICAgJiA+IC5tZXJtYWlkLWNvbnRlbnQge1xuICAgICAgcGFkZGluZzogMnJlbTtcbiAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDAgMDtcbiAgICAgIHRyYW5zaXRpb246IHRyYW5zZm9ybSAwLjFzIGVhc2U7XG4gICAgICBvdmVyZmxvdzogdmlzaWJsZTtcbiAgICAgIG1pbi1oZWlnaHQ6IDIwMHB4O1xuICAgICAgbWluLXdpZHRoOiAyMDBweDtcblxuICAgICAgcHJlIHtcbiAgICAgICAgbWFyZ2luOiAwO1xuICAgICAgICBib3JkZXI6IG5vbmU7XG4gICAgICB9XG5cbiAgICAgIHN2ZyB7XG4gICAgICAgIG1heC13aWR0aDogbm9uZTtcbiAgICAgICAgaGVpZ2h0OiBhdXRvO1xuICAgICAgfVxuICAgIH1cblxuICAgICYgPiAubWVybWFpZC1jb250cm9scyB7XG4gICAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgICBib3R0b206IDIwcHg7XG4gICAgICByaWdodDogMjBweDtcbiAgICAgIGRpc3BsYXk6IGZsZXg7XG4gICAgICBnYXA6IDhweDtcbiAgICAgIHBhZGRpbmc6IDhweDtcbiAgICAgIGJhY2tncm91bmQ6IHZhcigtLWxpZ2h0KTtcbiAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHZhcigtLWxpZ2h0Z3JheSk7XG4gICAgICBib3JkZXItcmFkaXVzOiA2cHg7XG4gICAgICBib3gtc2hhZG93OiAwIDJweCA0cHggcmdiYSgwLCAwLCAwLCAwLjEpO1xuICAgICAgei1pbmRleDogMjtcblxuICAgICAgLm1lcm1haWQtY29udHJvbC1idXR0b24ge1xuICAgICAgICBkaXNwbGF5OiBmbGV4O1xuICAgICAgICBhbGlnbi1pdGVtczogY2VudGVyO1xuICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjtcbiAgICAgICAgd2lkdGg6IDMycHg7XG4gICAgICAgIGhlaWdodDogMzJweDtcbiAgICAgICAgcGFkZGluZzogMDtcbiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHQpO1xuICAgICAgICBjb2xvcjogdmFyKC0tZGFyayk7XG4gICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDtcbiAgICAgICAgY3Vyc29yOiBwb2ludGVyO1xuICAgICAgICBmb250LXNpemU6IDE2cHg7XG4gICAgICAgIGZvbnQtZmFtaWx5OiB2YXIoLS1ib2R5Rm9udCk7XG4gICAgICAgIHRyYW5zaXRpb246IGFsbCAwLjJzIGVhc2U7XG5cbiAgICAgICAgJjpob3ZlciB7XG4gICAgICAgICAgYmFja2dyb3VuZDogdmFyKC0tbGlnaHRncmF5KTtcbiAgICAgICAgfVxuXG4gICAgICAgICY6YWN0aXZlIHtcbiAgICAgICAgICB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoMXB4KTtcbiAgICAgICAgfVxuXG4gICAgICAgIC8vIFN0eWxlIHRoZSByZXNldCBidXR0b24gZGlmZmVyZW50bHlcbiAgICAgICAgJjpudGgtY2hpbGQoMikge1xuICAgICAgICAgIHdpZHRoOiBhdXRvO1xuICAgICAgICAgIHBhZGRpbmc6IDAgMTJweDtcbiAgICAgICAgICBmb250LXNpemU6IDE0cHg7XG4gICAgICAgIH1cbiAgICAgIH1cbiAgICB9XG4gIH1cbn1cbiJdfQ== */</style><link href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" rel="stylesheet" type="text/css" spa-preserve/><script src="../../../../prescript.js" type="application/javascript" spa-preserve></script><script type="application/javascript" spa-preserve>const fetchData = fetch("../../../../static/contentIndex.json").then(data => data.json())</script><link rel="alternate" type="application/rss+xml" title="RSS Feed" href="https://quartz.jzhao.xyz/index.xml"/><meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Economics/Finance/The-Quants-og-image.webp"/><meta property="og:image:url" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Economics/Finance/The-Quants-og-image.webp"/><meta name="twitter:image" content="https://quartz.jzhao.xyz/Books/Book-Reviews/Economics/Finance/The-Quants-og-image.webp"/><meta property="og:image:type" content="image/.webp"/></head><body data-slug="Books/Book-Reviews/Economics/Finance/The-Quants"><div id="quartz-root" class="page"><div id="quartz-body"><div class="left sidebar"><h2 class="page-title"><a href="../../../..">Quartz 4</a></h2><div class="spacer mobile-only"></div><div class="flex-component" style="flex-direction: row; flex-wrap: nowrap; gap: 1rem;"><div style="flex-grow: 1; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><div class="search"><button class="search-button"><p>Search</p><svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.9 19.7"><title>Search</title><g class="search-path" fill="none"><path stroke-linecap="square" d="M18.5 18.3l-5.4-5.4"></path><circle cx="8" cy="8" r="7"></circle></g></svg></button><div class="search-container"><div class="search-space"><input autocomplete="off" class="search-bar" name="search" type="text" aria-label="Search for something" placeholder="Search for something"/><div class="search-layout" data-preview="true"></div></div></div></div></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="darkmode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="dayIcon" x="0px" y="0px" viewBox="0 0 35 35" style="enable-background:new 0 0 35 35" xml:space="preserve" aria-label="Dark mode"><title>Dark mode</title><path d="M6,17.5C6,16.672,5.328,16,4.5,16h-3C0.672,16,0,16.672,0,17.5    S0.672,19,1.5,19h3C5.328,19,6,18.328,6,17.5z M7.5,26c-0.414,0-0.789,0.168-1.061,0.439l-2,2C4.168,28.711,4,29.086,4,29.5    C4,30.328,4.671,31,5.5,31c0.414,0,0.789-0.168,1.06-0.44l2-2C8.832,28.289,9,27.914,9,27.5C9,26.672,8.329,26,7.5,26z M17.5,6    C18.329,6,19,5.328,19,4.5v-3C19,0.672,18.329,0,17.5,0S16,0.672,16,1.5v3C16,5.328,16.671,6,17.5,6z M27.5,9    c0.414,0,0.789-0.168,1.06-0.439l2-2C30.832,6.289,31,5.914,31,5.5C31,4.672,30.329,4,29.5,4c-0.414,0-0.789,0.168-1.061,0.44    l-2,2C26.168,6.711,26,7.086,26,7.5C26,8.328,26.671,9,27.5,9z M6.439,8.561C6.711,8.832,7.086,9,7.5,9C8.328,9,9,8.328,9,7.5    c0-0.414-0.168-0.789-0.439-1.061l-2-2C6.289,4.168,5.914,4,5.5,4C4.672,4,4,4.672,4,5.5c0,0.414,0.168,0.789,0.439,1.06    L6.439,8.561z M33.5,16h-3c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h3c0.828,0,1.5-0.672,1.5-1.5S34.328,16,33.5,16z     M28.561,26.439C28.289,26.168,27.914,26,27.5,26c-0.828,0-1.5,0.672-1.5,1.5c0,0.414,0.168,0.789,0.439,1.06l2,2    C28.711,30.832,29.086,31,29.5,31c0.828,0,1.5-0.672,1.5-1.5c0-0.414-0.168-0.789-0.439-1.061L28.561,26.439z M17.5,29    c-0.829,0-1.5,0.672-1.5,1.5v3c0,0.828,0.671,1.5,1.5,1.5s1.5-0.672,1.5-1.5v-3C19,29.672,18.329,29,17.5,29z M17.5,7    C11.71,7,7,11.71,7,17.5S11.71,28,17.5,28S28,23.29,28,17.5S23.29,7,17.5,7z M17.5,25c-4.136,0-7.5-3.364-7.5-7.5    c0-4.136,3.364-7.5,7.5-7.5c4.136,0,7.5,3.364,7.5,7.5C25,21.636,21.636,25,17.5,25z"></path></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="nightIcon" x="0px" y="0px" viewBox="0 0 100 100" style="enable-background:new 0 0 100 100" xml:space="preserve" aria-label="Light mode"><title>Light mode</title><path d="M96.76,66.458c-0.853-0.852-2.15-1.064-3.23-0.534c-6.063,2.991-12.858,4.571-19.655,4.571  C62.022,70.495,50.88,65.88,42.5,57.5C29.043,44.043,25.658,23.536,34.076,6.47c0.532-1.08,0.318-2.379-0.534-3.23  c-0.851-0.852-2.15-1.064-3.23-0.534c-4.918,2.427-9.375,5.619-13.246,9.491c-9.447,9.447-14.65,22.008-14.65,35.369  c0,13.36,5.203,25.921,14.65,35.368s22.008,14.65,35.368,14.65c13.361,0,25.921-5.203,35.369-14.65  c3.872-3.871,7.064-8.328,9.491-13.246C97.826,68.608,97.611,67.309,96.76,66.458z"></path></svg></button></div><div style="flex-grow: 0; flex-shrink: 1; flex-basis: auto; order: 0; align-self: center; justify-self: center;"><button class="readermode"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" class="readerIcon" fill="currentColor" stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round" width="64px" height="64px" viewBox="0 0 24 24" aria-label="Reader mode"><title>Reader mode</title><g transform="translate(-1.8, -1.8) scale(1.15, 1.2)"><path d="M8.9891247,2.5 C10.1384702,2.5 11.2209868,2.96705384 12.0049645,3.76669482 C12.7883914,2.96705384 13.8709081,2.5 15.0202536,2.5 L18.7549359,2.5 C19.1691495,2.5 19.5049359,2.83578644 19.5049359,3.25 L19.5046891,4.004 L21.2546891,4.00457396 C21.6343849,4.00457396 21.9481801,4.28672784 21.9978425,4.6528034 L22.0046891,4.75457396 L22.0046891,20.25 C22.0046891,20.6296958 21.7225353,20.943491 21.3564597,20.9931534 L21.2546891,21 L2.75468914,21 C2.37499337,21 2.06119817,20.7178461 2.01153575,20.3517706 L2.00468914,20.25 L2.00468914,4.75457396 C2.00468914,4.37487819 2.28684302,4.061083 2.65291858,4.01142057 L2.75468914,4.00457396 L4.50368914,4.004 L4.50444233,3.25 C4.50444233,2.87030423 4.78659621,2.55650904 5.15267177,2.50684662 L5.25444233,2.5 L8.9891247,2.5 Z M4.50368914,5.504 L3.50468914,5.504 L3.50468914,19.5 L10.9478955,19.4998273 C10.4513189,18.9207296 9.73864328,18.5588115 8.96709342,18.5065584 L8.77307039,18.5 L5.25444233,18.5 C4.87474657,18.5 4.56095137,18.2178461 4.51128895,17.8517706 L4.50444233,17.75 L4.50368914,5.504 Z M19.5049359,17.75 C19.5049359,18.1642136 19.1691495,18.5 18.7549359,18.5 L15.2363079,18.5 C14.3910149,18.5 13.5994408,18.8724714 13.0614828,19.4998273 L20.5046891,19.5 L20.5046891,5.504 L19.5046891,5.504 L19.5049359,17.75 Z M18.0059359,3.999 L15.0202536,4 L14.8259077,4.00692283 C13.9889509,4.06666544 13.2254227,4.50975805 12.7549359,5.212 L12.7549359,17.777 L12.7782651,17.7601316 C13.4923805,17.2719483 14.3447024,17 15.2363079,17 L18.0059359,16.999 L18.0056891,4.798 L18.0033792,4.75457396 L18.0056891,4.71 L18.0059359,3.999 Z M8.9891247,4 L6.00368914,3.999 L6.00599909,4.75457396 L6.00599909,4.75457396 L6.00368914,4.783 L6.00368914,16.999 L8.77307039,17 C9.57551536,17 10.3461406,17.2202781 11.0128313,17.6202194 L11.2536891,17.776 L11.2536891,5.211 C10.8200889,4.56369974 10.1361548,4.13636104 9.37521067,4.02745763 L9.18347055,4.00692283 L8.9891247,4 Z"></path></g></svg></button></div></div><div class="explorer" data-behavior="link" data-collapsed="collapsed" data-savestate="true" data-data-fns="{&quot;order&quot;:[&quot;filter&quot;,&quot;map&quot;,&quot;sort&quot;],&quot;sortFn&quot;:&quot;(a,b)=>!a.isFolder&amp;&amp;!b.isFolder||a.isFolder&amp;&amp;b.isFolder?a.displayName.localeCompare(b.displayName,void 0,{numeric:!0,sensitivity:\&quot;base\&quot;}):!a.isFolder&amp;&amp;b.isFolder?1:-1&quot;,&quot;filterFn&quot;:&quot;node=>node.slugSegment!==\&quot;tags\&quot;&quot;,&quot;mapFn&quot;:&quot;node=>node&quot;}"><button type="button" class="explorer-toggle mobile-explorer hide-until-loaded" data-mobile="true" aria-controls="explorer-content"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide-menu"><line x1="4" x2="20" y1="12" y2="12"></line><line x1="4" x2="20" y1="6" y2="6"></line><line x1="4" x2="20" y1="18" y2="18"></line></svg></button><button type="button" class="title-button explorer-toggle desktop-explorer" data-mobile="false" aria-expanded="true"><h2>Explorer</h2><svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><div class="explorer-content" aria-expanded="false"><ul class="explorer-ul overflow" id="list-0"><li class="overflow-end"></li></ul></div><template id="template-file"><li><a href="#"></a></li></template><template id="template-folder"><li><div class="folder-container"><svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="5 8 14 8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="folder-icon"><polyline points="6 9 12 15 18 9"></polyline></svg><div><button class="folder-button"><span class="folder-title"></span></button></div></div><div class="folder-outer"><ul class="content"></ul></div></li></template></div></div><div class="center"><div class="page-header"><div class="popover-hint"><nav class="breadcrumb-container" aria-label="breadcrumbs"><div class="breadcrumb-element"><a href="../../../../">Home</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/">Books</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/">Book Reviews</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/Economics/">Economics</a><p> ❯ </p></div><div class="breadcrumb-element"><a href="../../../../Books/Book-Reviews/Economics/Finance/">Finance</a><p> ❯ </p></div><div class="breadcrumb-element"><a href>The Quants</a></div></nav><h1 class="article-title">The Quants</h1><p show-comma="true" class="content-meta"><time datetime="2024-01-06T14:04:00.000Z">Jan 06, 2024</time><span>20 min read</span></p><ul class="tags"><li><a href="../../../../tags/books" class="internal tag-link">books</a></li><li><a href="../../../../tags/economics" class="internal tag-link">economics</a></li><li><a href="../../../../tags/mathematics" class="internal tag-link">mathematics</a></li><li><a href="../../../../tags/finance" class="internal tag-link">finance</a></li><li><a href="../../../../tags/quantitative-analysis" class="internal tag-link">quantitative-analysis</a></li><li><a href="../../../../tags/machine-learning" class="internal tag-link">machine-learning</a></li><li><a href="../../../../tags/anti-fragile" class="internal tag-link">anti-fragile</a></li><li><a href="../../../../tags/black-swan" class="internal tag-link">black-swan</a></li><li><a href="../../../../tags/game-theory" class="internal tag-link">game-theory</a></li></ul></div></div><article class="popover-hint"><h1 id="the-quants">The Quants<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#the-quants" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<h1 id="-the-book-in-3-sentences">🚀 The Book in 3 Sentences<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-the-book-in-3-sentences" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>This is a history book of people who revolutionized finance with math, game theory, and computers to model how the market work. However, the real world is not a model, and quants are also humans, as the financial crisis showed.</p>
+<h1 id="-impressions">🎨 Impressions<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#-impressions" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>It is a book about the major players and the history of quantitative finance from the focal point of the major players. It was interesting, and i liked it as some sort of history book.</p>
+<p>It was an interesting story, but i did not learn that much about the quantitative models outside of the shallowest one-liners.</p>
+<p>I did think the random walk vs. chaos theory models of the market was quite intersting.</p>
+<h2 id="how-i-discovered-it">How I Discovered It<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#how-i-discovered-it" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>On a fateful journey of N.N. Taleb´s Twitter timeline.</p>
+<h2 id="who-should-read-it">Who Should Read It?<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#who-should-read-it" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h2>
+<p>Its a bit of a niche book, so only people with a history of the finance world.</p>
+<h1 id="️-how-the-book-changed-me">☘️ How the Book Changed Me<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-how-the-book-changed-me" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<p>Not much, more interested in learning about chaos and non-linearities, as it is important for me to understand everything about it.</p>
+<h1 id="️-my-top--quotes">✍️ My Top  Quotes<a role="anchor" aria-hidden="true" tabindex="-1" data-no-popover="true" href="#️-my-top--quotes" class="internal"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a></h1>
+<ul>
+<li>
+<p><em>The Truth was a universal secret about the way the market worked that could only be discovered through mathematics.</em></p>
+</li>
+<li>
+<p><em>“The Great Moderation,” the speech told of a bold new economic era in which volatility—the jarring jolts and spasms that wreaked havoc on people’s lives and their pocketbooks—was permanently eradicated. One of the primary forces behind this economic Shangri-la, he said, was an “increased depth and sophistication of financial markets.”</em></p>
+</li>
+<li>
+<p><em>The law of entropy essentially means everything in the universe will eventually turn into a homogenous, undifferentiated goop.</em></p>
+</li>
+<li>
+<p><em>The future movement of a stock—a variable known to quants as volatility—is random, and therefore quantifiable.</em></p>
+</li>
+<li>
+<p><em>The letter contained a draft of a paper that Black had written with another Chicago economist, Myron Scholes, about a formula for pricing stock options. It would become one of the most famous papers in the history of finance, though few people, including its authors, had any idea how important it would be.</em></p>
+</li>
+<li>
+<p><em>Just as Einstein’s discovery of relativity theory in 1905 would lead to a new way of understanding the universe, as well as the creation of the atomic bomb, the Black-Scholes formula dramatically altered the way people would view the vast world of money and investing.</em></p>
+</li>
+<li>
+<p><em>Like Thorp’s methodology for pricing warrants, an essential component of the Black-Scholes formula was the assumption that stocks moved in a random walk. Stocks, in other words, are assumed to move in antlike zigzag patterns just like the pollen particles observed by Brown in 1827.</em></p>
+</li>
+<li>
+<p><em>On April 26, 1973, one month before the Black-Scholes paper appeared in print, the Chicago Board Options Exchange opened for business. And soon after, Texas Instruments introduced a handheld calculator that could price options using the Black-Scholes formula.</em></p>
+</li>
+<li>
+<p><em>Hotshot trader named Gerry Bamberger who’d just abandoned a post at Morgan Stanley. Bamberger had created a brilliant stock trading strategy that came to be known as statistical arbitrage, or stat arb—one of the most powerful trading strategies ever devised, a nearly flawless moneymaking system that could post profits no matter what direction the market was moving.</em></p>
+</li>
+<li>
+<p><em>As the meeting ended, APT’s traders and researchers sat fuming in their chairs. Shaw had crossed the line. Programmers weren’t supposed to trade, or even think about trading.</em></p>
+</li>
+<li>
+<p><em>According to their probability formula, published in 1995, the likelihood of the crash was a “27-standard-deviation event,” with a probability of 10 to the 160th power:</em></p>
+</li>
+<li>
+<p><em>Mandelbrot proposed an alternative method to measure the erratic behavior of prices, one that borrows a mathematical technique devised by the French mathematician Paul Lévy, whom he’d studied under in Paris. Lévy investigated distributions in which a single sample radically changes the curve. The average of the heights of 1,000 people won’t change very much as a result of the height of the 1,001st person. But a so-called Lévy distribution can be thrown off by a single wild shift in the sample. Mandelbrot uses the example of a blindfolded archer: 1,000 shots may fall close to the target, but the 1,001st shot, by happenstance, may fall very wide of the mark, radically changing the overall distribution.</em></p>
+</li>
+<li>
+<p><em>Stocks didn’t move in the tiny incremental ticks predicted by Brownian motion and the random walk theory. They leapt around like Mexican jumping beans.</em></p>
+</li>
+<li>
+<p><em>The joke around Meyer’s office was that they used the law firm of Cookie &amp; Cutter to launch Griffin’s fund. It would eventually be called Citadel Investment Group, a name designed to evoke the image of high ramparts that could withstand the most awesome financial onslaughts imaginable.</em></p>
+</li>
+<li>
+<p><em>During his summer vacation in 1987, between his freshman and sophomore years, he frequently visited a friend who worked at the First National Bank of Palm Beach. One day, he was describing his ideas about convertible bonds and hedging. A retiree named Saul Golkin happened to step into the office. After listening to Griffin’s spiel for twenty minutes, Golkin said, “I’ve got to run to lunch, I’m in for fifty.” At first, Griffin didn’t understand, until his friend explained that Golkin had just forked over fifty grand to the young whiz kid from Harvard.</em></p>
+</li>
+<li>
+<p><em>Griffin started trading, and calling everyone on Wall Street who would speak with him. A typical reaction: “You’re running two hundred grand out of your dorm room? Don’t ever call me again.” Slam.</em></p>
+</li>
+<li>
+<p><em>Griffin set up shop in Chicago in late 1989 with his $1 million in play dough, and was quickly making money hand over fist trading convertibles with his handcrafted software program. In his first year of trading, Griffin posted a whopping 70 percent return. Impressed, Meyer decided to help Griffin launch his own fund. He thought about other funds with similar strategies, and that’s when Ed Thorp came to mind.</em></p>
+</li>
+<li>
+<p><em>Before the interview, Muller made a pit stop in the men’s bathroom and was horrified by what he saw: a cigarette butt. A compulsive neat freak and health nut, Muller despised cigarettes. The butt was nearly a deal killer. He thought about canceling the interview. There was simply no way he would work in an office where people smoked.</em></p>
+</li>
+<li>
+<p><em>By 1985, BARRA was the West Coast axis mundi of the quant universe.</em></p>
+</li>
+<li>
+<p><em>He noticed that just as patients’ reactions to drugs differed, stocks exhibited strange, seemingly inexplicable behavior over time. There must be a logical way to find order beneath the chaos, he thought.</em></p>
+</li>
+<li>
+<p><em>The professor, Eugene Fama, had been teaching at the University of Chicago since the early 1960s. Now, in September 1989, he was universally acknowledged as one of the brightest thinkers about financial markets and economics on the planet.</em></p>
+</li>
+<li>
+<p><em>“There are a number of consequences to market efficiency,” Fama said, facing the classroom. “One of the most important is that it’s</em></p>
+</li>
+<li>
+<p><em>“There are a number of consequences to market efficiency,” Fama said, facing the classroom. “One of the most important is that it’s statistically impossible to know where the market is going next. This is known as the random walk theory, which means that the future course of the market is like a coin toss.</em></p>
+</li>
+<li>
+<p><em>“The mathematical expectation of the speculator is zero.”</em></p>
+</li>
+<li>
+<p><em>Another acolyte was Burton Malkiel, who went on to write A Random Walk Down Wall Street.</em></p>
+</li>
+<li>
+<p><em>In the financial planning community, so-called Monte Carlo simulations, which can forecast everyday investors’ portfolio growth over time, used the idea that the market moves according to a random walk. Thus, an annual gain or loss of 5 percent a year is far more likely, since it falls near the center of the bell curve. A gain or loss of 50 percent, such as the stock market crash seen in the credit crisis of 2008 (or the 23 percent single-day plunge seen on Black Monday, for that matter) was so unlikely as to be a virtual impossibility—in the models, at least.</em></p>
+</li>
+<li>
+<p><em>The most important element in determining a stock’s potential future return is its beta, a measure of how volatile the stock is compared with the rest of the market. And according to CAPM, the riskier the stock, the higher the potential reward.</em></p>
+</li>
+<li>
+<p><em>Such a finding was nothing short of lobbing a blazing Molotov cocktail into the most sacred tent of modern portfolio theory. Decades of research were flat-out wrong, the two professors alleged. Perhaps even more surprising were Fama and French’s findings about the market forces that did, in fact, drive stock returns. They found two factors that determined how well a stock performed during their sample period for 1963 to 1990: value and size.</em></p>
+</li>
+<li>
+<p><em>Asness knew that momentum was a direct challenge to Fama, and he expected a fight. He cleared his throat. “My paper is going to be pro-momentum,” he said with a wince. Fama rubbed his cheek and nodded. Several seconds passed. He looked up at Asness, his massive forehead wrinkled in concentration. “If it’s in the data,” he said, “write the paper.” Asness was stunned and elated. Fama’s openness to whatever the data showed was a remarkable display of intellectual honesty, he felt.</em></p>
+</li>
+<li>
+<p><em>According to Soros: “The increasing skill in measuring risk and modeling risk led to the neglect of uncertainty at LTCM, and the result is you could use a lot more leverage than you should if you recognize uncertainty. LTCM used leverage far above what should have been the case. They didn’t recognize that the model is flawed and it neglected this thick tail in the bell curve.”</em></p>
+</li>
+<li>
+<p><em>Renaissance’s flagship Medallion fund, launched in the late 1980s, is considered by many to be the most successful hedge fund in the world.</em></p>
+</li>
+<li>
+<p><em>A Markov process, named after Russian mathematician Andrey Markov, models a sequence of events in a system that have no direct relation to one another.</em></p>
+</li>
+<li>
+<p><em>Mercer, meanwhile, was simply known as the “big gun” at Renaissance. When a thorny problem cropped up that required focused attention, the firm would “just aim Bob at it and fire,” said a former employee.</em></p>
+</li>
+<li>
+<p><em>Elsesser was one of the first to hit the road, moving on to study gender issues in the workplace at UCLA. She’d grown sick of Morgan’s Big Swinging Dick, macho culture, even though she was relatively isolated from the worst behavior under PDT’s protective bubble. Traders often treated her as if she were Muller’s secretary. One time soon after they’d launched PDT, Elsesser was trading futures contracts electronically. A man walked into PDT’s office, stared at Elsesser, looked around, left. He came again, looked, and left. The next time he came, looking around in confusion, scratching his crotch, Elsesser finally asked, “Can I help you?” “They keep telling me some quant trader is in here trading futures and I keep telling them there’s nobody back here.” After a furious pause, Elsesser said, “That’s me.” The guy stood staring at her slack-jawed, then left again without saying a word.</em></p>
+</li>
+<li>
+<p><em>Black was eventually brought to the firm’s options desk to meet the head of trading. “So you’re Fischer Black,” the trader said, reaching out a hand to greet the legend. “Nice to meet you. Let me tell you something: you don’t know shit about options.” Welcome to Wall Street, Mr. Black.</em></p>
+</li>
+<li>
+<p><em>As Asness went to meet the firm’s notoriously prickly and long-jawed COO, he thought back to the day he’d gone to tell Fama about his research on momentum. Asness respected Fama far more than Paulson, whom he barely knew. So why was he so nervous? The presentation involved, among other things, the various markets Global Alpha traded in. Asness rattled off a string of regions and countries: North America, Southeast Asia, Brazil, Japan. “We trade in all of the countries in the EAFE index,” Asness added. Paulson had been silent throughout the presentation. So he shocked Asness when he suddenly blurted out, “Hold it.” Asness froze. “How many countries are in that index?” “Well,” Asness said, “it comprises Europe, Australasia, the Far East—” “That’s not what I asked,” Paulson said curtly. “How many countries?” “I believe twenty-one,” Asness said. “Name ’em.” Asness looked at Paulson in shock. Name them? Is this guy screwing with me? Paulson wasn’t laughing. Asness swallowed hard and started to tick off the names. France, Germany, Denmark, Australia, Japan, Singapore … He listed every country in the EAFE index. His broad forehead had sprouted a dew of sweat. Paulson sat there coolly watching Asness with his steely eyes, clenching his massive mandible. There was an awkward silence. “That’s eighteen,” Paulsen said. He’d been counting the names. And Asness had come up short—or so Paulson was implying. There was little Asness could say. He fumbled through the rest of the presentation and left in confusion. Great way to show your appreciation for my hard work, he thought.</em></p>
+</li>
+<li>
+<p><em>In November 1999, the Glass-Steagall Act of 1933, which had cleaved the investment banking and commercial banking industry in two—separating the risk-taking side of banks from the deposit side—was repealed.</em></p>
+</li>
+<li>
+<p><em>People who know Weinstein say his name is on more than one Vegas casino’s list of players banned for card counting.</em></p>
+</li>
+<li>
+<p><em>“There is no free lunch,” Taleb boomed in his thick Levant accent, his forefinger wagging in Muller’s face. “If ten thousand people flip a coin, after ten flips the odds are there will be someone who has turned up heads every time. People will hail this man as a genius, with a natural ability to flip heads. Some idiots will actually give him money. This is exactly what happened to LTCM. But it’s obvious that LTCM didn’t know shit about risk control. They were all charlatans.”</em></p>
+</li>
+<li>
+<p><em>Brown got sick of seeing the same rich kids he’d suckered at Harvard lord it over the quants in trading-floor games such as Liar’s Poker. That’s when he decided to bust up Liar’s Poker with quant wizardry.</em></p>
+</li>
+<li>
+<p><em>As Ranieri once said, “Mortgages are math.”</em></p>
+</li>
+<li>
+<p><em>Li often discussed the problem with colleagues from academia who were experts in an actuarial science called survival analysis. One concept they studied was the fact that after the death of a spouse, people tend to die sooner than their demographic peers. In other words, they were measuring correlations between the deaths of spouses.</em></p>
+</li>
+<li>
+<p><em>“The Gaussian copula was the Black-Scholes for credit derivates,” said Michel Crouhy, Li’s boss at CIBC in the 1990s.</em></p>
+</li>
+<li>
+<p><em>The Gaussian copula was, in hindsight, a disaster. The simplicity of the model hypnotized traders into thinking that it was a reflection of reality. In fact, the model was a jury-rigged formula based on the irrationally exuberant, self-reinforcing, and ultimately false wisdom of the crowd that assigned make-believe prices to an incredibly complex product. For a while it worked, and everyone was using it. But when the slightest bit of volatility hit in early 2007, the whole edifice fell apart.</em></p>
+</li>
+<li>
+<p><em>Magnetar’s trade was ingenious, and possibly diabolical. It would hold the riskiest slices of CDOs, known as the “equity”—those most vulnerable to defaults. But it also was buying protection on less-risky slices higher up the stack of the CDO’s structure, essentially betting on a wave of defaults. The roughly 20 percent yield on the equity slices provided the cash to purchase the less-risky slices. If the equity imploded, as it did, the losses would mean little if the higher-quality slices also saw significant losses, which they did.</em></p>
+</li>
+<li>
+<p><em>The SEC complied. It also decided to rely on the banks’ own quantitative models to determine how risky their investments were. In essence, in a move that would come to haunt not just the agency but the entire economy, the SEC outsourced oversight of the nation’s largest financial firms to the banks’ quants.</em></p>
+</li>
+<li>
+<p><em>All the bad news made it clear that many CDOs were worth far less than most had thought. The losses proved jaw-droppingly large. Later that year, Morgan took a loss of $7.8 billion, much of it from Hubler’s desk.</em></p>
+</li>
+<li>
+<p><em>Citadel, AQR, and Saba believed they were the smart guys in the room and had either hedged against losses or were on the right side of the trade and were poised to cash in.</em></p>
+</li>
+<li>
+<p><em>Margin call: two of the most frightening words in finance. Investors often borrow money from a prime broker to buy an asset, say a boatload of subprime mortgages. They do this through margin accounts. When the value of the asset declines, the prime broker calls up the investor and asks for additional cash in the margin account. If the investor doesn’t have the cash, he needs to sell something to raise it, some liquid holding that he can get rid of quickly.</em></p>
+</li>
+<li>
+<p><em>The losses in Medallion, however, were the most perplexing. Simons had never seen anything like it. Medallion’s superfast trading strategy, which acts as a liquidity provider for the rest of the market, was buying up the assets from quant funds that were frantically trying to exit positions. Medallion’s models predicted that the positions would move back into equilibrium. But the snapback didn’t happen. The positions kept declining. There was no equilibrium. Medallion kept buying, until its portfolio was a near mirror image of the funds that were in a massive deleveraging. It was a recipe for disaster. The</em></p>
+</li>
+<li>
+<p><em>Pissed-off plain-vanilla investors vented their rage on the quants as they saw their portfolios unravel. “You couldn’t get a date in high school and now you’re ruining my month,” was one sneer Muller heard.</em></p>
+</li>
+<li>
+<p><em>The worst fear of quants such as Asness was that their Chicago School guru, Eugene Fama, had been right all along: the market is efficient, brutally so. Long used to gobbling up the short-term inefficiencies like ravenous piranhas, they’d had a big chunk taken out of their own flesh by forces they could neither understand nor control.</em></p>
+</li>
+<li>
+<p><em>Dick Fuld was putting on a classic performance. The Lehman Brothers CEO, known as the “Gorilla” for his heavy-browed Cro-Magnon glare, monosyllabic grunts, and fiery rampages, had been ranting for more than a half hour to a roomful of managing directors. Fuld screamed. Jumped up and down. Shook his fists in defiance. It was June 2008. Lehman’s stock had been getting hammered all year as investors fretted about the firm’s shaky balance sheet.</em></p>
+</li>
+<li>
+<p><em>Someone raised a hand. “We hear everything you’re saying, Dick. But talk is cheap. Acting is louder than words. When are you going to buy a million shares?” Fuld didn’t miss a beat. “When Kathy sells some art.” Fuld was referring to his wife, Kathy Fuld, known for her expensive art collection. Was he joking? Some wondered. Fuld wasn’t laughing</em></p>
+</li>
+<li>
+<p><em>Someone raised a hand. “We hear everything you’re saying, Dick. But talk is cheap. Acting is louder than words. When are you going to buy a million shares?” Fuld didn’t miss a beat. “When Kathy sells some art.” Fuld was referring to his wife, Kathy Fuld, known for her expensive art collection. Was he joking? Some wondered. Fuld wasn’t laughing. There was the classic furrowed brow. It was a moment when some of Lehman’s top lieutenants started to wonder in earnest whether Lehman was in fact doomed. Their CEO seemed detached from reality. When Kathy sells some art?</em></p>
+</li>
+<li>
+<p><em>For more than a year, Greenspan had argued time and again that he wasn’t to blame for the meltdown. Several weeks earlier, President George W. Bush had signed a $700 billion government bailout plan for a financial industry devastated by the housing market’s collapse. In July, Bush had delivered a blunt diagnosis for the troubles in the financial system. “Wall Street got drunk,” Bush said at a Republican fund-raiser in Houston. “It got drunk, and now it’s got a hangover. The question is, how long will it sober up and not try to do all these fancy financial instruments?” The credit meltdown of late 2008 had shocked the world with its intensity. The fear spread far beyond Wall Street, triggering sharp downturns in global trade and battering the world’s economic engine. On Capitol Hill, the government’s finger-pointing machinery cranked up to full throttle. Among the first called to account: Greenspan. Greenspan, many in Congress believed, had been</em></p>
+</li>
+<li>
+<p><em>Greenspan’s confession was stunning. It marked a dramatic shift for the eighty-two-year-old banker who for so long had been hailed variously as the most powerful man on the planet and the wise central banker with a Midas touch. In a May 2005 speech he’d hailed the system he now doubted.</em></p>
+</li>
+<li>
+<p><em>As Boaz Weinstein liked to say, it wasn’t rocket surgery.</em></p>
+</li>
+<li>
+<p><em>To quants, unprecedented is perhaps the dirtiest word in the English language. Their models are by necessity backward-looking, based on decades of data about how markets operate in all kinds of conditions. When something is unprecedented, it falls outside the parameters of the models. In other words, the models don’t work anymore. It was as if a person flipping a coin a hundred times, expecting roughly half to turn up heads and the rest tails, experienced a dozen straight flips where the coin landed on its edge.</em></p>
+</li>
+<li>
+<p><em>Many of the rumors cropped up on a popular Wall Street blog called Dealbreaker. The site was peppered with disparaging comments about AQR. Dealbreaker’s gossipy scribe, Bess Levin, had</em></p>
+</li>
+<li>
+<p><em>Many of the rumors cropped up on a popular Wall Street blog called Dealbreaker. The site was peppered with disparaging comments about AQR.</em></p>
+</li>
+<li>
+<p><em>And that means hard work. Renaissance has a concept known as the “second forty hours.” Employees are each allotted forty hours to work on their assigned duties—programming, researching markets, building out the computer system. Then, during the second forty hours, they’re allowed to venture into nearly any area of the fund and experiment.</em></p>
+</li>
+<li>
+<p><em>Charismatic, extremely intelligent, easy to get along with, Simons had created a culture of extreme loyalty that encouraged an intense desire among its employees to succeed. The fact that very few Renaissance employees over the years had left the firm, compared to the river of talent flowing out of Citadel, was a testament to Simons’s leadership abilities.</em></p>
+</li>
+<li>
+<p><em>The Ph.D.’s might know their sines from their cosines, but they often had little idea how to distinguish the fundamental realities behind why the market behaved as it did.</em></p>
+</li>
+<li>
+<p><em>The truth is that there are no fundamental laws in finance.</em></p>
+</li>
+<li>
+<p><em>To ensure that the quant-driven meltdown that began in August 2007 would never happen again, the two über-quants developed a “modelers’ Hippocratic Oath”: I will remember that I didn’t make the world, and it doesn’t satisfy my equations. Though I will use models boldly to estimate value, I will not be overly impressed by mathematics. I will never sacrifice reality for elegance without explaining why I have done so. Nor will I give the people who use my model false comfort about its accuracy. Instead, I will make explicit its assumptions and oversights. I understand that my work may have enormous effects on society and the economy, many of them beyond my comprehension.</em></p>
+</li>
+<li>
+<p><em>“Beware of geeks bearing formulas,” Buffett warned.</em></p>
+</li>
+<li>
+<p><em>“People assume that if they use higher mathematics and computer models they’re doing the Lord’s work,” observed Buffett’s longtime partner, the cerebral Charlie Munger. “They’re usually doing the devil’s work.”</em></p>
+</li>
+<li>
+<p><em>“Mandelbrot, like Prime Minister Churchill before him, promises us not utopia but blood, sweat, toil, and tears,” he read. “If he is right, almost all of our statistical tools are obsolete.</em></p>
+</li>
+<li>
+<p><em>His investing prowess is legendary, as is his physical stamina. When he was fifty-three, he decided to run a series of marathons—five of them, in five days. On the fifth day, his kidney ruptured. He saw blood streaming down his leg. But Gross didn’t stop. He finished the race, collapsing into a waiting ambulance past the finish line.</em></p>
+</li>
+<li>
+<p><em>“And that led to increased leverage to maintain the same returns. It’s leverage, the overbetting, that leads to the big unwind. Stability leads to instability, and here we are. The supposed stability deceived people.”</em></p>
+</li>
+<li>
+<p><em>Evidence was emerging that certain parts of the brain are subject to a “money illusion” that blinds people to the impact of future events, such as the effect of inflation on the present value of cash—or the possibility of a speculative bubble bursting.</em></p>
+</li>
+</ul></article><hr/><div class="page-footer"></div></div><div class="right sidebar"><div class="graph"><h3>Graph View</h3><div class="graph-outer"><div class="graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:1,&quot;scale&quot;:1.1,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.3,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:false,&quot;enableRadial&quot;:false}"></div><button class="global-graph-icon" aria-label="Global Graph"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 55 55" fill="currentColor" xml:space="preserve"><path d="M49,0c-3.309,0-6,2.691-6,6c0,1.035,0.263,2.009,0.726,2.86l-9.829,9.829C32.542,17.634,30.846,17,29,17
+                s-3.542,0.634-4.898,1.688l-7.669-7.669C16.785,10.424,17,9.74,17,9c0-2.206-1.794-4-4-4S9,6.794,9,9s1.794,4,4,4
+                c0.74,0,1.424-0.215,2.019-0.567l7.669,7.669C21.634,21.458,21,23.154,21,25s0.634,3.542,1.688,4.897L10.024,42.562
+                C8.958,41.595,7.549,41,6,41c-3.309,0-6,2.691-6,6s2.691,6,6,6s6-2.691,6-6c0-1.035-0.263-2.009-0.726-2.86l12.829-12.829
+                c1.106,0.86,2.44,1.436,3.898,1.619v10.16c-2.833,0.478-5,2.942-5,5.91c0,3.309,2.691,6,6,6s6-2.691,6-6c0-2.967-2.167-5.431-5-5.91
+                v-10.16c1.458-0.183,2.792-0.759,3.898-1.619l7.669,7.669C41.215,39.576,41,40.26,41,41c0,2.206,1.794,4,4,4s4-1.794,4-4
+                s-1.794-4-4-4c-0.74,0-1.424,0.215-2.019,0.567l-7.669-7.669C36.366,28.542,37,26.846,37,25s-0.634-3.542-1.688-4.897l9.665-9.665
+                C46.042,11.405,47.451,12,49,12c3.309,0,6-2.691,6-6S52.309,0,49,0z M11,9c0-1.103,0.897-2,2-2s2,0.897,2,2s-0.897,2-2,2
+                S11,10.103,11,9z M6,51c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S8.206,51,6,51z M33,49c0,2.206-1.794,4-4,4s-4-1.794-4-4
+                s1.794-4,4-4S33,46.794,33,49z M29,31c-3.309,0-6-2.691-6-6s2.691-6,6-6s6,2.691,6,6S32.309,31,29,31z M47,41c0,1.103-0.897,2-2,2
+                s-2-0.897-2-2s0.897-2,2-2S47,39.897,47,41z M49,10c-2.206,0-4-1.794-4-4s1.794-4,4-4s4,1.794,4,4S51.206,10,49,10z"></path></svg></button></div><div class="global-graph-outer"><div class="global-graph-container" data-cfg="{&quot;drag&quot;:true,&quot;zoom&quot;:true,&quot;depth&quot;:-1,&quot;scale&quot;:0.9,&quot;repelForce&quot;:0.5,&quot;centerForce&quot;:0.2,&quot;linkDistance&quot;:30,&quot;fontSize&quot;:0.6,&quot;opacityScale&quot;:1,&quot;showTags&quot;:true,&quot;removeTags&quot;:[],&quot;focusOnHover&quot;:true,&quot;enableRadial&quot;:true}"></div></div></div><div class="toc desktop-only"><button type="button" class="toc-header" aria-controls="toc-content" aria-expanded="true"><h3>Table of Contents</h3><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="fold"><polyline points="6 9 12 15 18 9"></polyline></svg></button><ul class="toc-content overflow" id="list-1"><li class="depth-0"><a href="#the-quants" data-for="the-quants">The Quants</a></li><li class="depth-0"><a href="#-the-book-in-3-sentences" data-for="-the-book-in-3-sentences">🚀 The Book in 3 Sentences</a></li><li class="depth-0"><a href="#-impressions" data-for="-impressions">🎨 Impressions</a></li><li class="depth-1"><a href="#how-i-discovered-it" data-for="how-i-discovered-it">How I Discovered It</a></li><li class="depth-1"><a href="#who-should-read-it" data-for="who-should-read-it">Who Should Read It?</a></li><li class="depth-0"><a href="#️-how-the-book-changed-me" data-for="️-how-the-book-changed-me">☘️ How the Book Changed Me</a></li><li class="depth-0"><a href="#️-my-top--quotes" data-for="️-my-top--quotes">✍️ My Top  Quotes</a></li><li class="overflow-end"></li></ul></div></div><footer class><p>Created with <a href="https://quartz.jzhao.xyz/">Quartz v4.5.1</a> © 2025</p><ul><li><a href="https://github.com/jackyzha0/quartz">GitHub</a></li><li><a href="https://discord.gg/cRFFHYye7t">Discord Community</a></li></ul></footer></div></div></body><script type="application/javascript">function n(){let t=this.parentElement;t.classList.toggle("is-collapsed");let e=t.getElementsByClassName("callout-content")[0];if(!e)return;let l=t.classList.contains("is-collapsed");e.style.gridTemplateRows=l?"0fr":"1fr"}function c(){let t=document.getElementsByClassName("callout is-collapsible");for(let e of t){let l=e.getElementsByClassName("callout-title")[0],s=e.getElementsByClassName("callout-content")[0];if(!l||!s)continue;l.addEventListener("click",n),window.addCleanup(()=>l.removeEventListener("click",n));let o=e.classList.contains("is-collapsed");s.style.gridTemplateRows=o?"0fr":"1fr"}}document.addEventListener("nav",c);
+</script><script type="module">function f(i,e){if(!i)return;function r(o){o.target===this&&(o.preventDefault(),o.stopPropagation(),e())}function t(o){o.key.startsWith("Esc")&&(o.preventDefault(),e())}i?.addEventListener("click",r),window.addCleanup(()=>i?.removeEventListener("click",r)),document.addEventListener("keydown",t),window.addCleanup(()=>document.removeEventListener("keydown",t))}function y(i){for(;i.firstChild;)i.removeChild(i.firstChild)}var h=class{constructor(e,r){this.container=e;this.content=r;this.setupEventListeners(),this.setupNavigationControls(),this.resetTransform()}isDragging=!1;startPan={x:0,y:0};currentPan={x:0,y:0};scale=1;MIN_SCALE=.5;MAX_SCALE=3;cleanups=[];setupEventListeners(){let e=this.onMouseDown.bind(this),r=this.onMouseMove.bind(this),t=this.onMouseUp.bind(this),o=this.resetTransform.bind(this);this.container.addEventListener("mousedown",e),document.addEventListener("mousemove",r),document.addEventListener("mouseup",t),window.addEventListener("resize",o),this.cleanups.push(()=>this.container.removeEventListener("mousedown",e),()=>document.removeEventListener("mousemove",r),()=>document.removeEventListener("mouseup",t),()=>window.removeEventListener("resize",o))}cleanup(){for(let e of this.cleanups)e()}setupNavigationControls(){let e=document.createElement("div");e.className="mermaid-controls";let r=this.createButton("+",()=>this.zoom(.1)),t=this.createButton("-",()=>this.zoom(-.1)),o=this.createButton("Reset",()=>this.resetTransform());e.appendChild(t),e.appendChild(o),e.appendChild(r),this.container.appendChild(e)}createButton(e,r){let t=document.createElement("button");return t.textContent=e,t.className="mermaid-control-button",t.addEventListener("click",r),window.addCleanup(()=>t.removeEventListener("click",r)),t}onMouseDown(e){e.button===0&&(this.isDragging=!0,this.startPan={x:e.clientX-this.currentPan.x,y:e.clientY-this.currentPan.y},this.container.style.cursor="grabbing")}onMouseMove(e){this.isDragging&&(e.preventDefault(),this.currentPan={x:e.clientX-this.startPan.x,y:e.clientY-this.startPan.y},this.updateTransform())}onMouseUp(){this.isDragging=!1,this.container.style.cursor="grab"}zoom(e){let r=Math.min(Math.max(this.scale+e,this.MIN_SCALE),this.MAX_SCALE),t=this.content.getBoundingClientRect(),o=t.width/2,n=t.height/2,c=r-this.scale;this.currentPan.x-=o*c,this.currentPan.y-=n*c,this.scale=r,this.updateTransform()}updateTransform(){this.content.style.transform=`translate(${this.currentPan.x}px, ${this.currentPan.y}px) scale(${this.scale})`}resetTransform(){this.scale=1;let e=this.content.querySelector("svg");this.currentPan={x:e.getBoundingClientRect().width/2,y:e.getBoundingClientRect().height/2},this.updateTransform()}},C=["--secondary","--tertiary","--gray","--light","--lightgray","--highlight","--dark","--darkgray","--codeFont"],E;document.addEventListener("nav",async()=>{let e=document.querySelector(".center").querySelectorAll("code.mermaid");if(e.length===0)return;E||=await import("https://cdnjs.cloudflare.com/ajax/libs/mermaid/11.4.0/mermaid.esm.min.mjs");let r=E.default,t=new WeakMap;for(let n of e)t.set(n,n.innerText);async function o(){for(let s of e){s.removeAttribute("data-processed");let a=t.get(s);a&&(s.innerHTML=a)}let n=C.reduce((s,a)=>(s[a]=window.getComputedStyle(document.documentElement).getPropertyValue(a),s),{}),c=document.documentElement.getAttribute("saved-theme")==="dark";r.initialize({startOnLoad:!1,securityLevel:"loose",theme:c?"dark":"base",themeVariables:{fontFamily:n["--codeFont"],primaryColor:n["--light"],primaryTextColor:n["--darkgray"],primaryBorderColor:n["--tertiary"],lineColor:n["--darkgray"],secondaryColor:n["--secondary"],tertiaryColor:n["--tertiary"],clusterBkg:n["--light"],edgeLabelBackground:n["--highlight"]}}),await r.run({nodes:e})}await o(),document.addEventListener("themechange",o),window.addCleanup(()=>document.removeEventListener("themechange",o));for(let n=0;n<e.length;n++){let v=function(){let g=l.querySelector("#mermaid-space"),m=l.querySelector(".mermaid-content");if(!m)return;y(m);let w=c.querySelector("svg").cloneNode(!0);m.appendChild(w),l.classList.add("active"),g.style.cursor="grab",u=new h(g,m)},M=function(){l.classList.remove("active"),u?.cleanup(),u=null},c=e[n],s=c.parentElement,a=s.querySelector(".clipboard-button"),d=s.querySelector(".expand-button"),p=window.getComputedStyle(a),L=a.offsetWidth+parseFloat(p.marginLeft||"0")+parseFloat(p.marginRight||"0");d.style.right=`calc(${L}px + 0.3rem)`,s.prepend(d);let l=s.querySelector("#mermaid-container");if(!l)return;let u=null;d.addEventListener("click",v),f(l,M),window.addCleanup(()=>{u?.cleanup(),d.removeEventListener("click",v)})}});
+</script><script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/copy-tex.min.js" type="application/javascript"></script><script type="application/javascript">
+        const socket = new WebSocket('ws://localhost:3001')
+        // reload(true) ensures resources like images and scripts are fetched again in firefox
+        socket.addEventListener('message', () => document.location.reload(true))
+      </script><script src="../../../../postscript.js" type="module"></script></html>

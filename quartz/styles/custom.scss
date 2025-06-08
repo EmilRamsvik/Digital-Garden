@@ -1,0 +1,38 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+
+// Customize body text size
+body {
+    font-size: 16px; // You can adjust this value to your preference
+}
+
+// If you want to adjust the size of specific elements
+p {
+    font-size: 1rem; // This will be relative to the body font size
+}
+
+// Adjust heading sizes if needed
+h1 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1.1rem;
+}
+
+h6 {
+    font-size: 1rem;
+}
