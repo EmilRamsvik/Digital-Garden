@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 4</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Last 10 notes on Quartz 4</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Chili Crab</title>
+    <link>https://quartz.jzhao.xyz/Travel/Places/Chili-Crab</link>
+    <guid>https://quartz.jzhao.xyz/Travel/Places/Chili-Crab</guid>
+    <description></description>
+    <pubDate>Tue, 17 Dec 2024 09:44:12 GMT</pubDate>
+  </item><item>
+    <title>Living</title>
+    <link>https://quartz.jzhao.xyz/Living/Living</link>
+    <guid>https://quartz.jzhao.xyz/Living/Living</guid>
+    <description>Living Living for me is taking advantage of things that are dear to me and making a small impact in the world.</description>
+    <pubDate>Wed, 28 Aug 2024 13:09:00 GMT</pubDate>
+  </item><item>
+    <title>Large Language Models</title>
+    <link>https://quartz.jzhao.xyz/Tools/Large-Language-Models</link>
+    <guid>https://quartz.jzhao.xyz/Tools/Large-Language-Models</guid>
+    <description>Large Language models OpenAI GPT-4 GPT-4 is one of the best tools I have used in the last couple of years.</description>
+    <pubDate>Fri, 21 Jun 2024 13:01:00 GMT</pubDate>
+  </item><item>
+    <title>Book Quotes 2021</title>
+    <link>https://quartz.jzhao.xyz/Books/Book-Quotes-2021</link>
+    <guid>https://quartz.jzhao.xyz/Books/Book-Quotes-2021</guid>
+    <description>Black Swan Nassim Niclas Taleb Vicissitudes: A Change in circumstance or fortune Epistemological: Læren om viten eller erkjennelse Black swans are unknown unknowns.</description>
+    <pubDate>Fri, 01 Mar 2024 16:32:00 GMT</pubDate>
+  </item><item>
+    <title>Duck</title>
+    <link>https://quartz.jzhao.xyz/Food/Recipes/Duck</link>
+    <guid>https://quartz.jzhao.xyz/Food/Recipes/Duck</guid>
+    <description>Duck Duck is one of the better ways of making haute cuisine food. And I very much prefer the French way of cooking duck.</description>
+    <pubDate>Fri, 02 Feb 2024 13:23:00 GMT</pubDate>
+  </item><item>
+    <title>Confident Learning</title>
+    <link>https://quartz.jzhao.xyz/AI/Data-Science/Confident-Learning</link>
+    <guid>https://quartz.jzhao.xyz/AI/Data-Science/Confident-Learning</guid>
+    <description>Confident Learning As you can see from the above image, confident learning is about estimating the likelyhood of the data being labeled correctly based upon the confidence of the model.</description>
+    <pubDate>Wed, 10 Jan 2024 12:14:00 GMT</pubDate>
+  </item><item>
+    <title>AI</title>
+    <link>https://quartz.jzhao.xyz/AI/AI</link>
+    <guid>https://quartz.jzhao.xyz/AI/AI</guid>
+    <description>AI This is where I write about AI and Data Science.</description>
+    <pubDate>Sat, 06 Jan 2024 14:04:00 GMT</pubDate>
+  </item><item>
+    <title>Computer Vision</title>
+    <link>https://quartz.jzhao.xyz/AI/Data-Science/Computer-Vision</link>
+    <guid>https://quartz.jzhao.xyz/AI/Data-Science/Computer-Vision</guid>
+    <description>Computer Vision Vision Transformer Vision transformer applies the transformer architecture to computer vision algorithms.</description>
+    <pubDate>Sat, 06 Jan 2024 14:04:00 GMT</pubDate>
+  </item><item>
+    <title>Data Science (Emil-sin-MacBook-Pro.local&#039;s conflicted copy 2024-10-13)</title>
+    <link>https://quartz.jzhao.xyz/AI/Data-Science/Data-Science-(Emil-sin-MacBook-Pro.local's-conflicted-copy-2024-10-13)</link>
+    <guid>https://quartz.jzhao.xyz/AI/Data-Science/Data-Science-(Emil-sin-MacBook-Pro.local's-conflicted-copy-2024-10-13)</guid>
+    <description>Data Science What is data science? It is a bunch of different jobs bunched together and given the tie of AI to make a company sound innovative.</description>
+    <pubDate>Sat, 06 Jan 2024 14:04:00 GMT</pubDate>
+  </item><item>
+    <title>Data Science Project Start-Up Phase</title>
+    <link>https://quartz.jzhao.xyz/AI/Data-Science/Data-Science-Project-Start-Up-Phase</link>
+    <guid>https://quartz.jzhao.xyz/AI/Data-Science/Data-Science-Project-Start-Up-Phase</guid>
+    <description>Data Science Project Start-Up Phase The start-up phase of a data science project is, for me, one of the most exciting parts of the project, but it is also one of the most unclear phases.</description>
+    <pubDate>Sat, 06 Jan 2024 14:04:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>

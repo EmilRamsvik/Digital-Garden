@@ -9,7 +9,7 @@ tags:
   - home
   - kitchen/dishes
 created: 2023-12-03T12:20
-updated: 2025-06-06T16:22
+updated: 2024-08-29T13:17
 ---
 # Kitchen
 
