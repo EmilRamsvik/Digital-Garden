@@ -10,5 +10,7 @@ cp -a "$SOURCE_DIR"/. "$TARGET_DIR"/
 
 find "$TARGET_DIR" -type f -name '*conflicted copy*' -exec rm -f {} +
 
+# Remove all files and directories in the target directory
+rm -rf "${TARGET_DIR:?}/"*
 
 echo "All files from '$SOURCE_DIR' have replaced the contents of '$TARGET_DIR'."
