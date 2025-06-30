@@ -1,12 +1,12 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-07T10:16
+updated: 2025-06-11T13:19
 tags:
   - article
   - digital-garden
   - management
   - technical-managment
-Finished: false
+Finished: true
 ---
 
 # Tech Lead
@@ -22,6 +22,10 @@ You want the person designing the system to be able to build the system.
 As a tech lead, take a lot of time to write the system diagrams and archtiecture of the system out, try to explain the system. Understand the reasinging and the purpose. Make sure that your technology choices are documented. You should ask yourself the questions, if you are comming into the project in 6 months, how will you get on board to understand the system. 
 
 Tech leads who are not collaborating, teaching, elvating the team is not a tech lead but a fool put in charge. Those who do not do this is not suited for the role. 
+
+## What is an architect? 
+Is the role of an architect a good role? What does an IT architect does that is not avaialble
+
 # Links
 - 
 
@@ -29,4 +33,4 @@ Tech leads who are not collaborating, teaching, elvating the team is not a tech 
 - Cultural debt. A spin-off on the concept of technical debt. It is the increase of work needed to fix cultural aspects of the organization. It is the quintessential "we have always done it this way."
 - Code culture is a concept of having a culture of excellence and being consistently good. It is the small things. This is very relatable to the DevOps culture. I, for one, think that some of the things DevOps does are instill rules that serve as processes or guardrails. I, for one, think that working on creating good engineers and a good code culture is quite much more important. 
 - One of the most important aspects of being a leader of engineers is instilling a sense of craftsmanship and pride in their work. This is one of the most important aspects of being there as a manager and a teacher for the junior engineers. 
-- When becomming a Manager or Tech Lead, be prepared for the fact that the closest you come coding will be a PR. 
+- When becomming a Manager or Tech Lead, be prepared for the fact that the closest you come coding will be a PR. This is unfortunatley more and more true the more I work in that position.  

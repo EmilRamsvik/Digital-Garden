@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-06-25T12:57
 Pages: 440
 Author: Scott Chacon
 finished: true
@@ -26,6 +26,8 @@ It is quite comprehensive on the git work itself.
 I found it to be a good book with interesting concepts. I wanted to read it to get a better understanding of how git works and to explain how it works more properly to others. In my line of work, understanding the why has been more important than doing the what or improving the how. This is an attempt by me to do this. 
 
 Here is the [link](https://git-scm.com/book/en/v2) to the book as a free open-source book. 
+
+Leanring git well helps a lot when it comes to project management, debugging and diaster recovery. Therefore, mastering it will make your project a lot leaner and easier to maintain. 
 
 # ✍️ My Top  Quotes
 

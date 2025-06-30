@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-11-09T17:38
+updated: 2025-06-26T13:44
 Pages: 
 Author: 
 finished: true
@@ -154,24 +154,25 @@ The laws on pricing and advertising is good. THere is much to learn from just re
 	4. **Clients are more important to you than you can ever be to them.** 
 	5. **Never let a single client have more than one-fourth of your business.** 
 	6. **The best marketing tool is a satisfied client.** 
-	7. **Give away your best ideas. 8. It tastes better when you add your own egg.** 
-	8. **Spend at least one-fourth of your time doing nothing.**
+	7. **Give away your best ideas. 
+	8. **It tastes better when you add your own egg.** 
+	9. **Spend at least one-fourth of your time doing nothing.**
  
 - *Pricing has many functions, only one of which is the exchange of money.* 
  
 - *When I set a fee, there are two possibilities: One is that the client will accept it, I'll do the work, and I'll be paid that fee; the other is that the client will reject it, I won't do the work, and I won't get that fee. The Ninth Law says that I should set the fee so that whatever happens, I'll feel more or less the same.* 
  
 - *The pricing laws: 
-	1. *Pricing has many functions, only one of which is the exchange of money.* 
-	2. *The more they pay you, the more they love you. The less they pay you, the less they respect you.* 
-	3. *The money is usually the smallest part of the price.* 
-	4. *Pricing is not a zero-sum game.*
-	5. *If you need the money, don't take the job.* 
-	6. *If they don't like your work, don't take their money.* 
-	7. *Money is more than price.* 
-	8. *Price is not a thing; it's a negotiated relationship.* 
-	9. *Set the price so you won't regret it either way. If you examine these laws, you'll realize that they don't talk about rationality, but emotionality.* 
-	10. *In other words, underlying all the other laws of pricing is The Tenth Law: All prices are ultimately based on feelings, both yours and theirs.*
+	1. **Pricing has many functions, only one of which is the exchange of money.** 
+	2. **The more they pay you, the more they love you. The less they pay you, the less they respect you.** 
+	3. **The money is usually the smallest part of the price.** 
+	4. **Pricing is not a zero-sum game.**
+	5. **If you need the money, don't take the job.** 
+	6. **If they don't like your work, don't take their money.** 
+	7. **Money is more than price.** 
+	8. **Price is not a thing; it's a negotiated relationship.** 
+	9. **Set the price so you won't regret it either way. If you examine these laws, you'll realize that they don't talk about rationality, but emotionality.** 
+	10. **In other words, underlying all the other laws of pricing is The Tenth Law: All prices are ultimately based on feelings, both yours and theirs.**
  
 - *"Cutting the cards" takes care of the clients' mistakes (or my mistakes in listening), but what if the clients really are lying? What if they are really trying to mislead me? Because I never rely on the ability of a single person to give me the truth, the whole truth, and nothing but the truth about a complex situation, lying presents no real problem. I routinely check any important fact from several different directions, so unless the entire organization is lying, generally arrive at a true picture in the end. If my final picture seems to contradict what someone told me, I always try to go back to that person and say, "In my notes, I recorded that you said thus-and-so, but from other sources I've found this-and-that. Can you help me reconcile the difference?"* 
  

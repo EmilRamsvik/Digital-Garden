@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-06-27T08:59
 Pages: 240
 Author: David Maister
 finished: true
@@ -24,13 +24,13 @@ The importance of gaining trust is all that this book gives. As a consultant, yo
 You are not always there to deliver a product (competence) but rather to help the client reach their business goals. 
 Relationships are the building block of a consultant. 
 
-
+Your job as an advisor is not to be right, it is to be helpful. 
 # ✍️ My Top  Quotes
 
 - *We then focus on three basic skills that a trusted advisor needs: 
-	- (1) earning trust; 
-	- (2) giving advice effectively; and 
-	- (3) building relationships* 
+	- (1) Earning trust
+	- (2) Giving advice effectively
+	- (3) Building relationships
  
 - *The more your clients trust you, the more they will: 
 	1. Reach for your advice 

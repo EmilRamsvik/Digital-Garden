@@ -7,7 +7,7 @@ tags:
   - aws
   - article
 created: 2024-01-06T15:04
-updated: 2024-08-27T11:13
+updated: 2025-06-11T10:04
 ---
 # Cloud
 
@@ -40,6 +40,6 @@ A Virtual Network, often abbreviated as VNet, is a logically isolated network wi
 - [On Cloud Computing Addiction (video)](https://wilhelmsen.atlassian.net/l/cp/v7PtYEzk) Cloud is a helluva drug.
 
 # Thoughts 
-- 
+- Learn the CLI its a powerful tool that will enhance your skills a lot. 
 
 

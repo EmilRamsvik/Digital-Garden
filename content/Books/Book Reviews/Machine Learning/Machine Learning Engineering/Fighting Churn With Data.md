@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-01-31T14:52
+updated: 2025-06-06T16:24
 Pages: 352
 Author: Carl Gold
 finished: true
@@ -22,7 +22,11 @@ This book is about the concept of churn and how to apply data to solve the probl
 # 🎨 Impressions
 
 There are no easy ways of reducing churn. It will take a lot of effort. 
- 
+I feel like the only way to be good at churn reduction is either 
+1. Have a great product
+2. Use [dark-patterns](https://en.wikipedia.org/wiki/Dark_pattern)
+
+This is a dilema. I think one is extremely difficult (Making awesome products takes a lot of effort, skill and luck.) and one is morally wrong. 
 
 # ✍️ My Top  Quotes
 

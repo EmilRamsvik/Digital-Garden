@@ -9,12 +9,9 @@ tags:
   - home
   - kitchen/dishes
 created: 2023-12-03T12:20
-updated: 2024-08-29T13:17
+updated: 2025-06-06T16:22
 ---
 # Kitchen
-
-
-
 
 
 ### Cutting techniques
@@ -50,8 +47,10 @@ I think having a dishwashing machine is critical, not only do you not have to ca
 
 # Links
 - [25 minutes of dishwashing tips](https://youtu.be/jHP942Livy0?si=4UnAyuwldJL1iqjc)
+- [On Food and Cooking](../Books/Book%20Reviews/Mich/On%20Food%20and%20Cooking.md) - For comprehensive guides on food and cooking. 
 
 # Thoughts 
 - A dishwasher is as much a place to store dirty things as a washing machine. 
-
+- Having a good cutting board is very good. Invest in the tools you use the most time with. This would be knives and cutting boards and cooking equipment. 
+- 
 

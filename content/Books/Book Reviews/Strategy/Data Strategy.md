@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-06-26T09:23
 Pages: 
 Author: 
 finished: false
@@ -148,7 +148,7 @@ Execution is to practice, as strategy is to theory.
  
 - *This found that a third of respondents at the best executing organisations identified implementation as a strategic activity in itself with lessons learnt fed back into the process, compared to just 11 per cent at other organisations. In addition, 59 per cent of those organisations who were best at execution involved staff who set the high-level strategy in its implementation, compared to just 23 per cent elsewhere.* 
  
-- *‘several widely held beliefs that managers hold about how to implement strategy are just plain wrong’.* 
+- *Several widely held beliefs that managers hold about how to implement strategy are just plain wrong’.* 
  
 - *The five critical myths they focused on were: Execution equals alignment. Execution means sticking to the plan. Communication equals understanding. A performance culture drives execution. Execution should be driven from the top.* 
  

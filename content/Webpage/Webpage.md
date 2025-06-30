@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-12T16:53
+updated: 2025-06-08T16:18
 tags:
   - article
   - digital-garden
@@ -20,6 +20,24 @@ I made a static web page to share my thoughts and the knowledge I have acquired.
 My go-to knowledge-gathering and note-taking app is [Obsidian](../Obsidian/Obsidian.md). Obsidian lets me quickly gather notes in a structured format and have standard methods for linking notes together, having tags, and a more structured way of learning. 
 A big issue is structuring migrations from obsidian to the github. For me, it was a bit more of difficult setting to migrate the data from one place to another. Furthermore, 
 
+# Quartz
+
+[Quartz](https://quartz.jzhao.xyz/) Is the new method for exposing my notes to the world. I discovered via obsidian and this [Youtube Clip](https://www.youtube.com/watch?v=6s6DT1yN4dw&t=34s&ab_channel=NicolevanderHoeven)
+
+I choose to migrate because the following reasons:
+1. Less overhead and complications as it is made for Obsidian.
+2. More build in functionality that I struggled with implementing in old framework (Search, Recent changes etc.)
+3. Docusaurus (Old Framework) was old and not that much used. 
+4. The old site kept breaking down, not fun. I had to fix it regardless. 
+
+
+### Migrating From Docusaurus to Quartz
+
+ Actually, moving from DocuService to Quartz was a pretty straightforward thing. I think I primarily spent most of my time in the command line using a lot of LLMs to help facilitate the migration. 
+ 
+ I think most of the issues were probably just related to removing files, making sure that all the small configs were set up in place. One of the best things with this is that it was so easy for me to let go of all the stress of a major rewrite, just delete and move on. Just skrew it, delete everything, put it back together and then I'll deal with the augumentations when I have time. 
+
+# Old Frameworks
 ## Docusaurus
 Docusaurus is a library based on the React framework and is used to display the page. One advantage of docusaurus is that I can work in obsidian and then migrate those to the repo with the code. I can also separate the different pages that are personal and those that I would like to share. 
 Also, Docusaurus enables me to learn more about JavaScript and development in React.  I found it very easy to deploy and make the web page, making it much more rewarding to work on development.  ¨
