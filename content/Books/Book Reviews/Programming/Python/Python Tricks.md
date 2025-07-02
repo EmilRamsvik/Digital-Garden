@@ -9,7 +9,7 @@ tags:
   - programming
 Date Finished: 2023-12-08
 created: 2024-01-06T15:04
-updated: 2025-03-05T12:51
+updated: 2025-06-25T12:56
 ---
 # Python Tricks
 
@@ -81,5 +81,5 @@ Fun and light read without too much work
  
 - *Generators can be chained together to form highly efficient and maintainable data processing pipelines. Chained generators process each element going through the chain individually. Generator expressions can be used to write concise pipeline definitions, but this can impact readability.* 
  
-- *After doing some digging in the Python documentation, I learned that Python treats bool as a subclass of int. This is the case in Python 2 and Python* 
+- *After doing some digging in the Python documentation, I learned that Python treats bool as a subclass of int. This is the case in Python 2 and Python 3* 
  

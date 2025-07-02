@@ -7,10 +7,22 @@ tags:
   - article
 Finished: true
 created: 2024-01-06T15:04
-updated: 2024-04-15T13:52
+updated: 2025-06-11T10:04
 ---
 # Azure
-Azure is microsofts cloud service. It is like AWS, but only more microsofty. I have worked extensievley with Azure and find it to be a bit cumbersome, with rough edges. Understanding the CLI was key for my development, made things so much easier.  I think this experience is something that is shared across cloud providers. 
+Azure is Microsoft´s cloud service. It is like AWS, but only more microsofty. I have worked extensievley with Azure and find it to be a bit cumbersome, with rough edges. Understanding the CLI was key for my development, made things so much easier.  I think this experience is something that is shared across cloud providers. 
+
+
+
+## Azure CLI
+If you are working with Azure, take some time to learn the CLI. It is a powerful tool and in the right hands it will fix a lot of stuff that the portal cannot. 
+As an example [on keyvaults and storing keys](https://learn.microsoft.com/en-us/answers/questions/1397054/ingest-or-store-private-key-in-azure-key-vault), the portal cannot store a proper keyvault private/public key. So you actually need to use the CLI. 
+
+Nice little guide for using the CLI, which one of my old mentors taught me: 
+1. ```az <resource> -h``` - See the options you have
+2. ```az <resource> --list``` - Find the resources available
+3. ```az <resource> --name show``` - show the resource you want.
+Those commands are quite helpful. Then find the resource you need, and then do the ```-h``` command to see the next options. 
 
 
 ## Storage 
@@ -37,7 +49,7 @@ Azure Cognitive Search's Semantic Search is a feature that enhances traditional 
 ## [Document intelligence](https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-read?view=doc-intel-4.0.0). 
 
 Document intelligence is usually scanning documents such as pdf for their content using [OCR (Optical Character Recognition)](https://en.wikipedia.org/wiki/Optical_character_recognition).  It can retrieve a lot of information and has a very handy feature to extract tables and key value pair. I used it to create quite powerful features with LLMs. For example handling enterprise emails and requests it is quite powerful. 
-
+Quite nice tool, can recommend. 
 #### ML-Ops
 [ML-Ops in Azure Examples](https://github.com/microsoft/MLOps)
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-06T19:02
+updated: 2025-06-11T10:13
 tags:
   - article
   - digital-garden
@@ -34,11 +34,12 @@ I have two types of daily notes, one in DayOne applicaiton and another for work 
 
 ## Articles
 
-
+I write articles that will be a living thing, rather than a concrete thing that will be finished. I think that is one of the things that is different in a digital garden than a blog. 
 
 # Links
 - [TIL Github repo](https://github.com/williln/til) 
 - [Notes as a developer](https://hamatti.org/posts/how-i-take-work-notes-as-a-developer/)
+- [The PARA System](https://www.buildingasecondbrain.com/para)
 
 # Thoughts 
 - 

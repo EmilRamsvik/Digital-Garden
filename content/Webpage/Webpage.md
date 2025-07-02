@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-08T12:25
+updated: 2025-06-08T16:18
 tags:
   - article
   - digital-garden
@@ -29,6 +29,13 @@ I choose to migrate because the following reasons:
 2. More build in functionality that I struggled with implementing in old framework (Search, Recent changes etc.)
 3. Docusaurus (Old Framework) was old and not that much used. 
 4. The old site kept breaking down, not fun. I had to fix it regardless. 
+
+
+### Migrating From Docusaurus to Quartz
+
+ Actually, moving from DocuService to Quartz was a pretty straightforward thing. I think I primarily spent most of my time in the command line using a lot of LLMs to help facilitate the migration. 
+ 
+ I think most of the issues were probably just related to removing files, making sure that all the small configs were set up in place. One of the best things with this is that it was so easy for me to let go of all the stress of a major rewrite, just delete and move on. Just skrew it, delete everything, put it back together and then I'll deal with the augumentations when I have time. 
 
 # Old Frameworks
 ## Docusaurus

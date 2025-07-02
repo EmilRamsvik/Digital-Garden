@@ -3,7 +3,7 @@ Pages: 544
 Date Finished: Jun 17, 2023
 Author: Daniel J. Levitvin
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-06-27T10:20
 tags:
   - books
   - productivity
@@ -109,8 +109,6 @@ I think that it is an interesting read and that people who want to get better at
  
 - *Westward travel finds us having to delay our bedtime, which is not so difficult to do. Eastward travel finds us arriving in a city where it’s bedtime and we’re not yet tired. Traveling east is difficult even for people who do it all the time.* 
  
-- *Once you’re on the plane, if you’re westbound, keep the overhead reading lamp on, even if it is your home bedtime. When you arrive in the western city, exercise lightly by taking a walk in the sun. That sunlight will delay the production of melatonin in your body. If you’re on an eastbound plane, wear eye shades to cover your eyes two hours or so before sunset in your destination city, to acclimate yourself to the new “dark” time.* 
- 
 - *Procrastination comes in two types. Some of us procrastinate in order to pursue restful activities—spending time in bed, watching TV—while others of us procrastinate certain difficult or unpleasant tasks in favor of those that are more fun or that yield an immediate reward.* 
   
 - *The writer and polymath George Plimpton noted that successful people have paradoxically had many more failures than people whom most of us would consider to be, well, failures. If this sounds like double-talk or mumbo jumbo, the resolution of the paradox is that successful people (or people who eventually become successful) deal with failures and setbacks very differently from everyone else.* 
@@ -195,7 +193,7 @@ I think that it is an interesting read and that people who want to get better at
  
 - *“Social media isn’t journalism, it’s information. Journalism is what you do with it.”* 
   
-- *Because the industry is unregulated, figures are hard to come by, but The Economist estimates that it is a $ billion business worldwide. Forty percent of Americans report using alternative medicines and therapies;* 
+- *Because the homeopatic industry is unregulated, figures are hard to come by, but The Economist estimates that it is a $ billion business worldwide. Forty percent of Americans report using alternative medicines and therapies;* 
  
 - *Pseudoscience often uses the terminology of science and observation but does not use the full rigor of controlled experiments and falsifiable hypotheses.* 
  

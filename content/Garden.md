@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-18T16:41
+updated: 2025-06-11T11:45
 tags:
   - article
   - digital-garden
@@ -17,20 +17,17 @@ The garden is by no means a finished work, even my publications of articles are 
 
 ## [AI](AI/AI.md) 
 I write a lot about AI, and these are my articles on AI.  [Data Science](AI/Data%20Science/Data%20Science.md) is a sub-phase that I think will be good to go through later. 
-I work a lot with data and have tried to figure out the path of a great datacre
+I work a lot with data and have tried to figure out the path of a great data career. It is a field/domain that is constantly changing and that makes it fun. 
 
 ## Tools and Methods
 
 I like to try to understand more about [Productivity](Productivity/Productivity.md) and especially the [Theory Behind Productivity](Productivity/Productivity%20Theory.md). In the [Mac](Mac/Mac.md) and [iPhone](Iphone/Iphone.md) sections, I talk a little about the tools I use the most, their applications, and other tools in [Tools](Tools/Tools.md).  Of course, [Programming](Programming/Programming.md) contains much info on programming that I have worked on and learned. 
   
-## Books
+## [[Books]]
 
 I read a lot, with 72 books read in 2021, 52 in 2022, and 84 books read in 2023. In 2023, I started using Kindle as my primary tool. And I also started using book reviews to read and understand more of what I actually read. The hope is that the book reviews, combined with going back to the book reviews and linking to other books, might make the reviews a more *living* thing that is constantly growing and evolving (In line with the general principles of the digital garden.)
-### [Booklist 2023](Books/Booklist%202023.md)
-List of books with their Book Reviews linked from 2023. 
 
-### [Booklist 2024](Books/Booklist%202024.md)
-Booklist from 2024: some of the books have not been read through yet; the books on the list are added as I discover them. 
+
 
 
 ## Other things
@@ -40,3 +37,4 @@ I write a little bit about [Mathematics](Mathematics/Mathematics.md) and some th
 
 #### Links
 - [About Digital Gardens](https://tomcritchlow.com/2019/02/17/building-digital-garden/)
+- The difference between a dig

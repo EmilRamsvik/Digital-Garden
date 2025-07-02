@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2025-05-16T13:54
+updated: 2025-06-30T09:08
 ---
 
 #### Tech Resume 
@@ -19,7 +19,7 @@ _Author:_ Brenda Ueland
 _Pages:_ 179
 _Language:_ English
 
-#### [Coaching for Performance](Personal/Books/Book%20Reviews/Coaching%20for%20Performance.md)
+#### [Coaching for Performance](Book%20Reviews/Work/Coaching%20for%20Performance.md)
 _Author:_ John Whitmore
 _Pages:_ 240
 _Language:_ English
@@ -64,7 +64,7 @@ _Author:_ Barbaro Minto
 _Pages:_ 192
 _Language:_ English
 
-#### The First 90 Days
+#### [The First 90 Days](Book%20Reviews/Work/Jobs/The%20First%2090%20Days.md)
 _Author:_ Michael Watkins 
 _Pages:_ 304
 _Language:_ English
@@ -109,7 +109,7 @@ _Author:_ Leon McCarron
 _Pages:_ 
 _Language:_ English
 
-#### [The Alchemy of Air](Book%20Reviews/The%20Alchemy%20of%20Air.md)
+#### [The Alchemy of Air](Book%20Reviews/Science/World/The%20Alchemy%20of%20Air.md)
 _Author:_ Thomas Hager
 _Pages:_ 
 _Language:_ English
@@ -164,7 +164,7 @@ _Language:_ English
 *Pages* 572
 *Language*: English
 
-#### Domain Driven Design 
+#### [Domain Driven Design ](Personal/Books/Book%20Reviews/Domain%20Driven%20Design%20.md)
 *Author:*  Eric Evans
 *Pages*: 560
 *Language*: English
@@ -275,10 +275,6 @@ _Author:_
 _Pages:_ 
 _Language:_ English
 
-#### Consulting for Organizational Change
-_Author:_ Fritz Steele
-_Pages:_ 202
-_Language:_ English
 
 #### On Becoming a Counselor
 _Author:_ Eugene Kennedy
@@ -443,4 +439,38 @@ _Language:_ English
 #### [Spark](Book%20Reviews/Data/Data%20Engineering/Spark.md)
 _Author:_ 
 _Pages:_ 
+_Language:_ English
+
+#### [Corporate Confidential](Book%20Reviews/Work/Corporate%20Confidential.md)
+_Author:_ Cynthia Shapiro
+_Pages:_ 225
+_Language:_ 
+
+
+#### [The World for Sale](Book%20Reviews/History/The%20World%20for%20Sale.md) 
+_Author:_ Jack Farthy
+_Pages:_ 416
+_Language:_ English
+
+#### [Stealing the Corner Office](Book%20Reviews/Work/Jobs/Stealing%20the%20Corner%20Office.md) 
+_Author:_ 
+_Pages:_ 
+_Language:_ English
+
+
+#### [Delta Lake](Book%20Reviews/Data/Delta%20Lake.md) 
+_Author:_ 
+_Pages:_ 
+_Language:_ English
+
+
+#### [Tempo](Personal/Books/Book%20Reviews/Tempo.md) 
+_Author:_ Venkatesh Rao
+_Pages:_ 17g
+_Language:_ English
+
+
+#### Ratio 
+_Author:_ Michael Ruhlman
+_Pages:_ 272
 _Language:_ English

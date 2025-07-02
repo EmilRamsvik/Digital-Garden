@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-23T12:28
+updated: 2025-06-23T14:44
 tags:
   - article
   - digital-garden
@@ -52,7 +52,7 @@ The last part of the master thesis for me was just finishing up the report and i
 I think studing a hard and difficult subject is very rewarding. I felt like my work made me able to not only become very good at my subject, but also made it quite easy for me to quickly grasp difficult concepts. 
 
 In my work, I felt primarily that I lacked a lot of computer science skills, and that has affected a lot of my work as a data scientist. 
-
+Most of the important things I learned when studing is the value of the network and how important it is to ask questions and have a culture of sharing. 
 # Links
 
 

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-05-16T14:18
+updated: 2025-06-25T13:45
 Pages: 
 Author: 
 finished: true
@@ -27,7 +27,7 @@ A modern journey through the mesopotamia and its ancient history.
 
 # 🎨 Impressions
 
-As noted in [The Alchemy of Air](The%20Alchemy%20of%20Air.md) impressions, the evilness of ISIS is so petty and profound that I cannot describe it properly. 
+As noted in [The Alchemy of Air](../Science/World/The%20Alchemy%20of%20Air.md) impressions, the evilness of ISIS is so petty and profound that I cannot describe it properly. 
 
 It is the boring pettishnes of these regimes that is so nagging and disgusting. 
 

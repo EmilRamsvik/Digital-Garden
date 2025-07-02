@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-06-23T17:29
 Pages: 
 Author: 
 finished: true
@@ -35,7 +35,7 @@ Good advice, I  liken it to [Peopleware](../Peopleware.md) and [The Managers Pat
  
 - *Just like delegation, the act of navigating politics in an organization is slippery. The difference between a manager who knows what’s going on in an organization and one who is a purely politically driven slimeball is thin. But I would take either of those over some passive manager who lets the organization happen to him.* 
  
-- ***Your manager is not a manager until he participated in a layoff. I mean it.***
+- *Your manager is not a manager until he participated in a layoff. **I mean it.***
  
 - *What I remember is that the senior VP of applications walked around the building, gathered the product team up, and then told us the straight dope about the layoff … in the hallway. This is what the layoff is about, this is who is affected, and this is when it’s happening. I’d never interacted with Rob, the VP, in my life and, come to think of it, I never really interacted with him again. Still, I think fondly of the guy because during a time of stress, he illuminated. He didn’t obfuscate.* 
  
@@ -57,7 +57,7 @@ Good advice, I  liken it to [Peopleware](../Peopleware.md) and [The Managers Pat
  
 - *There is absolutely no way you’re going to prevent folks from randomly talking to each other about every bright-and-shiny thing that’s going on in your company. In fact, you want to encourage it. One-on-ones and meetings are only going to get you so far. The thing you can change is the quality of the information that’s wandering around the company.* 
  
-- *Without active prevention, the Grapevine can be stronger than any individual. While you can’t kill the Grapevine, you can dubiously stare at it when it shows up on your doorstep and simply ask the person delivering it, “Do you actually believe this nonsense* 
+- *Without active prevention, the Grapevine can be stronger than any individual. While you can’t kill the Grapevine, you can dubiously stare at it when it shows up on your doorstep and simply ask the person delivering it, "Do you actually believe this nonsense"?* 
  
 - *There are two useful types of meetings: alignment meetings and creation meetings. Briefly, alignment meetings are tactical communication exchanges that rarely dive into the strategic. These are fine meetings that have a weekly cadence, and while there are lots of ways to screw up these meetings, their tactical repetition often keeps them on the rails.* 
  
@@ -139,7 +139,9 @@ Good advice, I  liken it to [Peopleware](../Peopleware.md) and [The Managers Pat
  
 - *They’ve quit, and when someone quits they are effectively saying, “I no longer believe in this company.” What’s worse is that what they were originally thinking was, “I’m bored.”* 
  
-- *Whether someone is bored or not, you always need to be able to answer two questions regarding each person on your team: 1.  Where are they going? 2.  What are you currently doing to get them there?* 
+- *Whether someone is bored or not, you always need to be able to answer two questions regarding each person on your team: 
+	1.  Where are they going? 
+	2.  What are you currently doing to get them there? 
  
 - *Part of your credibility as a leader is your public and repeated declaration that it’s your job to help your team succeed, but you have another task: you need to keep building stuff.* 
  
