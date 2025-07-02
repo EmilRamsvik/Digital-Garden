@@ -1,12 +1,12 @@
 ---
 created: 2023-12-04T13:14
 updated: 2024-12-18T16:41
+title: The Garden
 tags:
   - article
   - digital-garden
   - docusaurus
-  - "#react"
-Finished: false
+  - react
 ---
 # The Garden
 
