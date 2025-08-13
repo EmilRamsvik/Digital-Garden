@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-04-10T13:32
+updated: 2025-08-08T08:15
 Pages: 252
 Author: Daniel Vaughan
 finished: true
@@ -63,7 +63,7 @@ Another important aspect is that a data scientist owns the data, which is a huge
  
 - *You can have a great ML model that is predictive and hopefully interpretable. But if the actions taken by the actual decision-makers don’t impact the metric, the value of your team will be zero (so what).* 
  
-- *I’ve found Survival of the Savvy: High-Integrity Political Tactics for Career and Company Success by Rick Brandon and Marty Seldman (Free Press) quite useful for dealing with company politics in a very pragmatic way.* 
+- *I’ve found [Survival of the Savvy](../../Science/Sociology/Bureaucracy/Survival%20of%20the%20Savvy.md): High-Integrity Political Tactics for Career and Company Success by Rick Brandon and Marty Seldman (Free Press) quite useful for dealing with company politics in a very pragmatic way.* 
  
 - *Metrics are measurable by definition.* 
  
@@ -101,11 +101,7 @@ Another important aspect is that a data scientist owns the data, which is a huge
  
 - *To have end-to-end ownership, it is critical to persuade your stakeholders to take action with your results.* 
  
-- *What is the objective that you want to achieve? In general narratives, it could be to persuade or engage. These apply also to data science (DS), of course, but most importantly, you want to create value, and for that you need to drive actions. A successful story should help you accomplish this objective. Let’s reverse engineer the problem and identify conditions that help us achieve this: Clear and to the point Credible Memorable* 
- 
-- *What is the objective that you want to achieve? In general narratives, it could be to persuade or engage. These apply also to data science (DS), of course, but most importantly, you want to create value, and for that you need to drive actions. A successful story should help you accomplish this objective. Let’s reverse engineer the problem and identify conditions that help us achieve this: Clear and to the point Credible Memorable* 
- 
-- *What is the objective that you want to achieve? In general narratives, it could be to persuade or engage. These apply also to data science (DS), of course, but most importantly, you want to create value, and for that you need to drive actions. A successful story should help you accomplish this objective. Let’s reverse engineer the problem and identify conditions that help us achieve this: Clear and to the point Credible Memorable* 
+- *What is the objective that you want to achieve? In general narratives, it could be to persuade or engage. These apply also to data science (DS), of course, but most importantly, you want to create value, and for that you need to drive actions. A successful story should help you accomplish this objective. Let’s reverse engineer the problem and identify conditions that help us achieve this: Clear and to the Poin, Credible, Memorable.* 
  
 - *In her book The Hard Truth About Soft Skills (Harper Business), Peggy Klaus suggests that long-term success is 75% about soft skills and the rest is technical knowledge.* 
  

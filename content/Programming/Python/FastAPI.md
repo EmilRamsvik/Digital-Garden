@@ -10,7 +10,7 @@ tags:
   - "#backend"
   - "#programming"
 created: 2023-12-27T12:33
-updated: 2025-06-08T16:32
+updated: 2025-08-06T14:10
 ---
 
 
@@ -75,7 +75,9 @@ app.add_middleware(BrotliMiddleware)
 # Links
 - [FastAPI Articles](https://www.vidavolta.io/?ref=vidavolta.io)
 - [4 Years of FastAPI experience](https://x.com/tiangolo/status/1281946592459853830)
+- [Hyrums law on API.](https://www.hyrumslaw.com/)
 # Thoughts 
 - A 2xx response means the request was correct; a 4xx means the client did something wrong, and a 5xx means the server did something wrong. 
+
 
 

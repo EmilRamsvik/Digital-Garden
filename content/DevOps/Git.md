@@ -11,7 +11,7 @@ tags:
   - teams
   - career
 created: 2024-01-06T15:01
-updated: 2025-05-05T10:27
+updated: 2025-08-13T10:37
 ---
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  
@@ -31,13 +31,13 @@ When you rebase, you put the difference in the branches as a new commit on top o
 
 [This video explained rebasing quite well.](https://www.youtube.com/watch?v=DkWDHzmMvyg&ab_channel=Philomatics)
 
-| git merge                          | git rebase                         |
-|------------------------------------|------------------------------------|
-| Doesn't modify history, only adds to it | Modifies history                    |
-| Non-destructive operation          | Destructive operation              |
-| Leaves more commits in history     | More linear history                |
+| git merge                                 | git rebase                             |
+| ----------------------------------------- | -------------------------------------- |
+| Doesn't modify history, only adds to it   | Modifies history                       |
+| Non-destructive operation                 | Destructive operation                  |
+| Leaves more commits in history            | More linear history                    |
 | Leaves commit hashes and timestamps alone | Modifies commit hashes and timestamps* |
-| Can safely be used on unpushed commits | Never rebase pushed commits        |
+| Can safely be used on unpushed commits    | Never rebase pushed commits            |
 
 *Note: There are actually two timestamps: GIT_COMMITTER_DATE and GIT_AUTHOR_DATE. Git rebase only changes one of them.
 ### How to solve merge-conflicts
@@ -67,6 +67,7 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - [git identities](https://www.benji.dog/articles/git-config/)
 - [How Thorsten uses Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 - [Beej´s Guide to Git](https://beej.us/guide/bggit/html/split/)
+- [Worktrees in Git](https://www.tomups.com/posts/git-worktrees/)
 
 
 # Thoughts 

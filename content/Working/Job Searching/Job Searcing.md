@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-02-21T08:56
+updated: 2025-08-10T18:31
 tags:
   - article
   - digital-garden
@@ -70,7 +70,7 @@ You should not use more than 4 hours on the resume. In [The Job Closer](../../Bo
 - [Get hired as an engineering manager](https://peterszasz.com/get-hired-as-an-engineering-manager-part-1-capturing-your-preferences/)
 - [Book on the tech resume for developers or people in tech in general](https://thetechresume.com/?ref=peterszasz.com)
 - [Casey Handmer on interview/Resume etc](https://caseyhandmer.wordpress.com/2022/03/22/maximizing-resume-snr/) (SNR: Signal-Noise-Ratio)
-- 
+- [Hiring priocess of Companies](https://ethanding.substack.com/p/every-company-has-the-same-hiring)
 # Thoughts 
 - A resume should be **clean** above all else. 
 -  "**Competence Triggers:** basically, if you have to judge someone’s skill based on a series of brief interactions, you’re going to pattern match their behavior against other people who you like.  When people with hiring authority think of winners, they think of _people like them_ who live and breathe this business thing.  They negotiate things as a matter of course: that is a major portion of the value they bring to the company.  Volunteering a number when asked says the same thing to people with hiring authority that flunking FizzBuzz says to an engineer: this person may be a wonderful snowflake in other regards, but on the thing I care about, they’re catastrophically incompetent." - Patrick McKenzie.

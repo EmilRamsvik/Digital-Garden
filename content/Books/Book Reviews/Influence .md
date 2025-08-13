@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-04-10T14:26
+updated: 2025-06-30T13:04
 Pages: 
 Author: 
 finished: true
@@ -19,8 +19,12 @@ This book is about people and how the people interact.
 
 # 🎨 Impressions
 
-As soon as (Frank) Zappa had been introduced and seated, the following exchange occurred: Pyne: I guess your long hair makes you a girl. Zappa: I guess your wooden leg makes you a table.* 
+As soon as (Frank) Zappa had been introduced and seated, the following exchange occurred: Pyne: I guess your long hair makes you a girl. Zappa: I guess your wooden leg makes you a table. 
 
+I found 2 things quite interesting in this topic. 
+
+1. The reprocical rule, aka if you get a gift you must return one as well. 
+2. Hazing and initiation practices are a powerful tool that is extremely difficult to suppress. 
 # ✍️ My Top  Quotes
 - *Civilization advances by extending the number of operations we can perform without thinking about them. –Alfred North Whitehead* 
  
@@ -31,7 +35,6 @@ As soon as (Frank) Zappa had been introduced and seated, the following exchange 
 - *Perhaps the common “because . . . just because” response of children asked to explain their behavior can be traced to their shrewd recognition of the unusual amount of power adults appear to assign to the word because.* 
  
 - *In marketing lore, the classic case of this phenomenon is that of Chivas Regal Scotch Whiskey, which had been a struggling brand until its managers decided to raise its price to a level far above its competitors. Sales skyrocketed, even though nothing was changed in the product itself (Aaker, 1991). A recent brain-scan study helps explain why. When tasting the same wine, participants not only rated themselves as experiencing more pleasure if they thought it cost $45 versus $5, their brain centers associated with pleasure became more activated by the experience as well .* 
- 
 - *Japanese proverb makes this point eloquently: “There’s nothing more expensive than that which comes for free.”* 
  
 - *Termed judgmental heuristics, these shortcuts operate in much the same fashion as the expensive = good rule, allowing for simplified thinking that works well most of the time but leaves us open to occasional, costly mistakes. Especially relevant to this book are those heuristics that tell us when to believe or do what we are told.* 
@@ -42,7 +45,7 @@ As soon as (Frank) Zappa had been introduced and seated, the following exchange 
  
 - *Apparently, the tendency of males to be bamboozled by powerful mating signals extends to humans. Two University of Vienna biologists, Astrid Juette and Karl Grammer secretly exposed young men to airborne chemicals (called copulins) that mimic human vaginal scents. The men then rated the attractiveness of women’s faces. Exposure to the copulins increased the judged attractiveness of all the women and masked the genuine physical attractiveness differences among them* 
  
-- *Suppose a man enters a fashionable men’s store and says that he wants to buy a three-piece suit and a sweater. If you were the salesperson, which would you show him first to make him likely to spend the most money? Clothing stores instruct their sales personnel to sell the costly item first. Common sense might suggest the reverse: If a man has just spent a lot of money to purchase a suit, he may be reluctant to spend much more on the purchase of a sweater; but the clothiers know better. They behave in accordance with what the contrast principle would suggest: Sell the suit first, because when it comes time to look at sweaters, even expensive ones, their prices will not seem as high in comparison. The* 
+- *Suppose a man enters a fashionable men’s store and says that he wants to buy a three-piece suit and a sweater. If you were the salesperson, which would you show him first to make him likely to spend the most money? Clothing stores instruct their sales personnel to sell the costly item first. Common sense might suggest the reverse: If a man has just spent a lot of money to purchase a suit, he may be reluctant to spend much more on the purchase of a sweater; but the clothiers know better. They behave in accordance with what the contrast principle would suggest: Sell the suit first, because when it comes time to look at sweaters, even expensive ones, their prices will not seem as high in comparison.* 
  
 - *Much of the compliance process (wherein one person is spurred to comply with another person’s request) can be understood in terms of a human tendency for automatic, shortcut responding. Most individuals in our culture have developed a set of trigger features for compliance, that is, a set of specific pieces of information that normally tell us when compliance with a request is likely to be correct and beneficial.* 
  
@@ -86,7 +89,6 @@ As soon as (Frank) Zappa had been introduced and seated, the following exchange 
  
 - *The evidence is clear that the more effort that goes into a commitment, the greater is its ability to influence the attitudes of the person who made it. We can find that evidence quite nearby or as far away as the back regions of the primitive world.* 
  
-- *Initiation rites of tribal and fraternal societies: They simply will not die. Resisting all attempts to eliminate or suppress them, such hazing practices have been phenomenally resilient. Authorities, in the form of colonial governments or university administrations, have tried threats, social pressures, legal actions, banishments, bribes, and bans to persuade groups to remove the hazards and humiliations from their initiation ceremonies.* 
  
 - *There is another striking similarity between the initiation rites of tribal and fraternal societies: They simply will not die. Resisting all attempts to eliminate or suppress them, such hazing practices have been phenomenally resilient. Authorities, in the form of colonial governments or university administrations, have tried threats, social pressures, legal actions, banishments, bribes, and bans to persuade groups to remove the hazards and humiliations from their initiation ceremonies. None has been successful.* 
  

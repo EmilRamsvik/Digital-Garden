@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-11T14:04
+updated: 2025-07-02T21:05
 tags:
   - article
   - digital-garden
@@ -16,11 +16,11 @@ Here, I try to write down some thoughts regarding history and share things and t
 
 
 
-# world war one
-
-
+# World War I
 - One of the finest books in history is the ones written on world war one. 
 - In some there was a casualty for every meter of ground. 
+- [Not so quiet on the western front](https://open.spotify.com/show/64bg6BvW4OlrrtbgSpBtDz?si=768e10daf89f467b) - [Podcasts](../Podcasts/Podcasts.md)
+
 
 # Links
 - [Lend-Lease Contribution to the War was Significant](https://www.rferl.org/a/did-us-lend-lease-aid-tip-the-balance-in-soviet-fight-against-nazi-germany/30599486.html) This is also discussed in great detail in [How the War was Won](../Books/Book%20Reviews/History/Europe/How%20the%20War%20was%20Won.md). 

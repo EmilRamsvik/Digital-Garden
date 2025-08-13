@@ -8,7 +8,7 @@ tags:
   - development
 Finished: false
 created: 2023-08-11T15:01:00
-updated: 2024-09-03T13:00
+updated: 2025-08-05T12:11
 ---
 # Design
 
@@ -52,5 +52,6 @@ Very similar to the first-level thinking of Kahneman and Tversky. It seems to me
 
 # Thoughts 
 - The ratio of designers to developers should be low, especially if designers are not also taking on other roles.  1-5 is not an insufficient number here. 
+- After working with design, you will see bad design everywhere and be extremely pissed. 
 
 

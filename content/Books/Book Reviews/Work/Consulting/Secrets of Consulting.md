@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-06-26T13:44
+updated: 2025-08-11T15:05
 Pages: 
 Author: 
 finished: true
@@ -32,7 +32,9 @@ A book about what is required of consultants. It has a lot of rules on how to en
 # 🎨 Impressions
 
 There is always a problem. 
-The laws on pricing and advertising is good. THere is much to learn from just reading this book.
+The laws on pricing and advertising is good. There is much to learn from just reading this book.
+
+I realized a lot from this book, probably more than any other consulting book. However, I put it squarly in the cynical worldview type of book. Lots of things in common with for example [Stealing the Corner Office](../Jobs/Stealing%20the%20Corner%20Office.md) and [Corporate Confidential](../Corporate%20Confidential.md). 
 # ✍️ My Top  Quotes
 
 - *If you are a consultant, or if you ever use a consultant, this book is for you. That's a wide scope, because nowadays, nearly everyone is some kind of a consultant.* 

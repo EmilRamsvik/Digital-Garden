@@ -6,7 +6,7 @@ Finished: false
 Pages: 
 Books-read: 
 created: 2024-01-06T15:04
-updated: 2025-06-30T09:08
+updated: 2025-08-05T10:02
 ---
 
 #### Tech Resume 
@@ -444,7 +444,7 @@ _Language:_ English
 #### [Corporate Confidential](Book%20Reviews/Work/Corporate%20Confidential.md)
 _Author:_ Cynthia Shapiro
 _Pages:_ 225
-_Language:_ 
+_Language:_ English
 
 
 #### [The World for Sale](Book%20Reviews/History/The%20World%20for%20Sale.md) 
@@ -463,14 +463,41 @@ _Author:_
 _Pages:_ 
 _Language:_ English
 
-
 #### [Tempo](Personal/Books/Book%20Reviews/Tempo.md) 
 _Author:_ Venkatesh Rao
-_Pages:_ 17g
+_Pages:_ 170
 _Language:_ English
-
 
 #### Ratio 
 _Author:_ Michael Ruhlman
 _Pages:_ 272
+_Language:_ English
+
+#### Just Keep Buying
+_Author:_ Nick Maggiulli
+_Pages:_ 296
+_Language:_ English
+
+#### Thinking in Bets
+_Author:_ Annie Duke
+_Pages:_ 288
+_Language:_ English
+
+#### The Fine Art of Small Talk 
+_Author:_ Debra Fine
+_Pages:_ 240
+_Language:_ English
+
+#### How to Measure Anything
+_Author:_ Doublas Hubbard
+_Pages:_ 432
+_Language:_ English
+
+#### Principles of Corporate Finance
+_Author:_ Richard Brealy
+_Pages:_ 976
+_Language:_ English
+#### 
+_Author:_ 
+_Pages:_ 
 _Language:_ English

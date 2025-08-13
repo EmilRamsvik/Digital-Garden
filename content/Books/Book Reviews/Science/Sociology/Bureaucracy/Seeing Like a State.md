@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-12-19T14:46
+updated: 2025-08-06T15:08
 Pages: 
 Author: 
 finished: true
@@ -37,7 +37,6 @@ This is actually a book that is super highly relevant in hindsight. It is a book
 - *I shall argue that the most tragic episodes of state-initiated social engineering originate in a pernicious combination of four elements. All four are necessary for a full-fledged disaster. The first element is the administrative ordering of nature and society-the transformative state simplifications described above.* 
  
 - *The second element is what I call a high-modernist ideology. It is best conceived as a strong, one might even say muscle-bound, version of the self-confidence about scientific and technical progress, the expansion of production, the growing satisfaction of human needs, the mastery of nature* 
- 
 - *The third element is an authoritarian state that is willing and able to use the full weight of its coercive power to bring these high-modernist designs into being.* 
  
 - *A fourth element is closely linked to the third: a prostrate civil society that lacks the capacity to resist these plans.* 
@@ -232,7 +231,7 @@ This is actually a book that is super highly relevant in hindsight. It is a book
  
 - *"Machines are not made to harvest crops," noted two proponents of phytoengiering. "In reality, crops must be designed to be harvested by machine."* 
  
-- *The development of the "supermarket tomato" by G. C. (Jack) Hanna at the University of California at Davis in the late 1940s and 1950s is an early and diagnostic case.16 Spurred by the wartime shortage of field labor, researchers set about inventing a mechanical harvester and breeding the tomato that would accommodate it.* 
+- *The development of the "supermarket tomato" by G. C. (Jack) Hanna at the University of California at Davis in the late 1940s and 1950s is an early and diagnostic case. Spurred by the wartime shortage of field labor, researchers set about inventing a mechanical harvester and breeding the tomato that would accommodate it.* 
  
 - *Corn accounts for one-third of the total market for herbicides and one-quarter of the market for insecticides* 
  

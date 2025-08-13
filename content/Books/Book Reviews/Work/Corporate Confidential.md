@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-06-25T13:52
+updated: 2025-06-30T12:12
 Pages: 224
 Author: Cynthia Shapiro
 finished: false
@@ -26,7 +26,7 @@ The NUMBER 1 priority is not falling out of favor with your boss or stakeholder.
 - *Many employees mistakenly believe the law will provide them with protection from retaliatory or unfounded job loss. In many of today’s workplaces, this is nothing but a false sense of security.* 
  
 - *Here are just a few signs that you might be in the process of being managed out: 
-	-  *DANGER SIGN 1: You’re feeling grossly ignored, overworked, underpaid, or set up to be unsuccessful.* 
+	- *DANGER SIGN 1: You’re feeling grossly ignored, overworked, underpaid, or set up to be unsuccessful.* 
 	- *DANGER SIGN 2: Your boss doesn’t seem to like you or pay attention to you the way he does to others.* 
 	- *DANGER SIGN 3: Your office is moved to an undesirable location or you are regularly given the assignments no one else wants.* 
 	- *DANGER SIGN 4: You’re being given impossible tasks with unrealistic deadlines.* 
