@@ -1,4 +1,3 @@
-set -e
 
 SOURCE_DIR="$HOME/Dropbox/Emil/Personal"
 TARGET_DIR="content"
