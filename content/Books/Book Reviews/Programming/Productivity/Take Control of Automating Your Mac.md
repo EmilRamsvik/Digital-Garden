@@ -12,7 +12,7 @@ tags:
   - keyboard-maestro
   - productivity
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # Take Control of Automating Your Mac
 
@@ -25,5 +25,5 @@ Do not recommend this book.
 
 # ✍️ My Top  Quotes
 
-- *For the purposes of this book, automation means finding shortcuts—easier ways to do the same things you’re already doing regularly.* 
+- For the purposes of this book, automation means finding shortcuts—easier ways to do the same things you’re already doing regularly.
  

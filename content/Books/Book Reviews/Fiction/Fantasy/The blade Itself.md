@@ -8,7 +8,7 @@ tags:
   - the-first-law-series
   - fantasy
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # The blade Itself
 
@@ -22,5 +22,5 @@ It was okay, not the best book I have read.
 
 # ✍️ My Top  Quotes
 
-- *“Life—the way it really is—is a battle not between good and bad, but between bad and worse.” Joseph Brodsky* 
+- “Life—the way it really is—is a battle not between good and bad, but between bad and worse.” Joseph Brodsky
  

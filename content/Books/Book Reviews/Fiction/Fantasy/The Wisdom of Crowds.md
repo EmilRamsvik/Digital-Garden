@@ -8,7 +8,7 @@ tags:
   - fantasy
   - the-first-law-series
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # The Wisdom of Crowds
 
@@ -20,6 +20,6 @@ Not many books are that interesting in that they portray backstabbing, backroom 
 
 # ✍️ My Top  Quotes
 
-- *“I’ve got plans like I’ve got boots.” Clover frowned down at his waterlogged footwear. “Honestly, I could always do with better ones.” 
-- *“History repeats itself, first as tragedy, second as farce.” Karl Marx* 
+- “I’ve got plans like I’ve got boots.” Clover frowned down at his waterlogged footwear. “Honestly, I could always do with better ones.” 
+- “History repeats itself, first as tragedy, second as farce.” Karl Marx
  

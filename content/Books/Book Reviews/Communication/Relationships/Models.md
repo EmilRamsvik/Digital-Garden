@@ -14,7 +14,7 @@ tags:
   - "#article"
 Finished: true
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # Models
 
@@ -39,33 +39,33 @@ Real men are in connection with their feelings, they are not assholes, nor are t
 
 # ✍️ My Top  Quotes
 
-- *Neediness is when a man places a higher priority on others’ perceptions of him than his perception of himself.* 
+- Neediness is when a man places a higher priority on others’ perceptions of him than his perception of himself.
  
-- *It’s like swimming in the shallow end of the pool — yeah, you’re swimming, but it’s not nearly as rewarding as the deep end, and there’s piss everywhere.* 
+- It’s like swimming in the shallow end of the pool — yeah, you’re swimming, but it’s not nearly as rewarding as the deep end, and there’s piss everywhere.
  
-- *I always tell men, if every girl you date is unstable and crazy, that’s a reflection of your emotional maturity level. It’s a reflection of your confidence or lack of confidence. It’s a reflection of your neediness. Non-needy people don’t date needy people and vice-versa. They can’t because there’s no attraction to begin with.* 
+- I always tell men, if every girl you date is unstable and crazy, that’s a reflection of your emotional maturity level. It’s a reflection of your confidence or lack of confidence. It’s a reflection of your neediness. Non-needy people don’t date needy people and vice-versa. They can’t because there’s no attraction to begin with.
  
-- *The biggest aphrodisiac in the world is someone who likes you, genuinely likes you. A woman’s desire is to be desired.* 
+- The biggest aphrodisiac in the world is someone who likes you, genuinely likes you. A woman’s desire is to be desired.
  
-- *Narcissism means you only respect yourself. Neediness means you only respect others.* 
+- Narcissism means you only respect yourself. Neediness means you only respect others.
  
-- *Rejection exists for a reason — it’s a means to keep people apart who are not good for each other.* 
+- Rejection exists for a reason — it’s a means to keep people apart who are not good for each other.
  
-- *Here are some other common examples of reciprocation: - She ignores her friends to stay and talk to you. - She keeps very strong eye contact and laughs a little too much at everything you say. - When you touch her, she touches you in return. - When you put your arm around her, she leans into you. - When you take her hand to move somewhere, she holds it in return. - When you ask her out on a date, she offers a place to go or mentions something she’d like to do with you.* 
+- Here are some other common examples of reciprocation: - She ignores her friends to stay and talk to you. - She keeps very strong eye contact and laughs a little too much at everything you say. - When you touch her, she touches you in return. - When you put your arm around her, she leans into you. - When you take her hand to move somewhere, she holds it in return. - When you ask her out on a date, she offers a place to go or mentions something she’d like to do with you.
  
-- *strongly believe in the idea of “Fuck Yes or No.” That is, I want women to say “Fuck Yes,” once they’ve gotten to know me. And if they aren’t enthusiastic and excited about being with me, then I’m not interested in them anymore.* 
+- strongly believe in the idea of “Fuck Yes or No.” That is, I want women to say “Fuck Yes,” once they’ve gotten to know me. And if they aren’t enthusiastic and excited about being with me, then I’m not interested in them anymore.
  
-- *Trying to sabotage a woman’s relationship so you can swoop in and “steal” her is not only ineffectual but morally fucked up. It’s neediness and narcissism to an extreme degree.* 
+- Trying to sabotage a woman’s relationship so you can swoop in and “steal” her is not only ineffectual but morally fucked up. It’s neediness and narcissism to an extreme degree.
  
-- *The amazing thing about polarization is that the simple act of doing it demonstrates non-neediness and will then inspire more Neutral women to become Receptive than other strategies or tactics.* 
+- The amazing thing about polarization is that the simple act of doing it demonstrates non-neediness and will then inspire more Neutral women to become Receptive than other strategies or tactics.
  
-- *Everything that is attractive is polarizing.* 
+- Everything that is attractive is polarizing.
  
-- *Business guru Dan Kennedy once said, “Your ability to deal with the failure will determine how much you get to deal with success.”* 
+- Business guru Dan Kennedy once said, “Your ability to deal with the failure will determine how much you get to deal with success.”
  
-- *The Three Fundamentals are: 1. Creating an attractive and enriching lifestyle. 2. Overcoming your fears and anxiety around socializing, intimacy and sexuality. 3. Mastering the expression of your emotions and communicating fluidly.* 
+- The Three Fundamentals are: 1. Creating an attractive and enriching lifestyle. 2. Overcoming your fears and anxiety around socializing, intimacy and sexuality. 3. Mastering the expression of your emotions and communicating fluidly.
  
-- *Venues that you can use to meet women: 
+- Venues that you can use to meet women: 
 	- Dance classes (salsa, swing, ballroom, etc.) 
 	- Political organizations or events 
 	- Concerts and concert promotions 
@@ -82,13 +82,13 @@ Real men are in connection with their feelings, they are not assholes, nor are t
 	- Art galleries, exhibits or showings 
 	- Business networking events
  
-- *I always like to tell men, “The only thing all of the women you date have in common is you.”* 
+- I always like to tell men, “The only thing all of the women you date have in common is you.”
  
-- *When it comes to age, studies show that men’s physical attractiveness peaks at around 31 (a luxury considering women peak around 21) and that our physical attractiveness recedes far slower than it does for women.* 
+- When it comes to age, studies show that men’s physical attractiveness peaks at around 31 (a luxury considering women peak around 21) and that our physical attractiveness recedes far slower than it does for women.
  
-- *Humans stereotype for a reason: so that we can manage large chunks of information to orient ourselves more efficiently. Often, stereotypes can be useful. But usually they’re not. Often they’re nothing more than excuses — ways for us to avoid the blame and responsibility for not being satisfied with our results.* 
+- Humans stereotype for a reason: so that we can manage large chunks of information to orient ourselves more efficiently. Often, stereotypes can be useful. But usually they’re not. Often they’re nothing more than excuses — ways for us to avoid the blame and responsibility for not being satisfied with our results.
  
-- *Our culture has hammered it into women’s head that emotion equals commitment equals happily-ever-after, but that’s just rarely the case.* 
+- Our culture has hammered it into women’s head that emotion equals commitment equals happily-ever-after, but that’s just rarely the case.
  
-- *In her book, My Secret Garden, the journalist Nancy Friday collected anonymous sexual fantasies from women around the world. If you ever want your mind expanded in an interesting way, check it out. There are women out there who get turned on by some really, well, let’s call it “creative” stuff.* 
+- In her book, My Secret Garden, the journalist Nancy Friday collected anonymous sexual fantasies from women around the world. If you ever want your mind expanded in an interesting way, check it out. There are women out there who get turned on by some really, well, let’s call it “creative” stuff.
  

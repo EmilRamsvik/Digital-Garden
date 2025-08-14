@@ -10,7 +10,7 @@ tags:
   - philosophy
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # I Moved Your Cheese
 
@@ -25,7 +25,7 @@ It was a short but weird book; I felt like it went above my head. Not much I can
 
 # ✍️ My Top  Quotes
 
-- * Go elsewhere to find the cheese.* 
+-  Go elsewhere to find the cheese.
  
-- *Personal reflection is the most important aspect of growth and learning.* 
+- Personal reflection is the most important aspect of growth and learning.
  

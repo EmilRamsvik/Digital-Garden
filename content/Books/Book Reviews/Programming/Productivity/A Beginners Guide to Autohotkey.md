@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 Pages: 178
 Author: Jack Dunning
 finished: true
@@ -28,17 +28,17 @@ See [Tools](../../../../Tools/Tools.md) for a discussion on AutoHotkey as well.
 I thought my notes on the book were a bit simple, but I found the book interesting and nice to read. I can recommend it. 
 # ✍️ My Top  Quotes
 
-- *In programming, spelling is called syntax. A syntax error is a spelling error.* 
+- In programming, spelling is called syntax. A syntax error is a spelling error.
  
-- *StringUpper and StringLower are commands built into AutoHotkey. A great deal of the power of AutoHotkey comes from these commands.* 
+- StringUpper and StringLower are commands built into AutoHotkey. A great deal of the power of AutoHotkey comes from these commands.
  
-- *Send %Clipboard% The percent signs (%) surrounding the variable Clipboard tells AutoHotkey to use the contents of the Windows Clipboard.* 
+- Send %Clipboard% The percent signs (%) surrounding the variable Clipboard tells AutoHotkey to use the contents of the Windows Clipboard.
  
-- *The last line is the Return command which indicates the end of the routine or snippet of code and tells AutoHotkey to "return" to the previous place in the script.* 
+- The last line is the Return command which indicates the end of the routine or snippet of code and tells AutoHotkey to "return" to the previous place in the script.
  
-- *Whenever a g-label option (g for gosub) is used when adding a GUI control, AutoHotkey looks for the associated label (subroutine) by the same name (with a colon at the end, but without the g in front—e.g. LaunchGoogle:).* 
+- Whenever a g-label option (g for gosub) is used when adding a GUI control, AutoHotkey looks for the associated label (subroutine) by the same name (with a colon at the end, but without the g in front—e.g. LaunchGoogle:).
  
-- *Third Edition Windows Tip: In Windows Explorer hold down the right mouse button while dragging a file or folder to a new location. When the cursor is in the target folder, release the right mouse button and a menu of options will pop open: Copy here; Move here; Create shortcuts here; and Cancel.* 
+- Third Edition Windows Tip: In Windows Explorer hold down the right mouse button while dragging a file or folder to a new location. When the cursor is in the target folder, release the right mouse button and a menu of options will pop open: Copy here; Move here; Create shortcuts here; and Cancel.
  
-- *AutoHotkey has built-in commands for moving files (FileMove), copying files (FileCopy), moving folders (FileMoveDir), and copying folders (FileCopyDir).* 
+- AutoHotkey has built-in commands for moving files (FileMove), copying files (FileCopy), moving folders (FileMoveDir), and copying folders (FileCopyDir).
  

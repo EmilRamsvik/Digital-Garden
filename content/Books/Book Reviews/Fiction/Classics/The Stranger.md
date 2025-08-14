@@ -9,7 +9,7 @@ tags:
   - philosophy
 Finished: true
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # The Stranger
 
@@ -23,9 +23,9 @@ In my first introduction to Camus, I think I got depressed and cynical about the
 
 # ✍️ My Top  Quotes
 
-- *Mother died today. Or, maybe, yesterday; I can't be sure. The telegram from the Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP SYMPATHY. Which leaves the matter doubtful; it could have been yesterday.* 
+- Mother died today. Or, maybe, yesterday; I can't be sure. The telegram from the Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP SYMPATHY. Which leaves the matter doubtful; it could have been yesterday.
  
-- *A moment later she asked me if I loved her. I said that sort of question had no meaning, really; but I supposed I didn't.* 
+- A moment later she asked me if I loved her. I said that sort of question had no meaning, really; but I supposed I didn't.
  
-- *There are some things of which I've never cared to talk. And, a few days after I'd been sent to prison, I decided that this phase of my life was one of them.* 
+- There are some things of which I've never cared to talk. And, a few days after I'd been sent to prison, I decided that this phase of my life was one of them.
  

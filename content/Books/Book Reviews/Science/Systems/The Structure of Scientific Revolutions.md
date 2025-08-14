@@ -11,7 +11,7 @@ tags:
   - books
   - non-fiction
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:54
 ---
 # The Structure of Scientific Revolutions
 
@@ -30,21 +30,21 @@ It is the inconsistencies that drive scientific revolutions. It is a fact that m
 
 # ✍️ My Top  Quotes
 
-- *“Truth emerges more readily from error than from confusion.”* 
+- “Truth emerges more readily from error than from confusion.”
  
-- *Helmholtz, in the nineteenth, encountered strong resistance from physiologists to the notion that physical experimentation could illuminate their field.* 
+- Helmholtz, in the nineteenth, encountered strong resistance from physiologists to the notion that physical experimentation could illuminate their field.
  
-- *What Lavoisier announced in his papers from 1777 on was not so much the discovery of oxygen as the oxygen theory of combustion. That theory was the keystone for a reformulation of chemistry so vast that it is usually called the chemical revolution.* 
+- What Lavoisier announced in his papers from 1777 on was not so much the discovery of oxygen as the oxygen theory of combustion. That theory was the keystone for a reformulation of chemistry so vast that it is usually called the chemical revolution.
  
-- *X-rays, however, were greeted not only with surprise but with shock. Lord Kelvin at first pronounced them an elaborate hoax.* 
+- X-rays, however, were greeted not only with surprise but with shock. Lord Kelvin at first pronounced them an elaborate hoax.
  
-- *Copernicus’ co-worker, Domenico da Novara, held that no system so cumbersome and inaccurate as the Ptolemaic had become could possibly be true of nature. And Copernicus himself wrote in the Preface to the De Revolutionibus that the astronomical tradition he inherited had finally created only a monster.* 
+- Copernicus’ co-worker, Domenico da Novara, held that no system so cumbersome and inaccurate as the Ptolemaic had become could possibly be true of nature. And Copernicus himself wrote in the Preface to the De Revolutionibus that the astronomical tradition he inherited had finally created only a monster.
  
-- *“A science that hesitates to forget its founders is lost.”* 
+- “A science that hesitates to forget its founders is lost.”
  
-- *A very different approach to this whole network of problems has been developed by Karl R. Popper, who denies the existence of any verification procedures at all. Instead, he emphasizes the importance of falsification, i.e., of the test that, because its outcome is negative, necessitates the rejection of an established theory.* 
+- A very different approach to this whole network of problems has been developed by Karl R. Popper, who denies the existence of any verification procedures at all. Instead, he emphasizes the importance of falsification, i.e., of the test that, because its outcome is negative, necessitates the rejection of an established theory.
  
-- *In the case of the wave theory, one main source of professional conversions was even more dramatic. French resistance collapsed suddenly and relatively completely when Fresnel was able to demonstrate the existence of a white spot at the center of the shadow of a circular disk. That was an effect that not even he had anticipated but that Poisson, initially one of his opponents, had shown to be a necessary if absurd consequence of Fresnel’s theory.* 
+- In the case of the wave theory, one main source of professional conversions was even more dramatic. French resistance collapsed suddenly and relatively completely when Fresnel was able to demonstrate the existence of a white spot at the center of the shadow of a circular disk. That was an effect that not even he had anticipated but that Poisson, initially one of his opponents, had shown to be a necessary if absurd consequence of Fresnel’s theory.
  
-- *A paradigm is what the members of a scientific community share, and, conversely, a scientific community consists of men who share a paradigm.* 
+- A paradigm is what the members of a scientific community share, and, conversely, a scientific community consists of men who share a paradigm.
  

@@ -7,7 +7,7 @@ tags:
   - "#fantasy"
   - "#books"
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # A little Hatred
 
@@ -29,5 +29,5 @@ Got some newfound perspective on the character writing.
 
 # ✍️ My Top  Quotes
 
-- *‘The bigger they are—’ ‘The harder they hit?’* 
+- ‘The bigger they are—’ ‘The harder they hit?’
  

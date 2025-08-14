@@ -11,7 +11,7 @@ tags:
   - apps
   - app-development
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # Learn Google Flutter Fast
 
@@ -34,9 +34,9 @@ None
 
 # ✍️ My Top  Quotes
 
-- *When you are profiling, you should ensure the following:   You are connected to a real device. An emulator can ‘emulate’ the real thing but under the covers it’s not the same thing.* 
+- When you are profiling, you should ensure the following:   You are connected to a real device. An emulator can ‘emulate’ the real thing but under the covers it’s not the same thing.
  
-- *[This is an excellent article on creating application icons](https://medium.com/@psyanite/how-to-add-app-launcher-icons-in-flutter-bdbea) This article shows how you can setup a development dependency to a package that generates the required images for your project.* 
+- [This is an excellent article on creating application icons](https://medium.com/@psyanite/how-to-add-app-launcher-icons-in-flutter-bdbea) This article shows how you can setup a development dependency to a package that generates the required images for your project.
  
-- *[I used this article as my guide when I published my first Flutter Android App](https://flutter.dev/docs/deployment/android) Below are some notes from my experience. Cost Before doing anything, you need to pay Google $ to publish to the Google Play store. Flutter Build Apks I had many issues building a bundle, so I ended up building two apks for two different architectures. The article above tells the user to build different apks for different target platforms using the command below. However, I could not get this to work until I changed the Flutter channel to ‘master’.* 
+- [I used this article as my guide when I published my first Flutter Android App](https://flutter.dev/docs/deployment/android) Below are some notes from my experience. Cost Before doing anything, you need to pay Google $ to publish to the Google Play store. Flutter Build Apks I had many issues building a bundle, so I ended up building two apks for two different architectures. The article above tells the user to build different apks for different target platforms using the command below. However, I could not get this to work until I changed the Flutter channel to ‘master’.
  

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 Pages: 282
 Author: David Marquet
 finished: true
@@ -30,35 +30,35 @@ I enjoyed reading about the importance of immediate recognition of the top perfo
 Also, interesting tidbits about the US submarine force and it is closely linked to [How the War was Won](../../History/Europe/How%20the%20War%20was%20Won.md) book and how it describes the massive effect of air-sea power. 
 # ✍️ My Top  Quotes
 
-- *He is not alone. A recent survey indicated that 44 percent of business leaders reported their disappointment in the performance results of their employees* 
+- He is not alone. A recent survey indicated that 44 percent of business leaders reported their disappointment in the performance results of their employees
  
-- *The leader-leader structure is fundamentally different from the leader-follower structure. At its core is the belief that we can all be leaders and, in fact, it’s best when we all are leaders.* 
+- The leader-leader structure is fundamentally different from the leader-follower structure. At its core is the belief that we can all be leaders and, in fact, it’s best when we all are leaders.
  
-- *Third, I was disturbed by the close coupling of the technical competence of the leader with the performance of the organization. Ships with a “good” commanding officer (CO) did well, as had the SSBN I rode. Ships that didn’t have a good CO didn’t do well.* 
+- Third, I was disturbed by the close coupling of the technical competence of the leader with the performance of the organization. Ships with a “good” commanding officer (CO) did well, as had the SSBN I rode. Ships that didn’t have a good CO didn’t do well.
  
-- *It is precisely the success of the top-down, leader-follower structure that makes it so appealing. As long as you are measuring performance over just the short run, it can be effective.* 
+- It is precisely the success of the top-down, leader-follower structure that makes it so appealing. As long as you are measuring performance over just the short run, it can be effective.
  
-- *In your organization, are people rewarded for what happens after they transfer?* 
+- In your organization, are people rewarded for what happens after they transfer?
  
-- *At our submarine schools, the instructors tell us that officers make sure we do the right things and chiefs make sure we do things right.* 
+- At our submarine schools, the instructors tell us that officers make sure we do the right things and chiefs make sure we do things right.
  
-- *Sadly, a common joke on Santa Fe was “Your reward is no punishment.”* 
+- Sadly, a common joke on Santa Fe was “Your reward is no punishment.”
  
-- *Later, I would call this “eyeball accountability.” It would mean being intimately involved—physically present in most cases—in the operations of the ship and in each activity.* 
+- Later, I would call this “eyeball accountability.” It would mean being intimately involved—physically present in most cases—in the operations of the ship and in each activity.
  
-- *Subordinates generally desire to present the boss with a “perfect” product the first time. Unfortunately, this gets in the way of efficiency because significant effort can be wasted.* 
+- Subordinates generally desire to present the boss with a “perfect” product the first time. Unfortunately, this gets in the way of efficiency because significant effort can be wasted.
  
-- *Is your staff spending time and money creating flawless charts and reports that are, simultaneously, irrelevant?* 
+- Is your staff spending time and money creating flawless charts and reports that are, simultaneously, irrelevant?
  
-- *The Navy’s experience at the beginning of World War II was that too many submarine crews and captains took their peacetime practices into war with them. The result was overly cautious operations that failed to inflict significant damage on the enemy.* 
+- The Navy’s experience at the beginning of World War II was that too many submarine crews and captains took their peacetime practices into war with them. The result was overly cautious operations that failed to inflict significant damage on the enemy.
  
-- *THINK OUT LOUD is a mechanism for CONTROL because when I heard what my watch officers were thinking, it made it much easier for me to keep my mouth shut and let them execute their plans.* 
+- THINK OUT LOUD is a mechanism for CONTROL because when I heard what my watch officers were thinking, it made it much easier for me to keep my mouth shut and let them execute their plans.
  
-- *For example, during World War II, the submarine force, while only making up 2 percent of the Navy, sank over 50 percent of all Japanese vessels sunk.* 
+- For example, during World War II, the submarine force, while only making up 2 percent of the Navy, sank over 50 percent of all Japanese vessels sunk.
  
-- *A briefing is a passive activity for everyone except the briefer. Everyone else “is briefed.” There is no responsibility for preparation or study.* 
+- A briefing is a passive activity for everyone except the briefer. Everyone else “is briefed.” There is no responsibility for preparation or study.
  
-- *We let our administrative processes get in the way of prompt recognition. Many times we would submit awards three months prior to the departure of a sailor, only to find ourselves calling during the last week to track down the award before his departure. When I say immediate recognition, I mean immediate. Not thirty days. Not thirty minutes. Immediate.* 
+- We let our administrative processes get in the way of prompt recognition. Many times we would submit awards three months prior to the departure of a sailor, only to find ourselves calling during the last week to track down the award before his departure. When I say immediate recognition, I mean immediate. Not thirty days. Not thirty minutes. Immediate.
  
-- *Do you have a recognition and rewards system in place that allows you to immediately applaud top performers?* 
+- Do you have a recognition and rewards system in place that allows you to immediately applaud top performers?
  

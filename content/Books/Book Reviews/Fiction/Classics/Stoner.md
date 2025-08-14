@@ -10,7 +10,7 @@ Date Finished: 2022-12-27
 Author: John Williams
 Pages: 270
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # Stoner
 
@@ -23,8 +23,8 @@ The book is gripping in its triviality. It portrays the small conflicts between 
 I felt happier with my current situation, how the trivialities of life might destroy a person, and how indecision is a destroyer of happiness. 
 
 # ✍️ My Top  Quotes
-*The one you love first, is not the one you love last, and love is not a goal, it is a process where one person attempts to get to know another.*
+The one you love first, is not the one you love last, and love is not a goal, it is a process where one person attempts to get to know another.
 
-*"Lust and learning,” Katherine once said. That’s really all there is, isn’t it?*
+"Lust and learning,” Katherine once said. That’s really all there is, isn’t it?
 
 

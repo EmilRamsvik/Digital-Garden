@@ -8,7 +8,7 @@ tags:
   - "#fantasy"
   - "#fiction"
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # Best served Cold
 
@@ -30,19 +30,19 @@ People who like fantasy, and especially George RR Martin type fantasy.
 
 # ✍️ My Top  Quotes
 
-- *“Men become accustomed to poison by degrees” Victor Hugo* 
+- “Men become accustomed to poison by degrees” Victor Hugo
  
-- *“The belief in a supernatural source of evil is not necessary; men alone are quite capable of every wickedness” Joseph Conrad* 
+- “The belief in a supernatural source of evil is not necessary; men alone are quite capable of every wickedness” Joseph Conrad
  
-- *Master Friendly, you make as fine a conversation as any man I’ve known.” The convict looked away from his porridge for just a moment. “I’ve hardly said a word.” “Exactly.”* 
+- Master Friendly, you make as fine a conversation as any man I’ve known.” The convict looked away from his porridge for just a moment. “I’ve hardly said a word.” “Exactly.”
  
-- *“War without fire is as worthless as sausages without mustard” Henry V* 
+- “War without fire is as worthless as sausages without mustard” Henry V
  
-- *aprons and heavy gloves. Pello* 
+- aprons and heavy gloves. Pello
  
-- *“Had I stabbed her, I would never have aimed for her heart. Without doubt her least vulnerable organ.”* 
+- “Had I stabbed her, I would never have aimed for her heart. Without doubt her least vulnerable organ.”
  
-- *Humility, after all, cost nothing.* 
+- Humility, after all, cost nothing.
  
-- *Still, it was better to swear an oath and never follow through than not even to bother with the oath.* 
+- Still, it was better to swear an oath and never follow through than not even to bother with the oath.
  

@@ -9,7 +9,7 @@ tags:
   - israel
   - apartheid
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 ---
 # On Palestine
 
@@ -50,45 +50,45 @@ I have no clue as to how this will end, but I am not optimistic.
 
 # ✍️ My Top  Quotes
 
-- *Since 2010, the Israeli legislation in the Knesset ”demanding loyalty to a Jewish state from the Palestinian citizens, codifying (thus-far) informal discrimination in welfare benefits, land rights, and job hiring policies against the Palestinian minority ”clearly has exposed Israel as an overtly racist and apartheid state.* 
+- Since 2010, the Israeli legislation in the Knesset ”demanding loyalty to a Jewish state from the Palestinian citizens, codifying (thus-far) informal discrimination in welfare benefits, land rights, and job hiring policies against the Palestinian minority ”clearly has exposed Israel as an overtly racist and apartheid state.
  
-- *This impulse, never condemned or rebuked by a world that watched by and did nothing, led to the massive expulsion of 750,000 people (half of the regions population), the destruction of more than five hundred villages, and the demolition of a dozen towns in 1948.* 
+- This impulse, never condemned or rebuked by a world that watched by and did nothing, led to the massive expulsion of 750,000 people (half of the regions population), the destruction of more than five hundred villages, and the demolition of a dozen towns in 1948.
  
-- *The Palestinians are a military target, a security risk, and a demographic bomb. This is one of the main reasons why ethnic cleansing is an ideology that is regarded by the international community, in the aftermath of the Second World War, as a hideous crime and moreover one that can lead to genocideâ* 
+- The Palestinians are a military target, a security risk, and a demographic bomb. This is one of the main reasons why ethnic cleansing is an ideology that is regarded by the international community, in the aftermath of the Second World War, as a hideous crime and moreover one that can lead to genocideâ
  
-- *Anyone who has been in Israel long enough, as I have, knows that the worst corruption of young Israelis is the indoctrination they receive that totally dehumanizes the Palestinians.* 
+- Anyone who has been in Israel long enough, as I have, knows that the worst corruption of young Israelis is the indoctrination they receive that totally dehumanizes the Palestinians.
  
-- *In this respect Chomsky was the first to observe that the process was never meant to reach a destination but only to perpetuate a situation of no solution. Israel used it as a means to grab more land, build more colonies, and annex more space. The status quo was the solution.* 
+- In this respect Chomsky was the first to observe that the process was never meant to reach a destination but only to perpetuate a situation of no solution. Israel used it as a means to grab more land, build more colonies, and annex more space. The status quo was the solution.
  
-- *This charade is still marketed successfully in the West: Israel is a democracy because the majority decides what it wants, even if the majority is determined by means of colonization, ethnic cleansing, and, recently, by ghettoizing the Palestinians in the Gaza Strip, enclaving them in Areas A and B in the West Bank and in isolated villages in the Greater Jerusalem area, the Jordan Valley, and the Bedouin reservations in the Naqab.* 
+- This charade is still marketed successfully in the West: Israel is a democracy because the majority decides what it wants, even if the majority is determined by means of colonization, ethnic cleansing, and, recently, by ghettoizing the Palestinians in the Gaza Strip, enclaving them in Areas A and B in the West Bank and in isolated villages in the Greater Jerusalem area, the Jordan Valley, and the Bedouin reservations in the Naqab.
  
-- *Israel boasts of its humanitarianism by telling the world that it admitted dozens of wounded Syrian fighters to its hospitals. But Syrias four neighbors, who have no less complicated relationships with Syria, absorbed hundreds of thousands of refugees.* 
+- Israel boasts of its humanitarianism by telling the world that it admitted dozens of wounded Syrian fighters to its hospitals. But Syrias four neighbors, who have no less complicated relationships with Syria, absorbed hundreds of thousands of refugees.
  
-- *Heading toward 2020, we will all most probably face a racist, ultra-capitalist, and more expanded Israel still busy ethnically cleansing Palestine.* 
+- Heading toward 2020, we will all most probably face a racist, ultra-capitalist, and more expanded Israel still busy ethnically cleansing Palestine.
  
-- *States do not have a right to exist. Mexico does not accept the right of the USA to exist sitting on half of Mexico.* 
+- States do not have a right to exist. Mexico does not accept the right of the USA to exist sitting on half of Mexico.
  
-- *In Israel it is totally different. There is a distinction between citizenship and nationality. There is no Israeli nationality. You cannot be an Israeli national. This came up in the courts back in the sixties and came back up again recently.* 
+- In Israel it is totally different. There is a distinction between citizenship and nationality. There is no Israeli nationality. You cannot be an Israeli national. This came up in the courts back in the sixties and came back up again recently.
  
-- *The idea was that the good human material was going to be cannon fodder.* 
+- The idea was that the good human material was going to be cannon fodder.
  
-- *Do you really condemn Palestinians in the refugee camps in Lebanon for improving a little bit their homes, without immediately accusing them of naturalization (tawtin)?* 
+- Do you really condemn Palestinians in the refugee camps in Lebanon for improving a little bit their homes, without immediately accusing them of naturalization (tawtin)?
  
-- *Ever since then Israel prefers expansion over security. To say they prefer expansion to security means that they are going to follow the path of apartheid South Africa because that follows automatically* 
+- Ever since then Israel prefers expansion over security. To say they prefer expansion to security means that they are going to follow the path of apartheid South Africa because that follows automatically
  
-- *South Africa was different because the white population needed its Black counterpart. It was its workforce. Israel does not want the Palestinians.* 
+- South Africa was different because the white population needed its Black counterpart. It was its workforce. Israel does not want the Palestinians.
  
-- *If I had to choose a formative event that really changed my point of view in a dramatic way, it would be the Israeli attack on Lebanon in 1982. For us who grew up in Israel, it was the first non-consensus war, the first war that obviously was a war of choice: Israel was not attacked, Israel attacked.* 
+- If I had to choose a formative event that really changed my point of view in a dramatic way, it would be the Israeli attack on Lebanon in 1982. For us who grew up in Israel, it was the first non-consensus war, the first war that obviously was a war of choice: Israel was not attacked, Israel attacked.
  
-- *Even the first Zionist settlers when they came and realized that what they thought was an empty land, or at least their own land, was full of Arab people, they regarded these people as aliens, as violent aliens who took over their land.* 
+- Even the first Zionist settlers when they came and realized that what they thought was an empty land, or at least their own land, was full of Arab people, they regarded these people as aliens, as violent aliens who took over their land.
  
-- *so-called Palestinian terrorism that in the Israeli perspective and in some Western perspectives comes out of the blue: We don't know why these people are violent, maybe it is because they are Muslims, maybe it is their political culture.*
+- so-called Palestinian terrorism that in the Israeli perspective and in some Western perspectives comes out of the blue: We don't know why these people are violent, maybe it is because they are Muslims, maybe it is their political culture.
  
-- *and constructing Israeli settlements there. The norm in Gaza was described in detail by the heroic Norwegian trauma surgeon Mads Gilbert, who has worked in Gazas main hospital through Israel's most grotesque crimes and returned again for the current onslaught.* 
+- and constructing Israeli settlements there. The norm in Gaza was described in detail by the heroic Norwegian trauma surgeon Mads Gilbert, who has worked in Gazas main hospital through Israel's most grotesque crimes and returned again for the current onslaught.
  
-- *Weisglass added that Gazans would remain on a diet, but not to make them die of hunger  
+- Weisglass added that Gazans would remain on a diet, but not to make them die of hunger  
  
-- *In reality, Hamas leaders have repeatedly made it clear that Hamas would accept a two-state settlement in accord with the international consensus that has been blocked by the United States and Israel for forty years. In contrast, Israel is dedicated to the destruction of Palestine, apart from some occasional meaningless words, and is implementing that commitment.* 
+- In reality, Hamas leaders have repeatedly made it clear that Hamas would accept a two-state settlement in accord with the international consensus that has been blocked by the United States and Israel for forty years. In contrast, Israel is dedicated to the destruction of Palestine, apart from some occasional meaningless words, and is implementing that commitment.
  
-- *Israeli officials laud the humanity of what it calls the most moral army in the world, which informs residents that their homes will be bombed.* 
+- Israeli officials laud the humanity of what it calls the most moral army in the world, which informs residents that their homes will be bombed.
  

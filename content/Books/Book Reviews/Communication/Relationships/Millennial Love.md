@@ -3,7 +3,7 @@ Pages: 240
 Date Finished: Apr 27, 2023
 Author: Olivia Petter
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-08-13T14:55
 tags:
   - books
   - non-fiction
@@ -26,19 +26,19 @@ Out of all the things she writes about, the abortion history was haunting and a 
 
 # ✍️ My Top  Quotes
 
-- *It took me forty-five minutes to find somewhere to eat dinner, because every single place I’d been recommended was either too romantic or too Instagrammable for me to feel comfortable sitting there alone. I also can’t speak French, which was unhelpful. All of which led to me sobbing into a bowl of cold ravioli in the worst Italian restaurant in Paris.* 
+- It took me forty-five minutes to find somewhere to eat dinner, because every single place I’d been recommended was either too romantic or too Instagrammable for me to feel comfortable sitting there alone. I also can’t speak French, which was unhelpful. All of which led to me sobbing into a bowl of cold ravioli in the worst Italian restaurant in Paris.
  
-- *Sometimes I want to be the kind of woman who dances through life and needs no one. Other times I just want to have someone to stroke my hair and tell me I have the best tits they’ve ever seen.* 
+- Sometimes I want to be the kind of woman who dances through life and needs no one. Other times I just want to have someone to stroke my hair and tell me I have the best tits they’ve ever seen.
  
-- *‘You own everything that happened to you. Tell your stories. If people wanted you to write warmly about them, they should have behaved better.’* 
+- ‘You own everything that happened to you. Tell your stories. If people wanted you to write warmly about them, they should have behaved better.’
  
-- *This brings me to a specific form of sliding into someone’s DMs known as ‘Tindstagramming’, a harmful dating trend that was first reported about in 2017. This is how it works: someone who you’ve rejected on a dating app finds you on Instagram and slides into your DMs to give it another shot. Tindstagramming became easier in 2015, when Tinder allowed users to link their Instagram accounts to the app.* 
+- This brings me to a specific form of sliding into someone’s DMs known as ‘Tindstagramming’, a harmful dating trend that was first reported about in 2017. This is how it works: someone who you’ve rejected on a dating app finds you on Instagram and slides into your DMs to give it another shot. Tindstagramming became easier in 2015, when Tinder allowed users to link their Instagram accounts to the app.
  
-- *In 2015, Tara Marshall, a British psychologist at Brunel University, found that as many as one-third of people stalk an ex-partner on social media at least once a week.* 
+- In 2015, Tara Marshall, a British psychologist at Brunel University, found that as many as one-third of people stalk an ex-partner on social media at least once a week.
  
-- *Roughly one in three people have used either dating apps or websites – this figure increases to almost half among 18- to 29-year-olds.\[\] More than 340 million people have downloaded Tinder since its launch. You can find 476 million on Badoo. A further 95 million on Bumble. And 70 million on happn. You’ll find seven million people on Plenty of Fish, six million on Grindr, and four million on Her.* 
+- Roughly one in three people have used either dating apps or websites – this figure increases to almost half among 18- to 29-year-olds.\[\] More than 340 million people have downloaded Tinder since its launch. You can find 476 million on Badoo. A further 95 million on Bumble. And 70 million on happn. You’ll find seven million people on Plenty of Fish, six million on Grindr, and four million on Her.
  
-- *If you’re into firefighters, nurses, police officers, or anyone who works in uniform, try Uniform Dating.* 
+- If you’re into firefighters, nurses, police officers, or anyone who works in uniform, try Uniform Dating.
  
-- *Margaret Atwood’s famous quote: ‘Men are afraid that women will laugh at them. Women are afraid that men will kill them.*
+- Margaret Atwood’s famous quote: ‘Men are afraid that women will laugh at them. Women are afraid that men will kill them.
  
