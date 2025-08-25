@@ -1,10 +1,10 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-08-25T09:04
 Pages: 244
 Author: Camille Fournier
 finished: true
-Date Finished: 
+Date Finished:
 tags:
   - books
   - digital-garden
@@ -22,7 +22,7 @@ This book is for technical people who aspire to become great leaders. Camille go
 
 # 🎨 Impressions
 I liked it, it was well-written. I think this is a good book to reference from time to time when you are on the tech-lead, manager path. 
-
+![](../../../../../static/images/Pasted%20image%2020250825090418.png)
 
 # ✍️ My Top  Quotes
 

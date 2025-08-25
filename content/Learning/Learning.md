@@ -6,7 +6,7 @@ tags:
   - performance
 finished: false
 created: 2023-06-23T20:47:00
-updated: 2024-03-07T13:42
+updated: 2025-08-14T10:11
 ---
 
 # Learning
@@ -27,6 +27,7 @@ I think that your "concentration-time" is limited, and those hours should be del
 - [10 things software engineers should know about learning.](https://cacm.acm.org/magazines/2024/1/278891-10-things-software-developers-should-learn-about-learning/fulltext)
 - [Reflective learning](https://effectiviology.com/reflective-learning/)
 - [HN: Thread on Learning every day.](https://news.ycombinator.com/item?id=39510292)
+- [How to Learn How to Surf](https://www.youtube.com/watch?app=desktop&v=wn5KqWwP6uQ&ab_channel=TomSachs)
 
 
 # Thoughts 

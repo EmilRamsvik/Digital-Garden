@@ -7,7 +7,7 @@ Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2025-05-16T13:55
+updated: 2025-08-14T13:46
 ---
 
 #### [Made to Stick](Book%20Reviews/Psychology/Made%20to%20Stick.md)
@@ -135,7 +135,7 @@ updated: 2025-05-16T13:55
 *Pages*: 98
 *Language*: English 
 
-#### [Four Thousand Weeks Time Management for Mortals](Book%20Reviews/Work/Productivity/Four%20Thousand%20Weeks%20Time%20Management%20for%20Mortals.md)
+#### [Four Thousand Weeks](Book%20Reviews/Work/Productivity/Four%20Thousand%20Weeks.md)
 *Author:*  Oliver Burkeman
 *Pages*: 288
 *Language*: English

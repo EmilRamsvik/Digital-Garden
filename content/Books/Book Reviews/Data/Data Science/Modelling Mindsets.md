@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-08-18T11:06
 Pages: 
 Author: Christoph Molnar
 finished: true
@@ -48,8 +48,6 @@ I have not experienced Likelihoodism as a mindset before, so interesting to lear
  
 - Another assumption is homoscedasticity: The variance of the target is independent of other variables.
  
-- Homoscedasticity can be checked with a residual
- 
 - Homoscedasticity can be checked with a residual plot, which shows on the x-axis the values of a variable and on the y-axis the residuals (actual target minus its predicted value) against each of the other variables.
  
 - Once you understand frequentist inference, you can understand the analysis section of many research articles.
@@ -62,7 +60,7 @@ I have not experienced Likelihoodism as a mindset before, so interesting to lear
  
 - Likelihoodism is the purist among the statistical modeling mindsets: it fully embraces the likelihood function as evidence for a statistical hypothesis.
  
-- “The likelihood principle asserts that two observations that generate identical likelihood functions are equivalent as evidence
+- The likelihood principle asserts that two observations that generate identical likelihood functions are equivalent as evidence
  
 - Imagine two experiments that produce the same data: Flip the coin 12 times. Observe 9 heads. Flip the coin until the tail appears 3 times. The third tail appears on the 12th flip. Same outcome but different stopping criteria. Should both experiments come to the same conclusion about the fairness of the coin? Depends on the mindset. Both experiments have the same likelihood, up to a constant factor. Likelihoodists would say that both experiments carry the same evidence. Frequentists might use a hypothesis test with a confidence level of 5%. Since the experiments have different stopping criteria, the frequentist uses different tests. As a result, the frequentist would reject the null hypothesis in experiment 2), but would not reject it in experiment 1).
  
@@ -70,9 +68,12 @@ I have not experienced Likelihoodism as a mindset before, so interesting to lear
  
 - There are many individual methods that aim to provide causal modeling. One example is “honest causal forests,” which are based on random forests and used to model heterogeneity in treatment effects (Athey and Imbens 2016).
  
-- Causal modeling is mainly a recipe for translating causal models into statistical estimators in the following four steps (Pearl 2009): Formulate causal estimand. Construct causal model. Identify statistical model. Estimate effect.
+- Causal modeling is mainly a recipe for translating causal models into statistical estimators in the following four steps (Pearl 2009):
+	- Formulate causal estimand.
+	- Construct causal model.
+	- Identify statistical model.
+	- Estimate effect.
  
 - Identification can be complicated, but there are at least some simple rules that give first hints for which variables to include and which to exclude: Include all confounders and the common causes of both the variable of interest and the outcome. For example, in Figure 8.2, the number of cars confounds the relation between the number of streets and air quality. Exclude colliders. The number of bicycles is a collider. Adding colliders to a model opens an unwanted dependence between the cause of study and the target. Consider mediators. The number of trees mediates the effect of streets on air quality. Inclusion in the model depends on the goal of the analysis (direct, indirect, or total effect of streets).
  
 - Unsupervised learning is a good approach to the curse of dimensionality, but even so, unsupervised learning can suffer greatly from the curse. The more features, the more difficult the interpretation of clusters becomes, for example.
- 

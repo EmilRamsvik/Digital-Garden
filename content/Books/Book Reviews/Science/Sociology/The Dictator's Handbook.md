@@ -12,7 +12,7 @@ tags:
   - economics
   - system-thinking
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-08-14T11:10
 ---
 # The Dictator's Handbook
 
@@ -41,11 +41,11 @@ A good book to also consider is the [Seeing Like a State](Bureaucracy/Seeing%20L
 
 - A simple way to think of these groups is: interchangeables, influentials, and essentials. In the United States, the voters are the nominal selectorate—interchangeables. As for the real selectorate—influentials—the electors of the electoral college really choose the president (just like the party faithful picked their general secretary back in the USSR). Still, the electors nowadays are normatively bound to vote the way their state’s voters voted, so they don’t really have much independent clout in practice. In the United States, the nominal selectorate and real selectorate are, therefore, pretty closely aligned. This is why, even though you’re only one among many voters, interchangeable with others, you still feel like your vote is influential—that it counts and is counted. The winning coalition—essentials—in the United States is the smallest bunch of voters, properly distributed among the states, whose support for a candidate translates into a win
 
-- Rule 1: Keep your winning coalition as small as possible.
-- Rule 2: Keep your nominal selectorate as large as possible.
-- Rule 3: Control the flow of revenue.
-- Rule 4: Pay your key supporters just enough to keep them loyal.
-- Rule 5: Don’t take money out of your supporter’s pockets to make the people’s lives better.
+- **Rule 1**: Keep your winning coalition as small as possible.
+- **Rule 2**: Keep your nominal selectorate as large as possible.
+- **Rule 3**: Control the flow of revenue.
+- **Rule 4**: Pay your key supporters just enough to keep them loyal.
+- **Rule 5**: Don’t take money out of your supporter’s pockets to make the people’s lives better.
 
 - First, taxes diminish how hard people work. Second, some of the tax burden inevitably will fall upon the essential backers of the leader. (In general, the first constraint limits taxes in autocracies and the second constraint sets the boundary on taxes in democracies.) The third consideration is that tax collection requires both expertise and resources. The costs associated with collecting taxes limit what leaders can extract and shapes the choice of taxation methods.
 

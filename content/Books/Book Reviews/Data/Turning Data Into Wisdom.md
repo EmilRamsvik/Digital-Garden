@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-08-18T12:54
 Pages: 268
 Author: Kevin Hanegan
 finished: true
@@ -106,7 +106,7 @@ Their research concluded that the best results happened with leaders who practic
  
 - “Numbers have an important story to tell. They rely on you to give them a clear and convincing voice.”  —Stephen Few
  
-- *Upstream stakeholders** are individuals who are involved in the implementation of the program or offering the decision has set forth. **Downstream stakeholders** are individuals who will receive, use, or participate in the program or offering the decision has set forth. The downstream stakeholders can be directly or indirectly impacted. Direct impactees are typically employees within the program or offering for which the decision was made, while indirect impactees are typically external to the organization or group.
+- **Upstream stakeholders** are individuals who are involved in the implementation of the program or offering the decision has set forth. **Downstream stakeholders** are individuals who will receive, use, or participate in the program or offering the decision has set forth. The downstream stakeholders can be directly or indirectly impacted. Direct impactees are typically employees within the program or offering for which the decision was made, while indirect impactees are typically external to the organization or group.
  
 - A major part of properly communicating your story is to help stakeholders see what you want them to see while limiting anything that can distract them.
 
@@ -115,7 +115,5 @@ Their research concluded that the best results happened with leaders who practic
 	 **Iconic memory** , a form of sensory memory, processes and stores visual information automatically, many times unconsciously, and in less than a second. Since this process is automatic and happens unconsciously before we are even paying attention, it is called preattentive processing . This process detects certain visual attributes. These visual attributes “pop out” at us without conscious effort.
  
  
-- The Pyramid principle , first created by business consultant Barbara Minto, advocates that ideas should always form a pyramid under a single thought,
- 
-- The Pyramid principle is not designed to include the full story and communication. It focuses on the decision itself. Components of the story that come after the decision still need to be added
+- **The Pyramid principle** first created by business consultant Barbara Minto, advocates that ideas should always form a pyramid under a single thought. The Pyramid principle is not designed to include the full story and communication. It focuses on the decision itself. Components of the story that come after the decision still need to be added
  

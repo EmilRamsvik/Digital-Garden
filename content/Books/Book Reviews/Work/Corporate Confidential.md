@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-08-14T12:19
 Pages: 224
 Author: Cynthia Shapiro
 finished: false
@@ -21,6 +21,8 @@ It is a warning to the naive and the outspoken, and should be read by those who 
 
 The NUMBER 1 priority is not falling out of favor with your boss or stakeholder. That is all. 
 
+
+Understand that sales and understanding sales and negotiation are critical and high valued skills in the workplace. 
 # ✍️ My Top  Quotes
 
 - Many employees mistakenly believe the law will provide them with protection from retaliatory or unfounded job loss. In many of today’s workplaces, this is nothing but a false sense of security.

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-08-14T08:59
 Pages: 
 Author: 
 finished: false
@@ -22,6 +22,8 @@ I thought the book's first part was brilliant, but later on, I felt it somewhat 
 The book dealt a lot with the analysis of competition, which I did not estimate was such a big part of the good strategy. 
 
 A good strategy is understanding the challenges and being correct in identifying what the challenge is.  
+
+After reading this book in late 2023, i do find it quite facinating in retrospect as well, the simple lessons from this book have been quite valuable for me in my work, and it is one of the cornerstones when it comes to literature of books. 
 # ✍️ My Top  Quotes
 
 - Nelson’s challenge was that he was outnumbered. His strategy was to risk his lead ships in order to break the coherence of his enemy’s fleet. With coherence lost, he judged, the more experienced English captains would come out on top in the ensuing melee. Good strategy almost always looks this simple and obvious and does not take a thick deck of PowerPoint slides to explain.
@@ -50,9 +52,13 @@ A good strategy is understanding the challenges and being correct in identifying
  
 - Post-WWII period, the Soviet Union murdered upward of 20 million people, its own citizens and others under its control, a grisly improvement over the 40 million executed, purposefully starved, and worked to death in the 1917–48 period.
  
-- To detect a bad strategy, look for one or more of its four major hallmarks: • Fluff. Fluff is a form of gibberish masquerading as strategic concepts or arguments. It uses “Sunday” words (words that are inflated and unnecessarily abstruse) and apparently esoteric concepts to create the illusion of high-level thinking. • Failure to face the challenge. Bad strategy fails to recognize or define the challenge. When you cannot define the challenge, you cannot evaluate a strategy or improve it. • Mistaking goals for strategy. Many bad strategies are just statements of desire rather than plans for overcoming obstacles. • Bad strategic objectives. A strategic objective is set by a leader as a means to an end. Strategic objectives are “bad” when they fail to address critical issues or when they are impracticable.
+- To detect a bad strategy, look for one or more of its four major hallmarks: 
+	- **Fluff**. Fluff is a form of gibberish masquerading as strategic concepts or arguments. It uses “Sunday” words (words that are inflated and unnecessarily abstruse) and apparently esoteric concepts to create the illusion of high-level thinking. 
+	- Failure to face the challenge. Bad strategy fails to recognize or define the challenge. When you cannot define the challenge, you cannot evaluate a strategy or improve it. 
+	- Mistaking goals for strategy. Many bad strategies are just statements of desire rather than plans for overcoming obstacles. 
+	- Bad strategic objectives. A strategic objective is set by a leader as a means to an end. Strategic objectives are “bad” when they fail to address critical issues or when they are impracticable.
  
-- The scandal took its auditor, Arthur Andersen, down as well. (The accountant’s consulting arm, Andersen Consulting, was renamed Accenture.) A systematic market for trading bandwidth has yet to develop.
+- The scandal (Enron) took its auditor, Arthur Andersen, down as well. (The accountant’s consulting arm, Andersen Consulting, was renamed Accenture.) A systematic market for trading bandwidth has yet to develop.
  
 - If you fail to identify and analyze the obstacles, you don’t have a strategy. Instead, you have either a stretch goal, a budget, or a list of things you wish would happen.
  
@@ -62,7 +68,7 @@ A good strategy is understanding the challenges and being correct in identifying
  
 - Strategic objectives should address a specific process or accomplishment, such as halving the time it takes to respond to a customer, or getting work from several Fortune 500 corporations.
  
-- Northwest. His planning committee’s strategic plan contained 47 “strategies” and 178 action items. Action item number 122 was to “create a strategic plan.” As another example, the Los Angeles Unified School District’s strategic plan for “high-priority schools” (discussed on the next page) contained 7 “strategies,” 26 “tactics,” and 234 “action steps,” a true dog’s dinner of things to do. This pattern is all too common in city, school district, and nonprofit strategy work, as well as in some business firms. Blue-Sky Objectives The
+- Northwest. His planning committee’s strategic plan contained 47 “strategies” and 178 action items. Action item number 122 was to “create a strategic plan.” As another example, the Los Angeles Unified School District’s strategic plan for “high-priority schools” (discussed on the next page) contained 7 “strategies,” 26 “tactics,” and 234 “action steps,” a true dog’s dinner of things to do. This pattern is all too common in city, school district, and nonprofit strategy work, as well as in some business firms. 
  
 - The second form of bad strategic objectives is one that is “blue sky.” A good strategy defines a critical challenge. What is more, it builds a bridge between that challenge and action,
  
@@ -76,7 +82,10 @@ A good strategy is understanding the challenges and being correct in identifying
  
 - First, if one has a policy of resolving conflict by adopting all the options on the table, there will be no incentive for anyone to develop and sharpen their arguments in the first place.
  
-- The kernel of a strategy contains three elements: 1. A diagnosis that defines or explains the nature of the challenge. A good diagnosis simplifies the often overwhelming complexity of reality by identifying certain aspects of the situation as critical. 2. A guiding policy for dealing with the challenge. This is an overall approach chosen to cope with or overcome the obstacles identified in the diagnosis. 3. A set of coherent actions that are designed to carry out the guiding policy. These are steps that are coordinated with one another to work together in accomplishing the guiding policy.
+- The kernel of a strategy contains three elements: 
+	1. A diagnosis that defines or explains the nature of the challenge. A good diagnosis simplifies the often overwhelming complexity of reality by identifying certain aspects of the situation as critical.
+	2. A guiding policy for dealing with the challenge. This is an overall approach chosen to cope with or overcome the obstacles identified in the diagnosis. 
+	3. A set of coherent actions that are designed to carry out the guiding policy. These are steps that are coordinated with one another to work together in accomplishing the guiding policy.
  
 - Great deal of strategy work is trying to figure out what is going on. Not just deciding what to do, but the more fundamental problem of comprehending the situation.
  
@@ -102,7 +111,7 @@ A good strategy is understanding the challenges and being correct in identifying
  
 - Crown hasn’t given up its bargaining power like the captives have.”
  
-- As Frank Gilbreth pointed out in 1909, bricklayers had been laying bricks for thousands of years with essentially no improvement in tools and technique.5 By carefully studying the process, Gilbreth was able to more than double productivity without increasing anyone’s workload. By moving the supply pallets of bricks and mortar to chest height, hundreds or thousands of separate lifting movements per day by each bricklayer were avoided. By using a movable scaffold, skilled masons did not have to waste time carrying bricks up ladders. By making sure that mortar was the right consistency, masons could set and level a brick with a simple press of the hand instead of the time-honored multiple taps with a trowel.
+- As Frank Gilbreth pointed out in 1909, bricklayers had been laying bricks for thousands of years with essentially no improvement in tools and technique. By carefully studying the process, Gilbreth was able to more than double productivity without increasing anyone’s workload. By moving the supply pallets of bricks and mortar to chest height, hundreds or thousands of separate lifting movements per day by each bricklayer were avoided. By using a movable scaffold, skilled masons did not have to waste time carrying bricks up ladders. By making sure that mortar was the right consistency, masons could set and level a brick with a simple press of the hand instead of the time-honored multiple taps with a trowel.
  
 - Extending an existing competitive advantage brings it into new fields and new competitions.
  
@@ -114,15 +123,13 @@ A good strategy is understanding the challenges and being correct in identifying
  
 - Entropy is a great boon to management and strategy consultants. Despite all the high-level concepts consultants advertise, the bread and butter of every consultant’s business is undoing entropy—cleaning up the debris and weeds that grow in every organizational garden.
  
-- Call this a hump chart. Whenever you can assign profit or gain to individual products, outlets, areas, segments, or any other portion of the total, you can build a hump chart.
- 
 - You will also glimpse almost every building block of good strategy: intelligent anticipation, a guiding policy that reduced complexity, the power of design, focus, using advantage, riding a dynamic wave of change, and the important role played by the inertia and disarray of rivals.
  
 - Good strategy is built on functional knowledge about what works, what doesn’t, and why. Generally available functional knowledge is essential, but because it is available to all, it can rarely be decisive
  
 - This is the centerpiece of scientific thinking—the idea of refutation. Unless an idea can possibly be proved false by observable fact, it is not scientific.
  
-- Started, became a living experiment. One of the most important resources a business can have is valuable privileged information—that is, knowing something that others do not.
+- One of the most important resources a business can have is valuable privileged information—that is, knowing something that others do not.
  
 - Being strategic is being less myopic—less shortsighted—than others. You must perceive and take into account what others do not, be they colleagues or rivals. Being less myopic is not the same as pretending you can see the future.
  

@@ -11,7 +11,7 @@ tags:
   - philosophy
   - time-management
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-08-14T13:47
 ---
 # Four Thousand Weeks Time Management for Mortals
 
@@ -23,15 +23,9 @@ This book takes all the productivity and self-help books and asks if we should t
 # 🎨 Impressions
 I found it provocatively captivating. It takes my mom's advice of not freaking out about lost time or broken habits and gives a lot of context around them. Sometimes things just take time and we don't have all the time in the world.
 
-## How I Discovered It
-
-Hacker news
-## Who Should Read It?
-All who work or study, and are trapped in the productivity trap. 
-
-# ☘️ How the Book Changed Me
 I think I got a more profound understanding of my own limitations and why they are what they are.  Learning to relax a bit more about things. Reducing the number of goals to a manageable few. Having just a couple of things in the working-on phase. Everything else is just distractions. 
 
+I have become a lot less attracted to optimizing my life, and instead being a bit more chill on things. This has profoundly improved my life!
 # ✍️ My Top  Quotes
 
 - Assuming you live to be eighty, you’ll have had about four thousand weeks.
@@ -46,7 +40,7 @@ I think I got a more profound understanding of my own limitations and why they a
  
 - Helen Petersen writes in a widely shared essay on millennial burnout, you can’t fix such problems “with vacation, or an adult coloring book, or ‘anxiety baking,’ or the Pomodoro Technique, or overnight fucking oats.”
  
-- in her book More Work for Mother, the historian Ruth Schwartz Cowan shows that when housewives first got access to “labor-saving” devices like washing machines and vacuum cleaners, no time was saved at all, because society’s standards of cleanliness simply rose to offset the benefits; now that you could return each of your husband’s shirts to a spotless condition after a single wearing, it began to feel like you should, to show how much you loved him.
+- In her book More Work for Mother, the historian Ruth Schwartz Cowan shows that when housewives first got access to “labor-saving” devices like washing machines and vacuum cleaners, no time was saved at all, because society’s standards of cleanliness simply rose to offset the benefits; now that you could return each of your husband’s shirts to a spotless condition after a single wearing, it began to feel like you should, to show how much you loved him.
  
 - “Work expands so as to fill the time available for its completion,” the English humorist and historian C. Northcote Parkinson wrote in 1955, coining what became known as Parkinson’s law.
  

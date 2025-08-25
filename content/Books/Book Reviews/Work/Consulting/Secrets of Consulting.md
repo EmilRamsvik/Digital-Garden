@@ -1,8 +1,8 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:51
-Pages: 
-Author: 
+updated: 2025-08-20T15:02
+Pages:
+Author:
 finished: true
 Date Finished: 2024-09-19
 tags:
@@ -68,7 +68,7 @@ I realized a lot from this book, probably more than any other consulting book. H
  
 - Therefore, hiring a consultant is always seen as an admission of personal failure. A consultant who fails to solve the problem would thus be interpreted as a personal success for the client—except that the client hired the consultant in the first place, and so the consultant's failure still falls on the client. 
  
-- *If they didn't hire you, don't solve their problem.** The Fourth Law of Consulting says you must never allow yourself to forget that consulting is the art of influencing people at their request. Among consultants, the most prevalent occupational disease is offering unsolicited "help."
+- **If they didn't hire you, don't solve their problem.** The Fourth Law of Consulting says you must never allow yourself to forget that consulting is the art of influencing people at their request. Among consultants, the most prevalent occupational disease is offering unsolicited "help."
  
 - Until recently, I suspected that the entire field of psychology was fifty percent error and fifty percent fake.
  
@@ -160,7 +160,7 @@ I realized a lot from this book, probably more than any other consulting book. H
 	8. *It tastes better when you add your own egg.
 	9. *Spend at least one-fourth of your time doing nothing.
  
-- Pricing has many functions, only one of which is the exchange of money.
+- **Pricing has many functions, only one of which is the exchange of money.**
  
 - When I set a fee, there are two possibilities: One is that the client will accept it, I'll do the work, and I'll be paid that fee; the other is that the client will reject it, I won't do the work, and I won't get that fee. The Ninth Law says that I should set the fee so that whatever happens, I'll feel more or less the same.
  
@@ -180,7 +180,7 @@ I realized a lot from this book, probably more than any other consulting book. H
  
 - Fowler once told me that he took a course on contracts in which the professor said there were only three very important rules to remember: First, get it in writing. Second, get it in writing. Third, get it in writing. I believe that every consultant should memorize these rules. Fowler did, but there is more to the matter than Fowler understood.
  
-- Bolton, Robert. People Skills: How to Assert Yourself, Listen to Others, and Resolve Conflicts.
+- Bolton, Robert. [People Skills](../../Communication/People%20Skills.md): How to Assert Yourself, Listen to Others, and Resolve Conflicts.
  
 - Kennedy, Eugene: [On Becoming a Counselor.](https://www.amazon.com/Becoming-Counselor-Fourth-Counselors-Helpers/dp/0809153211)
  

@@ -7,7 +7,7 @@ tags:
   - learning
   - personal-development
 created: 2023-08-28T09:20
-updated: 2024-09-22T09:33
+updated: 2025-08-14T13:46
 ---
 # Motivation
 
@@ -26,7 +26,7 @@ I try to exercise restraint to save myself from myself. If the chocolate is in t
 
 
 # Learning to Relax
-The book [[../Books/Book Reviews/Work/Productivity/Four Thousand Weeks Time Management for Mortals]] is a good book on why you should not always be "on".  Having some mental break is always good. 
+The book [[../Books/Book Reviews/Work/Productivity/Four Thousand Weeks]] is a good book on why you should not always be "on".  Having some mental break is always good. 
 
 I think a sure recipe for disappointment is being "on" all the time, taking the time not to be a superhero, to be a wreck and eating Ben & Jerry's on the couch is perfectly normal, as long as it is the exception. It is also a good way of recalibrating the mental mindset. Yes, I did do something that overall was bad for me yesterday but I feel bad and therefore will not continue with this. 
 

@@ -13,7 +13,7 @@ tags:
   - programming
   - self-improvement
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-08-14T14:59
 ---
 # Your Brain at Work
 
@@ -23,13 +23,7 @@ This book is about how you can understand and work on your performance by unders
 # 🎨 Impressions
 I quite liked it and felt it was a good overview of how the different ways the brain. It was a nice summary of the current status of the science of the brain and performance. It contained a lot of interesting insights about the brain and how it might lead you down some slippery paths.
 
-## How I Discovered It
-I read about the book in a blog post, but cannot remember which one, unfortunately.
 
-## Who Should Read It?
-I think everyone who is interested in neuroscience and performance in work, relationships, and focus would have great use of this. 
-
-# ☘️ How the Book Changed Me
 I think I will return to the book a lot more and try to incorporate science in order to perform better in all aspects of my life. Especially, how I can distance myself from petty impulses and emotions and become a better person.
 
 # ✍️ My Top  Quotes
@@ -65,7 +59,7 @@ I think I will return to the book a lot more and try to incorporate science in o
 	- Some mental processes take up a lot more energy than others. 
 	- The most important mental processes, such as prioritizing, often take the most effort.* 
 
- *Some Things to Try
+ Some Things to Try
 	- Think of conscious thinking as a precious resource to conserve. Prioritize prioritizing, as it’s an energy-intensive activity.
 	- Save mental energy for prioritizing by avoiding other high-energy consuming conscious activities such as dealing with emails. 
 	- Schedule the most attention-rich tasks when you have a fresh and alert mind.
@@ -82,7 +76,7 @@ I think I will return to the book a lot more and try to incorporate science in o
 	- Memory starts to degrade when you try to hold more than one idea in mind. 
 	- When trying to make a decision between items, the optimal number of items to compare is two. The optimal number of different ideas to hold in mind at one time is no more than three or four, ideally three. 
 
--  *Some Things to Try
+-  Some Things to Try
 	- Simplify information by approximating and focusing on an idea’s salient elements.
 	- Group information into chunks whenever you have too much information. 
 	- Practice getting your most important actors onstage first, not just the ones that are easiest.* 
