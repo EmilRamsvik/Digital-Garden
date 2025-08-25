@@ -1,6 +1,6 @@
 ---
 created: 2024-01-02T21:12:00
-updated: 2025-06-11T09:29
+updated: 2025-08-25T13:10
 tags:
   - article
   - digital-garden
@@ -29,6 +29,7 @@ AI strategy is about having a clear view of how to enable the organization to ut
 
 # Links
 - [Driving Digital Strategy](../Books/Book%20Reviews/Strategy/Driving%20Digital%20Strategy.md) - This is related to the AI strategy discussions.
+- [Good Strategy Bad Strategy](../Books/Book%20Reviews/Strategy/Good%20Strategy%20Bad%20Strategy.md) - A must for understanding strategy. 
 
 
 # Thoughts 

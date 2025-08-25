@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-01-17T08:55
+updated: 2025-08-25T13:37
 tags:
   - article
   - digital-garden
@@ -10,7 +10,7 @@ tags:
   - design-thinking
   - system-thinking
   - processes
-parent: 
+parent:
 Finished: false
 ---
 # Thinking

@@ -7,7 +7,7 @@ tags:
   - obsidian
 finished: true
 created: 2023-10-29T15:33
-updated: 2025-06-11T10:13
+updated: 2025-08-25T13:10
 ---
 # Personal
 
@@ -52,7 +52,7 @@ I think I would like to have a better way of taking my book notes out of my Book
 -  I want to share this with the world, but only when it is large enough to be useful. 
 - Articles that are not finished are not marked as finished in the header so that I can do some sort of differentiation between articles.  One thing I would like to do is work with [dataview](https://github.com/blacksmithgu/obsidian-dataview) and use it to create an unfinished table so that I can use that to finish up unfinished articles. 
 - Access to my Mac has been a driver for this. When I worked on an engagement as a consultant, I had issues with writing down and having the normal workflow, which makes it a lot easier to jot down quickly some notes and then later, during the daily review, actually write down more comprehensive thoughts. 
-- 
+- After working about 2 years on the digital garden. 
 
 
 
