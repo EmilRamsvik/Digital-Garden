@@ -1,11 +1,7 @@
 # Dependency directories
 node_modules/*
 
-# Production build files
-build/*
 
-# Docusaurus local development
-/.docusaurus/*
 
 
 # System files
@@ -18,8 +14,4 @@ Thumbs.db
 # Optional: Environment files
 .env
 .env.local
-.docusaurus/*
-.docusaurus
-node_modules
-node_modules/.cache/webpack/client-development-en/0.pack
 public/
