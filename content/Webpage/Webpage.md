@@ -1,16 +1,22 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-08T16:18
+updated: 2025-09-02T10:19
 tags:
+  - "#vercel"
   - article
+  - ci-cd
+  - development
   - digital-garden
-  - web-development
-  - personal
+  - documentation
+  - docusaurus
   - javascript
   - javascript/react
-  - docusaurus
-  - ci-cd
-  - "#vercel"
+  - knowledge-management
+  - migration
+  - obsidian
+  - personal
+  - tools
+  - web-development
 Finished: false
 ---
 # Webpage

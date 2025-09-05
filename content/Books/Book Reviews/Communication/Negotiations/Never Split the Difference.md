@@ -1,17 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 Pages: 288
 Author: Chris Voss
 finished: true
 Date Finished: 2024-04-01
 tags:
-  - books
-  - digital-garden
   - book-review
-  - negotiation
+  - books
   - communication
+  - digital-garden
   - job
+  - negotiation
+  - psychology
+  - relationships
+  - strategy
 ---
 # Never Split the Difference
 

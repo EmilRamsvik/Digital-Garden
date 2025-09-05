@@ -1,14 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-09T10:12
+updated: 2025-09-02T10:18
 tags:
   - article
-  - digital-garden
-  - business
-  - corporate
-  - mba
-  - institutions
   - bureaucracy
+  - business
+  - business-theory
+  - corporate
+  - digital-garden
+  - economics
+  - institutions
+  - management
+  - mba
+  - organizations
+  - system-thinking
 Finished: true
 ---
 # Business

@@ -1,16 +1,23 @@
 ---
-created: 2024-01-10T13:14:00
-updated: 2024-01-16T15:17
+created: 2024-01-10 13:14:00
+updated: 2025-09-02T10:16
 tags:
-  - article
-  - digital-garden
   - "#data-science"
-  - "#machine-learning"
   - "#data/data-cleaning"
   - "#data/data-drift"
   - "#data/eda"
+  - "#machine-learning"
   - "#machine-learning/ml-engineering"
+  - ai
   - ai/data-centric-ai
+  - article
+  - data-cleaning
+  - data-quality
+  - data-science
+  - digital-garden
+  - machine-learning
+  - model-evaluation
+  - python
 Finished: true
 ---
 # Confident Learning

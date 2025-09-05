@@ -1,15 +1,18 @@
 ---
 tags:
-  - programming
-  - article
-  - database
-  - sql
-  - postgresql
   - Snowflake
+  - article
+  - data-engineering
+  - database
   - database/sql
+  - learning
+  - postgresql
+  - programming
+  - sql
+  - tools
 finished: false
-created: 2023-06-15T13:31:00
-updated: 2024-08-28T12:36
+created: 2023-06-15 13:31:00
+updated: 2025-09-02T10:15
 ---
 # SQL
 

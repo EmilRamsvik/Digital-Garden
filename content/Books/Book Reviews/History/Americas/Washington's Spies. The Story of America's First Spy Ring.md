@@ -3,16 +3,21 @@ Pages: 384
 Date Finished: 2023-02-02
 Author: Alexander Rose
 tags:
-  - history
   - american-history
   - american-revolution
+  - biography
+  - book-review
+  - books
   - espionage
+  - history
+  - intelligence
+  - military-history
   - non-fiction
   - revolution
   - war
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 ---
 # Washington's Spies. The Story of America's First Spy Ring
 

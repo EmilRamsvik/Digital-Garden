@@ -1,10 +1,15 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-11T13:19
+updated: 2025-09-02T09:59
 tags:
+  - architecture
   - article
   - digital-garden
+  - engineering-culture
+  - leadership
   - management
+  - system-thinking
+  - technical-leadership
   - technical-managment
 Finished: true
 ---

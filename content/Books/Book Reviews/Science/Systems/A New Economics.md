@@ -1,20 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 Pages: 240
 Author: Edward Demming
 finished: true
 Date Finished: 2024-12-12
 tags:
-  - books
-  - digital-garden
   - book-review
-  - system-thinking
-  - economics
+  - books
+  - collaboration
   - complexity
+  - digital-garden
+  - economics
+  - education
   - industry
-  - processes
+  - management
   - manufacturing
+  - processes
+  - quality
+  - system-thinking
 ---
 # A New Economics
 

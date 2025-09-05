@@ -2,12 +2,17 @@
 Finished: false
 tags:
   - article
+  - business
+  - cognitive-biases
   - digital-garden
+  - measurement
   - productivity
   - productivity-hack
-  - cognitive-biases
+  - strategy
+  - system-thinking
+  - theory
 created: 2023-12-27T12:37
-updated: 2024-09-22T09:35
+updated: 2025-09-02T10:19
 ---
 
 
@@ -30,9 +35,9 @@ The "Missing Middle" theorem refers to businesses focusing on high-end, premium 
 In the context of the entertainment industry, this leads to content creators focusing on either long or short formats and either high- or low-quality versions. 
 # Links
 - [Cortex episode extensively discussing the missing middle theorem](https://open.spotify.com/episode/4W31AGEIMYsvBkoE9dckAB?si=a43b28a19482418b) Among other things they talk about. 
-- 
-
+- [Four Thousand Weeks](../Books/Book%20Reviews/Work/Productivity/Four%20Thousand%20Weeks.md)
 # Thoughts 
 - Atomic Habits is one of the most popular books read. I have read it but cannot remember the 3 most important lessons at the moment of writing. Is it the same for everyone else? 
+- 
 
 

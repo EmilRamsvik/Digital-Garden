@@ -1,13 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-28T11:58
+updated: 2025-09-02T10:15
 tags:
   - article
   - digital-garden
-  - programming
+  - front-end
   - javascript
   - javascript/react
-  - front-end
+  - javascriptframeworks
+  - nextjs
+  - programming
+  - server-side-rendering
+  - web-development
+  - web-frameworks
 Finished: false
 ---
 # NextJS

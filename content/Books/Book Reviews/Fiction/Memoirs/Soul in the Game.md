@@ -4,13 +4,18 @@ Date Finished: Jul 14, 2023
 Author: Vitaliy Katsenelson.
 Finished: true
 tags:
-  - stoicsm
-  - philosophy
+  - book-review
+  - books
   - classical-music
   - investing
-  - books
+  - life-wisdom
+  - personal
+  - philosophy
+  - russia
+  - stoicism
+  - stoicsm
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # Soul in the Game
 

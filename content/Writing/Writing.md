@@ -1,12 +1,16 @@
 ---
 tags:
   - article
-  - writing
-  - knowledge
+  - communication
   - focus
+  - knowledge
+  - personal-development
+  - productivity
+  - self-expression
+  - writing
 finished: false
-created: 2023-05-30T09:51:00
-updated: 2024-02-19T10:35
+created: 2023-05-30 09:51:00
+updated: 2025-09-02T10:19
 ---
 
 

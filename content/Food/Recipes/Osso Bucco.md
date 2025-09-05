@@ -5,12 +5,18 @@ Time: 6 hours
 Date Made: Jun 18, 2023
 Finished: true
 tags:
-  - recipe
-  - italian
+  - cooking
   - food
+  - history
+  - italian
+  - italian-cuisine
+  - meat
+  - recipe
   - stew
+  - traditional
+  - travel
 created: 2023-06-18T12:31
-updated: 2024-02-02T14:22
+updated: 2025-09-02T10:18
 ---
 # Osso Bucco
 

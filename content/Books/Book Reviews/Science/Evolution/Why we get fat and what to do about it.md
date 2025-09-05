@@ -3,14 +3,19 @@ Pages: 288
 Date Finished: 2023-04-23
 Author: Gary Taubes
 tags:
+  - biology
   - books
-  - non-fiction
-  - health
-  - nutrition
   - diet
+  - health
+  - metabolism
+  - non-fiction
+  - nutrition
+  - obesity
+  - research
+  - science
 finished: false
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 ---
 # Why we get fat and what to do about it
 

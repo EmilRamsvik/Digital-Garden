@@ -1,16 +1,19 @@
 ---
 tags:
-  - terminal
+  - ai
+  - automation
+  - bash
+  - development
+  - mac
+  - productivity-hack
   - shell
   - shell-scripting
+  - terminal
   - tools
-  - automation
-  - mac
   - warp
-  - bash
 Finished: true
 created: 2023-12-30T17:00
-updated: 2024-04-14T19:01
+updated: 2025-09-02T10:13
 ---
 
 

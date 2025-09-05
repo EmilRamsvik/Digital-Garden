@@ -1,13 +1,19 @@
 ---
-Date Visited: 
+Date Visited:
 tags:
-  - places
-  - travel
+  - city-guide
   - digital-garden
+  - food
+  - hiking
+  - norway
+  - oslo
+  - places
+  - restaurants
+  - travel
   - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2024-09-22T12:22
+updated: 2025-09-02T10:18
 ---
 # Oslo
 I live in Oslo, and I think that this is more of a nice little guide to people who have not been there.

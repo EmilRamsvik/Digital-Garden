@@ -1,17 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 Pages: 242
 Author: Daniel Vaughan
 finished: true
 Date Finished: 2024-05-23
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - data-science
+  - ai
   - analytics
+  - book-review
+  - books
+  - business
+  - communication
   - data-analysis
+  - data-science
+  - decision-making
+  - digital-garden
+  - machine-learning
+  - management
+  - strategy
 ---
 # Analytical Skills for AI and Data Science
 

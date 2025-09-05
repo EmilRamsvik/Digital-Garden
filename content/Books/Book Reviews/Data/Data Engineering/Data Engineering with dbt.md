@@ -1,20 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 581
 Author: Roberto Zagni
 finished: true
 Date Finished: 2024-05-06
 tags:
-  - books
-  - digital-garden
   - book-review
-  - dbt
-  - data/data-pipeline
-  - data/data-engineering
-  - data
+  - books
   - cloud
+  - data
   - data-engineering
+  - data-modeling
+  - data/data-engineering
+  - data/data-pipeline
+  - database
+  - dbt
+  - digital-garden
+  - snowflake
+  - sql
 ---
 # Data Engineering with dbt
 

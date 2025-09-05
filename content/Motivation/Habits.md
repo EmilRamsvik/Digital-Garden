@@ -1,12 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-25T14:29
+updated: 2025-09-02T10:18
 tags:
   - article
-  - digital-garden
-  - motivation
-  - habits
   - atomic-habits
+  - digital-garden
+  - habits
+  - health
+  - morning-routine
+  - motivation
+  - personal-development
+  - productivity
+  - psychology
+  - self-improvement
 Finished: false
 ---
 # Habits

@@ -1,15 +1,19 @@
 ---
-Date Started: 
-Difficulty: 
-Culture: 
+Date Started:
+Difficulty:
+Culture:
 tags:
-  - recipe
-  - digital-garden
-  - food
   - "#cooking"
+  - cooking
+  - digital-garden
+  - duck
+  - food
+  - french-cuisine
+  - haute-cuisine
+  - recipe
 Finished: false
 created: 2024-02-02T14:23
-updated: 2024-08-21T17:49
+updated: 2025-09-02T10:17
 ---
 # Duck
 Duck is one of the better ways of making haute cuisine food. And I very much prefer the French way of cooking duck. 

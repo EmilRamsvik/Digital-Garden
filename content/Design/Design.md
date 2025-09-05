@@ -1,14 +1,20 @@
 ---
 tags:
   - article
+  - atomic-design
   - design
+  - design-patterns
+  - design-principles
   - design-sprint
-  - ux
-  - ui
+  - design-system
   - development
+  - system-thinking
+  - ui
+  - user-experience
+  - ux
 Finished: false
-created: 2023-08-11T15:01:00
-updated: 2025-08-05T12:11
+created: 2023-08-11 15:01:00
+updated: 2025-09-02T09:57
 ---
 # Design
 

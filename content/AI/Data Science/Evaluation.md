@@ -1,14 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-05-05T20:24
+updated: 2025-09-02T10:16
 tags:
+  - "#uncertainty"
   - article
-  - digital-garden
+  - data-quality
   - data-science
+  - data-validation
   - data/eda
   - data/validation
-  - "#uncertainty"
+  - digital-garden
+  - machine-learning
   - ml/model-evaluation
+  - model-evaluation
+  - statistics
 Finished: false
 ---
 # Evaluation

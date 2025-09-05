@@ -1,19 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 Pages: 416
 Author: Yascha Mounk
 finished: true
 Date Finished: 2024-12-19
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - communism
+  - critical-theory
   - culture
-  - woke
-  - post-modernism
-  - politics
+  - digital-garden
+  - ideology
+  - philosophy
   - political-science
+  - politics
+  - post-modernism
+  - postmodernism
+  - sociology
+  - woke
 ---
 # The Identity Trap
 

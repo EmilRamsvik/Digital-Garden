@@ -1,9 +1,17 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-01-30T13:11
+updated: 2025-09-02T09:54
 tags:
   - article
+  - communication
   - digital-garden
+  - learning
+  - listening
+  - personal-development
+  - productivity
+  - psychology
+  - relationships
+  - speaking
 Finished: false
 ---
 # Communication

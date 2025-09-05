@@ -8,11 +8,16 @@ tags:
   - "#non-fiction"
   - "#political-science"
   - "#power"
-  - politics
   - economics
+  - governance
+  - leadership
+  - political-science
+  - politics
+  - power
+  - strategy
   - system-thinking
 created: 2024-01-06T15:04
-updated: 2025-08-14T11:10
+updated: 2025-09-02T10:03
 ---
 # The Dictator's Handbook
 

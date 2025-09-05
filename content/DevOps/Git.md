@@ -2,16 +2,20 @@
 finished: true
 tags:
   - article
+  - career
+  - collaboration
+  - developing
+  - development
   - digital-garden
   - git
   - github
-  - version-control
+  - merge-conflicts
   - programming
-  - developing
   - teams
-  - career
+  - tools
+  - version-control
 created: 2024-01-06T15:01
-updated: 2025-08-13T10:37
+updated: 2025-09-02T09:57
 ---
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  

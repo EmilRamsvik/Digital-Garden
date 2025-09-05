@@ -1,18 +1,23 @@
 ---
 tags:
-  - article
   - LLM
-  - large-language-models
   - ai
-  - tools
+  - anthropic
+  - article
   - chatgpt
   - claude
-  - anthropic
-  - openai
+  - development
+  - large-language-models
   - machine-learning
+  - openai
   - productivity
-created: 2024-06-21T15:01:00
-updated: 2025-03-09T10:09
+  - programming
+  - prompt-engineering
+  - technology
+  - tools
+  - ux
+created: 2024-06-21 15:01:00
+updated: 2025-09-02T09:57
 ---
 # Large Language models
 

@@ -3,16 +3,21 @@ Pages: 386
 Date Finished: Sep 17, 2023
 Author: Chip Huen
 tags:
-  - books
-  - machine-learning
-  - data-science
-  - data-engineering
   - "#system-architecture"
+  - ai
+  - book-review
+  - books
+  - business
+  - data-engineering
+  - data-science
+  - machine-learning
   - mlops
   - non-fiction
+  - system-architecture
+  - system-thinking
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:01
 ---
 # Designing Machine Learning Systems
 

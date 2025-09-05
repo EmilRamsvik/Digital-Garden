@@ -1,16 +1,22 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-03T14:47
+updated: 2025-09-02T09:59
 tags:
   - article
+  - commodities
   - digital-garden
-  - energy
-  - industry/energy
+  - economics
   - electricity
-  - energy/power-generation
+  - energy
   - energy/grid
+  - energy/power-generation
   - energy/renewables
   - industry
+  - industry/energy
+  - markets
+  - norway
+  - pricing
+  - trading
 Finished: false
 ---
 

@@ -1,13 +1,22 @@
 ---
 tags:
-  - article
-  - body
+  - "#biology"
   - "#health"
   - "#neuroscience"
-  - "#biology"
+  - article
+  - biology
+  - body
+  - dopamine
+  - habits
+  - health
+  - neuroscience
+  - personal-development
+  - psychology
+  - science
+  - self-experimentation
 finished: false
-created: 2023-06-23T00:04:00
-updated: 2024-09-15T21:40
+created: 2023-06-23 00:04:00
+updated: 2025-09-02T09:49
 ---
 
 

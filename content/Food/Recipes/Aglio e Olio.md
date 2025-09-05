@@ -4,7 +4,13 @@ Difficulty: Easy
 Time: 20 mins
 Date Made: May 21, 2023
 created: 2023-05-21T15:50
-updated: 2024-02-02T14:22
+updated: 2025-09-02T10:17
+tags:
+  - cooking
+  - food
+  - italian-food
+  - recipe
+  - vegetarian
 ---
 Tags: #recipe #pasta #italian #quick #favorite-recipe #late-night-delicousness #vegetarian
 # Aglio e Olio

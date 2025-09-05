@@ -1,15 +1,21 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-25T13:37
+updated: 2025-09-02T10:14
 tags:
-  - article
-  - digital-garden
-  - thinking
-  - cognitive-biases
   - Behavioural-economics
+  - article
+  - cognitive-biases
+  - decision-making
   - design-thinking
-  - system-thinking
+  - digital-garden
+  - human-behavior
+  - mental-models
+  - organizational-behavior
   - processes
+  - psychology
+  - safety
+  - system-thinking
+  - thinking
 parent:
 Finished: false
 ---
@@ -27,6 +33,8 @@ Here, I write about ways of thinking about the world and the whys and hows. I am
 - [90 percent of everything is crap](https://simple.wikipedia.org/wiki/Sturgeon%27s_law)
 - [Four Ways of Thinking](https://www.youtube.com/watch?v=PPCfDe8TfJQ&ab_channel=OxfordMathematics)
 - [Igon Value Problem](https://rationalwiki.org/wiki/Igon_Value_Problem)
+- [Talk about brain rules](https://youtu.be/IK1nMQq67VI?si=6MMAI6BkgtvOH35X
+	- [brain rule 1](https://www.youtube.com/watch?v=7Fxk6x2eqDo&t=11s&ab_channel=APBSpeakers)
 
 
 

@@ -1,13 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-04-10T14:12
+updated: 2025-09-02T09:58
 tags:
   - article
+  - business
   - digital-garden
+  - future
+  - geopolitics
   - learning
   - programming
+  - strategy
   - talks
-parent: 
+  - technology
+  - video
+parent:
 Finished: true
 ---
 # Talks

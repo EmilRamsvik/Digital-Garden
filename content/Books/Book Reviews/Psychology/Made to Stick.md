@@ -1,15 +1,21 @@
 ---
-Pages: 
+Pages:
 Date Finished: Jan 1, 2023
 Author: Dan and Chip Heath
 tags:
-  - non-fiction
+  - book-review
   - books
+  - communication
+  - decision-making
+  - ideas
   - marketing
+  - non-fiction
   - productivity
+  - psychology
+  - strategy
 finished: true
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:03
 ---
 # Made to Stick
 

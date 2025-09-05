@@ -1,13 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-05-15T12:53
+updated: 2025-09-02T10:14
 tags:
   - article
-  - digital-garden
   - data
-  - data/warehouse
+  - data-engineering
   - data/data-engineering
+  - data/warehouse
+  - database
+  - digital-garden
+  - distributed-computing
   - programming
+  - spark
+  - system-thinking
 Finished: false
 ---
 
@@ -26,5 +31,6 @@ The MapReduce model is from Google; it's one of their super duper innovations fo
 # Thoughts 
 - Data engineering is more software than analytics. 
 - Data engineering is a lot more structured and require intelligent design than data science. 
+- When making pipelines quering APIs, might be smart to not have them execute at whole hours (00:00, 01:00, 12:00 etc.). Why? Because everyone else is :)
 
 

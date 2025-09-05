@@ -1,12 +1,17 @@
 ---
 tags:
   - article
-  - learning
+  - education
   - knowledge
+  - learning
   - performance
+  - personal-development
+  - productivity
+  - programming
+  - self-improvement
 finished: false
-created: 2023-06-23T20:47:00
-updated: 2025-08-14T10:11
+created: 2023-06-23 20:47:00
+updated: 2025-09-02T09:58
 ---
 
 # Learning

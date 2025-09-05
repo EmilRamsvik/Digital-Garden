@@ -1,20 +1,25 @@
 ---
 Finished: true
 tags:
-  - article
-  - mental-hurdles
-  - cognitive-biases
-  - mindfulness
-  - anti-fragile
   - "#curiosity"
+  - anti-fragile
+  - article
+  - cognitive-biases
   - compassion
   - empathy
-  - humans
-  - life
   - everyday-life
+  - growth-mindset
+  - humans
+  - learning
+  - life
+  - mental-hurdles
+  - mindfulness
+  - personal-development
+  - philosophy
+  - psychology
   - relationships
-created: 2023-08-04T14:38:00
-updated: 2024-09-22T12:19
+created: 2023-08-04 14:38:00
+updated: 2025-09-02T10:14
 ---
 
 

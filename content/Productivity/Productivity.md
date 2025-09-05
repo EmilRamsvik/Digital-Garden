@@ -1,15 +1,20 @@
 ---
 Date Started: May 29, 2023
-created: 2023-05-30T15:11:00
-updated: 2024-11-23T13:27
+created: 2023-05-30 15:11:00
+updated: 2025-09-02T10:19
 tags:
   - article
+  - deep-work
+  - flow
+  - focus
+  - learning
+  - motivation
+  - performance
   - productivity
   - productivity-hack
+  - psychology
   - work
   - working
-  - deep-work
-  - focus
 ---
 # Productivity
 I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible. 

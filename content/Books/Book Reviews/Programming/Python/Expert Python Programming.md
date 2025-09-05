@@ -1,17 +1,21 @@
 ---
-Pages: 
+Pages:
 Date Finished: 2023-04-16
 Author: Michal Jaworksi
 finished: true
 tags:
   - books
+  - data-science
+  - development
+  - docker
+  - non-fiction
   - programming
   - python
-  - non-fiction
-  - development
-  - data-science
+  - software-engineering
+  - version-control
+  - web-development
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 ---
 # Expert Python Programming
 

@@ -1,20 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:11
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - presentation
-  - communication
-  - writing
-  - email
+  - books
   - business
+  - communication
   - consulting
+  - digital-garden
+  - email
+  - leadership
+  - presentation
+  - professional-development
+  - public-speaking
+  - writing
 ---
 # Simply Said
 

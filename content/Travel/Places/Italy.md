@@ -1,17 +1,24 @@
 ---
 Date Visited: 2022-08-01
 tags:
-  - places
-  - travel
+  - cities
+  - culture
   - digital-garden
-  - travel-guide
-  - italian
-  - wine
-  - osso-bucco
+  - europe
   - food
+  - history
+  - italian
+  - italy
+  - osso-bucco
+  - places
+  - restaurants
+  - tourism
+  - travel
+  - travel-guide
+  - wine
 finished: true
 created: 2023-10-29T15:52
-updated: 2024-03-21T19:44
+updated: 2025-09-02T10:18
 ---
 # Italy
 

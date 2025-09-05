@@ -1,20 +1,27 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:12
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - apache-spark
   - book-review
-  - delta-lake
-  - spark
-  - databricks
+  - books
+  - data-architecture
+  - data-engineering
+  - data-lake
+  - data-processing
   - data-warehouse
   - data/data-lake
   - data/lakehouse
+  - database
+  - databricks
+  - delta-lake
+  - digital-garden
+  - spark
+  - streaming
 ---
 # Delta Lake
 

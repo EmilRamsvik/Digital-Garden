@@ -1,14 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-18T16:41
+updated: 2025-09-02T10:15
 tags:
   - article
+  - development
   - digital-garden
-  - vim
-  - neovim
-  - unix
-  - shell
   - grep
+  - neovim
+  - productivity
+  - programming
+  - shell
+  - tools
+  - unix
+  - vim
 Finished: false
 ---
 # Unix

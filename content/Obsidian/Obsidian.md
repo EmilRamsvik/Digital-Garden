@@ -2,16 +2,21 @@
 Date Started: Sep 01, 2023
 tags:
   - article
-  - obsidian
-  - productivity
-  - notes
-  - tools
-  - productivity-hack
-  - markdown
   - digital-garden
+  - knowledge-management
+  - learning
+  - markdown
+  - note-taking
+  - notes
+  - obsidian
+  - personal
+  - productivity
+  - productivity-hack
+  - tools
+  - workflow
 finished: true
 created: 2023-10-29T16:01
-updated: 2024-03-22T21:45
+updated: 2025-09-02T10:18
 ---
 
 # Obsidian
@@ -43,19 +48,19 @@ It is also a bit of a challenge to get up and running, especially if you want to
 ## The Digital Garden
 Obsidian was a good place to write and record the information. To easily share what I have written, I wanted to create a website where it is easy to navigate and find the things I wanted to share; I made a docusaurus static website. It also helps me revise as I can visit the website on my phone and see what I have written with Fresh Eyes. I feel like this is a good way of recording what I have done and the migrations have been a success for the most part. 
 # Plugins
-| Plugin Name | Checked | Used | Comment |  |
-| ---- | ---- | ---- | ---- | ---- |
-| [dataview](https://blacksmithgu.github.io/obsidian-dataview/) | Yes | Yes | Very cool, but not something one should start with. It is super powerful when you learn it, but it is only effective when you have gained some knowledge and skill using obsidian. I only started using it proactively after I had worked with Obisidain for about a year.  I use it for understanding what articlese I have not finished and what I can work more on. |  |
-| homepage | No | No |  |  |
-| calendar | No | No |  |  |
-| table-editor-obsidian | No | No |  |  |
-| [Periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) | Yes | Yes | This is a good add-on, I use it probably every day. |  |
-| obsidian-dice-roller | No | No |  |  |
-| obsidian-dictionary-plugin | No | No |  |  |
-| obsidian-kanban | No | No |  |  |
-| obsidian-languagetool-plugin | No | No |  |  |
-| obsidian-linter | No | No |  |  |
-| [quickadd](https://github.com/chhoumann/quickadd) | Yes | Yes | Very very good plugin, must have. Makes it so much easier to add new articles based on templates or other. |  |
+| Plugin Name                                                           | Checked | Used | Comment                                                                                                                                                                                                                                                                                                                                                                |     |
+| --------------------------------------------------------------------- | ------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| [dataview](https://blacksmithgu.github.io/obsidian-dataview/)         | Yes     | Yes  | Very cool, but not something one should start with. It is super powerful when you learn it, but it is only effective when you have gained some knowledge and skill using obsidian. I only started using it proactively after I had worked with Obisidain for about a year.  I use it for understanding what articlese I have not finished and what I can work more on. |     |
+| homepage                                                              | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| calendar                                                              | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| table-editor-obsidian                                                 | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| [Periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) | Yes     | Yes  | This is a good add-on, I use it probably every day.                                                                                                                                                                                                                                                                                                                    |     |
+| obsidian-dice-roller                                                  | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| obsidian-dictionary-plugin                                            | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| obsidian-kanban                                                       | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| obsidian-languagetool-plugin                                          | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| obsidian-linter                                                       | No      | No   |                                                                                                                                                                                                                                                                                                                                                                        |     |
+| [quickadd](https://github.com/chhoumann/quickadd)                     | Yes     | Yes  | Very very good plugin, must have. Makes it so much easier to add new articles based on templates or other.                                                                                                                                                                                                                                                             |     |
 
 Obsidian is the tool I use for storing information and writing down the experiences and knowledge I accumulate. 
 
@@ -84,6 +89,7 @@ Dataview: Good for getting an overview when you have a large knowledge base.
 * [Some obsidian and some other shortcuts as well as Alfred](https://www.thoughtasylum.com/)
 * [Nicole van der Hoven has some of the best guides on Obsidian; take note that she has a very advanced setup. ](https://nicolevanderhoeven.com/)
 * [How to set up a folder for images and other attachments.](https://notes.nicolevanderhoeven.com/obsidian-playbook/Using+Obsidian/02+Making+Notes+in+Obsidian/Attaching+images+to+Obsidian)
+* [Alfred and Obsidian Expert](https://github.com/chrisgrieser)
 
 
 # Thoughts 

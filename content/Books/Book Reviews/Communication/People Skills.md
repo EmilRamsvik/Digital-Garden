@@ -1,18 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 Pages: 300
 Author: Robert Bolton
 finished: true
 Date Finished: 2024-12-31
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
   - communication
-  - people
+  - digital-garden
+  - interpersonal-skills
+  - listening
+  - loneliness
   - management
+  - people
   - psychology
+  - relationships
+  - self-development
 ---
 # People Skills
 

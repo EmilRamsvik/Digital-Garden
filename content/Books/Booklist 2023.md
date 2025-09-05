@@ -1,13 +1,20 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - communication
+  - economics
+  - history
+  - non-fiction
+  - philosophy
+  - psychology
   - reading
+  - system-thinking
 Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2025-08-14T13:46
+updated: 2025-09-02T10:00
 ---
 
 #### [Made to Stick](Book%20Reviews/Psychology/Made%20to%20Stick.md)

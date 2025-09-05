@@ -1,13 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-01-31T14:39
+updated: 2025-09-02T10:16
 tags:
+  - analytics
   - article
-  - digital-garden
+  - business
+  - customer-retention
   - data-analysis
-  - machine-learning
   - data/churn
   - data/eda
+  - digital-garden
+  - machine-learning
+  - metrics
+  - strategy
 Finished: false
 ---
 # Churn Analysis

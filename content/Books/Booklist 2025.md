@@ -1,12 +1,18 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - business
+  - history
+  - management
+  - non-fiction
+  - programming
+  - science
 Finished: false
-Pages: 
-Books-read: 
+Pages:
+Books-read:
 created: 2024-01-06T15:04
-updated: 2025-08-05T10:02
+updated: 2025-09-02T10:00
 ---
 
 #### Tech Resume 

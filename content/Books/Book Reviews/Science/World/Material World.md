@@ -1,21 +1,26 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 Pages: 512
 Author: Ed Conway
 finished: true
 Date Finished: 2024-03-12
 tags:
-  - books
-  - digital-garden
   - book-review
-  - materials
-  - material-science
+  - books
   - chips
-  - software
+  - civilization
+  - digital-garden
   - electricity
+  - history
   - industralization
+  - industrialization
+  - material-science
+  - materials
   - oil
+  - science
+  - software
+  - technology
 ---
 # Material World
 

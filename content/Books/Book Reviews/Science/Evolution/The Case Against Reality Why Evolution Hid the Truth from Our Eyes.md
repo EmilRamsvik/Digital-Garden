@@ -3,17 +3,23 @@ Pages: 272
 Date Finished: Aug 19, 2023
 Author: Daniel Hofman
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 tags:
-  - books
-  - non-fiction
+  - absurdism
   - biology
+  - books
+  - cognitive-science
+  - consciousness
+  - darwin
   - evolution
+  - non-fiction
+  - perception
   - philosophy
+  - psychology
   - quantum-physics
   - reality
+  - science
   - surrealism
-  - absurdism
 ---
 # The Case Against Reality Why Evolution Hid the Truth from Our Eyes
 

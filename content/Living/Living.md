@@ -1,15 +1,21 @@
 ---
 Finished: false
 tags:
-  - dating
   - article
-  - living
-  - personal-finance
+  - dating
   - life
-  - motivation
+  - living
   - love
-created: 2024-08-28T15:09:00
-updated: 2024-10-21T08:10
+  - motivation
+  - personal
+  - personal-finance
+  - philosophy
+  - psychology
+  - relationships
+  - technology
+  - work-life-balance
+created: 2024-08-28 15:09:00
+updated: 2025-09-02T09:58
 ---
 # Living
 Living for me is taking advantage of things that are dear to me and making a small impact in the world. I am strict with myself in order to be kind to others. My relationships with people do not drive me but instead make the drive possible.  They provide the safety net that enables me to be bold and daring.

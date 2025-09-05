@@ -1,16 +1,21 @@
 ---
 Finished: true
 tags:
+  - algorithms
   - article
-  - digital-garden
-  - data-science
+  - categorical-data
   - data-engineering
-  - feature-engineering
-  - encoding
+  - data-preprocessing
+  - data-science
+  - digital-garden
   - embedding
+  - encoding
+  - feature-engineering
+  - machine-learning
+  - neural-networks
   - one-hot-encoding
 created: 2024-01-06T15:04
-updated: 2024-01-24T14:52
+updated: 2025-09-02T10:16
 ---
 
 

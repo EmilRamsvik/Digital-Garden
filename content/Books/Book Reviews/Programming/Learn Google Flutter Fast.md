@@ -3,15 +3,20 @@ Pages: 507
 Date Finished: 2023-05-02
 Author: Mark Clow
 tags:
-  - flutter
-  - dart
+  - app-development
+  - apps
   - books
+  - dart
+  - development
+  - flutter
+  - learning
+  - mobile-development
   - non-fiction
   - programming
-  - apps
-  - app-development
+  - software-development
+  - tools
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 ---
 # Learn Google Flutter Fast
 

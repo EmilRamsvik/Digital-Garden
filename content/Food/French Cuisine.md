@@ -1,9 +1,15 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-12T15:35
+updated: 2025-09-02T09:54
 tags:
   - article
+  - cooking
+  - culinary-techniques
   - digital-garden
+  - food
+  - french-cuisine
+  - learning
+  - recipes
 Finished: false
 ---
 # French Cuisine

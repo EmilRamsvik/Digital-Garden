@@ -1,12 +1,16 @@
 ---
 Finished: false
 tags:
+  - ai
+  - algorithms
   - article
-  - digital-garden
   - data-science
+  - digital-garden
+  - machine-learning
   - python
+  - recommendation-systems
 created: 2024-01-06T15:04
-updated: 2025-08-08T12:19
+updated: 2025-09-02T10:16
 ---
 
 

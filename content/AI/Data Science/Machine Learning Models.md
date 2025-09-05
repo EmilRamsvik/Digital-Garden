@@ -1,13 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-06-30T18:53
+updated: 2025-09-02T10:16
 tags:
-  - article
-  - digital-garden
-  - machine-learning
-  - "#machine-learning/modeling"
   - "#data-science"
+  - "#machine-learning/modeling"
+  - article
+  - catboost
+  - data-science
   - decision-trees
+  - digital-garden
+  - gradient-boosting
+  - machine-learning
+  - modeling
+  - xgboost
 Finished: false
 ---
 # Machine Learning Models

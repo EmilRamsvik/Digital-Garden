@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:08
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
+  - book-review
   - books
   - digital-garden
-  - book-review
+  - education
+  - habits
+  - learning
+  - personal-development
+  - productivity
+  - study-techniques
 ---
 # UltraLearning
 

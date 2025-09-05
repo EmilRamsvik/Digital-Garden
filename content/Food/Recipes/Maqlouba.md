@@ -5,18 +5,23 @@ Time: 1 hour or less
 Date Made: Sep 02, 2023
 Finished: true
 tags:
+  - arabic-cuisine
+  - cheap-food
+  - chicken
+  - cooking
+  - cultural-food
+  - feast-meal
+  - food
+  - m
+  - main-dish
+  - meal-prep
+  - middle-eastern
+  - one-pot-meal
   - palestine
   - recipe
-  - food
-  - cooking
-  - feast-meal
-  - chicken
   - rice
-  - cheap-food
-  - meal-prep
-  - m
 created: 2023-12-30T16:29
-updated: 2024-02-02T14:22
+updated: 2025-09-02T10:17
 ---
 # Maqlouba
 

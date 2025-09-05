@@ -1,19 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 Pages: 320
 Author: Marty Seldman
 finished: true
 Date Finished: 2024-05-04
 tags:
-  - books
-  - digital-garden
   - book-review
-  - politics
-  - political-science
-  - sociology
-  - business/politics
+  - books
   - business-communications
+  - business/politics
+  - career-development
+  - communication
+  - corporate-politics
+  - digital-garden
+  - leadership
+  - management
+  - political-science
+  - politics
+  - sociology
+  - workplace
 ---
 # Survival of the Savvy
 

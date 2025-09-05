@@ -1,11 +1,17 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-02-11T13:18
+updated: 2025-09-02T10:14
 tags:
-  - article
-  - digital-garden
   - "#system-thinking"
+  - article
+  - books
+  - complexity
+  - digital-garden
+  - learning
+  - management
+  - organizations
   - sociology
+  - system-thinking
 Finished: true
 ---
 # Systems
@@ -31,6 +37,7 @@ First, i think the best way to start is the book [Systematics](../Books/Book%20R
 - [Dont scar on the first cut.](https://signalvnoise.com/archives2/dont_scar_on_the_first_cut)
 - [Soviet Shoe Factory Principle](https://wiki.c2.com/?SovietShoeFactoryPrinciple)
 - [Some explanation about why enterprise software sucks balls.](https://threadreaderapp.com/thread/1182635589604171776.html)
+	- Another article on the generall shittiness of [Enterprise Software](Everyone Hates Workday) (Related [HN Discussion](https://news.ycombinator.com/item?id=40273637))
 
 # Thoughts 
 - I would like to be better at system thinking, but I lack the experience and training. How to get this training?

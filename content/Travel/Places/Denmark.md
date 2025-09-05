@@ -1,14 +1,18 @@
 ---
 Date Visited: 2024-05-23
 tags:
-  - places
-  - travel
+  - cities
+  - denmark
   - digital-garden
-  - travel-guide
   - europe
+  - food
+  - places
+  - restaurants
+  - travel
+  - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2024-05-31T17:32
+updated: 2025-09-02T10:18
 ---
 # Denmark
 

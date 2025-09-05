@@ -1,18 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 Pages: 304
 Author: Paul Watzlavik
 finished: true
 Date Finished: 2024-07-11
 tags:
-  - books
-  - digital-garden
   - book-review
-  - speaking
-  - communication
+  - books
   - business-communications
+  - communication
+  - digital-garden
+  - human-behavior
+  - mental-health
+  - non-fiction
+  - psychology
   - relationships
+  - speaking
 ---
 # Pragmatics of Human Communication
 

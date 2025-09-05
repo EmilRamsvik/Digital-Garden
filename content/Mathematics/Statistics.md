@@ -1,15 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-03-15T15:52
+updated: 2025-09-02T09:59
 tags:
   - article
-  - digital-garden
-  - statistics
-  - mathematics
   - bayesian
+  - causality
   - confounders
-  - statistics/casuality
+  - data-science
+  - digital-garden
+  - finance
+  - mathematics
+  - probability
+  - statistics
   - statistics/brownian-motion
+  - statistics/casuality
 Finished: false
 ---
 

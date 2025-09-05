@@ -2,12 +2,17 @@
 Finished: false
 tags:
   - article
-  - digital-garden
   - career
+  - digital-garden
   - engineering
+  - leadership
+  - management
+  - personal-development
+  - relationships
+  - work
 Date Started:
 created: 2024-01-06T15:01
-updated: 2025-08-25T14:07
+updated: 2025-09-02T09:59
 ---
 # Career
 Here I write about career and about how to better oneself in one's career. 

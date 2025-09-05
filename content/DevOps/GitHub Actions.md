@@ -2,11 +2,15 @@
 Finished: false
 tags:
   - article
+  - automation
+  - cloud
   - devops
   - github-actions
   - github-reusable-workflows
-created: 2023-06-12T15:01:00
-updated: 2025-05-09T10:27
+  - programming
+  - tools
+created: 2023-06-12 15:01:00
+updated: 2025-09-02T09:57
 ---
 # GitHub Actions
 

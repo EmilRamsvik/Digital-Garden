@@ -1,13 +1,20 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-11T10:13
+updated: 2025-09-02T09:58
 tags:
   - article
-  - digital-garden
-  - learning
-  - notes
-  - work
   - daily-note
+  - digital-garden
+  - knowledge-management
+  - learning
+  - meetings
+  - note-taking
+  - notes
+  - organization
+  - productivity
+  - system-thinking
+  - tools
+  - work
 Finished: false
 ---
 

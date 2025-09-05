@@ -3,7 +3,14 @@ Pages: 336
 Date Finished: Jun 17, 2023
 Author: Robert Kiyosaki og Sharon Lechter
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
+tags:
+  - books
+  - business
+  - finance
+  - investing
+  - money-management
+  - personal-development
 ---
 # Rich Dad, Poor Dad
 

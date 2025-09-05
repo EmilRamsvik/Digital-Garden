@@ -1,12 +1,17 @@
 ---
 tags:
-  - workouts
   - article
-  - strength-training
   - exercise
+  - fitness
+  - habits
+  - motivation
+  - personal
+  - strength-training
+  - training-log
+  - workouts
 Finished: false
-created: 2023-05-28T00:00:00
-updated: 2025-08-13T09:51
+created: 2023-05-28 00:00:00
+updated: 2025-09-02T10:14
 ---
 # Strength Training
 I started strength training when I was 17, and did some on and off until I was 19. From 19 to 24, I consistently worked out between 3 and 5 days a week.  I did a lot of failing and needed a lot of guidance during that period. First of all, I started with only upper body exercises and neglected to work out my legs for quite a while. I think this was because I was not flexible enough to do the squat exercises correctly. In hindsight, it is difficult to assess in hindsight what the causation for the lack of leg exercises, but I am certain the lack of flexibility made doing leg workouts quite a bit difficult. 

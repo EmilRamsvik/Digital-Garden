@@ -1,14 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-10T18:31
+updated: 2025-09-02T10:00
 tags:
   - article
+  - career
+  - communication
   - digital-garden
+  - interview-preparation
+  - job-searching
+  - job-searching/interview
+  - job-searching/resume
+  - personal-development
+  - storytelling
   - work
   - working
-  - job-searching
-  - job-searching/resume
-  - job-searching/interview
 Finished: true
 ---
 # Job Searching 

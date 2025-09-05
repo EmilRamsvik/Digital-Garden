@@ -3,12 +3,16 @@ Pages: 520
 Date Finished: 2023-04-01
 Author: Joe Abercrombie
 tags:
+  - book-review
   - books
-  - fiction
   - fantasy
+  - fiction
+  - history
+  - politics
+  - revolution
   - the-first-law-series
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # The Wisdom of Crowds
 

@@ -1,10 +1,15 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:12
+updated: 2025-09-02T09:59
 tags:
   - article
+  - business
   - digital-garden
   - industry
+  - knowledge
+  - management
+  - system-thinking
+  - work
   - working
 Finished: false
 ---

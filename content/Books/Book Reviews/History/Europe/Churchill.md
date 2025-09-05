@@ -1,18 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 Pages: 1150
 Author: Andrew Roberts
 finished: true
 Date Finished: 2024-11-12
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - history
-  - history/military
-  - history/british
   - biography
+  - book-review
+  - books
+  - british-empire
+  - digital-garden
+  - history
+  - history/british
+  - history/military
+  - leadership
+  - military
+  - political-history
+  - politics
+  - world-war
 ---
 # Churchill
 

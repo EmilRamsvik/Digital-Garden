@@ -1,13 +1,18 @@
 ---
 Date Started: Jun 12, 2023
 tags:
-  - azure
-  - microsoft
-  - cloud
+  - ai
   - article
+  - azure
+  - cloud
+  - data
+  - development
+  - machine-learning
+  - microsoft
+  - tools
 Finished: true
 created: 2024-01-06T15:04
-updated: 2025-06-11T10:04
+updated: 2025-09-02T10:17
 ---
 # Azure
 Azure is Microsoft´s cloud service. It is like AWS, but only more microsofty. I have worked extensievley with Azure and find it to be a bit cumbersome, with rough edges. Understanding the CLI was key for my development, made things so much easier.  I think this experience is something that is shared across cloud providers. 

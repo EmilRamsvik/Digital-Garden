@@ -1,14 +1,21 @@
 ---
 Finished: false
 tags:
-  - article
   - alfred
   - alfred-workflow
-  - spotlight
+  - article
+  - automation
+  - chatgpt
+  - obsidian
   - productivity
   - productivity-hack
+  - snippets
+  - spotlight
+  - text-expansion
+  - tools
+  - workflow
 created: 2023-06-26T09:17
-updated: 2024-09-22T12:08
+updated: 2025-09-02T10:14
 ---
 # Alfred
 Alfred is basically Spotlight on steroids. It contains all the features of Spotlight but is more powerful. If you purchase the powerpack, you also get access to workflows. 
@@ -30,6 +37,7 @@ Alfred snippets are more complicated than just word expansion, making importing 
 - [Alfred workflow for 2-factor auth](https://github.com/squatto/alfred-imessage-2fa)s. Not tried it because I mainly use 2-factor apps.
 - [Awesome Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows)
 - [iCal Calendar and Alfred ](https://github.com/zeitlings/alfred-calendar/)
+* [Alfred and Obsidian Expert](https://github.com/chrisgrieser)
 
 # Thoughts 
 - Snippets are exciting and cool, but it is challenging to create a lot of them. 

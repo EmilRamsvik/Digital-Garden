@@ -1,13 +1,17 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-08-25T15:44
+updated: 2025-09-02T09:57
 tags:
   - article
-  - digital-garden
-  - postgresql
+  - data-engineering
   - database
   - database/-relational-database
   - database/sql
+  - digital-garden
+  - json
+  - open-source
+  - postgresql
+  - sql
 Finished: false
 ---
 # Postgres

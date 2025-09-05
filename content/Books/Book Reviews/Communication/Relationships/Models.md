@@ -3,18 +3,23 @@ Pages: 246
 Date Finished: May 17, 2023
 Author: Mark Manson
 tags:
+  - "#article"
   - books
-  - non-fiction
   - dating
-  - health
   - dating-apps
+  - emotional-intelligence
+  - health
   - love
+  - masculinity
+  - non-fiction
+  - personal-development
+  - psychology
   - relationships
   - self-help-book
-  - "#article"
+  - self-improvement
 Finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 ---
 # Models
 

@@ -1,19 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 Pages: 416
 Author: Jack Farthy
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
   - business
-  - trading
-  - commodities
-  - history
   - business/politics
+  - commodities
+  - digital-garden
+  - economics
+  - energy
+  - finance
+  - geopolitics
+  - history
+  - international-trade
+  - oil
+  - trading
   - world-history
 ---
 # The World for Sale

@@ -1,11 +1,14 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-10T14:22
+updated: 2025-09-02T09:59
 tags:
   - article
   - digital-garden
   - energy
   - industry
+  - science
+  - solar-power
+  - sustainability
 Finished: false
 ---
 

@@ -3,13 +3,20 @@ Pages: 240
 Date Finished: Apr 27, 2023
 Author: Olivia Petter
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 tags:
   - books
-  - non-fiction
-  - love
+  - culture
   - dating
+  - feminism
+  - gender
+  - love
+  - modern-dating
+  - non-fiction
+  - psychology
+  - relationships
   - sexuality
+  - social-media
 ---
 # Millennial Love
 

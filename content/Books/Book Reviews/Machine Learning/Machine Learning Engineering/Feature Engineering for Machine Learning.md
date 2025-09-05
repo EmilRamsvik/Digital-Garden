@@ -1,17 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 Pages: 215
 Author: Alice Zheng
 finished: true
 Date Finished: 2024-02-01
 tags:
-  - books
-  - digital-garden
   - book-review
-  - machine-learning
+  - books
   - data-science
+  - digital-garden
+  - feature-engineering
+  - machine-learning
   - machine-learning/feature-engineering
+  - mathematics
+  - programming
+  - statistics
 ---
 # Feature Engineering for Machine Learning
 # 🚀 The Book in 3 Sentences

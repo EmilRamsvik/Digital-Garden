@@ -1,11 +1,13 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-09T09:26
+updated: 2025-09-02T10:18
 tags:
+  - article
+  - destinations
+  - digital-garden
+  - personal
   - places
   - travel
-  - article
-  - digital-garden
 Finished: false
 ---
 # Places

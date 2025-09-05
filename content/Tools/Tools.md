@@ -3,11 +3,15 @@ Date Started: 2023-06-21
 Finished: false
 tags:
   - article
-  - tools
+  - gear-review
+  - hardware
+  - personal
   - productivity
   - software/tools
+  - technology
+  - tools
 created: 2024-01-06T15:01
-updated: 2025-01-31T12:20
+updated: 2025-09-02T09:57
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 

@@ -1,13 +1,17 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:15
 tags:
   - article
-  - digital-garden
-  - programming
-  - data
   - async
   - base64
+  - computer-science
+  - data
+  - digital-garden
+  - programming
+  - python
+  - technical
+  - web-development
 Finished: false
 ---
 

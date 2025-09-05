@@ -1,14 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-04-02T10:23
+updated: 2025-09-02T10:00
 tags:
-  - article
-  - digital-garden
-  - management
-  - leadership
   - agile
+  - article
   - business
+  - coaching
+  - digital-garden
   - digital-management
+  - leadership
+  - management
+  - personal-development
+  - relationships
+  - working
 Finished: false
 ---
 # Management
@@ -48,5 +52,6 @@ In one of the places I was very lucky to work in, there was a concept called del
 - This is also quite related to my experience as a tech lead. 
 - "Leadership matters and leadership is not sufficient". Consider this when working in organizations. 
 - One-on-Ones are extremely important and should take precidence over nearly everything else. 
+- “a mentor is just someone who answers questions more than once.” 
 
 

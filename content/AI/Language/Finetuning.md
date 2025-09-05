@@ -1,14 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-14T13:41
+updated: 2025-09-02T10:16
 tags:
-  - article
-  - digital-garden
-  - training
   - LLM
   - ai
+  - article
+  - development
+  - digital-garden
+  - llm
+  - machine-learning
   - ml
   - mlops
+  - performance
+  - strategy
+  - training
 Finished: false
 ---
 

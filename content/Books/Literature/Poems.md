@@ -1,13 +1,18 @@
 ---
 Finished: true
 tags:
-  - poetics
-  - literature
   - article
+  - history
+  - literature
+  - motivation
+  - personal
+  - philosophy
   - poems
+  - poetics
+  - poetry
   - socialism
 created: 2024-01-06T15:04
-updated: 2024-05-08T17:48
+updated: 2025-09-02T10:01
 ---
 
 # Poems

@@ -1,12 +1,16 @@
 ---
 tags:
-  - exercise
   - article
-  - workouts
+  - exercise
+  - fitness
   - flexibility
+  - health
+  - personal-development
+  - workouts
+  - yoga
 Finished: false
-created: 2023-07-07T00:00:00
-updated: 2025-03-05T12:01
+created: 2023-07-07 00:00:00
+updated: 2025-09-02T10:14
 ---
 # Flexibility
 I started working on flexibility far too late, but it is an awesome way of doing quick workouts at home. 

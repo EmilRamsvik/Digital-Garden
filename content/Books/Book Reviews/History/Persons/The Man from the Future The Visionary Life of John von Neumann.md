@@ -4,16 +4,21 @@ Date Finished: 2023-06-04
 Author: Ananyo Bhattacharya
 finished: true
 tags:
-  - books
   - biography
-  - non-fiction
+  - biology
+  - books
+  - computer-science
+  - economics
+  - history
   - mathematics
   - mathematics/game-theory
-  - physics/quantum-physics
+  - non-fiction
   - physics
-  - biology
+  - physics/quantum-physics
+  - science
+  - world-war-2
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 ---
 # The Man from the Future The Visionary Life of John von Neumann
 

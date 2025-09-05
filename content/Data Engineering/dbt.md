@@ -1,14 +1,21 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-11-14T21:33
+updated: 2025-09-02T10:14
 tags:
   - article
-  - digital-garden
-  - data-engineering
+  - best-practices
   - data
-  - data/snowflake
+  - data-engineering
+  - data-modeling
+  - data-pipeline
+  - data-transformation
   - data-warehouse
+  - data/snowflake
+  - database
+  - dbt
+  - digital-garden
   - enterprise-data-warehouse
+  - sql
 Finished: false
 ---
 

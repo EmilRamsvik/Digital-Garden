@@ -2,15 +2,19 @@
 Date Started: 2023-05-23
 Finished: true
 tags:
-  - article
-  - philosophy
-  - denim-philosophy
   - absurdism
+  - article
+  - denim-philosophy
   - extensialism
+  - knowledge
+  - personal-development
+  - philosophy
   - post-modernism
+  - psychology
   - science
+  - system-thinking
 created: 2023-06-21T04:55
-updated: 2024-09-22T09:08
+updated: 2025-09-02T10:16
 ---
 # Philosophy 
 

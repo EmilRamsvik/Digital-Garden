@@ -4,16 +4,21 @@ Date Finished: 2023-04-27
 Author: Nir Eyal
 finished: true
 tags:
-  - books
-  - non-fiction
-  - development
-  - psychology
   - apps
-  - productivity
-  - web-development
+  - behavioral-science
+  - books
+  - business
+  - development
   - habits
+  - non-fiction
+  - product-design
+  - productivity
+  - psychology
+  - technology
+  - user-psychology
+  - web-development
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 ---
 # Hooked
  

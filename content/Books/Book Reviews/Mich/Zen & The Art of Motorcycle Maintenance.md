@@ -3,12 +3,16 @@ Pages: 464
 Date Finished: Sep 02, 2023
 Author: Robert Pirzig
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 tags:
   - books
-  - philosophy
   - denim-philosophy
   - non-fiction
+  - personal-development
+  - philosophy
+  - psychology
+  - quality
+  - relationships
   - stoicsm
   - thinking
 ---

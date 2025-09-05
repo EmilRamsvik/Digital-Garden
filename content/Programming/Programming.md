@@ -1,15 +1,20 @@
 ---
 tags:
+  - api
   - article
-  - programming
-  - computers
+  - code-quality
   - computer-science
+  - computers
+  - dart
+  - development
+  - programming
   - python
   - rust
-  - dart
+  - software-engineering
+  - system-thinking
 Finished: true
-created: 2023-06-09T13:30:00
-updated: 2025-07-02T09:03
+created: 2023-06-09 13:30:00
+updated: 2025-09-02T10:15
 ---
 # Programming
 
@@ -22,11 +27,19 @@ An underrated aspect of programming is understanding computers; for engineers an
 
 
 # API
-How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The Python programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
+How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The [Python](Python/Python.md) programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
 
 To me, thinking of an API as a contract is a useful metaphor. This 'contract' ensures that if you make a request in a specific, agreed-upon format, you will receive a predictable response. An API is a structurally agreed-upon way for two programs to interact with each other. 
 - [Free Public API that are tested every day](https://www.freepublicapis.com/)
 
+
+## On code Quality
+As i am remindend of in [Zen & The Art of Motorcycle Maintenance](../Books/Book%20Reviews/Mich/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance.md), quality is a very abstract term. However, in code, there is a strong emphasis on quality as a fundamental pillar of performance. What you write matters. 
+Here are some numbers on code quality. 
+- **Defects** — low quality code contains _15 times more defects_ than high quality code.
+- **Development time** — resolving issues in low quality code takes on average _124% more time_ in development.
+- **Uncertainty** — issue resolutions in low quality code involve higher uncertainty manifested as _9 times longer_ maximum cycle times.
+In your average codebase, you can usually find around **~5% of the code that gets 90% of the activity**. This means that the pareto principle governs code bases and maintainability as well. 
 
 # Links
 - [Uncle Bob sessions on Clean Code](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) Interesting high-level talks on code and code writing and programming. Robert C Martin is very well known for the clean code standard, etc. 

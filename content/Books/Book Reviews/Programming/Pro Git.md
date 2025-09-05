@@ -1,19 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 Pages: 440
 Author: Scott Chacon
 finished: true
 Date Finished: 2024-05-15
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - developing
+  - development
+  - digital-garden
   - git
   - github
-  - version-control
   - programming
-  - developing
+  - software-development
+  - technical-writing
+  - tools
+  - version-control
 ---
 # Pro Git
 

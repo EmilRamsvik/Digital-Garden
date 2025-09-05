@@ -1,20 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 Pages: 262
 Author: Keenan
 finished: true
 Date Finished: 2024-08-22
 tags:
-  - books
-  - digital-garden
   - book-review
-  - sales
-  - consulting/client
+  - books
+  - business
+  - change-management
+  - communication
   - consulting
+  - consulting/client
   - consulting/client-relationship
-  - sales/gap-selling
   - consulting/sales
+  - digital-garden
+  - psychology
+  - sales
+  - sales/gap-selling
+  - strategy
 ---
 # Gap Selling
 

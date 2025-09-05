@@ -1,9 +1,12 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-07-02T09:50
+updated: 2025-09-02T09:57
 tags:
   - article
+  - clothes
   - digital-garden
+  - habits
+  - personal
 Finished: false
 ---
 

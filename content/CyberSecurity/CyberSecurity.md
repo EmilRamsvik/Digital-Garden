@@ -2,13 +2,17 @@
 Finished: false
 tags:
   - article
-  - digital-garden
-  - cyber-security
-  - programming
-  - hacking
   - code-scanning
+  - cyber-security
+  - digital-garden
+  - hacking
+  - pentesting
+  - programming
+  - security
+  - system-thinking
+  - tools
 created: 2024-01-06T15:01
-updated: 2024-09-22T21:07
+updated: 2025-09-02T09:57
 ---
 # CyberSecurity
 

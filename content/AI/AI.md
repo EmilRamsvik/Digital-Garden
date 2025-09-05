@@ -1,14 +1,19 @@
 ---
 Date Started: Jun 21, 2023
 tags:
-  - article
   - ai
-  - machine-learning
-  - data-science
+  - article
   - artificial-intelligence
+  - books
+  - data-science
+  - engineering
+  - machine-learning
+  - python
+  - strategy
+  - system-thinking
 finished: false
 created: 2024-01-06T15:04
-updated: 2025-08-25T14:30
+updated: 2025-09-02T10:15
 ---
 
 
@@ -43,7 +48,7 @@ Other books that can be of interest is:
 
 ---
 
-## 📊 [Data Science & Analytics](Data%20Science/Data%20Science.md)
+## [Data Science & Analytics](Data%20Science/Data%20Science.md)
 
 Data science forms the foundation of effective AI implementation. My experience spans the full data science lifecycle, from initial problem framing to model deployment and monitoring.
 
@@ -93,26 +98,4 @@ Note: My 2023 LLM writings capture the rapid evolution of this field—some deta
 - [The conspiracy to make AI harder than it is!](https://www.youtube.com/watch?v=2eWuYf-aZE4) - Demystifying AI complexity
 - [ML Engineering Reading List](https://www.latent.space/p/2025-papers) - Current research and trends
 - [MLAbonne's Blog](https://mlabonne.github.io/blog/) - Practical ML guides and tutorials
-
-## 💭 Key Insights & Reflections
-
-**On Determinism in AI:**
-While LLMs like GPT-3, GPT-4, and LLaMA appear non-deterministic, their outputs are controlled by specific parameters:
-- **Seed** - Random number initializing the generation process
-- **System Fingerprint** - Engine state identifier
-- **Temperature/Top-p** - Sampling strategy affecting creativity vs. consistency
-
-Understanding these parameters is crucial for reproducible AI applications and debugging model behavior.
-
-**Strategic Considerations:**
-- AI adoption should focus on augmenting human capabilities rather than replacement
-- Technical debt in ML systems requires different management approaches than traditional software
-- Model interpretability becomes critical as AI systems influence high-stakes decisions
-
-**Future Areas of Exploration:**
-- Retrieval-Augmented Generation (RAG) systems
-- Multi-modal AI applications
-- Federated learning and privacy-preserving ML
-- AI safety and alignment in production systems
-
 

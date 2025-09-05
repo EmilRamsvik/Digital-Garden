@@ -3,14 +3,19 @@ Pages: 640
 Date Finished: 2023-03-03
 Author: Phillips Payson O'Brien
 tags:
+  - book-review
   - history
-  - world-war-II
   - history/military
+  - industrial-production
   - logistics
-  - warfare
+  - manufacturing
   - military
+  - military-strategy
+  - warfare
+  - world-war-II
+  - world-war-ii
 created: 2024-01-06T15:04
-updated: 2025-03-11T12:04
+updated: 2025-09-02T10:09
 ---
 
 # How the war was Won

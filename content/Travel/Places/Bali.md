@@ -1,19 +1,25 @@
 ---
 Date Visited: 2023 06
 tags:
+  - cooking
+  - culture
+  - food
+  - indonesia
+  - meditation
+  - mindfulness
   - places
+  - restaurants
+  - silent-retreat
+  - solo-travel
+  - south-east-asia
+  - spirituality
+  - surfing
   - travel
   - travel-guide
-  - solo-travel
   - vacation
-  - meditation
-  - surfing
-  - south-east-asia
-  - mindfulness
-  - silent-retreat
 Finished: true
 created: 2023-12-30T17:25
-updated: 2024-04-21T21:07
+updated: 2025-09-02T10:18
 ---
 # Bali
 

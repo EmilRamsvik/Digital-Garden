@@ -4,16 +4,19 @@ Date Finished: 2023-03-01
 Author: Donatella H. Meadows
 finished: true
 tags:
+  - book-review
   - books
-  - non-fiction
-  - productivity
-  - science
   - engineering
   - engineering/management
-  - system-thinking
+  - management
+  - mental-models
+  - non-fiction
   - political-science
+  - productivity
+  - science
+  - system-thinking
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 ---
 # Thinking in Systems
 

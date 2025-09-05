@@ -1,24 +1,30 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 Pages: 232
 Author: George Orwell
 finished: true
 Date Finished: 2024-01-27
 tags:
-  - books
-  - digital-garden
-  - book-review
+  - "#anarchism"
+  - "#catalonia"
+  - "#communism"
+  - "#facism"
   - "#memoir"
   - "#orwell"
-  - "#spain"
-  - "#catalonia"
-  - "#facism"
-  - "#communism"
-  - "#trotskism"
-  - "#anarchism"
   - "#politics"
+  - "#spain"
+  - "#trotskism"
   - "#warfare"
+  - book-review
+  - books
+  - digital-garden
+  - history
+  - non-fiction
+  - political-science
+  - revolution
+  - spain
+  - war
 ---
 # Homage to Catalonia
 

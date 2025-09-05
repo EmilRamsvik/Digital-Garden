@@ -1,13 +1,17 @@
 ---
 Finished: false
 tags:
-  - cloud
-  - aws
-  - terraform
   - amazon
+  - aws
   - bezos
+  - cloud
+  - development
+  - infrastructure
+  - terraform
+  - tools
+  - web-development
 created: 2024-01-06T15:04
-updated: 2025-01-30T12:13
+updated: 2025-09-02T10:17
 ---
 
 

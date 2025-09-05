@@ -1,21 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 Pages: 304
 Author: Bent Flyvbjerg, Dan Gardner
 finished: true
 Date Finished: 2024-01-06
 tags:
-  - books
-  - digital-garden
   - book-review
-  - non-fiction
+  - books
   - building
   - construction
-  - mega-projects
+  - digital-garden
   - it-projects
+  - management
+  - mega-projects
+  - non-fiction
   - nuclear
+  - planning
+  - project-management
   - renewables
+  - strategy
 ---
 # How Big Things Get Done
 

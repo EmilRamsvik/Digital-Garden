@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
-Author: 
+updated: 2025-09-02T10:04
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - agriculture
   - book-review
+  - books
+  - chemistry
+  - digital-garden
+  - history
+  - non-fiction
+  - science
+  - world-war
 ---
 # The Alchemy of Air
 

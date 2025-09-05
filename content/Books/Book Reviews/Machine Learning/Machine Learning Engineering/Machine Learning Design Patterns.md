@@ -3,14 +3,19 @@ Pages: 400
 Author: Lakshmanan Valliappa
 finished: true
 tags:
+  - "#data-science"
+  - "#design-patterns"
+  - ai
+  - book-review
   - books
+  - data-science
+  - design-patterns
   - digital-garden
   - machine-learning
-  - "#design-patterns"
-  - "#data-science"
+  - system-thinking
 Date Finished: 2023-11-02
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:01
 ---
 # Machine Learning Design Patterns
 

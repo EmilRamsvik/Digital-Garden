@@ -1,16 +1,21 @@
 ---
 Date Visited: 2023-02-21
 tags:
-  - article
-  - places
-  - travel
-  - digital-garden
   - "#japan"
   - "#sapporo"
+  - article
+  - culture
+  - digital-garden
+  - food
+  - places
+  - restaurants
+  - skiing
+  - tourism
+  - travel
 finished: true
 Date Started: 2023-12-17
 created: 2023-12-19T08:07
-updated: 2024-03-23T17:51
+updated: 2025-09-02T10:18
 ---
 
 

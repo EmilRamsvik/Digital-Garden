@@ -3,14 +3,21 @@ Pages: 202
 Date Finished: Jul 05, 2023
 Author: Carol Coye Benson
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 tags:
-  - books
-  - payment
-  - finance
-  - programming
-  - credit-cards
   - banking
+  - banking-history
+  - book-review
+  - books
+  - business
+  - credit-cards
+  - economics
+  - finance
+  - financial-systems
+  - payment
+  - payment-systems
+  - programming
+  - technology
 ---
 # Payments Systems in the US
 

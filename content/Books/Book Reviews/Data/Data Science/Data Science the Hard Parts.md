@@ -1,26 +1,31 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 252
 Author: Daniel Vaughan
 finished: true
 Date Finished: 2024-04-15
 tags:
-  - books
-  - digital-garden
   - book-review
-  - data
-  - data-science
-  - data-analysis
-  - communication
-  - corporate
+  - books
   - business
   - business-communications
-  - metrics
-  - data/lift-analysis
-  - data/hypothesis-testing
+  - communication
+  - corporate
+  - data
+  - data-analysis
+  - data-science
+  - data-science-strategy
+  - data-storytelling
   - data/communication
+  - data/hypothesis-testing
+  - data/lift-analysis
+  - decision-making
+  - digital-garden
+  - metrics
+  - stakeholder-communication
   - stakeholder-management
+  - value-proposition
 ---
 # Data Science the Hard Parts
 

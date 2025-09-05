@@ -1,18 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 174
 Author: Josh Doody
 finished: true
 Date Finished: 2024-08-11
 tags:
-  - books
-  - digital-garden
   - book-review
-  - salary
-  - negotiation
+  - books
   - business
+  - career
   - communication
+  - digital-garden
+  - management
+  - negotiation
+  - personal-development
+  - salary
+  - work
 ---
 # Fearless Salary Negotiation
 

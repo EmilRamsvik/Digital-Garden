@@ -1,19 +1,24 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-11-19T11:37
+updated: 2025-09-02T10:14
 tags:
   - article
-  - digital-garden
+  - azure
+  - cloud
   - data
-  - database/sql
-  - data/warehouse/fabric
-  - data/warehouse/lakehouse
-  - data/warehouse/lake
+  - data-engineering
   - data/warehouse
+  - data/warehouse/fabric
+  - data/warehouse/lake
+  - data/warehouse/lakehouse
+  - database
+  - database/sql
+  - development
+  - digital-garden
   - microsoft
   - microsoft/fabric
   - microsoft/power-bi
-  - azure
+  - tools
 Finished: true
 ---
 

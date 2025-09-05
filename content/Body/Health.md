@@ -1,16 +1,23 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-08T12:18
+updated: 2025-09-02T09:43
 tags:
-  - article
-  - digital-garden
   - "#health"
-  - "#personal"
   - "#longivity"
+  - "#mental/well-being"
+  - "#personal"
   - "#sickness"
   - "#sleep"
-  - "#well-being"
-  - "#mental/well-being"
+  - article
+  - digital-garden
+  - habits
+  - health
+  - healthcare
+  - lifestyle
+  - personal-development
+  - routines
+  - sleep
+  - well-being
 Finished: false
 ---
 # Health

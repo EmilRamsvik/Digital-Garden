@@ -3,13 +3,19 @@ Pages: 224
 Date Finished: May 17, 2023
 Author: Noam Chomsky, Ilan Pappe
 tags:
+  - apartheid
+  - book-review
   - books
+  - history
+  - human-rights
+  - israel
+  - middle-east
   - non-fiction
   - palestine
-  - israel
-  - apartheid
+  - political-science
+  - war
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 ---
 # On Palestine
 

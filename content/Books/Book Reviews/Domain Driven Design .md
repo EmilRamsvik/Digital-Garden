@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:01
 Pages: 556
 Author: Eric Evans
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - development
+  - digital-garden
+  - domain-driven-design
+  - programming
+  - software-architecture
+  - system-thinking
+  - technical
 ---
 # Domain Driven Design 
 

@@ -1,14 +1,21 @@
 ---
 Finished: false
 tags:
+  - american-history
+  - civil-war
+  - courses
+  - economics
+  - education
+  - history
   - learning
+  - lectures
   - podcasts
+  - politics
+  - religion
   - university
   - youtube
-  - lectures
-  - courses
 created: 2023-06-30T11:30
-updated: 2025-03-11T14:23
+updated: 2025-09-02T09:58
 ---
 
 

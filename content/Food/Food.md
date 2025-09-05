@@ -1,13 +1,26 @@
 ---
 Finished: false
 tags:
-  - food
   - cooking
-  - meal-prep
-  - knife
+  - cooking-fundamentals
+  - cooking-philosophy
+  - cooking-science
+  - cooking-techniques
+  - cooking-tips
+  - culinary-basics
+  - culinary-education
+  - culinary-techniques
+  - food
+  - food-science
   - kitchen
+  - kitchen-basics
+  - knife
+  - meal-prep
+  - recipes
+  - sauce-making
+  - techniques
 created: 2023-08-14T13:56
-updated: 2024-08-29T13:14
+updated: 2025-09-02T09:54
 ---
 # Food
 

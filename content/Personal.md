@@ -3,11 +3,19 @@ Date Started: May 27, 2023
 tags:
   - article
   - digital-garden
+  - habits
+  - knowledge
+  - knowledge-management
   - knowledge-wiki
+  - learning
   - obsidian
+  - personal
+  - productivity
+  - system-thinking
+  - workflow
 finished: true
 created: 2023-10-29T15:33
-updated: 2025-08-25T13:10
+updated: 2025-09-02T09:56
 ---
 # Personal
 

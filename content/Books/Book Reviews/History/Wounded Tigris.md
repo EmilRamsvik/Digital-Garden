@@ -1,23 +1,29 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:09
+Pages:
+Author:
 finished: true
-Date Finished: 
+Date Finished:
 tags:
+  - book-review
   - books
   - digital-garden
-  - book-review
-  - travel-guide
-  - travel
-  - history
+  - environmental
   - gulf
-  - mesopotamia
-  - turkey
-  - iraq
-  - syria
+  - history
   - history/british
+  - iraq
+  - isis
+  - mesopotamia
+  - middle-east
+  - politics
+  - rivers
+  - syria
+  - travel
+  - travel-guide
+  - turkey
+  - war
 ---
 # Wounded Tigris
 

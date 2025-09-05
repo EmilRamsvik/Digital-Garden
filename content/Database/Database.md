@@ -1,16 +1,21 @@
 ---
 Date Started: Jun 20, 2023
 tags:
-  - article
-  - database
-  - data
-  - sql
-  - postgresql
   - Snowflake
+  - article
+  - business
+  - data
+  - data-engineering
+  - data-modeling
+  - database
+  - knowledge
+  - postgresql
   - programming
+  - sql
+  - system-thinking
 Finished: false
 created: 2023-12-30T14:48
-updated: 2024-09-15T18:31
+updated: 2025-09-02T09:57
 ---
 # Database
 

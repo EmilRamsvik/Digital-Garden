@@ -1,16 +1,21 @@
 ---
 tags:
+  - attention
   - books
-  - reading
-  - sleep
   - concentration
+  - digital-wellness
   - distractions
-  - learning
   - fiction
+  - habits
+  - learning
   - non-fiction
+  - reading
+  - reading-habits
+  - self-improvement
+  - sleep
 Finished: false
-created: 2023-06-10T15:04:00
-updated: 2025-08-13T14:22
+created: 2023-06-10 15:04:00
+updated: 2025-09-02T10:01
 ---
 # Books 
 Books are an excellent way to engage yourself in something completely. It is one of my favorite ways to learn and understand things, and I want to be able to read every day. 

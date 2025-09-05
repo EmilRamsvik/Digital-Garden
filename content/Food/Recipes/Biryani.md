@@ -3,18 +3,24 @@ Culture: Indian
 Difficulty: Easy
 Date Made: May 27, 2023
 tags:
-  - recipe
-  - feast-meal
-  - indian
-  - pakistani
-  - favorite-recipe
   - chicken
-  - rice
-  - stew
+  - cooking
+  - cultural-food
+  - favorite-recipe
+  - feast-meal
+  - food
   - food-prep
+  - indian
+  - memories
+  - pakistani
+  - recipe
+  - rice
+  - singapore
+  - stew
+  - travel
 Finished: true
 created: 2023-10-29T15:46
-updated: 2024-09-15T21:46
+updated: 2025-09-02T10:17
 ---
 # Biryani
 

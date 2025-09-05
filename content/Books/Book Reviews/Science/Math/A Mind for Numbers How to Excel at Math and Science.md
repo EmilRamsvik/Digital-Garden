@@ -2,14 +2,21 @@
 Pages: 336
 Author: Barbara Oakley
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 tags:
   - books
-  - mathematics
+  - brain
+  - cognitive-science
+  - focus
+  - habits
   - learning
+  - learning-techniques
+  - mathematics
   - productivity
   - productivity-hack
   - school
+  - science
+  - study-methods
 ---
 # A Mind for Numbers How to Excel at Math and Science
 

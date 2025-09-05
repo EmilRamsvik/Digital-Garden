@@ -1,20 +1,25 @@
 ---
 Date Started: 2023-06-01
 tags:
-  - article
-  - data-science
-  - machine-learning
-  - analytics
-  - programming
-  - Python
   - "#computer-vision"
   - "#neural-networks"
   - "#transformers"
+  - Python
+  - analytics
+  - article
+  - best-practices
   - data
+  - data-science
   - data/eda
+  - eda
+  - machine-learning
+  - methodology
+  - programming
+  - statistics
+  - uncertainty
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-03-31T10:39
+updated: 2025-09-02T10:16
 ---
 
 # Data Science
@@ -52,6 +57,7 @@ Experience and skill are the things driving velocity, so focus on gaining as muc
 - [Statistical methods](https://statmodeling.stat.columbia.edu/2009/05/24/handy_statistic/)
 - [Data Science the Hard Parts](../../Books/Book%20Reviews/Data/Data%20Science/Data%20Science%20the%20Hard%20Parts.md) is a good starting point to look at data science as a manager and stakeholder problem, rather than a technical and scientific issue. 
 - [Failed Machine Learning Projects](https://github.com/kennethleungty/Failed-ML) Interseting list of cases and also we can learn a lot from failed projects. 
+- [Becomming Data Driven in Business](https://commoncog.com/becoming-data-driven-in-business/)
 
 # Thoughts 
 - A machine learning (ML) model is a software artifact “compiled” from data.

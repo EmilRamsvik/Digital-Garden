@@ -1,17 +1,23 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:14
 tags:
   - article
-  - digital-garden
-  - data/warehouse
-  - data/lakehouse
-  - data/data-lake
-  - date/engineering
+  - cloud
+  - data-architecture
   - data-engineering
+  - data-science
+  - data/data-lake
+  - data/lakehouse
+  - data/snowflake
+  - data/warehouse
   - data/warehouse/fabric
   - data/warehouse/snowflake
-  - data/snowflake
+  - database
+  - date/engineering
+  - digital-garden
+  - microsoft
+  - storage
 Finished: false
 ---
 

@@ -1,13 +1,18 @@
 ---
 Finished: true
 tags:
-  - machine-learning
+  - "#ideating"
+  - ai
+  - collaboration
   - data-science
   - design-sprint
+  - machine-learning
+  - management
+  - project-planning
+  - team-building
   - workshop
-  - "#ideating"
-created: 2023-04-23T15:04:00
-updated: 2024-03-23T17:56
+created: 2023-04-23 15:04:00
+updated: 2025-09-02T10:16
 ---
 
 

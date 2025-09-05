@@ -1,18 +1,23 @@
 ---
 Finished: true
 tags:
-  - article
-  - digital-garden
-  - database
-  - enterprise-data-warehouse
-  - "#data-warehouse"
+  - "#Snowflake"
   - "#cloud"
-  - "#sql"
+  - "#data-warehouse"
   - "#machine-learning"
   - "#snowpark"
-  - "#Snowflake"
-created: 2023-09-20T00:00:00
-updated: 2024-10-13T13:10
+  - "#sql"
+  - article
+  - cloud
+  - data-engineering
+  - data-warehouse
+  - database
+  - digital-garden
+  - enterprise
+  - enterprise-data-warehouse
+  - machine-learning
+created: 2023-09-20 00:00:00
+updated: 2025-09-02T09:57
 ---
 # Snowflake
 

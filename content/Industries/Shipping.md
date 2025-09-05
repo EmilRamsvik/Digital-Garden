@@ -1,9 +1,14 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T15:27
+updated: 2025-09-02T09:58
 tags:
   - article
   - digital-garden
+  - hydrodynamics
+  - personal
+  - science
+  - shipping
+  - work
 Finished: false
 ---
 

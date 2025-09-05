@@ -1,23 +1,28 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 Pages: 359
 Author: Ankur Patel
 finished: true
 Date Finished: 2024-08-07
 tags:
-  - books
-  - digital-garden
+  - ai
   - book-review
-  - machine-learning
-  - unsupervised-learning
+  - books
   - data
-  - neural-networks
+  - data-science
+  - digital-garden
+  - learning
+  - machine-learning
   - machine-learning/modeling
-  - machine-learning/reinforcement-learning
-  - machine-learning/models/knn
-  - machine-learning/models/SVM
   - machine-learning/models/PCA
+  - machine-learning/models/SVM
+  - machine-learning/models/knn
+  - machine-learning/reinforcement-learning
+  - mathematics
+  - neural-networks
+  - science
+  - unsupervised-learning
 ---
 # Hands-On Unsupervised Learning Using Python
 

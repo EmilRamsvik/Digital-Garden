@@ -1,12 +1,18 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - data-science
+  - history
+  - machine-learning
+  - management
+  - non-fiction
+  - programming
 Finished: true
-Pages: 
-Books-read: 
+Pages:
+Books-read:
 created: 2024-01-06T15:04
-updated: 2025-04-10T13:33
+updated: 2025-09-02T10:00
 ---
 # Booklist 2024 
 

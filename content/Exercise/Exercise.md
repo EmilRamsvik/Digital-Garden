@@ -1,16 +1,24 @@
 ---
 Finished: false
 tags:
-  - exercise
-  - strength-training
-  - endurance
   - activities
-  - hobbies
   - article
+  - endurance
+  - exercise
+  - fitness
   - flexibility
+  - habits
+  - health
+  - hobbies
+  - motivation
+  - personal
+  - running
+  - sports
+  - strength-training
+  - training
   - yoga
 created: 2023-05-22T13:49
-updated: 2024-04-14T19:23
+updated: 2025-09-02T10:14
 ---
 # Exercise
 

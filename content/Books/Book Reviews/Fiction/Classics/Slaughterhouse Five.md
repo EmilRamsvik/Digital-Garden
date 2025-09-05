@@ -3,12 +3,17 @@ Pages: 190
 Date Finished: 2023-02-04
 Author: Kurt Vonnegut
 tags:
-  - books
   - book-review
+  - books
+  - classics
   - fiction
+  - philosophy
+  - psychology
   - surrealism
+  - trauma
+  - war
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:12
 ---
 # Slaughterhouse Five
 

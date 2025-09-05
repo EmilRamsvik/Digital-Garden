@@ -1,13 +1,19 @@
 ---
 tags:
   - baking
-  - food
-  - cooking
-  - sourbread
   - bread
+  - bread-making
+  - cooking
+  - fermentation
+  - food
+  - norwegian
+  - recipes
+  - science
+  - sourbread
+  - sourdough
 Finished: false
-created: 2023-06-06T18:08:00
-updated: 2025-08-11T08:58
+created: 2023-06-06 18:08:00
+updated: 2025-09-02T09:54
 ---
 # Baking
 

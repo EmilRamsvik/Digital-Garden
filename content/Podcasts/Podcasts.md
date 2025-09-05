@@ -1,14 +1,21 @@
 ---
 Date Started: 2023-05-27
 tags:
-  - podcasts
+  - ai
+  - business
+  - history
+  - knowledge
+  - learning
   - long-form-podcasts
-  - taking
-  - science
+  - media
+  - podcasts
   - politics
+  - science
+  - taking
+  - technology
 Finished: false
 created: 2023-10-29T15:32
-updated: 2024-09-22T21:18
+updated: 2025-09-02T10:13
 ---
 # Podcasts
 

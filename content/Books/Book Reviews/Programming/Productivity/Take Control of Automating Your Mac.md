@@ -4,15 +4,17 @@ Date Finished: May 22, 2023
 Author: Joe Kissel
 Finished: true
 tags:
-  - books
-  - mac
-  - productivity-hack
-  - automation
   - alfred
+  - automation
+  - book-review
+  - books
   - keyboard-maestro
+  - mac
   - productivity
+  - productivity-hack
+  - tools
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 ---
 # Take Control of Automating Your Mac
 

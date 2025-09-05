@@ -1,14 +1,17 @@
 ---
 tags:
-  - norwegian-books
-  - history
+  - biography
   - books
+  - history
+  - medieval-history
   - non-fiction
+  - norwegian-books
+  - vikings
 Pages: 267
 Author: Tore Skeie
 Date Finished: 2021-01-03
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:09
 ---
 # Kvitekrist
 

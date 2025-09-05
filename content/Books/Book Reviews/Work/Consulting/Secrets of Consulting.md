@@ -1,27 +1,32 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-20T15:02
+updated: 2025-09-02T10:08
 Pages:
 Author:
 finished: true
 Date Finished: 2024-09-19
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - consulting
-  - management
-  - stakeholder-management
-  - psychology
-  - organizations
-  - advisor
   - advertising
-  - consulting/sales
-  - consulting/reflections
+  - advisor
+  - book-review
+  - books
+  - business
+  - client-management
   - consultancy
+  - consulting
+  - consulting/client
   - consulting/client-relationship
   - consulting/engagements
-  - consulting/client
+  - consulting/reflections
+  - consulting/sales
+  - digital-garden
+  - influence
+  - management
+  - organizations
+  - professional-development
+  - professional-services
+  - psychology
+  - stakeholder-management
 ---
 # Secrets of Consulting
 

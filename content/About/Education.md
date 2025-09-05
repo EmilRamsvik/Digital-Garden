@@ -1,13 +1,20 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-23T14:44
+updated: 2025-09-02T10:00
 tags:
   - article
+  - computational
   - digital-garden
-  - master-thesis
   - education
-  - maritime
   - hydrodynamics
+  - learning
+  - maritime
+  - master-thesis
+  - mathematics
+  - personal
+  - student-life
+  - thesis
+  - university
 Finished: true
 ---
 # Education

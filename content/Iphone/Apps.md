@@ -2,15 +2,19 @@
 Date Started: 2023-06-02
 Finished: true
 tags:
-  - article
-  - productivity
   - apps
+  - article
+  - digital-minimalism
   - habits
-  - notes
-  - journaling
   - iphone
+  - journaling
+  - notes
+  - personal
+  - productivity
+  - self-tracking
+  - tools
 created: 2023-05-27T06:18
-updated: 2025-08-25T13:20
+updated: 2025-09-02T10:18
 ---
 # Apps
 I try to limit the applications and moreover, I limit the notifications as much as possible. The apps are business and want your money or attention. Make the apps work for you, not the other way around. 

@@ -2,12 +2,15 @@
 Finished: false
 tags:
   - article
-  - literature
+  - book-review
   - books
-  - norwegian-books
   - classics
+  - fiction
+  - literature
+  - norwegian-books
+  - russian-literature
 created: 2024-01-06T15:04
-updated: 2024-09-22T09:24
+updated: 2025-09-02T10:01
 ---
 
 

@@ -2,13 +2,17 @@
 Date Started: 2023-06-02
 Finished: false
 tags:
-  - iphone
+  - apple
   - apps
-  - phone
   - article
+  - iphone
+  - mobile
+  - phone
+  - review
+  - technology
   - tools
 created: 2024-01-02T09:33
-updated: 2024-09-22T21:30
+updated: 2025-09-02T10:18
 ---
 
 

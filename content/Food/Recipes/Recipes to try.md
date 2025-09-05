@@ -2,11 +2,14 @@
 Finished: true
 tags:
   - article
+  - cooking
   - digital-garden
   - food
+  - latin-american
+  - mexican-cuisine
   - recipes
 created: 2023-10-29T15:49
-updated: 2024-09-23T09:07
+updated: 2025-09-02T10:17
 ---
 
 

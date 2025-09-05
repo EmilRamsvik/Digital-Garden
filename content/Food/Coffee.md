@@ -1,14 +1,25 @@
 ---
 tags:
+  - addiction
   - article
-  - food
+  - asia
+  - caffeine
+  - coffee
+  - culture
   - drinks
   - drinks/non-alcoholic
+  - drinkshot
+  - drugs
+  - food
+  - habits
   - health
   - performance
-  - drugs
-created: 2023-05-14T13:52:00
-updated: 2024-01-07T16:48
+  - personal
+  - places
+  - psychology
+  - science
+created: 2023-05-14 13:52:00
+updated: 2025-09-02T09:54
 finished: false
 ---
 

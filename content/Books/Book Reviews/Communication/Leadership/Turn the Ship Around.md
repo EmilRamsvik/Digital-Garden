@@ -1,20 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 Pages: 282
 Author: David Marquet
 finished: true
 Date Finished: 2024-04-26
 tags:
+  - book-review
   - books
   - digital-garden
-  - book-review
-  - leadership
-  - military
-  - seafaring
-  - uboat
-  - management
   - education
+  - leadership
+  - management
+  - military
+  - organizational-culture
+  - seafaring
+  - strategy
+  - team-building
+  - uboat
 ---
 # Turn the Ship Around
 
@@ -54,7 +57,7 @@ Also, interesting tidbits about the US submarine force and it is closely linked 
  
 - THINK OUT LOUD is a mechanism for CONTROL because when I heard what my watch officers were thinking, it made it much easier for me to keep my mouth shut and let them execute their plans.
  
-- For example, during World War II, the submarine force, while only making up 2 percent of the Navy, sank over 50 percent of all Japanese vessels sunk.
+- For example, during World War II, the submarine force, while only making up 2 percent of the Navy, sank over 50 percent of all Japanese vessels sunk. *This tidbit is interseting in regards to [How the War was Won](../../History/Europe/How%20the%20War%20was%20Won.md) book.* 
  
 - A briefing is a passive activity for everyone except the briefer. Everyone else “is briefed.” There is no responsibility for preparation or study.
  

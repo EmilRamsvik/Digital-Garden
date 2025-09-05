@@ -3,18 +3,23 @@ Pages: 221
 Author: Christopher Hitchens
 finished: true
 tags:
-  - books
-  - digital-garden
   - book-review
-  - philosophy
-  - totalitarianism
-  - orwell
+  - books
+  - communism
+  - digital-garden
+  - dystopia
   - facism
+  - history
+  - literature
+  - orwell
+  - philosophy
   - political-science
+  - political-theory
   - politics
+  - totalitarianism
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Why Orwell Matters
 

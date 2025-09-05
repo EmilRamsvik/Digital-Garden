@@ -3,19 +3,22 @@ Pages: 301
 Author: Dan Bader
 finished: true
 tags:
+  - book-review
   - books
   - digital-garden
-  - python
+  - learning
   - programming
+  - python
+  - software-development
 Date Finished: 2023-12-08
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 ---
 # Python Tricks
 
 
 # 🚀 The Book in 3 Sentences
-This book is just a lot of neet tricks to use in python.  It contains knowledge about structures in python, wrappers to use, and a lot of lot more. Nice for a developer with some python knowledge. 
+This book is just a lot of neat tricks to use in Python. It contains knowledge about structures in Python, wrappers to use, and a lot more. Nice for a developer with some Python knowledge. 
 
 # 🎨 Impressions
 Fun and light read without too much work

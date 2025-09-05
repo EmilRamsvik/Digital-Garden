@@ -2,12 +2,17 @@
 Pages: 274
 Author: Joe Kissell
 tags:
+  - "#automation"
   - "#books"
   - "#mac"
-  - "#automation"
   - "#non-fiction"
-created: 2023-05-14T15:04:00
-updated: 2024-10-13T13:10
+  - automation
+  - book-review
+  - mac
+  - productivity-hack
+  - tools
+created: 2023-05-14 15:04:00
+updated: 2025-09-02T10:07
 ---
 # Automating Your Mac
 

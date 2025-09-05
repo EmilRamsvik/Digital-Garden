@@ -1,14 +1,20 @@
 ---
 tags:
   - article
-  - work
-  - working
-  - productivity
+  - career
+  - development
   - job
   - job-searching
+  - leadership
+  - management
+  - motivation
+  - productivity
+  - programming
+  - work
+  - working
 Finished: false
 created: 2023-10-15T15:28
-updated: 2024-09-14T15:00
+updated: 2025-09-02T09:59
 ---
 
 # Working
@@ -33,5 +39,6 @@ There is no shame in choosing your passion as your way of making your living, bu
 - You are always replaceable. 
 -  In a work-to rule action (the French call it *greve du zele*), employees begin doing their jobs by meticulously observing every one of the rules and regulations and performing only the duties stated in their job descriptions
 - There are too many titles, but still not enough. 
+- When employes are let go, the process is being noticed not only by the employees terminated but those still in the building. This is important.
 
 

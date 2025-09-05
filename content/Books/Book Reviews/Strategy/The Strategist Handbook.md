@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 272
 Author: Timothy Galpin
 finished: true
 Date Finished: 2024-08-28
 tags:
-  - books
-  - digital-garden
   - book-review
-  - strategy
+  - books
   - business
   - business-transformation
+  - digital-garden
+  - execution
+  - leadership
+  - management
+  - organizational-planning
+  - performance
+  - strategy
 ---
 # The Strategist Handbook
 
@@ -43,7 +48,15 @@ Execution is everything.
  
 - Strategy is the one you can implement. No matter how brilliant or elegant a strategy is, it is worthless until effectively implemented.
  
-- Robert Behn (2003) of Harvard University identifies eight key benefits of effective performance measurement: Evaluation. How well is the department, business unit, or overall organization performing? Control. How can we ensure management and employees are doing the right thing? Budgeting. In which programs, people, or projects should we invest? Motivation. How can we prompt line staff, middle managers, and collaborators to do what is necessary to improve performance? Promotion. How can we demonstrate to stakeholders and the media we are doing a good job? Celebration. What accomplishments are worthy of celebrating success? Learning. What is working or not working? Improvement. In what areas do we need to focus our improvement efforts?
+- Robert Behn (2003) of Harvard University identifies eight key benefits of effective performance measurement: 
+	- Evaluation. How well is the department, business unit, or overall organization performing? 
+	- Control. How can we ensure management and employees are doing the right thing? 
+	- Budgeting. In which programs, people, or projects should we invest? 
+	- Motivation. How can we prompt line staff, middle managers, and collaborators to do what is necessary to improve performance? 
+	- Promotion. How can we demonstrate to stakeholders and the media we are doing a good job? 
+	- Celebration. What accomplishments are worthy of celebrating success? 
+	- Learning. What is working or not working? 
+	- Improvement. In what areas do we need to focus our improvement efforts?
  
 - Henry Mintzberg (1987) argued that strategic planning is an analytical process with a business plan as its outcome.
  

@@ -1,13 +1,19 @@
 ---
 Finished: true
 tags:
-  - motivation
-  - life
   - article
+  - decision-making
+  - habits
   - learning
+  - life
+  - mental-health
+  - motivation
   - personal-development
+  - productivity
+  - psychology
+  - self-improvement
 created: 2023-08-28T09:20
-updated: 2025-08-14T13:46
+updated: 2025-09-02T10:18
 ---
 # Motivation
 

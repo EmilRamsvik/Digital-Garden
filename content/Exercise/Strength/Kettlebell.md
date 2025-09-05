@@ -1,13 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-16T13:35
+updated: 2025-09-02T10:14
 tags:
   - article
   - digital-garden
   - exercise
-  - strength-training
+  - exercise-technique
+  - fitness
   - kettlebell
+  - mobility
+  - strength-training
+  - training
   - warming-up
+  - workout
 Finished: true
 ---
 # Kettlebell

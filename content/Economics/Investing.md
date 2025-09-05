@@ -1,13 +1,17 @@
 ---
 tags:
   - article
-  - investing
-  - finance
+  - books
   - economics
+  - finance
+  - investing
+  - personal-development
+  - risk-management
   - stocks
+  - strategy
   - trading
-created: 2023-06-11T15:04:00
-updated: 2024-09-22T12:01
+created: 2023-06-11 15:04:00
+updated: 2025-09-02T10:18
 ---
 
 

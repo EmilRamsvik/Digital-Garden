@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 192
 Author: Steve Dalton
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - job-searching/interview
-  - "#job-searching/resume"
   - "#job-searching"
+  - "#job-searching/resume"
+  - book-review
+  - books
+  - career
+  - communication
+  - digital-garden
+  - interviews
+  - job-searching
+  - job-searching/interview
+  - personal-development
+  - strategy
 ---
 # The Job Closer
 

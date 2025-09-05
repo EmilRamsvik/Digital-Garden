@@ -1,17 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 Pages: 317
 Author: Jennifer Pahlka
 finished: true
 Date Finished: 2024-11-14
 tags:
-  - books
-  - digital-garden
   - book-review
-  - it-projects
-  - system-thinking
+  - books
   - bureaucracy
+  - digital-garden
+  - government
+  - healthcare
+  - it-projects
+  - management
+  - policy
+  - politics
+  - social-justice
+  - system-thinking
+  - technology
 ---
 # Recoding America
 

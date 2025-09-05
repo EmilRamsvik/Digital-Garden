@@ -1,19 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-18T11:06
-Pages: 
+updated: 2025-09-02T10:13
+Pages:
 Author: Christoph Molnar
 finished: true
 Date Finished: 2024-07-29
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - machine-learning
-  - modeling
-  - data-science
-  - statistics
   - bayesian
+  - book-review
+  - books
+  - data-science
+  - digital-garden
+  - machine-learning
+  - mathematics
+  - modeling
+  - science
+  - statistics
 ---
 # Modelling Mindsets
 

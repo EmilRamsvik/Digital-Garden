@@ -1,18 +1,23 @@
 ---
 tags:
-  - fiction
-  - "#satire"
+  - "#communism"
+  - "#facism"
   - "#orwell"
+  - "#satire"
+  - "#totalitarianism"
+  - allegory
+  - book-review
   - books
   - dystopia
-  - "#totalitarianism"
-  - "#facism"
-  - "#communism"
+  - fiction
+  - political-science
+  - power
+  - revolution
 Author: George Orwell
 Pages: 98
 Date Finished: 2023-01-06
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # Animal Farm
 

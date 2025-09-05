@@ -4,14 +4,17 @@ Date Finished: Apr 16, 2023
 Author: Benedict Anderson
 tags:
   - books
+  - history
+  - indonesia
+  - language
+  - nationalism
   - non-fiction
   - political-science
-  - indonesia
-  - nationalism
   - politics
-  - language
+  - printing-press
+  - revolution
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 ---
 # Imagined Communities
 

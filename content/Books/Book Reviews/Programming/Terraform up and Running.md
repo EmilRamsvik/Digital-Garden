@@ -1,18 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:06
+Pages:
+Author:
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - iac
-  - terraform
+  - books
+  - cloud
   - code-quality
+  - devops
+  - digital-garden
+  - iac
+  - infrastructure
+  - programming
   - programming/declarative-language
+  - terraform
 ---
 # Terraform up and Running
 

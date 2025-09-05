@@ -1,15 +1,20 @@
 ---
 Finished: true
 tags:
-  - article
-  - data-science
-  - "#database"
   - "#data"
-  - data-engineering
+  - "#database"
   - ai
+  - article
+  - data-drift
+  - data-engineering
+  - data-science
   - data/data-drift
-created: 2023-08-14T15:04:00
-updated: 2024-02-05T09:56
+  - machine-learning
+  - mathematics
+  - probability
+  - statistics
+created: 2023-08-14 15:04:00
+updated: 2025-09-02T10:15
 ---
 
 # Data Drift

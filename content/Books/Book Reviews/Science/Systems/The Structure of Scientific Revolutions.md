@@ -4,14 +4,18 @@ Date Finished: Aug 13, 2023
 Author: Thomas Kuhn
 Finished: true
 tags:
-  - science
-  - history
-  - scientific-method
-  - revolution
+  - book-review
   - books
+  - history
+  - knowledge
   - non-fiction
+  - paradigm-shifts
+  - philosophy-of-science
+  - revolution
+  - science
+  - scientific-method
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:06
 ---
 # The Structure of Scientific Revolutions
 
