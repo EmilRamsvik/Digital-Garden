@@ -12,7 +12,7 @@ tags:
   - web-development
 finished: false
 created: 2023-06-07 13:30:00
-updated: 2025-09-02T10:15
+updated: 2025-09-09T18:13
 ---
 
 # Javascript
@@ -36,5 +36,6 @@ React is built with two main concepts in mind: it's state-driven and it is capab
 
 # Thoughts 
 - Javascript was created in 10 days!!!
+- It is so unbelievably funny that Oracle has a 
 
 

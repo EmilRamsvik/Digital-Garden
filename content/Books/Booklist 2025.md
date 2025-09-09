@@ -12,7 +12,7 @@ Finished: false
 Pages:
 Books-read:
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:00
+updated: 2025-09-09T19:12
 ---
 
 #### Tech Resume 
@@ -170,7 +170,7 @@ _Language:_ English
 *Pages* 572
 *Language*: English
 
-#### [Domain Driven Design ](Personal/Books/Book%20Reviews/Domain%20Driven%20Design%20.md)
+#### [Domain Driven Design ](Book%20Reviews/Domain%20Driven%20Design%20.md)
 *Author:*  Eric Evans
 *Pages*: 560
 *Language*: English
@@ -469,7 +469,7 @@ _Author:_
 _Pages:_ 
 _Language:_ English
 
-#### [Tempo](Personal/Books/Book%20Reviews/Tempo.md) 
+#### [Tempo](Book%20Reviews/Tempo.md)
 _Author:_ Venkatesh Rao
 _Pages:_ 170
 _Language:_ English

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:11
+updated: 2025-09-09T19:26
 Pages: 288
 Author: Chris Voss
 finished: true
@@ -28,7 +28,7 @@ I liked that there were a lot of concrete discussions around negotiating and tec
 
 It might be worth looking into the [Communication](../../../../Communication/Communication.md) page for more. 
 
-It might have some similarities to [Nonviolent Communication](Nonviolent%20Communication.md)
+It might have some similarities to [Nonviolent Communication](../Nonviolent%20Communication.md)
 # ✍️ My Top  Quotes
 
 - How he would solve my problems. To every threat and demand he made, I continued to ask how I was supposed to pay him and how was I supposed to know that my son was alive.

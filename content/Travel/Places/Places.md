@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T10:18
+updated: 2025-09-09T19:43
 tags:
   - article
   - destinations
@@ -19,8 +19,8 @@ Here I write about places I have visited, what I liked and other things.
 [Bali](Bali.md)
 [Laos](Laos.md)
 [Singapore](Singapore.md)
-[Italy](Personal/Travel/Places/Italy.md)
-[Denmark](Personal/Travel/Places/Denmark.md)
+[Italy](Italy.md)
+[Denmark](Denmark.md)
 [Oslo](Oslo.md)
 # Links
 - 

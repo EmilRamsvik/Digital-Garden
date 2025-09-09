@@ -19,7 +19,7 @@ tags:
   - psychology
   - relationships
 created: 2023-08-04 14:38:00
-updated: 2025-09-02T10:14
+updated: 2025-09-05T10:52
 ---
 
 
@@ -45,6 +45,7 @@ In the end, we are all just humans. I think a lot about this, and I am extremely
 - [Information Noise](https://fs.blog/noise-and-signal-nassim-taleb/) Based upon N.N. Taleb, where more information will act as noise and disturb the signals. 
 - [Intelligence is Compression](https://groups.google.com/g/comp.ai/c/02m5jQr5xs4?pli=1) See the hutter price for more details [Wikipedia](https://en.wikipedia.org/wiki/Hutter_Prize).
 - [Things you are allowed to do](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/)
+- [How to ask for Help](https://nick.groenen.me/posts/effectively-asking-for-help/)
 
 
 # Thoughts 

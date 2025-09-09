@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T09:54
+updated: 2025-09-09T19:00
 tags:
   - article
   - communication
@@ -12,7 +12,7 @@ tags:
   - psychology
   - relationships
   - speaking
-Finished: false
+Finished: true
 ---
 # Communication
 Here, I write about communication and the topics around it. Communication is one of the most essential skills to have, and even though I struggle a lot with this, I want to improve considerably and become a skilled communicator. 

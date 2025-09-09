@@ -17,7 +17,7 @@ tags:
   - tools
   - ux
 created: 2024-06-21 15:01:00
-updated: 2025-09-02T09:57
+updated: 2025-09-09T13:24
 ---
 # Large Language models
 
@@ -42,6 +42,7 @@ Anthorpic is doing great things.
 - [AI prompt generator](https://github.com/f/awesome-chatgpt-prompts)
 - [AI-enhanced development makes me more ambitious in my projects](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/).
 - [LLM and Programming](http://antirez.com/news/140)
+- [Why Large Language Models Hallucinate](https://openai.com/index/why-language-models-hallucinate/)
 
 # Thoughts 
 - Standardizing the way you do prompts makes it a lot easier to get the results you want.
@@ -51,6 +52,7 @@ Anthorpic is doing great things.
 - One of the best innovations to chatGPT was streaming the answer, even though the response comes faster. It gives the user the impression that the AI is thinking and taking time to respond—one of the most fascinating UX choices I have seen. 
 - *GPT Monkey*: A person who is just pasting results from ChatGPT into the codebase to see if it works. A lovely change from copying results from StackOverflow and seeing if it works. At least know the variables are named within the context of the domain. 
 - LLMs are a commodity. 
+
 
 
 

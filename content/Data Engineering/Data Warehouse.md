@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T10:14
+updated: 2025-09-09T19:34
 tags:
   - article
   - cloud
@@ -39,7 +39,7 @@ Microsoft Fabric is like an MS copy of data warehouses such as Snowflake and Dat
 - [Good blog on Fabric](https://www.kevinrchant.com/)
 - 
 
-## [Snowflake](../../Database/Snowflake.md)
+## [Snowflake](../Database/Snowflake.md)
 
 
 # Links

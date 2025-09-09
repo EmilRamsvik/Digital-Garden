@@ -12,7 +12,7 @@ tags:
   - tools
 Finished: true
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:17
+updated: 2025-09-09T19:37
 ---
 # Azure
 Azure is Microsoft´s cloud service. It is like AWS, but only more microsofty. I have worked extensievley with Azure and find it to be a bit cumbersome, with rough edges. Understanding the CLI was key for my development, made things so much easier.  I think this experience is something that is shared across cloud providers. 
@@ -40,8 +40,6 @@ Cognitive search is based on indexing the documents in the database, a good over
 
 Using the command line interface (CLI) is always a good way of understanding and learning the services.  The documentation for [cognitive search](https://learn.microsoft.com/en-us/azure/search/search-manage-azure-cli) CLI is pretty good. In my experience doing continuous integration (CI) and continuous delivery (CD) makes knowing the CLI mandatory. 
 
-[Make better indexers with Powerskills Repo]( https://github.com/Azure-Samples/azure-search-power-skills)
-
 ![[../../static/images/Pasted image 20230615144221.png]]
 ### Semantic Search
 Azure Cognitive Search's Semantic Search is a feature that enhances traditional search methods by understanding the intent and contextual meaning of search queries. By leveraging AI and natural language processing, it can deliver more relevant search results, even when queries are phrased in a conversational manner or have ambiguous terms. It can also provide advanced query capabilities, like document summarisation, named entity recognition, and personalized ranking of search results.
@@ -67,10 +65,12 @@ Quite nice tool, can recommend.
 
 # Links
 - [A binary large object (**BLOB** or **blob**) is a collection of binary data stored as a single entity.](https://en.wikipedia.org/wiki/Binary_large_object)
-- 
+- [Daily Azure Shit](https://mastodon.social/@azureshit)
 
 # Thoughts 
 - SKU is the product tier of the resource in Azure. In Azure, the term "SKU," which stands for "Stock Keeping Unit," refers to a specific version or configuration of an Azure service or product. 
 - Purge protection in the key vault is that you don't delete everything by accident. Postgres backups are, for example, linked to the Postgres resource. 
+- You can mess up a lot of stuff in the Azure CLI, so be careful
+- Also the documentation is lacking. 
 
 

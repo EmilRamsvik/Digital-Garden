@@ -20,7 +20,7 @@ tags:
   - sauce-making
   - techniques
 created: 2023-08-14T13:56
-updated: 2025-09-02T09:54
+updated: 2025-09-09T19:37
 ---
 # Food
 
@@ -75,7 +75,6 @@ Good things to have with the fish are:
 
 # Links
 - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
-- [](Personal/Books/)
 
 # Thoughts 
 - Don't be afraid to go outside the recipes, especially when cooking; you will never be good if you never fail. 

@@ -14,7 +14,7 @@ tags:
   - system-thinking
 Finished: true
 created: 2023-06-09 13:30:00
-updated: 2025-09-02T10:15
+updated: 2025-09-09T19:36
 ---
 # Programming
 
@@ -22,9 +22,7 @@ updated: 2025-09-02T10:15
 
 # Computers
 An underrated aspect of programming is understanding computers; for engineers and self-taught programmers, it might be challenging to understand the intricacies of computers. 
-[CPU course, what is a CPU]( https://cpu.land/ ) It is written by high-schoolers, so it is an exciting read. 
-
-
+[CPU course, what is a CPU](https://cpu.land/ ) It is written by high-schoolers, so it is an exciting read. 
 
 # API
 How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The [Python](Python/Python.md) programming language is an API, and when I use a library from Microsoft or AWS, I use their API.

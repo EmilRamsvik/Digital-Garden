@@ -15,7 +15,7 @@ tags:
   - technology
 Finished: false
 created: 2023-10-29T15:32
-updated: 2025-09-02T10:13
+updated: 2025-09-05T15:33
 ---
 # Podcasts
 
@@ -58,7 +58,8 @@ I really like the theme and topics on this IT and How the World Works podcast.
 ### [We have ways of making you talk](https://open.spotify.com/show/34VlAepHmeloDD76RX4jtc?si=a4713a9fc9a74453)
 A funny history podcast. 
 
-
+### [Dwarkesh](https://open.spotify.com/show/4JH4tybY1zX6e5hjCwU6gF?si=c644cd8ba42a47db) 
+[AI](../AI/AI.md) and [History](../History/History.md) and 
 # Good Podcast Episodes
 - 
 

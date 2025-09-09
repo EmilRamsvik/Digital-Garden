@@ -12,7 +12,7 @@ tags:
   - travel-guide
 finished: false
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:18
+updated: 2025-09-09T19:38
 ---
 # Denmark
 
@@ -23,7 +23,7 @@ I "lived", aka commuted to Copenhagen for some time in 2024. It is quite possibl
 ## Best Experiences
 Get a "smørrebrød" and a glass of wine and enjoy. 
 
-I quite like the experience of visiting [RundeTårn](Ny Adelgade 7, 1104 København K, Denmark). It is not the biggest attraction, but it is fun regardless, and the walk to the top is a little fun. 
+I quite like the experience of visiting Rundetaarn. It is not the biggest attraction, but it is fun regardless, and the walk to the top is a little fun. 
 ## Souvenirs 
 
 

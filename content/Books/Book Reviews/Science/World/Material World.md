@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:04
+updated: 2025-09-09T19:23
 Pages: 512
 Author: Ed Conway
 finished: true
@@ -32,7 +32,7 @@ This book covers some of the most important materials in today's world. It cover
 
 What is profoundly fascinating is that much of the production of critical elements is limited to a few places. For example, the production of neon gas in Azovstal, the mines in Peru for copper, etc. 
 
-It is a bit similar to [How the World Really Works](Science/World/How%20the%20World%20Really%20Works.md) and [Chip War](../../History/Things/Chip%20War.md) and has a lot of linkage to those two books. 
+It is a bit similar to [How the World Really Works](How%20the%20World%20Really%20Works.md) and [Chip War](../../History/Things/Chip%20War.md) and has a lot of linkage to those two books. 
 
 
 # ✍️ My Top  Quotes

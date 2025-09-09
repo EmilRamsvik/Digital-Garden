@@ -12,7 +12,7 @@ tags:
   - work
   - workflow
 created: 2023-06-01 15:36:00
-updated: 2025-09-02T10:13
+updated: 2025-09-09T19:32
 ---
 
 # Mac
@@ -37,7 +37,7 @@ Window management tool. I use it with [Karabiner](Karabiner.md) for keyboard-dri
 
 ### [Bear](https://bear.app/)
 
-Markdown editor with a clean interface. I used it as an alternative to [Obsidian](Obsidian.md) for focused writing sessions. The freemium model limits PDF export quality.
+Markdown editor with a clean interface. I used it as an alternative to [Obsidian](../Obsidian/Obsidian.md) for focused writing sessions. The freemium model limits PDF export quality.
 
 I switched to using only Obsidian for consistency. [The Hemingway App](https://hemingwayapp.com/) offers similar focused writing features.
 
