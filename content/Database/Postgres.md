@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T09:57
+updated: 2025-09-11T08:53
 tags:
   - article
   - data-engineering
@@ -71,5 +71,6 @@ This feature is particularly useful for applications that need to store and quer
 
 # Thoughts 
 - Open source is probably the best way of approaching databases, makes it easier to migrate later. 
+
 
 

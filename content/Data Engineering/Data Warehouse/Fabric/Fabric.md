@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T10:14
+updated: 2025-09-11T08:56
 tags:
   - article
   - azure
@@ -45,7 +45,10 @@ Things that are good with ADX (Azure Data Explorer)
 - Sometimes, the error messages you will get from Fabric are very confusing and sometimes downright misleading; therefore, make incremental changes and do not trust that the error message is correct. 
 - When deploying to a new workspace, you need to have all the related items when deploying, so if a notebook uses an environment, then you need to add that environment to the deployment as well.
 
+#### Synapse 
+I had the unfortunate experience on working on dataplatforms using Azure synapse. I will detail a little my experiences working on this platform. 
 
+First of all, the Synapse platfrom, and its heir aparent Fabric suffer from bad infrastructure design. 
 
 # Links
 - [Good blog on Fabric](https://www.kevinrchant.com/)

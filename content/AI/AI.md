@@ -13,7 +13,7 @@ tags:
   - system-thinking
 finished: false
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:15
+updated: 2025-09-10T08:25
 ---
 
 
@@ -56,7 +56,7 @@ Data science forms the foundation of effective AI implementation. My experience 
 - **[Data Science Project Start-Up Phase](Data%20Science/Data%20Science%20Project%20Start-Up%20Phase.md)** - Lessons learned from real-world project initiation
 - **[Confident Learning](Data%20Science/Confident%20Learning.md)** - Techniques for handling noisy labels and improving data quality
 - **[Feature Engineering](Data%20Science/Feature%20Engineering.md)** - Transforming raw data into model-ready features
-- **[Model Evaluation](Data%20Science/Evaluation.md)** - Comprehensive approaches to assessing model performance
+- [Evaluation](Data%20Science/Evaluation.md) - Comprehensive approaches to assessing model performance
 
 **Recommended Books:**
 - **[Data Science the Hard Parts](../Books/Book%20Reviews/Data/Data%20Science/Data%20Science%20the%20Hard%20Parts.md)** - Real-world challenges beyond algorithms
