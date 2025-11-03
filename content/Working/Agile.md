@@ -1,15 +1,20 @@
 ---
 Finished: true
 tags:
+  - "#agile"
+  - agile
   - article
   - digital-garden
-  - work
-  - "#agile"
-  - scrum
-  - working
+  - estimation
   - productivity
+  - project-management
+  - scrum
+  - software-development
+  - team-management
+  - work
+  - working
 created: 2023-10-15T15:34
-updated: 2025-03-07T14:15
+updated: 2025-09-02T09:59
 ---
 
 

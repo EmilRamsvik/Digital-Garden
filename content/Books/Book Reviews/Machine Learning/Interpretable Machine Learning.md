@@ -1,23 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:01
 Pages: 540
 Author: Christoph Molnar
 finished: true
 Date Finished: 2024-09-18
 tags:
-  - books
-  - digital-garden
+  - ai
   - book-review
-  - machine-learning
-  - machine-learning/models
-  - machine-learning/feature-engineering
-  - machine-learning/modeling
-  - machine-learning/ml-engineering
-  - interpretable-machine-learning
-  - explainable-ai
+  - books
   - data
   - data-science
+  - digital-garden
+  - explainable-ai
+  - interpretability
+  - interpretable-machine-learning
+  - machine-learning
+  - machine-learning/feature-engineering
+  - machine-learning/ml-engineering
+  - machine-learning/modeling
+  - machine-learning/models
 ---
 # Interpretable Machine Learning
 

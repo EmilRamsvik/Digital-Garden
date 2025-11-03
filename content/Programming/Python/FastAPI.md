@@ -1,21 +1,28 @@
 ---
 Finished: false
 tags:
-  - article
-  - digital-garden
-  - python
-  - fast-api
   - "#api"
-  - "#web-development"
   - "#backend"
   - "#programming"
+  - "#web-development"
+  - api
+  - architecture
+  - article
+  - backend
+  - digital-garden
+  - fast-api
+  - programming
+  - python
+  - security
+  - system-thinking
+  - web-development
 created: 2023-12-27T12:33
-updated: 2025-08-06T14:10
+updated: 2025-09-02T10:15
 ---
 
 
 # FastAPI
-I like Fastapi as a backend service. It is very easy to learn and it is good when designing apis. 
+I like FastAPI as a backend service. It is very easy to learn and it is good when designing APIs. FastAPI leverages modern [Python](Python.md) features like type hints and async/await extensively. 
 
 ### Security Layer FastAPI
 API key and Depends can be used to create a validation layer. The API key can be imported by fastapi. security and is used to authenticate the api. However, you need to include it in the codebase. This is just one of many ways to use FastAPI to take care of authentication. 

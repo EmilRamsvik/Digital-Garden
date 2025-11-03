@@ -1,20 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-10-13T13:59
 Pages: 581
 Author: Roberto Zagni
 finished: true
 Date Finished: 2024-05-06
 tags:
-  - books
-  - digital-garden
   - book-review
-  - dbt
-  - data/data-pipeline
-  - data/data-engineering
-  - data
+  - books
   - cloud
+  - data
   - data-engineering
+  - data-modeling
+  - data/data-engineering
+  - data/data-pipeline
+  - database
+  - dbt
+  - digital-garden
+  - snowflake
+  - sql
 ---
 # Data Engineering with dbt
 
@@ -25,10 +29,13 @@ This is a book about data engineering, with a sprinkle of dbt as well. What it i
 # 🎨 Impressions
 It is not necessarily a book I would highly recommend, because it falls between theoretical data engineering and practical dbt skills, failing to solve any of those specifically well. I might rather recommend reading the book on data management and Kimbal schema and data engineering and the docs on dbt to get the same result but better.
 
-
+This is of course relevant to [Data Engineering](../../../../Data%20Engineering/Data%20Engineering.md) and [dbt](../../../../Data%20Engineering/dbt.md) concepts. 
 ### Interesting consepts on data "traps"
 - [Fan trap](https://docs.sisense.com/main/SisenseLinux/chasm-and-fan-traps.htm)
 - Chasm trap
+
+
+
 # ✍️ My Top  Quotes
 
 - Data Control Language (DCL): DCL contains the GRANT and REVOKE commands, which are used to manage the privileges that control the access to database resources and objects

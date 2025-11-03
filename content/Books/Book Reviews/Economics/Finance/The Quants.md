@@ -4,17 +4,23 @@ Date Finished: Jul 02, 2023
 Author: Scott Patterson
 Finished: true
 tags:
-  - books
-  - economics
-  - mathematics
-  - finance
-  - quantitative-analysis
-  - machine-learning
   - anti-fragile
   - black-swan
+  - books
+  - economics
+  - finance
+  - financial-crisis
   - game-theory
+  - history
+  - machine-learning
+  - mathematics
+  - quantitative-analysis
+  - quantitative-finance
+  - stock-market
+  - trading
+  - wall-street
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 ---
 # The Quants
 
@@ -28,15 +34,6 @@ It was an interesting story, but i did not learn that much about the quantitativ
 
 I did think the random walk vs. chaos theory models of the market was quite intersting. 
 
-## How I Discovered It
-On a fateful journey of N.N. Taleb´s Twitter timeline. 
-
-## Who Should Read It?
-Its a bit of a niche book, so only people with a history of the finance world. 
-
-# ☘️ How the Book Changed Me
-
-Not much, more interested in learning about chaos and non-linearities, as it is important for me to understand everything about it. 
 # ✍️ My Top  Quotes
 
 - The Truth was a universal secret about the way the market worked that could only be discovered through mathematics.

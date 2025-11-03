@@ -1,15 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:01
+Pages:
+Author:
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - behavior
   - book-review
+  - books
+  - communication
+  - digital-garden
+  - influence
   - psychology
+  - relationships
+  - social-psychology
 ---
 # Influence 
 

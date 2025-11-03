@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-10-29T12:06
 Pages: 556
 Author: Eric Evans
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - development
+  - digital-garden
+  - domain-driven-design
+  - programming
+  - software-architecture
+  - system-thinking
+  - technical
 ---
 # Domain Driven Design 
 
@@ -17,7 +23,12 @@ tags:
 Domain driven design is one of the "cultures" of software architecting. It is a book about how this works and how it can be implemented. Very technical. 
 
 # 🎨 Impressions
-I found the book to be quite tedious to read. 
+I found the book to be quite tedious to read. Domain driven design is an extremely important concept, and help bridge the gap between the developer and the real world problem. 
+
+
+Also see this article [Your Data Model Is Your Desitiny](https://notes.mtb.xyz/p/your-data-model-is-your-destiny) ([Related HN: Discussion](https://news.ycombinator.com/item?id=45583786) ) 
+
+HN Comment:[It's one of the core ideas of Domain-Driven Design. In the early stage of the process, engineers should work closely with stakeholders to align on the set of terms (primitives as another commenter has put it), define them and put them in neat little contextual boxes.](https://news.ycombinator.com/item?id=45612129) 
 
 
 # ✍️ My Top  Quotes

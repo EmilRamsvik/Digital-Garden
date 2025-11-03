@@ -3,15 +3,20 @@ Pages: 256
 Date Finished: Jul 17, 2023
 Author: Neven Sesardic
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 tags:
+  - academia
   - books
-  - philosophy
-  - non-fiction
-  - heuristics
-  - reading
+  - communism
   - experts
+  - heuristics
+  - history
+  - intellectual-history
   - knowledge
+  - non-fiction
+  - philosophy
+  - political-science
+  - reading
   - stupidity
 ---
 # When Reason goes on Holliday

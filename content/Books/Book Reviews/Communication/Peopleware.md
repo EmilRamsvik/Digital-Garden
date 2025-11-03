@@ -3,16 +3,21 @@ Pages: 245
 Author: Tom Demarco
 finished: true
 tags:
-  - books
-  - digital-garden
-  - "#work"
+  - "#leadership"
+  - "#product-management"
   - "#software"
   - "#teams"
-  - "#product-management"
-  - "#leadership"
+  - "#work"
+  - books
+  - digital-garden
+  - management
+  - organizational-culture
+  - productivity
+  - software-development
+  - team-management
 Date Finished: 2023-12-12
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 ---
 # Peopleware
 

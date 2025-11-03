@@ -1,17 +1,22 @@
 ---
 Pages: 464
 Author: Josh Kaufman
-finished: 
+finished:
 tags:
+  - automation
+  - book-review
   - books
+  - business
   - digital-garden
-  - personal-finance
   - economics
+  - entrepreneurship
   - finance
   - management
+  - personal-finance
+  - strategy
 Date Finished: 2023-11-09
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 ---
 # Personal MBA
 

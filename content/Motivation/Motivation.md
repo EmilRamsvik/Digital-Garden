@@ -1,13 +1,19 @@
 ---
 Finished: true
 tags:
-  - motivation
-  - life
   - article
+  - decision-making
+  - habits
   - learning
+  - life
+  - mental-health
+  - motivation
   - personal-development
+  - productivity
+  - psychology
+  - self-improvement
 created: 2023-08-28T09:20
-updated: 2025-08-14T13:46
+updated: 2025-09-21T15:25
 ---
 # Motivation
 
@@ -45,6 +51,7 @@ A good decision process is when there is a decision that has a major effect on m
 [U-Mass Decision Making Process](https://www.umassd.edu/media/umassdartmouth/fycm/decision_making_process.pdf)
 [Finding Edges](https://usefulfictions.substack.com/p/how-to-be-more-agentic)
 [Moat of Low Status](https://sashachapin.substack.com/p/the-moat-of-low-status-68a)
+[How to motivate yourself when you do not want to.](https://ashleyjanssen.com/how-to-motivate-yourself-to-do-a-thing- you-dont-want-to-do/)
 
 
 # Links
@@ -60,3 +67,4 @@ A good decision process is when there is a decision that has a major effect on m
 - I feel like OKRs are best when you have time to validate the progress. When having year-long OKRs you don't have the possibility to adapt the OKRs to the fact on the ground. Leave the years to strategy and culture, and let OKRs be more on-the-ground concrete things to work on.  As an example, I did an OKR on becoming a writer, and with key results based on articles, but halfway through, I started to work on the digital garden, and the metrics changed. 
 - Accept that decision-making and motivation are inherently based on emotions. We are emotional creatures, and being logical is therefore quite normal. 
 - You should chase the flow state whenever possible, it is the drug of working. It is almost more important to work in flow than just being present in the 
+- For personal OKRs I think that having year longs are the best, because they are much more concrete and you can actually improve them. When you have OKRs that are two short you cant do the time and effort required to get going with them. 

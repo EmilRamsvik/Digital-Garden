@@ -3,15 +3,20 @@ Pages: 200
 Date Finished: Apr 12, 2023
 Author: Louise Perry
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 tags:
-  - feminism
-  - non-fiction
-  - love
-  - relationships
+  - book-review
   - dating
   - dating-apps
   - evolution
+  - feminism
+  - gender
+  - love
+  - non-fiction
+  - philosophy
+  - relationships
+  - sexuality
+  - society
 ---
 # The Case Against the Sexual Revolution
 

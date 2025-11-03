@@ -1,15 +1,21 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-09T10:11
+updated: 2025-09-02T10:00
 tags:
-  - article
-  - digital-garden
   - about
-  - knowledge
-  - github
-  - personal
+  - article
+  - career
+  - data-science
+  - digital-garden
   - education
   - engineering
+  - github
+  - knowledge
+  - machine-learning
+  - maritime
+  - personal
+  - personal-story
+  - programming
 Finished: false
 ---
 # About

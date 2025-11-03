@@ -1,12 +1,18 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - business
+  - history
+  - management
+  - non-fiction
+  - programming
+  - science
 Finished: false
-Pages: 
-Books-read: 
+Pages:
+Books-read:
 created: 2024-01-06T15:04
-updated: 2025-08-05T10:02
+updated: 2025-10-24T09:40
 ---
 
 #### Tech Resume 
@@ -149,7 +155,7 @@ _Author:_ Tom Vanderbilt
 _Pages:_ 416
 _Language:_ English
 
-#### [T-SQL Fundamentals](Book%20Reviews/Programming/T-SQL%20Fundamentals.md)
+#### [T-SQL Fundamentals](Book%20Reviews/Programming/SQL/T-SQL%20Fundamentals.md)
 _Author:_ Itzik Ben-Gan
 _Pages:_ 464
 _Language:_ English
@@ -164,7 +170,7 @@ _Language:_ English
 *Pages* 572
 *Language*: English
 
-#### [Domain Driven Design ](Personal/Books/Book%20Reviews/Domain%20Driven%20Design%20.md)
+#### [Domain Driven Design ](Book%20Reviews/Programming/Domain%20Driven%20Design%20.md)
 *Author:*  Eric Evans
 *Pages*: 560
 *Language*: English
@@ -420,7 +426,7 @@ _Author:_ Nick Singh
 _Pages:_ 301
 _Language:_ English
 
-#### [Terraform up and Running](Book%20Reviews/Programming/Terraform%20up%20and%20Running.md)
+#### [Terraform up and Running](Book%20Reviews/Programming/DevOps/Terraform%20up%20and%20Running.md)
 _Author:_ Yevgeniy Brinkman
 _Pages:_ 360
 _Language:_ English
@@ -458,12 +464,12 @@ _Pages:_
 _Language:_ English
 
 
-#### [Delta Lake](Book%20Reviews/Data/Delta%20Lake.md) 
+#### [Delta Lake](Book%20Reviews/Data/Data%20Engineering/Delta%20Lake.md) 
 _Author:_ 
 _Pages:_ 
 _Language:_ English
 
-#### [Tempo](Personal/Books/Book%20Reviews/Tempo.md) 
+#### [Tempo](Book%20Reviews/Science/Sociology/Tempo.md)
 _Author:_ Venkatesh Rao
 _Pages:_ 170
 _Language:_ English

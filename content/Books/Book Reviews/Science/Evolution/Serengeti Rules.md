@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
+updated: 2025-09-02T10:05
+Pages:
 Author: Sean Carrol
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
-  - book-review
   - biology
+  - book-review
+  - books
   - cascades
+  - digital-garden
+  - ecology
   - evolution
+  - nature
+  - predator-prey
+  - science
+  - system-thinking
 ---
 # Serengeti Rules
 

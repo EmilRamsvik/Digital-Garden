@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-25T09:04
+updated: 2025-09-02T10:11
 Pages: 244
 Author: Camille Fournier
 finished: true
 Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - management
+  - books
+  - career-development
+  - communication
+  - digital-garden
+  - engineering
   - leadership
+  - management
+  - mentoring
+  - personal-development
   - tech-lead
+  - tech-management
   - technology
 ---
 # The Manager's Path

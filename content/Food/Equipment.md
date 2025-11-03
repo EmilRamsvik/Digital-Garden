@@ -1,15 +1,19 @@
 ---
 Date Started: Aug 18, 2023
 tags:
+  - cleaning
   - cooking
+  - equipment
   - food
   - food-prep
-  - equipment
+  - kitchen
   - knife
+  - maintenance
+  - organization
   - tools
 Finished: false
 created: 2023-08-18T21:47
-updated: 2024-04-15T13:53
+updated: 2025-09-02T09:55
 ---
 # Equipment
 In this article, I list the most important tools I use in the kitchen.  My philosophy for tools can be found in the tools section [[Tools]]

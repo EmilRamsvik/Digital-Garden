@@ -1,16 +1,17 @@
 ---
 tags:
-  - gcp
-  - flutter
   - article
+  - cli
+  - cloud
   - data
   - database
   - firebase
-  - cloud
-  - cli
+  - flutter
+  - gcp
+  - web-development
 Finished: false
 created: 2024-01-06T15:04
-updated: 2024-08-25T16:03
+updated: 2025-09-02T10:16
 ---
 
 

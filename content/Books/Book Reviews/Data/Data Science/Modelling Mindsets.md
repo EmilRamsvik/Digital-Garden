@@ -1,19 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-18T11:06
-Pages: 
+updated: 2025-09-09T19:31
+Pages:
 Author: Christoph Molnar
 finished: true
 Date Finished: 2024-07-29
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - machine-learning
-  - modeling
-  - data-science
-  - statistics
   - bayesian
+  - book-review
+  - books
+  - data-science
+  - digital-garden
+  - machine-learning
+  - mathematics
+  - modeling
+  - science
+  - statistics
 ---
 # Modelling Mindsets
 
@@ -24,7 +26,7 @@ This book is mostly about different ways of thinking about models, in the contex
 
 # 🎨 Impressions
 
-It is similar to the Bernoullis Fallacy book in that it delves into Bayesian versus frequentist statistical modelling.  It is also interesting when it comes to comparison with books such as [Calling Bullshit](Science/Math/Statistics/Calling%20Bullshit.md) and [A Field Guide to Lies](Science/Math/Statistics/A%20Field%20Guide%20to%20Lies.md) which talks about the pitfalls of some of these mindsets. 
+It is similar to the Bernoullis Fallacy book in that it delves into Bayesian versus frequentist statistical modelling.  It is also interesting when it comes to comparison with books such as [A Field Guide to Lies](../../Science/Math/Statistics/A%20Field%20Guide%20to%20Lies.md) and [Calling Bullshit](../../Science/Math/Statistics/Calling%20Bullshit.md) which talks about the pitfalls of some of these mindsets. 
 It is important to have more than one mindset. 
 
 I have not experienced Likelihoodism as a mindset before, so interesting to learn more about that. 

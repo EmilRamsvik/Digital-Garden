@@ -3,14 +3,19 @@ Pages: 352
 Author: Johan Norberg
 finished: true
 tags:
-  - books
-  - digital-garden
   - Capitalism
-  - economics
+  - book-review
+  - books
+  - business
+  - capitalism
   - communism
+  - digital-garden
+  - economics
+  - political-science
+  - work
 Date Finished: 2023-11-12
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 ---
 # The Capitalist Manifesto
 

@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 162
 Author: Paul Schwartz
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - agile
   - book-review
+  - books
   - business
   - business-communications
+  - devops
+  - digital-garden
+  - management
   - money
+  - software-development
+  - strategy
+  - value
   - value-proposition
 ---
 # The Art of Business Value
@@ -24,6 +30,10 @@ It is a book that wants to define the concept of Business Value in the context o
 Business value is a very abstract concept. Sometimes it is money, sometimes other things. 
 One point to mention is that we do not know what is business value, we assume that it is something and therefore most of the business value and business cases are a hypothesis. 
 I liked the book but as business value, it is also a bit vague.  Sometimes I felt like there was too much talk about frameworks such as agile rather than defining or methods to define business value. 
+
+
+I would love to have a better way of defining [AI](../../../AI/AI.md) business value. 
+
 # ✍️ My Top  Quotes
 
 - To those who are deploying code. We can talk all we want about business value, but they are the ones creating it.

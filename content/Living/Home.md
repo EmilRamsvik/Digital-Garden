@@ -1,13 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-07-02T10:29
+updated: 2025-09-02T09:58
 tags:
+  - "#home"
+  - "#kitchen"
+  - "#tools"
   - article
   - digital-garden
+  - habits
+  - home
+  - lifestyle
   - living
-  - "#home"
-  - "#tools"
-  - "#kitchen"
+  - minimalism
+  - organization
+  - personal
 Finished: true
 ---
 # Home

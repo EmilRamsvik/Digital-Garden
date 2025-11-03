@@ -3,15 +3,20 @@ Pages: 336
 Date Finished: 2023-05-17
 Author: Marcus Du Satoy
 tags:
-  - books
-  - computer-science
-  - brain
   - ai
+  - art
+  - books
+  - brain
+  - computer-science
+  - creativity
+  - innovation
+  - machine-learning
   - mathematics
   - non-fiction
+  - technology
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 ---
 # The Creativity Code
 

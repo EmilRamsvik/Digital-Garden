@@ -3,13 +3,18 @@ Pages: 280
 Date Finished: Aug 04, 2023
 Author: Jim Camp
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 tags:
-  - negotiation
-  - books
   - book-review
+  - books
+  - business
+  - communication
+  - management
+  - negotiation
   - non-fiction
+  - psychology
   - salary-negotiation
+  - strategy
 ---
 # Start with No
 
@@ -24,6 +29,20 @@ People who want to expand their knowledge of negotiations.
 
 Nothing is certain in negotiations. 
 
+**The basic Checklist for any negotiation includes:**   
+	- Your mission and purpose for the negotiation 
+	- Your agenda items for the specific meeting 
+	- Your behavior goals 
+	- Your activity goals 
+	- Any critical research that needs to be done 
+**The Log prepared after any negotiation includes:**   
+	- Statement of the problem from the other side’s point of view 
+	- Estimate of the other side’s budget (time, energy, money, and emotion) 
+	- Identification of the decision-makers and assessment of when their decision will be reached 
+	- Negotiation summary
+
+
+
 # ✍️ My Top  Quotes
 - The best word in the English language must be “yes.” You please the other person. You satisfy the request.
  
@@ -35,27 +54,31 @@ Nothing is certain in negotiations.
  
 - “Need” is death; “want” is life. Believe me, this different attitude will make all the difference in your negotiating life.
  
-- Three-Minute Checklist   
+- **Three-Minute Checklist**   
 	-  Stop, look, listen. What are your temptations to feel needy in this situation? Simply identifying them helps you control them. 
 	- Likewise, how are you tempted to be okay at the expense of the other side? Simple identification helps you check that okayness. 
 	- What are their temptations to neediness? To be okay? Encourage them in these regards. Their neediness is to your advantage. 
  
 - In fact, tough corporate negotiators work under the presumption that contracts are easily broken, that this is just part of business.
  
-- Three-Minute Checklist • Are you playing a “numbers” game, even a subtle one? It’s just a cop-out. Focus instead on your activity and behavior. • The temptation to “close” is powerful and in some businesses, like real estate, almost ingrained. You must keep a sharp eye. Are you subtly trying to “close” this agreement? • Hold everything. Is this phone call or this meeting payside or nonpayside? Are you kidding yourself about its value? • Did you start setting and evaluating activity and behavior goals daily?
+- **Three-Minute Checklist** 
+	- Are you playing a “numbers” game, even a subtle one? It’s just a cop-out. Focus instead on your activity and behavior.  
+	- The temptation to “close” is powerful and in some businesses, like real estate, almost ingrained. You must keep a sharp eye. Are you subtly trying to “close” this agreement? 
+	- Hold everything. Is this phone call or this meeting payside or nonpayside? Are you kidding yourself about its value? 
+	- Did you start setting and evaluating activity and behavior goals daily?
  
 - Perot enjoyed (and may still, I don’t know) telling business audiences the story of an American who wants to buy a camel and pulls up at a tent with half a dozen of the beasts staked out front. When the owner emerges, the American asks the owner about one particular animal. The Bedouin replies, “Oh, that’s my son’s camel, his pet. I couldn’t sell that one.” The American looks nonplussed, climbs back into his Range Rover, and starts to drive off. The Bedouin runs after him, shouting, “I thought you wanted to buy my camel!”
  
 - Series of decisions. When—not if, but when—you make a bad decision, you simply follow it with a better
  
-- Three-Minute Checklist:
+- **Three-Minute Checklist:**
 	- If you’re needy, it’s hard to say no and it’s hard to hear no. Check for neediness first. 
 	- If you have saddled yourself with performance goals over which you have no control, it’s hard to say no and it’s hard to hear no. 
 	- Before anything happens, before the meeting starts, are you firmly free in your gut and in your mind to say no and hear no? If not, cancel the meeting. Seriously.
  
 - What was Edison’s company? General Electric. What was its slogan? “We bring good things to life.”
  
-- Three-Minute Checklist 
+- **Three-Minute Checklist** 
 	- Is your mission and purpose in place for this negotiation, this meeting, this conversation? If not, stop. Go no further. Prepare one. 
 	- If the mission-and-purpose statement is in hand, read it. Absorb it. If necessary, have it handy for quick consultation. 
 	- Are you emotionally and mentally prepared to let the mission and purpose guide your every move? If not, stop. If necessary, cancel the meeting or don’t make the phone call.
@@ -64,13 +87,18 @@ Nothing is certain in negotiations.
  
 - In negotiations, you must have a vision of a current or future problem to be solved. It’s just that simple. This is why you’re negotiating.
  
-- Three-Minute Checklist • Are you certain you clearly see the problems on the other side? Are you clear in your mind how to build the other side’s vision? • Are you clear that they have to see before they can understand? • Are you ready to put aside the facts and the figures, because you cannot tell anyone anything? • Are you ready to ask questions in order to build vision, rather than provide answers?
- 
-- Are you prepared with good interrogative-led questions? They are not a magic bullet, but they are the safest way to build vision on the other side, and they are less likely to destroy vision. • Being a defensive negotiator does you no good at all. Therefore always nurture. Don’t attack, don’t challenge, don’t browbeat—not with your words, not with your body language.
+- **Three-Minute Checklist** 
+	- Are you certain you clearly see the problems on the other side? Are you clear in your mind how to build the other side’s vision? 
+	- Are you clear that they have to see before they can understand? 
+	- Are you ready to put aside the facts and the figures, because you cannot tell anyone anything? 
+	- Are you ready to ask questions in order to build vision, rather than provide answers?
+	 
+- Are you prepared with good interrogative-led questions? They are not a magic bullet, but they are the safest way to build vision on the other side, and they are less likely to destroy vision. 
+- Being a defensive negotiator does you no good at all. Therefore always nurture. Don’t attack, don’t challenge, don’t browbeat—not with your words, not with your body language.
  
 - “3+” (or “three-plus”), another important tool of the trade, is the ability to remain with a question until it is answered at least three times, or to repeat a statement at least three times.
  
-- Three-Minute Checklist 
+- **Three-Minute Checklist** 
 	- Before the phone call, the e-mail, the meeting, take however long is required to assess your attitude and frame of mind. 
 	- Those positive expectations, blatant or subtle: Are you aware of them? Have you put them aside? 
 	- Those negative expectations: Are you aware of them? Have you put them aside? • Any assumptions of any kind whatsoever? 
@@ -78,7 +106,9 @@ Nothing is certain in negotiations.
  
 - If you can’t identify and then go around or over the blockers, you’re in for a long, hard time, by definition, because the blockers don’t make the real decisions.
  
-- Three-Minute Checklist • The shell game is not glamorous, but remember: No decision-maker, no decision. • When dealing with messengers and blockers, always nurture. Be creative. Try again.
+- **Three-Minute Checklist** 
+	- The shell game is not glamorous, but remember: No decision-maker, no decision. 
+	- When dealing with messengers and blockers, always nurture. Be creative. Try again.
  
 - Each and every communication in a negotiation requires an agenda—and not just meetings where you’re sitting across the table from the other side. Agendas are required even for telephone calls and e-mails.
  
@@ -89,13 +119,13 @@ Nothing is certain in negotiations.
 	- What we want 
 	- What happens next
  
-- Three-Minute Checklist 
+- **Three-Minute Checklist** 
 	- Do you have an agenda for this phone call or this meeting? 
 	- *Has this agenda been negotiated with the other side? It must be. 
 	- Does this agenda include, at a minimum, “what you want” and “what happens next”? It must. 
 	- Does it include problems and baggage? If they exist, it must.
  
-- The basic Checklist for any negotiation includes:   
+- **The basic Checklist for any negotiation includes:**   
 	- Your mission and purpose for the negotiation 
 	- Your agenda items for the specific meeting 
 	- Your behavior goals 

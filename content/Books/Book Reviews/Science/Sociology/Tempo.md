@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
-Author: 
+updated: 2025-09-02T10:01
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - communication
+  - decision-making
+  - digital-garden
+  - productivity
+  - psychology
+  - system-thinking
+  - time-management
 ---
 # Tempo
 

@@ -1,11 +1,14 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-23T15:20
+updated: 2025-09-02T10:00
 tags:
   - article
   - digital-garden
+  - knowledge
+  - organization
   - other
   - personal
+  - system-thinking
 Finished: false
 ---
 # Other

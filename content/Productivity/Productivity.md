@@ -1,15 +1,20 @@
 ---
 Date Started: May 29, 2023
-created: 2023-05-30T15:11:00
-updated: 2024-11-23T13:27
+created: 2023-05-30 15:11:00
+updated: 2025-09-09T19:39
 tags:
   - article
+  - deep-work
+  - flow
+  - focus
+  - learning
+  - motivation
+  - performance
   - productivity
   - productivity-hack
+  - psychology
   - work
   - working
-  - deep-work
-  - focus
 ---
 # Productivity
 I am fascinated by productivity and always look for ways to increase my productivity. As I am only one person, I must maximize the amount of work I can do to the greatest extent possible. 
@@ -46,7 +51,7 @@ Distractions, lack of clear goals, insufficient challenge, and lack of immediate
 # Links
 - [Speed Matters](https://jsomers.net/blog/speed-matters)
 - [30-30-30 Framework](https://www.actlivelife.com/blog/the-30-30-30-life-hack)
-- [When First Principles Thinking Fails]( https://commoncog.com/how-first-principles-thinking-fails/ )
+- [When First Principles Thinking Fails](https://commoncog.com/how-first-principles-thinking-fails/ )
 - [Paul Graham on Great Work](http://paulgraham.com/greatwork.html)
 - [Stop Work So Hard](https://glyph.twistedmatrix.com/2016/01/stop-working-so-hard.html) 
 - [Working Offline with Docs (Zeal)](https://zealdocs.org/)

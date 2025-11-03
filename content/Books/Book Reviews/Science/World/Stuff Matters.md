@@ -1,22 +1,29 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
-Author: 
+updated: 2025-09-09T19:41
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - materials
+  - books
+  - chemistry
+  - digital-garden
+  - food
+  - glass
+  - history
   - material-science
-  - science
-  - scientific-method
-  - materials/steel
-  - materials/paper
-  - materials/oil
+  - materials
   - materials/carbon
+  - materials/oil
+  - materials/paper
+  - materials/steel
+  - non-fiction
+  - physics
+  - science
+  - science-history
+  - scientific-method
 ---
 # Stuff Matters
 
@@ -27,7 +34,7 @@ A book about a lot of stuff. It is a book about the stuff we make use of. It con
 # 🎨 Impressions
 
 I found this book to be very cool. 
-Also, look into [Material World](Science/World/Material%20World.md)
+Also, look into [Material World](Material%20World.md)
 
 # ✍️ My Top  Quotes
 

@@ -3,12 +3,16 @@ Pages: 212
 Date Finished: Jun 10, 2023
 Author: Albert Camus
 tags:
+  - absurdism
+  - book-review
+  - books
+  - existentialism
+  - extensialism
   - non-fiction
   - philosophy
-  - extensialism
-  - absurdism
+  - psychology
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # The Myth of Sisyphus
 

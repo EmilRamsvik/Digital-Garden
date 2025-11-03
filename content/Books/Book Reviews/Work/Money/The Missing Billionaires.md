@@ -1,21 +1,26 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 416
 Author: Victor Haghani
 finished: true
 Date Finished: 2024-06-01
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - finance
-  - personal-finance
-  - game-theory
-  - quantitative-analysis
   - "#economics"
-  - taxes
+  - behavioral-economics
+  - book-review
+  - books
+  - decision-making
+  - digital-garden
+  - finance
+  - game-theory
+  - investing
+  - personal-finance
+  - quantitative-analysis
   - risk
+  - risk-management
+  - taxes
+  - wealth
 ---
 # The Missing Billionaires
 

@@ -1,21 +1,27 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 Pages: 294
 Author: Robert Jackall
 finished: true
 Date Finished: 2024-04-11
 tags:
-  - books
-  - digital-garden
   - book-review
-  - morality
-  - philosophy
-  - work
-  - system-thinking
+  - books
+  - bureaucracy
   - business
-  - stakeholder-management
+  - corporate-culture
+  - digital-garden
   - ethics
+  - leadership
+  - management
+  - morality
+  - organizations
+  - philosophy
+  - sociology
+  - stakeholder-management
+  - system-thinking
+  - work
 ---
 # Moral Mazes
 

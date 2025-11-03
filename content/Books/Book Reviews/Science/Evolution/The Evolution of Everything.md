@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 Pages: 368
 Author: Matt Ridley
 finished: true
-Date Finished: 
+Date Finished:
 tags:
+  - book-review
   - books
   - digital-garden
-  - book-review
+  - economics
   - evolution
-  - society
+  - history
+  - non-fiction
+  - philosophy
   - progress
+  - society
+  - system-thinking
 ---
 #  The Evolution of Everything
 

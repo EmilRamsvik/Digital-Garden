@@ -1,12 +1,16 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-18T20:01
+updated: 2025-09-02T10:00
 tags:
   - article
+  - business
+  - career
+  - communication
   - digital-garden
   - job-searching
   - negotiation
   - salary
+  - strategy
 Finished: true
 ---
 

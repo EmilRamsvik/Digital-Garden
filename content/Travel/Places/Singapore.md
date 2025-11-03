@@ -2,13 +2,19 @@
 Date Visited: 2023-01-10
 tags:
   - article
-  - travel
+  - city-guide
+  - culture
+  - food
+  - nightlife
   - places
   - singapore
   - south-east-asia
+  - tourism
+  - transportation
+  - travel
 Finished: true
 created: 2023-10-23T17:26
-updated: 2025-07-02T11:50
+updated: 2025-09-02T10:18
 ---
 # Singapore
 

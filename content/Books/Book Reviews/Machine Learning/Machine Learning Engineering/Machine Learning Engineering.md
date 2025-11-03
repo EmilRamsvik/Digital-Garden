@@ -1,18 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:01
 Pages: 310
 Author: Andriy Burkov
 finished: true
 Date Finished: 2024-02-19
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - machine-learning
-  - machine-learning/ml-engineering
-  - machine-learning/feature-engineering
   - "#mlops"
+  - ai
+  - book-review
+  - books
+  - business
+  - data-engineering
+  - digital-garden
+  - implementation
+  - machine-learning
+  - machine-learning/feature-engineering
+  - machine-learning/ml-engineering
+  - mlops
+  - software-engineering
+  - system-thinking
 ---
 # Machine Learning Engineering
 

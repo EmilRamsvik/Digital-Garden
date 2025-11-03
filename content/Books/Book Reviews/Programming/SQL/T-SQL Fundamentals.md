@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:06
+Pages:
+Author:
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - sql
+  - books
+  - data-engineering
+  - data-warehouse
+  - database
+  - digital-garden
   - programming
   - programming/declarative-language
+  - sql
+  - sql-server
+  - t-sql
 ---
 # T-SQL Fundamentals
 

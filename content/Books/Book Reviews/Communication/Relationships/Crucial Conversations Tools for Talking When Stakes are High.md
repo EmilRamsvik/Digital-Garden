@@ -3,12 +3,17 @@ Pages: 256
 Date Finished: 2023-05-02
 Author: Kerry Patterson
 tags:
-  - non-fiction
-  - self-improvement
+  - books
   - communication
+  - leadership
+  - non-fiction
+  - personal-development
+  - psychology
+  - relationships
+  - self-improvement
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 ---
 # Crucial Conversations Tools for Talking When Stakes are High
 

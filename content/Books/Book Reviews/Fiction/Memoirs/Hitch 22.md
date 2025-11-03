@@ -4,17 +4,23 @@ Date Finished: Jun 07, 2023
 Author: Christopher Hitchens
 Finished: true
 tags:
-  - memoir
-  - non-fiction
-  - politics
+  - autobiography
+  - biography
   - communism
   - facism
-  - neo-conservatism
+  - free-speech
+  - history
+  - intellectual-history
+  - iraq-war
   - journalism
+  - memoir
   - missing-quotes
-  - biography
+  - neo-conservatism
+  - non-fiction
+  - political-science
+  - politics
 created: 2024-01-06T15:04
-updated: 2025-03-05T09:35
+updated: 2025-09-02T10:12
 ---
 # Hitch 22
 

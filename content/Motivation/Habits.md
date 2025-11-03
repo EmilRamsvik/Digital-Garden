@@ -1,12 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-25T14:29
+updated: 2025-09-18T12:27
 tags:
   - article
-  - digital-garden
-  - motivation
-  - habits
   - atomic-habits
+  - digital-garden
+  - habits
+  - health
+  - morning-routine
+  - motivation
+  - personal-development
+  - productivity
+  - psychology
+  - self-improvement
 Finished: false
 ---
 # Habits
@@ -30,11 +36,12 @@ After the workout, I take a cold shower and continue my morning routine with get
 # Links
 - [On building habits](https://www.clearerthinking.org/post/what-s-the-best-way-to-build-a-habit)
 - [Rituals ](https://www.honest-broker.com/p/13-observations-on-ritual?utm_source=substack&utm_medium=email)
+- [Force your brain to do hard things.](https://www.youtube.com/watch?v=GpsWTFciswE&list=WL&index=3&ab_channel=simple%2Cactually)
 
 # Thoughts 
 - When doing things, I have worked mostly on the small health and focus habits in the morning. It is much easier to "cue" in the morning than in the evening. 
 - Bad habits are there for a reason; I think the removal of cues is important.  During the pandemic, I felt like it was too easy to grab a beer or something from the fridge, so I had to stop having beer in the fridge, then the monthly beer consumption fell drastically. *If there is honey in the jar the bear will eat it.* 
-- One sick and disgusting thing of the modern economy is the exploitatio of the lizard brain of people to sell things. Stuffing food with sugars, making confusing stores that lead to the candy shelves. And all the other things that have happened. 
+- One sick and disgusting thing of the modern economy is the exploitation of the lizard brain of people to sell things. Stuffing food with sugars, making confusing stores that lead to the candy shelves. And all the other things that have happened. 
 - What is a successful habit? How do we define a when a habit is a success? Does it have to be there forever?
 - The morning is the best part for making a habit. 
 

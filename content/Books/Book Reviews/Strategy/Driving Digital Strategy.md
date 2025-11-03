@@ -1,20 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 288
 Author: Sunil Gupta
 finished: true
 Date Finished: 2024-08-07
 tags:
-  - books
-  - digital-garden
   - book-review
-  - strategy
+  - books
+  - business
+  - business-strategy
+  - business-transformation
   - data/strategy
+  - digital-business
+  - digital-garden
   - digital-management
   - digital-transformation
   - management
-  - business-transformation
+  - platform-economics
+  - strategy
+  - technology
 ---
 # Driving Digital Strategy
 

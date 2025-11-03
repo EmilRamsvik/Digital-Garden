@@ -1,17 +1,23 @@
 ---
 Finished: false
 tags:
+  - alfred
   - article
+  - configuration
+  - goku
+  - hotkeys
+  - keyboard
+  - keyboard-customization
   - keyboard-maestro
   - keyboard-shortcuts
-  - alfred
-  - hotkeys
-  - goku
+  - macos
   - productivity
   - productivity-hack
-  - keyboard
+  - programming
+  - tools
+  - workflow
 created: 2023-06-21T04:24
-updated: 2025-08-13T09:45
+updated: 2025-09-09T19:33
 ---
 # Karabiner
 Karabiner is a powerful and customizable keyboard remapping tool designed specifically for macOS. It allows users to modify the behavior of their keyboards by remapping keys, creating shortcuts, and implementing various keyboard modifications. With Karabiner, users can redefine keys to perform different functions or assign complex combinations of keys to trigger specific actions. This enables users to personalize their keyboard layout and streamline their workflow, making it easier and more efficient to navigate through applications and perform tasks.
@@ -41,6 +47,6 @@ However, I recommend starting the journey by reading other documentation regardi
 
 # Thoughts 
 - I find it quite hard to understand in a layer how you most effectively can map some commands ¨
-- Search [GitHub]( [https://github.com/search?l=&q=filename%3Akarabiner.edn&type=Code](https://github.com/search?l=&q=filename%3Akarabiner.edn&type=Code)) for karabiner.edn inspiration.
+- Search Github for karabiner.edn inspiration.
 - I like and recommend Karabiner to everyone who programs and like to automate. 
 

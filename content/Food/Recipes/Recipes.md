@@ -1,14 +1,20 @@
 ---
 Date Started: May 27, 2023
-Finished: 
+Finished:
 tags:
   - article
-  - food
-  - recipe
   - cooking
+  - cuisine
+  - culture
+  - food
   - health
+  - philosophy
+  - recipe
+  - recipes
+  - travel
+  - world-cuisine
 created: 2023-05-27T05:50
-updated: 2024-11-09T18:06
+updated: 2025-09-02T10:17
 ---
 
 

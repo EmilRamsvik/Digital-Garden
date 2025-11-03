@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 Pages: 111
 Author: John Gall
 finished: true
 Date Finished: 2024-02-27
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - "#system-thinking"
   - "#non-fiction"
+  - "#system-thinking"
   - "#thinking"
+  - book-review
+  - books
+  - complexity
+  - digital-garden
+  - management
+  - philosophy
+  - science
+  - systems
 ---
 # Systematics
 

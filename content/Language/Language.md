@@ -3,11 +3,17 @@ Date Started: 2023-08-04
 Finished: false
 tags:
   - article
-  - language
-  - natural-language
+  - communication
   - english-language
+  - italian
+  - language
+  - language-learning
+  - latin
+  - learning
+  - linguistics
+  - natural-language
 created: 2023-09-01T15:21
-updated: 2024-08-16T13:28
+updated: 2025-09-02T09:59
 ---
 
 

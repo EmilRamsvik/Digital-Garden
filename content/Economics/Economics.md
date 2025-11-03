@@ -2,10 +2,14 @@
 tags:
   - article
   - economics
-  - political-science
   - finance
-created: 2023-06-04T14:00:00
-updated: 2024-11-07T14:22
+  - market-dynamics
+  - political-science
+  - science
+  - system-thinking
+  - theory
+created: 2023-06-04 14:00:00
+updated: 2025-09-02T10:18
 ---
 
 

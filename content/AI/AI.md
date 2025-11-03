@@ -1,22 +1,27 @@
 ---
 Date Started: Jun 21, 2023
 tags:
-  - article
   - ai
-  - machine-learning
-  - data-science
+  - article
   - artificial-intelligence
+  - books
+  - data-science
+  - engineering
+  - machine-learning
+  - python
+  - strategy
+  - system-thinking
 finished: false
 created: 2024-01-06T15:04
-updated: 2025-08-25T14:30
+updated: 2025-10-08T12:34
 ---
 
 
 # Artificial Intelligence & Machine Learning
 
-Welcome to my exploration of AI and machine learning—a field where I've spent significant professional time as a data scientist and ML engineer. This section captures insights from building production systems, reading extensively on the topic, and developing strategic perspectives on AI implementation.
+I've spent significant professional time as a data scientist and ML engineer. This section captures insights from building production systems, reading extensively on the topic, and developing strategic perspectives on AI implementation.
 
-I explore both the technical foundations and strategic implications, from hands-on model development to [AI Strategy](AI%20Strategy.md) for organizational transformation.
+I am on a journey to explore both the technical foundations and strategic implications, from hands-on model development to [AI Strategy](AI%20Strategy.md) for organizational transformation.
 
 
 
@@ -39,11 +44,10 @@ The regulatory risk isn't AI becoming "too powerful"—it's regulators destroyin
 Other books that can be of interest is:
 - [Hands-On Unsupervised Learning Using Python](../Books/Book%20Reviews/Machine%20Learning/Modeling/Hands-On%20Unsupervised%20Learning%20Using%20Python.md)
 - [Machine Learning Design Patterns](../Books/Book%20Reviews/Machine%20Learning/Machine%20Learning%20Engineering/Machine%20Learning%20Design%20Patterns.md)
-- [[]]
 
 ---
 
-## 📊 [Data Science & Analytics](Data%20Science/Data%20Science.md)
+## [Data Science & Analytics](Data%20Science/Data%20Science.md)
 
 Data science forms the foundation of effective AI implementation. My experience spans the full data science lifecycle, from initial problem framing to model deployment and monitoring.
 
@@ -51,7 +55,7 @@ Data science forms the foundation of effective AI implementation. My experience 
 - **[Data Science Project Start-Up Phase](Data%20Science/Data%20Science%20Project%20Start-Up%20Phase.md)** - Lessons learned from real-world project initiation
 - **[Confident Learning](Data%20Science/Confident%20Learning.md)** - Techniques for handling noisy labels and improving data quality
 - **[Feature Engineering](Data%20Science/Feature%20Engineering.md)** - Transforming raw data into model-ready features
-- **[Model Evaluation](Data%20Science/Evaluation.md)** - Comprehensive approaches to assessing model performance
+- [Evaluation](Data%20Science/Evaluation.md) - Comprehensive approaches to assessing model performance
 
 **Recommended Books:**
 - **[Data Science the Hard Parts](../Books/Book%20Reviews/Data/Data%20Science/Data%20Science%20the%20Hard%20Parts.md)** - Real-world challenges beyond algorithms
@@ -93,26 +97,4 @@ Note: My 2023 LLM writings capture the rapid evolution of this field—some deta
 - [The conspiracy to make AI harder than it is!](https://www.youtube.com/watch?v=2eWuYf-aZE4) - Demystifying AI complexity
 - [ML Engineering Reading List](https://www.latent.space/p/2025-papers) - Current research and trends
 - [MLAbonne's Blog](https://mlabonne.github.io/blog/) - Practical ML guides and tutorials
-
-## 💭 Key Insights & Reflections
-
-**On Determinism in AI:**
-While LLMs like GPT-3, GPT-4, and LLaMA appear non-deterministic, their outputs are controlled by specific parameters:
-- **Seed** - Random number initializing the generation process
-- **System Fingerprint** - Engine state identifier
-- **Temperature/Top-p** - Sampling strategy affecting creativity vs. consistency
-
-Understanding these parameters is crucial for reproducible AI applications and debugging model behavior.
-
-**Strategic Considerations:**
-- AI adoption should focus on augmenting human capabilities rather than replacement
-- Technical debt in ML systems requires different management approaches than traditional software
-- Model interpretability becomes critical as AI systems influence high-stakes decisions
-
-**Future Areas of Exploration:**
-- Retrieval-Augmented Generation (RAG) systems
-- Multi-modal AI applications
-- Federated learning and privacy-preserving ML
-- AI safety and alignment in production systems
-
-
+- [Dwarkesh and Richard Sutton on LLMs and RL](https://open.spotify.com/episode/3zAXRCFrHPShU4MuuIx4V5?si=4b85bcceb20a4c8b)

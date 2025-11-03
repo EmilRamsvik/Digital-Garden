@@ -3,15 +3,21 @@ Pages: 304
 Author: Thor Hanson
 finished: true
 tags:
-  - books
-  - seeds
-  - non-fiction
   - biology
-  - plants
+  - book-review
+  - books
+  - botany
+  - evolution
   - food
+  - food-science
   - history
-created: 2023-10-14T00:00:00
-updated: 2025-08-13T14:54
+  - nature
+  - non-fiction
+  - plants
+  - science
+  - seeds
+created: 2023-10-14 00:00:00
+updated: 2025-09-02T10:05
 ---
 # The Triumph of Seeds
 

@@ -3,11 +3,16 @@ Pages: 480
 Date Finished: Apr 1, 2023
 Author: Joe Abercrombie
 tags:
-  - "#fiction"
-  - "#fantasy"
   - "#books"
+  - "#fantasy"
+  - "#fiction"
+  - book-review
+  - character-study
+  - fantasy
+  - fiction
+  - history
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # A little Hatred
 

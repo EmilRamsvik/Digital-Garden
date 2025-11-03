@@ -1,17 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
+updated: 2025-09-02T10:10
+Pages:
 Author: Abhijit V. Banerjee and Esther Duflo
 finished: true
 Date Finished: 2024-11-09
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - development
+  - digital-garden
   - economics
-  - third-world
+  - food
+  - nutrition
   - poverty
+  - social-justice
+  - third-world
 ---
 # Poor Economics
 

@@ -1,22 +1,29 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
-Author: 
+updated: 2025-09-02T10:03
+Pages:
+Author:
 finished: true
 Date Finished: 2024-03-30
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - system-thinking
-  - nationalism
-  - high-modernism
   - anarchism
   - architecture
-  - leninsim
+  - book-review
+  - books
   - communism
+  - digital-garden
+  - governance
+  - high-modernism
   - holomodor
+  - knowledge-management
+  - leninsim
+  - modernism
+  - nationalism
+  - philosophy
+  - political-science
+  - sociology
+  - state-power
+  - system-thinking
 ---
 # Seeing Like a State
 
@@ -32,14 +39,16 @@ It is also important to understand that informal processes and practical knowled
 
 
 This is actually a book that is super highly relevant in hindsight. It is a book that is recommended again and again and [again](https://www.simplermachines.com/why-you-need-a-wtf-notebook/).  It is a book that you wish other people had read cause it would make discussions a lot more interesting.  This means it is a must-read in the context of sociology. 
+jj
+- [Another Book Review](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
 # ✍️ My Top  Quotes
 
-- I shall argue that the most tragic episodes of state-initiated social engineering originate in a pernicious combination of four elements. All four are necessary for a full-fledged disaster. The first element is the administrative ordering of nature and society-the transformative state simplifications described above.
- 
-- The second element is what I call a high-modernist ideology. It is best conceived as a strong, one might even say muscle-bound, version of the self-confidence about scientific and technical progress, the expansion of production, the growing satisfaction of human needs, the mastery of nature
-- The third element is an authoritarian state that is willing and able to use the full weight of its coercive power to bring these high-modernist designs into being.
- 
-- A fourth element is closely linked to the third: a prostrate civil society that lacks the capacity to resist these plans.
+- I shall argue that the most tragic episodes of state-initiated social engineering originate in a pernicious combination of four elements. All four are necessary for a full-fledged disaster. 
+
+- **The first element is the administrative ordering of nature and society-the transformative state simplifications described above.** 
+- **The second element is what I call a high-modernist ideology. It is best conceived as a strong, one might even say muscle-bound, version of the self-confidence about scientific and technical progress, the expansion of production, the growing satisfaction of human needs, the mastery of nature**
+- **The third element is an authoritarian state that is willing and able to use the full weight of its coercive power to bring these high-modernist designs into being.**
+- **A fourth element is closely linked to the third: a prostrate civil society that lacks the capacity to resist these plans.**
  
 - Throughout the book I make the case for the indispensable role of practical knowledge, informal processes, and improvisation in the face of unpredictability
  

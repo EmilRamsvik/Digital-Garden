@@ -1,19 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 Pages: 178
 Author: Jack Dunning
 finished: true
-Date Finished: 
+Date Finished:
 tags:
+  - autohotkey
+  - automation
+  - book-review
   - books
   - digital-garden
-  - book-review
-  - programming
   - documentation
-  - automation
-  - autohotkey
+  - keyboard-shortcuts
   - pc
+  - productivity-hack
+  - programming
+  - software
+  - tools
   - windows
 ---
 # A Beginners Guide to Autohotkey

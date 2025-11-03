@@ -3,10 +3,18 @@ Finished: true
 tags:
   - article
   - blog
+  - blogs
+  - digital-garden
   - interesting-reading
+  - knowledge
+  - leadership
+  - links
+  - management
+  - programming
   - reading
-created: 2023-06-03T13:29:00
-updated: 2025-01-31T12:17
+  - software
+created: 2023-06-03 13:29:00
+updated: 2025-09-02T09:58
 ---
 # Articles
 

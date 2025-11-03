@@ -4,12 +4,17 @@ Author: Kevlin Henly
 finished: true
 Date Finished: 2023-10-16
 tags:
+  - best-practices
   - books
-  - programming
   - clean-code
+  - knowledge
+  - programming
+  - software-development
+  - software-engineering
   - software-testing
+  - technical-debt
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 Reviewed: true
 Review Date: 2024-05-08
 ---

@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 240
 Author: David Maister
 finished: true
 Date Finished: 2024-01-29
 tags:
-  - books
-  - digital-garden
-  - book-review
   - "#consultancy"
   - advisor
+  - book-review
+  - books
+  - business
+  - communication
+  - consulting
+  - digital-garden
+  - professional-services
+  - relationships
   - trust
+  - trust-building
 ---
 # The Trusted Advisor
 

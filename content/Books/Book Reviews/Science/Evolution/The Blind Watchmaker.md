@@ -3,13 +3,16 @@ Pages: 419
 Date Finished: 2023-03-20
 Author: Richard Dawkins
 tags:
-  - biology
-  - evolution
   - animals
+  - biology
+  - book-review
   - books
+  - darwin
+  - evolution
   - non-fiction
+  - science
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 ---
 # The Blind Watchmaker
 

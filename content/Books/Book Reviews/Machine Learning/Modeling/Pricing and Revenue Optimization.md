@@ -1,12 +1,17 @@
 ---
 Pages: 472
 Author: Robert L. Phillips
-finished: 
+finished:
 tags:
   - books
+  - business
+  - economics
+  - machine-learning
+  - pricing
+  - strategy
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Pricing and Revenue Optimization
 

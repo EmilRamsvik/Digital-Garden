@@ -1,15 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
+updated: 2025-09-02T10:04
+Pages:
 Author: Garry Hammel
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
   - bureaucracy
+  - business
+  - digital-garden
+  - leadership
+  - management
+  - organizational-design
+  - system-thinking
+  - work
 ---
 # Humanocracy
 

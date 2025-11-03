@@ -1,13 +1,26 @@
 ---
 Finished: false
 tags:
-  - food
   - cooking
-  - meal-prep
-  - knife
+  - cooking-fundamentals
+  - cooking-philosophy
+  - cooking-science
+  - cooking-techniques
+  - cooking-tips
+  - culinary-basics
+  - culinary-education
+  - culinary-techniques
+  - food
+  - food-science
   - kitchen
+  - kitchen-basics
+  - knife
+  - meal-prep
+  - recipes
+  - sauce-making
+  - techniques
 created: 2023-08-14T13:56
-updated: 2024-08-29T13:14
+updated: 2025-10-28T13:11
 ---
 # Food
 
@@ -60,9 +73,14 @@ Good things to have with the fish are:
 - A mix of cherry tomatoes, olives, shallot and lemon slices
 - Tarragon is the fish's friend. 
 
+#### [How to eat sushi](https://www.youtube.com/watch?v=auLmekEsaak&list=WL&index=4)
+1. Use fingers for sushi rolls
+2. Never combine ginger & sushi
+3. Never shake sauce of sushi.
+
+
 # Links
 - [The Sad Bastard Cookbook](https://traumbooks.itch.io/the-sad-bastard-cookbook)
-- [](Personal/Books/)
 
 # Thoughts 
 - Don't be afraid to go outside the recipes, especially when cooking; you will never be good if you never fail. 

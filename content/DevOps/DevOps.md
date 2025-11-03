@@ -1,17 +1,22 @@
 ---
 tags:
+  - agile
   - article
-  - devops
+  - ci-cd
+  - culture
   - development
-  - web-development
+  - devops
   - github-actions
   - github-reusable-workflows
+  - management
+  - performance
+  - productivity
   - programming
-  - ci-cd
-  - agile
+  - strategy
+  - web-development
 Finished: true
-created: 2023-06-13T15:01:00
-updated: 2025-03-12T15:34
+created: 2023-06-13 15:01:00
+updated: 2025-09-02T09:57
 ---
 # DevOps
 

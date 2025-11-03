@@ -5,13 +5,20 @@ Author: Hew Strachan
 Finished: true
 tags:
   - books
-  - history
+  - decision-making
+  - europe
   - great-world-war
-  - non-fiction
+  - history
   - leadership
   - management
+  - military-history
+  - non-fiction
+  - politics
+  - strategy
+  - warfare
+  - world-war-1
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 ---
 # The First World War
 

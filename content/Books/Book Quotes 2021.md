@@ -1,6 +1,14 @@
 ---
 created: 2024-03-01T17:32
-updated: 2024-09-22T09:34
+updated: 2025-10-23T16:19
+tags:
+  - books
+  - business
+  - innovation
+  - non-fiction
+  - philosophy
+  - psychology
+  - system-thinking
 ---
 ### Black Swan
 **Nassim Niclas Taleb**
@@ -713,7 +721,7 @@ The third best indicator of success in the Navy Seal training was being on the w
 ### [Humanocracy](Book%20Reviews/Science/Sociology/Bureaucracy/Humanocracy.md)
 **Gary Hammel**
 
-### [Finansplaneten](Book%20Reviews/Economics/Finansplaneten.md)
+### [Planet Finance](Book%20Reviews/Economics/Popular%20Economics/Planet%20Finance.md)
 **Niall Ferguson**
 
 ### [Serengeti Rules](Book%20Reviews/Science/Evolution/Serengeti%20Rules.md)

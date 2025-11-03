@@ -1,20 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 Pages: 282
 Author: Tyler Richards
 finished: true
 Date Finished: 2024-01-08
 tags:
-  - books
-  - digital-garden
   - book-review
-  - streamlit
-  - data/data-visualization
-  - data
-  - python
-  - deployment
+  - books
   - dashboards
+  - data
+  - data-science
+  - data-visualization
+  - data/data-visualization
+  - deployment
+  - digital-garden
+  - programming
+  - python
+  - streamlit
+  - tools
+  - web-development
 ---
 # Getting Started with Streamlit for Data Science
 # 🚀 The Book in 3 Sentences

@@ -3,14 +3,19 @@ Pages: 162
 Date Finished: Jul 27, 2023
 Author: Christopher Hitchens
 tags:
-  - books
   - "#debate"
-  - truth-seeking
-  - knowledge
+  - book-review
+  - books
   - contrarianism
+  - critical-thinking
+  - intellectual-history
+  - knowledge
+  - non-fiction
+  - philosophy
   - politics
+  - truth-seeking
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 ---
 # Letters to a Young Contrarian
 

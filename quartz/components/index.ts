@@ -23,6 +23,10 @@ import Breadcrumbs from "./Breadcrumbs"
 import Comments from "./Comments"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
+import FeaturedContent from "./FeaturedContent"
+import ProfessionalFocus from "./ProfessionalFocus"
+import PersonalInterests from "./PersonalInterests"
+import QuickLinks from "./QuickLinks"
 
 export {
   ArticleTitle,
@@ -50,4 +54,8 @@ export {
   Comments,
   Flex,
   ConditionalRender,
+  FeaturedContent,
+  ProfessionalFocus,
+  PersonalInterests,
+  QuickLinks,
 }

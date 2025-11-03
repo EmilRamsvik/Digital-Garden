@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-02T10:03
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - biology
   - book-review
-  - novo-nordisk
-  - insulin
+  - books
+  - diabetes
+  - digital-garden
   - glp-1
+  - history
+  - insulin
+  - medical-research
+  - medicine
+  - novo-nordisk
+  - science
 ---
 # Breakthrough
 

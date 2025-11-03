@@ -1,16 +1,21 @@
 ---
 Pages: 419
 Date Finished:
-  "{ date:MMM DD, YYYY }": 
+  "{ date:MMM DD, YYYY }":
 Author: Richard Wright
 finished: true
 tags:
-  - books
+  - american-literature
   - autobiography
+  - books
+  - civil-rights
   - communism
+  - history
   - jim-crow
+  - politics
+  - racism
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # Black Boy
 

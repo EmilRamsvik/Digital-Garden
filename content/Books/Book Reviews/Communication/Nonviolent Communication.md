@@ -3,11 +3,16 @@ Pages: 264
 Date Finished: Aug 13, 2023
 Author: Marshal B. Rosenberg
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-09T19:15
+tags:
+  - books
+  - communication
+  - non-fiction
+  - psychology
+  - relationships
+  - self-improvement
 ---
 # Nonviolent Communication
-
-Tags: #books #non-violence #communication #relationships #politics #non-fiction #self-improvement 
 
 # 🚀 The Book in 3 Sentences
 This book is about understanding that communication is listening objectively and empathetically. By evaluating we are perceived as judging, which is not a good or effective way of communicating.  Express yourself through describing how you feel rather than what is affecting you. 

@@ -1,22 +1,25 @@
 ---
 Pages: 458
 Author: Noah Gift
-finished: 
+finished:
 tags:
-  - books
-  - digital-garden
-  - mlops
-  - data-science
-  - devops
-  - machine-learning
-  - git
-  - github
-  - cloud
+  - automation
   - aws
   - azure
+  - books
+  - cloud
+  - continuous-improvement
+  - data-engineering
+  - data-science
+  - devops
+  - digital-garden
+  - git
+  - github
+  - machine-learning
+  - mlops
 Date Finished: 2023-12-16
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Practical MLOps
 

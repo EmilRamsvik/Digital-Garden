@@ -3,19 +3,22 @@ Pages: 432
 Author: Kim Falk
 finished: true
 tags:
-  - books
-  - digital-garden
+  - algorithms
+  - bayesian
   - book-review
+  - books
+  - data-science
+  - digital-garden
+  - machine-learning
   - product-recommendation
   - ranking-systems
-  - machine-learning
-  - bayesian
   - recommender-systems
   - science
   - statistics
+  - user-experience
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Practical Recommendation Systems
 

@@ -2,13 +2,18 @@
 Finished: false
 tags:
   - article
+  - cooking
   - digital-garden
   - food
-  - pasta
   - italian
+  - italian-cuisine
+  - mediterranean
+  - pasta
   - quick-food
+  - recipes
+  - seafood
 created: 2023-12-29T11:14
-updated: 2024-05-06T11:58
+updated: 2025-09-02T10:17
 ---
 
 

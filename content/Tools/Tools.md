@@ -3,11 +3,15 @@ Date Started: 2023-06-21
 Finished: false
 tags:
   - article
-  - tools
+  - gear-review
+  - hardware
+  - personal
   - productivity
   - software/tools
+  - technology
+  - tools
 created: 2024-01-06T15:01
-updated: 2025-01-31T12:20
+updated: 2025-10-27T10:31
 ---
 # Tools
 Tools are the things I use to accomplish tasks. A tool can both be a requirement and a supplement to myself. 
@@ -94,6 +98,7 @@ I use it as a proxy for when I have to use BGHM (Bill Gates Hell Machine)
 - [HN: Thread on things they like](https://news.ycombinator.com/item?id=39163944)
 - [Product Hunt, tools for the software industry.](https://www.producthunt.com/)
 - [How i Build](https://montasaurus.com/posts/how-i-build)
+- [dotfiles](https://codeberg.org/EvanHahn/dotfiles)
 
 # Thoughts 
 - *Tools shall be used but not misused.* What I mean is that it is important not to be afraid to use the tool but not to be careless, either. Tools that are not used are waste. 

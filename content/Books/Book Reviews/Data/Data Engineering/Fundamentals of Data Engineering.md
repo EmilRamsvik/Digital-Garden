@@ -3,16 +3,20 @@ Pages: 447
 Author: Joe Reis
 finished: true
 tags:
+  - "#ETL"
   - books
-  - digital-garden
+  - cloud
+  - data-drift
   - data-engineering
   - data-science
-  - data-drift
+  - data-warehouse
+  - database
+  - digital-garden
+  - etl
   - programming
-  - "#ETL"
 Date Finished: 2023-12-05
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:13
 ---
 # Fundamentals of Data Engineering
 

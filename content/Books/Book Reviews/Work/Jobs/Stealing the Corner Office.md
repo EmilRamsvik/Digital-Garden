@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 224
 Author: Brendan Reid
 finished: true
 Date Finished: 2025-06-14
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - business
+  - career-development
   - corporate
   - corporate-politics
+  - corporate-strategy
+  - digital-garden
   - gervais-principle
+  - leadership
+  - management
+  - workplace
 ---
 # Stealing the Corner Office
 

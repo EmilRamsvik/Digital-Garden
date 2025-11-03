@@ -3,13 +3,17 @@ Pages: 123
 Date Finished: Apr 22, 2023
 Author: Albert Camus
 tags:
-  - fiction
-  - extensialism
   - absurdism
+  - book-review
+  - books
+  - existentialism
+  - extensialism
+  - fiction
   - philosophy
+  - psychology
 Finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # The Stranger
 

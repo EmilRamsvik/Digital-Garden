@@ -1,11 +1,15 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-08-25T14:10
+updated: 2025-09-02T09:56
 tags:
+  - "#react"
   - article
   - digital-garden
   - docusaurus
-  - "#react"
+  - knowledge
+  - learning
+  - personal
+  - system-thinking
 Finished: true
 ---
 # The Garden

@@ -3,15 +3,21 @@ Pages: 242
 Date Finished: Jul 24, 2023
 Author: Wim Hof
 tags:
+  - biology
   - books
   - breathing
-  - ice-baths
   - cold-showers
+  - health
+  - ice-baths
+  - meditation
   - non-fiction
-  - self-improvement
+  - performance
+  - psychology
   - self-help-book
+  - self-improvement
+  - stress-management
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 ---
 # The Wim Hof Method
 

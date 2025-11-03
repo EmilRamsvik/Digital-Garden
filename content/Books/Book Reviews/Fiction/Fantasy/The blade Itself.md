@@ -3,12 +3,14 @@ Pages: 515
 Date Finished: 2023-04-01
 Author: Joe Abercrombie
 tags:
-  - fiction
+  - book-review
   - books
-  - the-first-law-series
   - fantasy
+  - fiction
+  - the-first-law-series
+  - world-building
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # The blade Itself
 

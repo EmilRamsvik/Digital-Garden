@@ -1,12 +1,16 @@
 ---
 Finished: false
 tags:
+  - article
+  - education
+  - game-theory
+  - history
+  - learning
   - mathematics
   - science
-  - article
-  - game-theory
+  - statistics
 created: 2023-08-17T12:02
-updated: 2024-10-14T09:31
+updated: 2025-09-02T09:59
 ---
 # Mathematics
 

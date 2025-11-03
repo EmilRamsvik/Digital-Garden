@@ -1,17 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 Pages: 896
 Author: Harold McGee
 finished: true
 Date Finished: 2024-02-27
 tags:
-  - books
-  - digital-garden
+  - biology
   - book-review
+  - books
+  - chemistry
   - cooking
+  - digital-garden
   - food
   - food-prep
+  - food-science
+  - history
+  - science
 ---
 # On Food and Cooking
 

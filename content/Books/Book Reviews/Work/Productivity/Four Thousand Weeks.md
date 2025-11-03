@@ -5,13 +5,19 @@ Author: Oliver Burkeman
 finished: true
 tags:
   - books
-  - non-fiction
-  - productivity
+  - habits
   - life
+  - mindfulness
+  - motivation
+  - non-fiction
+  - personal-development
   - philosophy
+  - productivity
+  - psychology
   - time-management
+  - work-life-balance
 created: 2024-01-06T15:04
-updated: 2025-08-14T13:47
+updated: 2025-09-02T10:09
 ---
 # Four Thousand Weeks Time Management for Mortals
 

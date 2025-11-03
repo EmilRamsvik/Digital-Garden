@@ -1,9 +1,14 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-03-06T20:14
+updated: 2025-09-02T10:15
 tags:
+  - ai
   - article
+  - data-science
   - digital-garden
+  - machine-learning
+  - nlp
+  - programming
 Finished: false
 ---
 

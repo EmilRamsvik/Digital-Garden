@@ -1,19 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-09T19:24
 Pages: 320
 Author: Marty Seldman
 finished: true
 Date Finished: 2024-05-04
 tags:
-  - books
-  - digital-garden
   - book-review
-  - politics
-  - political-science
-  - sociology
-  - business/politics
+  - books
   - business-communications
+  - business/politics
+  - career-development
+  - communication
+  - corporate-politics
+  - digital-garden
+  - leadership
+  - management
+  - political-science
+  - politics
+  - sociology
+  - workplace
 ---
 # Survival of the Savvy
 
@@ -30,7 +36,7 @@ I think the book had a cool theme and with good points. I think it would be nice
 
 Another link is the [Systematics](../../Systems/Systematics.md) book review, which kinda explains the systematic approach to organizations and this is also a lot of that vibe to it. 
 
-Being nice to people and listening to their worries and their problems is crucial. It pays to be attentive. See [Crucial Conversations Tools for Talking When Stakes are High](Communication/Relationships/Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20are%20High.md) and [Nonviolent Communication](Communication/Nonviolent%20Communication.md) for tips. 
+Being nice to people and listening to their worries and their problems is crucial. It pays to be attentive. See [Crucial Conversations Tools for Talking When Stakes are High](../../../Communication/Relationships/Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20are%20High.md) and [Nonviolent Communication](../../../Communication/Nonviolent%20Communication.md) for tips. 
 # ✍️ My Top  Quotes
 
 - A corporate survival-of-the-fittest situation does exist, especially in tough economic, competitive, and cost-conscious times.

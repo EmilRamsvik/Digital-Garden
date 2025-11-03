@@ -3,13 +3,17 @@ Pages: 336
 Date Finished: 2023-04-20
 Author: Michael Lewis
 tags:
-  - mathematics
+  - book-review
+  - business
+  - data-science
   - economics
-  - statistics
+  - mathematics
   - optimimization
   - sports
+  - statistics
+  - strategy
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 ---
 # Moneyball
 

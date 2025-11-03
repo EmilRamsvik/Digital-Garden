@@ -1,18 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-01-31T14:52
+updated: 2025-09-02T10:10
 Pages: 352
 Author: Zoe Schiffer
 finished: true
 Date Finished: 2024-11-27
 tags:
-  - books
-  - digital-garden
   - book-review
-  - twitter
+  - books
+  - business
+  - digital-garden
+  - leadership
+  - management
   - musk
-  - technology
   - social-networks
+  - technology
+  - twitter
 ---
 # Extremely Hardcore
 

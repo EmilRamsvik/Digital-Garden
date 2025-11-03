@@ -1,18 +1,23 @@
 ---
 tags:
-  - article
   - TDD
-  - python
-  - testing
-  - software-testing
+  - article
+  - fastapi
   - programming
+  - pytest
+  - python
+  - software-development
+  - software-testing
+  - testing
+  - tools
+  - web-development
 Finished: false
-created: 2023-06-04T13:18:00
-updated: 2024-09-22T09:28
+created: 2023-06-04 13:18:00
+updated: 2025-09-02T10:15
 ---
 # Pytest
 
-Pytests is a wrapper around the unit test python test framework. It makes it a bit easier to write tests.
+Pytest is a wrapper around the unit test [Python](Python.md) test framework. It makes it a bit easier to write tests.
 
 
 ## Decorators
@@ -59,9 +64,9 @@ def test_database_function():
 4. `@pytest.mark.xfail`: Marks a test function as expected to fail. If the test passes, it's reported as an unexpected success. 
 5. `@pytest.mark.usefixtures`: Specifies that a test function should use a fixture, even if the fixture isn't passed in as an argument. 
 
-# FastAPI
-FastAPi has its own test functionality. It preserves many states, like authentication, and makes it much easier to test. I think it is nice to create a new project and play around with testing a lot. 
-One of the hardest, or maybe not hardest, but definitely most cumbersome things to get good at is authentication and state management. This leads to a lot of issues.  So, I recommend trying a bit without those issues to learn the basics. 
+# FastAPI Testing
+[FastAPI](FastAPI.md) has its own test functionality. It preserves many states, like authentication, and makes it much easier to test. I think it is nice to create a new project and play around with testing a lot. 
+One of the hardest, or maybe not hardest, but definitely most cumbersome things to get good at is authentication and state management. This leads to a lot of issues. So, I recommend trying a bit without those issues to learn the basics. 
 
 
 # Links

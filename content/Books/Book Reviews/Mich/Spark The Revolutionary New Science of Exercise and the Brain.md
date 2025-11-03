@@ -3,13 +3,19 @@ Pages: 316
 Date Finished: 2023-02-04
 Author: John J. Ratey, Eric Hagerman
 tags:
+  - book-review
   - books
-  - exercise
-  - workouts
   - brain
+  - education
+  - exercise
+  - health
   - motivation
+  - neuroscience
+  - psychology
+  - science
+  - workouts
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Spark The Revolutionary New Science of Exercise and the Brain
 

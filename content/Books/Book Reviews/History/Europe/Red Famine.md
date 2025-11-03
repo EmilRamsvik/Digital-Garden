@@ -3,17 +3,22 @@ Pages: 338
 Date Finished: 2023-03-03
 Author: Anne Applebaum
 tags:
-  - history
-  - ukraine
-  - stalinism
+  - agriculture
+  - book-review
   - communism
   - famine
+  - genocide
+  - history
   - holomodor
   - industralization
-  - agriculture
+  - non-fiction
+  - political-science
+  - soviet-union
+  - stalinism
+  - ukraine
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-15T15:12
 ---
 # Red Famine
 
@@ -40,7 +45,7 @@ The evilest people are those who are absolutely certain of the cause and are wil
  
 - John Hughes, a Welshman, founded the city now known as Donetsk, originally called ‘Yuzivka’ in his honour. Russian became the working language of the Donetsk factories. Conflicts often broke out between Russian and Ukrainian workers, sometimes taking the ‘most wild forms of knife fights’ and pitched battles.
  
-- We shall not enter the kingdom of socialism in white gloves on a polished floor. Leon Trotsky,
+- "We shall not enter the kingdom of socialism in white gloves on a polished floor." - Leon Trotsky
  
 - Unexpectedly, the Russian revolution put them at the centre of international events. It also brought them fame and power for the very first time. It rescued them from obscurity, and validated their ideology. The success of the revolution proved, to the Bolshevik leaders as well as to many others, that Marx and Lenin had been right.
  

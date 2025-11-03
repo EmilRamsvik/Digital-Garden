@@ -1,14 +1,19 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-14T08:59
-Pages: 
-Author: 
+updated: 2025-09-02T10:13
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - business
+  - decision-making
+  - digital-garden
+  - leadership
+  - management
+  - strategy
 ---
 # Good Strategy Bad Strategy
 

@@ -2,13 +2,19 @@
 Finished: true
 tags:
   - article
-  - digital-garden
-  - data/eda
+  - business-analysis
   - data-science
-  - design-thinking
+  - data/eda
+  - dataeda
   - design-sprint
+  - design-thinking
+  - digital-garden
+  - machine-learning
+  - problem-solving
+  - project-management
+  - strategy
 created: 2024-01-06T15:04
-updated: 2024-09-22T08:58
+updated: 2025-09-02T10:16
 ---
 
 

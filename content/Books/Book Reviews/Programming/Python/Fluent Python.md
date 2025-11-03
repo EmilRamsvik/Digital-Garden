@@ -1,22 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 Pages: 790
 Author: Luciano Ramalho
 finished: true
 Date Finished: 2024-08-27
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - python
-  - programming
-  - programming/object-oriented
-  - programming/meta
   - app-development
-  - web-development
-  - data-science
+  - book-review
+  - books
   - data-engineering
+  - data-science
+  - data-structures
+  - digital-garden
+  - programming
+  - programming/meta
+  - programming/object-oriented
+  - programmingadvanced
+  - programminginternals
+  - python
+  - web-development
 ---
 # Fluent Python
 

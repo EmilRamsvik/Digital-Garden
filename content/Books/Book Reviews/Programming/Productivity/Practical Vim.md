@@ -1,19 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 Pages: 356
 Author: Drew Neil
 finished: true
 Date Finished: 2024-02-17
 tags:
-  - books
-  - digital-garden
   - book-review
-  - vim
+  - books
+  - development
+  - digital-garden
+  - learning
   - non-fiction
+  - productivity
   - programming
-  - programming/editors
   - programming/dev-x
+  - programming/editors
+  - software
+  - text-editors
+  - tools
+  - vim
 ---
 # Practical Vim
 

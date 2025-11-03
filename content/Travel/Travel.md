@@ -1,12 +1,16 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-06-23T11:11
+updated: 2025-09-02T10:18
 tags:
   - article
   - digital-garden
-  - travel
-  - south-east-asia
   - exploration
+  - knowledge
+  - learning
+  - personal
+  - places
+  - south-east-asia
+  - travel
 Finished: false
 ---
 # Travel

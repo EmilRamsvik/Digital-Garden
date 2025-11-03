@@ -3,16 +3,22 @@ Pages: 320
 Author: Rory Sutherland
 finished: true
 tags:
-  - books
-  - digital-garden
-  - chaos
-  - science
-  - habits
-  - advertising
   - Behavioural-economics
+  - advertising
+  - book-review
+  - books
+  - chaos
+  - critical-thinking
+  - digital-garden
+  - habits
+  - human-nature
+  - philosophy
+  - psychology
+  - rationality
+  - science
 Date Finished: 2023-11-14
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 ---
 # Alchemy
 

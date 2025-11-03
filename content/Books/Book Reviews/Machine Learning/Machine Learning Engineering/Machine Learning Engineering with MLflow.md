@@ -1,19 +1,26 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 Pages: 248
 Author: Natu Lauchande
 finished: true
 Date Finished: 2024-02-16
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - data-science
+  - deployment
+  - digital-garden
+  - docker
   - machine-learning
-  - machine-learning/modeling
   - machine-learning/ml-engineering
+  - machine-learning/modeling
+  - ml-engineering
   - ml-preprocessing
   - ml/frameworks
+  - mlflow
+  - python
+  - tools
 ---
 #  Machine Learning Engineering with MLflow
 

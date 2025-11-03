@@ -1,13 +1,18 @@
 ---
 tags:
   - article
-  - show
-  - entertainment
   - crime-series
+  - entertainment
+  - hbo
   - historical-drama
+  - leisure
+  - media
+  - reviews
+  - show
+  - tv-shows
 Finished: false
 created: 2023-10-29T15:20
-updated: 2024-02-08T08:41
+updated: 2025-09-02T09:58
 ---
 # TV-Shows
 TV shows have been my favorite way of seeing things. They are good to work on 

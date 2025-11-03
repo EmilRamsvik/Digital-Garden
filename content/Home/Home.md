@@ -1,15 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-02T09:43
+updated: 2025-09-02T09:57
 tags:
   - article
-  - digital-garden
-  - home
   - chores
-  - personal
-  - relaxing
-  - relationships
+  - digital-garden
+  - habits
+  - home
   - household
+  - lifestyle
+  - personal
+  - relationships
+  - relaxing
+  - sleep
   - washing
 Finished: false
 ---

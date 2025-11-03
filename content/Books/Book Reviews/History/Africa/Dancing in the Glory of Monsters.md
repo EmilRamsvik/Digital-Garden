@@ -1,22 +1,27 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 Pages: 416
 Author: Jason Stearns
 finished: true
 Date Finished: 2024-09-11
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - history
+  - Africa
   - Rwanda
   - Uganda
-  - Africa
-  - consulting/reflections
-  - history/military
-  - war
+  - book-review
+  - books
   - civil-war
+  - conflict
+  - consulting/reflections
+  - digital-garden
+  - genocide
+  - history
+  - history/military
+  - military-history
+  - political-science
+  - politics
+  - war
 ---
 # Dancing in the Glory of Monsters
 

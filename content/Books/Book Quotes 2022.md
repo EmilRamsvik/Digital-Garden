@@ -2,10 +2,15 @@
 Date Started: Jun 10, 2023
 Finished: false
 tags:
-  - books
   - "#quotes"
+  - books
+  - economics
+  - finance
+  - history
+  - psychology
+  - quotes
 created: 2024-01-06T15:04
-updated: 2024-04-02T18:50
+updated: 2025-09-02T10:01
 ---
 
 # Book Quotes 2022

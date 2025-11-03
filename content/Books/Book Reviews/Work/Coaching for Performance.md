@@ -1,20 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:07
 Pages: 240
 Author: John Witmore
 finished: true
 Date Finished: 2025-01-15
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
   - coaching
-  - performance
-  - mentoring
+  - digital-garden
   - leadership
-  - psychology
   - learning
+  - management
+  - mentoring
+  - performance
+  - personal-development
+  - psychology
 ---
 # Coaching for Performance
 

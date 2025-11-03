@@ -1,13 +1,20 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - communication
+  - economics
+  - history
+  - non-fiction
+  - philosophy
+  - psychology
   - reading
+  - system-thinking
 Finished: true
 Pages: 28032
 Books-read: 83
 created: 2024-01-06T15:04
-updated: 2025-08-14T13:46
+updated: 2025-10-23T16:19
 ---
 
 #### [Made to Stick](Book%20Reviews/Psychology/Made%20to%20Stick.md)
@@ -189,36 +196,6 @@ updated: 2025-08-14T13:46
 *Pages*: 640
 *Language*: English
 
-#### [The blade Itself](Book%20Reviews/Fiction/Fantasy/The%20blade%20Itself.md)
-*Author:* Joe Abercrombie
-*Pages*: 515
-*Language*: English
-
-#### [Best served Cold](Book%20Reviews/Fiction/Fantasy/Best%20served%20Cold.md)
-*Author:* Joe Abercrombie
-*Pages*: 534
-*Language*: English
-
-#### [A little Hatred](Book%20Reviews/Fiction/Fantasy/A%20little%20Hatred.md)
-*Author:* Joe Abercrombie
-*Pages*: 480
-*Language*: English
-
-#### [The Trouble with Peace](Book%20Reviews/The%20Trouble%20with%20Peace.md)
-*Author:* Joe Abercrombie
-*Pages*: 506
-*Language*: English
-
-#### [The Wisdom of Crowds](Book%20Reviews/Fiction/Fantasy/The%20Wisdom%20of%20Crowds.md)
-*Author:* Joe Abercrombie
-*Pages*: 520
-*Language*: English
-
-#### [Red Country](Book%20Reviews/Red%20Country.md)
-*Author:* Joe Abercrombie
-*Pages*: 469
-*Language*: English
-
 #### [The Case Against the Sexual Revolution](Book%20Reviews/Communication/Relationships/The%20Case%20Against%20the%20Sexual%20Revolution.md)
 *Author:* Lousie Perry
 *Pages*: 200
@@ -244,10 +221,6 @@ updated: 2025-08-14T13:46
 *Pages*: 304
 *Language*: English
 
-#### [Eisenhorn](Book%20Reviews/Eisenhorn.md)
-*Author:* Dan Abnett
-*Pages*: 768
-*Language*: English
 
 #### [Learn Google Flutter Fast](Book%20Reviews/Programming/Learn%20Google%20Flutter%20Fast.md)
 *Author:* Mark Clow
@@ -308,11 +281,6 @@ updated: 2025-08-14T13:46
 #### [Payments Systems in the US](Book%20Reviews/Science/Systems/Payments%20Systems%20in%20the%20US.md)
 *Author:*  Carol Coye Benson
 *Pages*: 202
-*Language*: English
-
-#### [Fifteen Hours](Book%20Reviews/Fifteen%20Hours.md)
-*Author:*  Mitchel Scanlon
-*Pages*: 256
 *Language*: English
 
 #### [When Reason goes on Holliday](Book%20Reviews/Mich/When%20Reason%20goes%20on%20Holliday.md)
@@ -396,7 +364,7 @@ updated: 2025-08-14T13:46
 *Language*: English
 
 
-#### [The Capitalist Manifesto](Book%20Reviews/Economics/The%20Capitalist%20Manifesto.md)
+#### [The Capitalist Manifesto](Book%20Reviews/Economics/Popular%20Economics/The%20Capitalist%20Manifesto.md)
 *Author:*  Johan Norberg
 *Pages*: 352
 *Language*: English

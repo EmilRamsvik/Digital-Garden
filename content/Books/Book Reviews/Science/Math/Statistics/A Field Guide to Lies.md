@@ -3,13 +3,18 @@ Pages: 336
 Author: Daniel J. Levitin
 finished: false
 tags:
+  - book-review
   - books
-  - digital-garden
   - calling-bullshit
+  - critical-thinking
+  - data-science
+  - digital-garden
+  - non-fiction
   - science
+  - statistics
 Date Finished: 2023-11-04
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-09T19:22
 ---
 # A Field Guide to Lies
 
@@ -18,7 +23,7 @@ updated: 2025-08-13T14:54
 This book is akin to calling bullshit, where it goes through all the ways people fool themselves and others. The book might make you too aware and skeptical of everything. 
 
 # 🎨 Impressions
-I found it good but not as good as [Calling Bullshit](Math/Statistics/Calling%20Bullshit.md). It was thought but lacked the examples that made Calling Bullshit such a good read. 
+I found it good but not as good as [Calling Bullshit](Calling%20Bullshit.md) . It was thought but lacked the examples that made Calling Bullshit such a good read. 
 
 ## How I Discovered It
 Calling bullshit recommended it as well as I had read a book by the author before. 

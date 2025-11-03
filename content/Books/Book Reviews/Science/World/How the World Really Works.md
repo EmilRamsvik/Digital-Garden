@@ -3,20 +3,25 @@ Pages: 360
 Date Finished: 2023-08-04
 Author: Vaclav Smil
 tags:
-  - books
-  - technology
-  - climate-crisis
-  - oil
-  - energy
-  - non-fiction
-  - environmentalism
-  - food
-  - industralization
-  - science
   - biology
   - biosphere
+  - books
+  - climate-crisis
+  - economics
+  - energy
+  - energy-transition
+  - environmentalism
+  - food
+  - history
+  - industralization
+  - industrial-revolution
+  - non-fiction
+  - oil
+  - science
+  - sustainability
+  - technology
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
 ---
 # How the World Really Works
 

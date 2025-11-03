@@ -3,14 +3,17 @@ Pages: 120
 Author: Deepak Malhotra
 finished: true
 tags:
+  - book-review
   - books
   - digital-garden
-  - book-review
-  - psychology
+  - motivation
+  - personal-development
   - philosophy
+  - psychology
+  - system-thinking
 Date Finished: 2024-01-01
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 ---
 # I Moved Your Cheese
 

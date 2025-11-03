@@ -1,17 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-09T19:26
 Pages: 288
 Author: Chris Voss
 finished: true
 Date Finished: 2024-04-01
 tags:
-  - books
-  - digital-garden
   - book-review
-  - negotiation
+  - books
   - communication
+  - digital-garden
   - job
+  - negotiation
+  - psychology
+  - relationships
+  - strategy
 ---
 # Never Split the Difference
 
@@ -25,7 +28,7 @@ I liked that there were a lot of concrete discussions around negotiating and tec
 
 It might be worth looking into the [Communication](../../../../Communication/Communication.md) page for more. 
 
-It might have some similarities to [Nonviolent Communication](Nonviolent%20Communication.md)
+It might have some similarities to [Nonviolent Communication](../Nonviolent%20Communication.md)
 # ✍️ My Top  Quotes
 
 - How he would solve my problems. To every threat and demand he made, I continued to ask how I was supposed to pay him and how was I supposed to know that my son was alive.

@@ -6,12 +6,17 @@ finished: true
 tags:
   - books
   - leadership
-  - work
-  - productivity
   - management
+  - military
+  - personal-development
+  - productivity
+  - responsibility
+  - strategy
+  - team-building
   - warfare
+  - work
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:11
 ---
 # Extreme Ownership
 

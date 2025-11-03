@@ -1,14 +1,17 @@
 ---
 tags:
+  - "#dart"
   - article
-  - mobile-development
-  - programming
+  - cross-platform
+  - dart
   - development
   - flutter
-  - "#dart"
+  - mobile-development
+  - programming
+  - programming-languages
 finished: false
-created: 2023-05-30T13:28:00
-updated: 2024-10-08T13:21
+created: 2023-05-30 13:28:00
+updated: 2025-09-02T10:15
 ---
 
 

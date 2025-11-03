@@ -1,18 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-10-23T14:53
 Pages: 1150
 Author: Andrew Roberts
 finished: true
 Date Finished: 2024-11-12
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - history
-  - history/military
-  - history/british
   - biography
+  - book-review
+  - books
+  - british-empire
+  - digital-garden
+  - history
+  - history/british
+  - history/military
+  - leadership
+  - military
+  - political-history
+  - politics
+  - world-war
 ---
 # Churchill
 
@@ -21,7 +27,7 @@ tags:
 This is the penultimate biography of Churchill. It develops quite deeply into Churchill, the man, the adventurer and the statesman. It needed over 1000 pages, and probably more could have been written.  
 
 # 🎨 Impressions
-Great men gather divisive 
+Great men gather divisive opinions. 
 
 Churchill was an imperialist, leave no doubt about that. He lived for the British empire.
 # ✍️ My Top  Quotes

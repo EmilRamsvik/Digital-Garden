@@ -1,21 +1,25 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:03
 Pages: 288
 Author: Paul Schwartz
 finished: true
 Date Finished: 2024-07-26
 tags:
-  - books
-  - digital-garden
+  - agile
   - book-review
+  - books
   - bureaucracy
   - business
-  - business/politics
   - business-communications
-  - digitalization
+  - business/politics
+  - digital-garden
   - digital-management
   - digital-transformation
+  - digitalization
+  - management
+  - organizational-theory
+  - system-thinking
 ---
 # The Delicate Art of Bureaucracy
 

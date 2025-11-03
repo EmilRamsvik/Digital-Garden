@@ -1,15 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-06-12T21:51
+updated: 2025-09-02T13:13
 tags:
-  - article
-  - digital-garden
-  - films
-  - entertainment
-  - culture
-  - arts
   - acting
-Finished: false
+  - article
+  - arts
+  - cinema
+  - culture
+  - digital-garden
+  - editing
+  - entertainment
+  - film-making
+  - films
+  - movies
+Finished: true
 ---
 
 # Films

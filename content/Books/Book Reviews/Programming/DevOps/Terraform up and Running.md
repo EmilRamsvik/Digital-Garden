@@ -1,18 +1,22 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
-Pages: 
-Author: 
+updated: 2025-09-25T12:16
+Pages:
+Author:
 finished: true
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
-  - iac
-  - terraform
+  - books
+  - cloud
   - code-quality
+  - devops
+  - digital-garden
+  - iac
+  - infrastructure
+  - programming
   - programming/declarative-language
+  - terraform
 ---
 # Terraform up and Running
 
@@ -88,8 +92,6 @@ One thing is that you need your environment to be represented as code somewhere,
 - Yak shaving consists of all the tiny, seemingly unrelated tasks you must do before you can do the task you originally wanted to do.
  
 - The third reason why DevOps takes so long—the essential complexity of this problem—is that there is a genuinely long checklist of tasks that you must do to prepare infrastructure for production. The problem is that the vast majority of developers don’t know about most of the items on the checklist, so when they estimate a project, they forget about a huge number of critical—and time-consuming—details.
- 
-
 
  
 - The first rule of functions is that they should be small. The second rule of functions is that they should be smaller than that.
@@ -106,11 +108,11 @@ One thing is that you need your environment to be represented as code somewhere,
  
 - Whenever running a Go test that deploys real infrastructure, it’s safer to set an extra long timeout to avoid the test being killed part way through and leaving all sorts of infrastructure still running.
  
-- Static analysis There are several tools that can analyze your Terraform code without running it, including: terraform validate This is a command built into Terraform that you can use to check your Terraform syntax and types (a bit like a compiler). tflint A “lint” tool for Terraform that can scan your Terraform code and catch common errors and potential bugs based on a set of built-in rules. HashiCorp Sentinel A “policy as code” framework that allows you to enforce rules across various HashiCorp tools.
+- **Static analysis** There are several tools that can analyze your Terraform code without running it, including: terraform validate This is a command built into Terraform that you can use to check your Terraform syntax and types (a bit like a compiler). tflint A “lint” tool for Terraform that can scan your Terraform code and catch common errors and potential bugs based on a set of built-in rules. HashiCorp Sentinel A “policy as code” framework that allows you to enforce rules across various HashiCorp tools.
  
 - Property testing There are a number of testing tools that focus on validating specific “properties” of your infrastructure,: kitchen-terraform rspec-terraform serverspec inspec goss
  
-- One of the most important lessons I’ve learned in my career is that most large software projects fail. Whereas roughly three out of four of small IT projects (less than $1 million) are completed successfully, only one out of ten large projects (greater than $10 million) are completed on time and on budget, and more than one third of large projects are never completed at all.
+- One of the most important lessons I’ve learned in my career is that most large software projects fail. Whereas roughly three out of four of small IT projects (less than 1 million USD) are completed successfully, only one out of ten large projects (greater than 10 million USD) are completed on time and on budget, and more than one third of large projects are never completed at all.
  
 - The Golden Rule of Terraform: The master branch of the live repository should be a 1:1 representation of what’s actually deployed in production.
  

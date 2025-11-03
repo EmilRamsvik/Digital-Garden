@@ -3,16 +3,21 @@ Pages: 400
 Date Finished: 2023-02-04
 Author: Marc Levinson
 tags:
-  - books
   - book-list
-  - shipping
-  - logistics
-  - trade
-  - maritime
+  - books
+  - business
   - containers
+  - economics
   - history
+  - innovation
+  - international-trade
+  - labor-history
+  - logistics
+  - maritime
+  - shipping
+  - trade
 created: 2024-01-06T15:04
-updated: 2025-05-16T14:18
+updated: 2025-09-02T10:06
 ---
 # The Box 
 ### How the Shipping Container Made the World Smaller and the World Economy Bigger

@@ -1,14 +1,19 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-06-14T13:41
+updated: 2025-10-08T12:35
 tags:
-  - article
-  - digital-garden
-  - training
   - LLM
   - ai
+  - article
+  - development
+  - digital-garden
+  - llm
+  - machine-learning
   - ml
   - mlops
+  - performance
+  - strategy
+  - training
 Finished: false
 ---
 
@@ -33,5 +38,6 @@ So by taking a generally useful model out of the box, and introducing not only c
 
 # Thoughts 
 - I have never advocated for fine-tuning a model. 
+- LLMs should not be fine-tuned unless there is a substatial cost reduction or presumed increase in accuracy -> income/value. 
 
 

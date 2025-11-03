@@ -1,19 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-10-24T09:40
 Pages: 440
 Author: Scott Chacon
 finished: true
 Date Finished: 2024-05-15
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - developing
+  - development
+  - digital-garden
   - git
   - github
-  - version-control
   - programming
-  - developing
+  - software-development
+  - technical-writing
+  - tools
+  - version-control
 ---
 # Pro Git
 
@@ -21,6 +25,8 @@ tags:
 # 🚀 The Book in 3 Sentences
 This book delves deep into Git. It is nice for an intermediate git professional who would like to have some more understanding of the "under the hood". 
 It is quite comprehensive on the git work itself. 
+
+Also see the page on [Git](../../../../DevOps/Git.md). 
 # 🎨 Impressions
 
 I found it to be a good book with interesting concepts. I wanted to read it to get a better understanding of how git works and to explain how it works more properly to others. In my line of work, understanding the why has been more important than doing the what or improving the how. This is an attempt by me to do this. 

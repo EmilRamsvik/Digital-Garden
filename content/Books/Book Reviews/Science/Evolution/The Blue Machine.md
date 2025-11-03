@@ -1,22 +1,27 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
+updated: 2025-09-02T10:05
+Pages:
 Author: "465"
 finished: true
 Date Finished: 2025-01-09
 tags:
-  - books
-  - digital-garden
-  - book-review
-  - concentration
   - biology
   - biosphere
+  - book-review
+  - books
+  - concentration
+  - digital-garden
+  - ecosystem
+  - environment
   - global-warming
-  - titanic
+  - marine-biology
+  - nature
   - ocean
-  - seawater
   - salt
+  - science
+  - seawater
+  - titanic
   - water
 ---
 # The Blue Machine

@@ -1,13 +1,24 @@
 ---
-Finished: false
+Finished: true
 tags:
-  - article
-  - digital-garden
   - "#alcohol"
   - "#drinks"
   - "#food"
+  - alcohol
+  - article
+  - beverages
+  - cocktails
+  - cooking
+  - digital-garden
+  - drinks
+  - food
+  - mixology
+  - port-wine
+  - recipes
+  - summer
+  - summer-drinks
 created: 2023-12-29T11:00
-updated: 2024-08-25T14:57
+updated: 2025-09-02T16:13
 ---
 
 
@@ -37,6 +48,9 @@ White port wine with tonic water. A lighter alternative to Gin & Tonic. Furtherm
 
 [Brazilian Lemonade has been quite nice](https://www.allrecipes.com/recipe/54083/brazilian-lemonade/)
 
+## Mango Lassi
+
+Perfect for summer days. 
 
 # Links
 

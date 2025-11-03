@@ -1,13 +1,17 @@
 ---
 tags:
   - article
-  - investing
-  - finance
+  - books
   - economics
+  - finance
+  - investing
+  - personal-development
+  - risk-management
   - stocks
+  - strategy
   - trading
-created: 2023-06-11T15:04:00
-updated: 2024-09-22T12:01
+created: 2023-06-11 15:04:00
+updated: 2025-10-22T09:38
 ---
 
 
@@ -17,6 +21,10 @@ updated: 2024-09-22T12:01
 I find the thoughts of Vitaly Katelson on value investing quite interesting, as well as having a good and stable look at the value you invest in your life. 
 
 The greatest amount of hubris is thinking you are better than all the people you are competing against. Knowing your limitations and maybe understanding where you might have an edge, either due to some profound insights into the domain you are thinking of investing in or some insider knowledge, might be the only way for you to beat the market.  The market is not rational, no human-involved processes are. Exploiting this knowledge of spreadsheets might lead to a winning investment strategy. 
+
+
+
+
 
 
 
@@ -32,19 +40,24 @@ A lot of the value in analytical investing comes from spreadsheets and numbers, 
 Books that have influenced my thoughts on investing are 
 - [A Random Walk Down Wall Street](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
 - [Antifragile](https://www.amazon.com/Antifragile-Things-That-Disorder-Incerto-ebook/dp/B0083DJWGO/ref=sr_1_1?keywords=antifragile&qid=1689100405&s=books&sprefix=antif%2Cstripbooks-intl-ship%2C170&sr=1-1) 
+- [The Missing Billionaires](../Books/Book%20Reviews/Work/Money/The%20Missing%20Billionaires.md)
 
 
 # Links
 - [Vitaly Katelson on Investing and What You Overlook](https://www.youtube.com/watch?v=5pIklWpkVYw&ab_channel=VitaliyN.Katsenelson%2CCFA)
+- [Accounting for Developers](https://rein.pk/replacing-middle-management-with-apis?ref=johnmacgaffey.com)
 - [17 Rules for financial safety](https://thetaoofwealth.wordpress.com/2013/02/17/harry-brownes-17-golden-rules-of-financial-safety/): Don't borrow, make sure you know what you are doing, and remember that you might lose. 
 - [Seeing Like a Bank.](https://ark-invest.com/wrights-law/#:~:text=Pioneered%20by%20Theodore%20Wright%20in,fall%20by%20a%20constant%20percentage.)
 - [Brownian Motion](https://www.youtube.com/watch?v=7mmeksMiXp4&ab_channel=stepbil)
 - [Thoughts on debt](https://collabfund.com/blog/how-i-think-about-debt/)
 - [Book review of The Laws of Trading](https://www.astralcodexten.com/p/your-book-review-the-laws-of-trading)
+- [You do not understand compound growth](https://whoisnnamdi.com/you-dont-understand-compound-growth/)
+- [Ergodicity](https://en.wikipedia.org/wiki/Ergodic_hypothesis#Ergodic_hypothesis_in_finance)
 
 # Thoughts 
 - Probably the smartest thing to do is to invest in index funds. 
 - Great investing can be described in one word: *asymmetry*.  You are looking for the greatest possible outcome with the smallest amount of risk. You need to stack great investment strategies on top of each other.  - Graham Weaver
 - "The smartest guys in the room..."
+- "They mistook leverage for genius" - Steve Eisman
 
 

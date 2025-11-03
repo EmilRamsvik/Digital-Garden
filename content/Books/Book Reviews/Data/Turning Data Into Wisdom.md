@@ -1,18 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-18T12:54
+updated: 2025-09-02T10:12
 Pages: 268
 Author: Kevin Hanegan
 finished: true
 Date Finished: 2025-02-05
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - communication
   - data
+  - data-science
   - data/eda
-  - strategy
   - data/strategy
+  - decision-making
+  - digital-garden
+  - management
+  - psychology
+  - strategy
+  - system-thinking
 ---
 # Turning Data Into Wisdom
 

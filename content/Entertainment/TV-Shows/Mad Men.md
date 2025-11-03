@@ -1,17 +1,24 @@
 ---
 Date Finished: Jun 09, 2023
-Creator: 
+Creator:
 Genre: Historical Drama
 Finished: true
 tags:
-  - show
-  - entertainment
-  - sixties
-  - period-drama
-  - historical-drama
+  - advertising
   - drama
+  - entertainment
+  - gender
+  - historical-drama
+  - history
+  - period-drama
+  - psychology
+  - relationships
+  - show
+  - sixties
+  - social-change
+  - workplace
 created: 2023-06-09T10:36
-updated: 2024-08-25T15:43
+updated: 2025-09-02T09:58
 ---
 # Mad Men
 

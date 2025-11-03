@@ -1,13 +1,21 @@
 ---
 Finished: false
 tags:
-  - cliud
-  - gcp
-  - azure
-  - aws
   - article
+  - aws
+  - azure
+  - cliud
+  - cloud
+  - devops
+  - gcp
+  - infrastructure
+  - networking
+  - system-thinking
+  - technology
+  - terraform
+  - tools
 created: 2024-01-06T15:04
-updated: 2025-06-11T10:04
+updated: 2025-09-02T10:16
 ---
 # Cloud
 

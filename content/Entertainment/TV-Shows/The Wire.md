@@ -4,12 +4,18 @@ Creator: David Simon
 Genre: Drama Crime
 tags:
   - article
-  - entertainment
-  - show
-  - drama
+  - baltimore
   - crime-series
+  - drama
+  - entertainment
+  - institutions
+  - politics
+  - review
+  - show
+  - society
+  - tv-series
 created: 2023-12-30T15:08
-updated: 2024-02-02T13:31
+updated: 2025-10-24T09:01
 ---
 # The Wire
 
@@ -35,6 +41,7 @@ EVERYONE. This is probably the best series made.
 
 # Links
 - [Obama on the Wire](https://www.youtube.com/watch?v=xWY79JCfhjw)
+- [String is not made for the wire. ](https://www.youtube.com/watch?v=On60XMXkzU0)
 
 # Thoughts
 - 

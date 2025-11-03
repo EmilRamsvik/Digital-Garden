@@ -4,13 +4,18 @@ Author: Kory Stamper
 finished: true
 tags:
   - books
-  - lexicography
-  - language
-  - natural-language
   - dictionary
+  - etymology
+  - history
+  - language
+  - lexicography
+  - linguistics
+  - natural-language
+  - non-fiction
+  - writing
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:02
 ---
 # Word by Word
 

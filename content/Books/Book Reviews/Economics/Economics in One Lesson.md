@@ -4,14 +4,19 @@ Date Finished: Jun 03, 2023
 Author: Henry Hasliz
 Finished: true
 tags:
+  - austrian-economics
   - books
   - economics
+  - finance
+  - free-market
+  - money
   - non-fiction
+  - political-science
   - politics
   - prices
-  - money
+  - system-thinking
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:10
 ---
 # Economics in One Lesson
 

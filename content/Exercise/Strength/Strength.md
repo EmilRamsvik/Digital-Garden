@@ -1,12 +1,17 @@
 ---
 tags:
-  - workouts
   - article
-  - strength-training
   - exercise
+  - fitness
+  - habits
+  - motivation
+  - personal
+  - strength-training
+  - training-log
+  - workouts
 Finished: false
-created: 2023-05-28T00:00:00
-updated: 2025-08-13T09:51
+created: 2023-05-28 00:00:00
+updated: 2025-10-27T10:30
 ---
 # Strength Training
 I started strength training when I was 17, and did some on and off until I was 19. From 19 to 24, I consistently worked out between 3 and 5 days a week.  I did a lot of failing and needed a lot of guidance during that period. First of all, I started with only upper body exercises and neglected to work out my legs for quite a while. I think this was because I was not flexible enough to do the squat exercises correctly. In hindsight, it is difficult to assess in hindsight what the causation for the lack of leg exercises, but I am certain the lack of flexibility made doing leg workouts quite a bit difficult. 
@@ -31,7 +36,7 @@ I started strength training when I was 17, and did some on and off until I was 1
 - [Kris Gethins '8' week challenge was fun. ](https://www.youtube.com/playlist?list=PLs-Ht4H4kDxshwlNoWvw8mgpyID1FkgVU) - Also a bit better overview here: [Link](https://www.kaged.com/blogs/8-week-hardcore-trainer/overview-program)
 - [Parody on Functional Training](https://www.youtube.com/watch?v=-yfqnebBbW0&ab_channel=AwakenWithJP)
 - [Video on the benefits and use-cases of the kettlebell.](https://youtu.be/DpMiOItcpmw?si=AOz05bOWfuSzcJpA)
-- [Hevy - App for logging workouts.](https://github.com/EmilRamsvik/dotfiles/blob/master/Karabiner/karabiner.edn)
+- [Hevy - App for logging workouts.](https://www.hevyapp.com/)
 
 # Thoughts 
 - Strength training is super good with some partner. It keeps you both accountable, and it motivates you to work out together. 

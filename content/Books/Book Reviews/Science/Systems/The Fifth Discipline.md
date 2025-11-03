@@ -1,20 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:06
 Pages: 445
 Author: Peter Senge
 finished: true
 Date Finished: 2024-03-19
 tags:
-  - books
-  - digital-garden
   - book-review
-  - system-thinking
+  - books
+  - business
+  - digital-garden
+  - leadership
+  - management
+  - networking
   - organizations
+  - processes
+  - strategy
+  - system-thinking
   - work
   - working
-  - networking
-  - processes
 ---
 # The Fifth Discipline
 

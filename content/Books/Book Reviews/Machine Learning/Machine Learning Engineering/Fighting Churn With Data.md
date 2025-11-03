@@ -1,17 +1,23 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:01
 Pages: 352
 Author: Carl Gold
 finished: true
 Date Finished: 2024-09-19
 tags:
-  - books
-  - digital-garden
+  - analytics
   - book-review
+  - books
+  - business
+  - customer-retention
+  - data-science
   - data/churn
+  - digital-garden
   - machine-learning
+  - product
   - statistics
+  - strategy
 ---
 # Fighting Churn With Data
 

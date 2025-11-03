@@ -1,17 +1,23 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-10-13T13:13
+updated: 2025-09-09T19:45
 tags:
   - article
-  - digital-garden
-  - data/warehouse
-  - data/lakehouse
-  - data/data-lake
-  - date/engineering
+  - data-architecture
   - data-engineering
+  - data-science
+  - data-storage
+  - data-warehouse
+  - data/data-lake
+  - data/lakehouse
+  - data/snowflake
+  - data/warehouse
   - data/warehouse/fabric
   - data/warehouse/snowflake
-  - data/snowflake
+  - database
+  - date/engineering
+  - digital-garden
+  - machine-learning
 Finished: false
 ---
 
@@ -37,7 +43,7 @@ Microsoft Fabric is like an MS copy of data warehouses such as Snowflake and Dat
 
 
 
-## [Snowflake](Data%20Warehouse/Snowflake.md)
+## [Snowflake](../../Database/Snowflake.md)
 
 # Links
 - 

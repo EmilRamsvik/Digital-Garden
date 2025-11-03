@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:08
 Pages: 304
 Author: Michael Watkins
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - business
+  - career-transition
+  - digital-garden
+  - leadership
+  - management
+  - strategy
+  - work
 ---
 # The First 90 Days
 

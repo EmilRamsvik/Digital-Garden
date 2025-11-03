@@ -3,7 +3,13 @@ Pages: 160
 Date Finished: Aug 04, 2023
 Author: James P. Carse
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:04
+tags:
+  - books
+  - non-fiction
+  - philosophy
+  - political-science
+  - system-thinking
 ---
 # Finite and Infinite Games
 

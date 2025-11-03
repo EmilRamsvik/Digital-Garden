@@ -1,15 +1,21 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-09-15T21:06
+updated: 2025-09-02T09:57
 tags:
-  - article
-  - digital-garden
   - IDE
-  - programming/editors
-  - programming
-  - programming/dev-x
   - LLM
+  - article
+  - development
+  - digital-garden
+  - programming
   - programming/code-completion
+  - programming/dev-x
+  - programming/editors
+  - programmingdev-x
+  - programmingeditors
+  - rust
+  - tools
+  - vim
 Finished: false
 ---
 

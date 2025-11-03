@@ -3,15 +3,21 @@ Pages: 796
 Author: Feodor Dostoevsky
 finished: true
 tags:
-  - books
-  - digital-garden
   - "#roman"
+  - book-review
+  - books
   - classics
-  - russian-litterature
+  - digital-garden
+  - existentialism
+  - fiction
+  - literature
+  - morality
+  - philosophy
   - religion
+  - russian-litterature
 Date Finished: 2023-11-05
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # The Brothers Karamazov
 

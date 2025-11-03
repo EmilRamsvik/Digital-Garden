@@ -4,14 +4,18 @@ Difficulty: Medium
 Time: 40 mins
 Date Made: Jun 11, 2023
 tags:
-  - seafood
-  - pasta
+  - cooking
+  - food
   - italian
+  - pasta
   - quick-food
+  - recipe
   - recipe/summer
+  - seafood
+  - summer-food
 Finished: true
 created: 2023-06-11T14:55
-updated: 2024-02-02T14:22
+updated: 2025-09-02T10:17
 ---
 # Crab Pasta
 # Description

@@ -2,11 +2,13 @@
 Finished: false
 tags:
   - article
+  - development
   - digital-garden
-  - rust
+  - learning
   - programming
+  - rust
 created: 2023-12-04T13:29
-updated: 2024-09-22T11:49
+updated: 2025-09-02T10:14
 ---
 
 

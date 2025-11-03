@@ -1,14 +1,21 @@
 ---
 tags:
+  - architecture
   - article
-  - places
-  - travel
-  - south-east-asia
+  - colonial
+  - cuisine
+  - culture
+  - food
+  - history
   - laos
+  - mekong
+  - places
+  - south-east-asia
+  - travel
   - vacation
 Finished: true
 created: 2023-06-05T02:58
-updated: 2024-03-23T17:51
+updated: 2025-09-02T10:18
 ---
 
 # Laos

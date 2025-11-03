@@ -2,15 +2,20 @@
 Finished: false
 tags:
   - article
-  - digital-garden
-  - decison
-  - personal
-  - thinking
-  - kahneman
-  - thinking-fast-and-slow
+  - cognitive-bias
   - complexity
+  - decision-making
+  - decison
+  - digital-garden
+  - kahneman
+  - mental-models
+  - personal
+  - psychology
+  - strategy
+  - thinking
+  - thinking-fast-and-slow
 created: 2024-01-06T15:04
-updated: 2025-04-14T12:17
+updated: 2025-09-02T09:57
 ---
 
 

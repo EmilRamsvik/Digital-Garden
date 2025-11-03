@@ -1,13 +1,19 @@
 ---
 tags:
   - baking
-  - food
-  - cooking
-  - sourbread
   - bread
+  - bread-making
+  - cooking
+  - fermentation
+  - food
+  - norwegian
+  - recipes
+  - science
+  - sourbread
+  - sourdough
 Finished: false
-created: 2023-06-06T18:08:00
-updated: 2025-08-11T08:58
+created: 2023-06-06 18:08:00
+updated: 2025-10-24T09:35
 ---
 # Baking
 
@@ -103,6 +109,7 @@ Of course! Here is the recipe from the image transcribed into Markdown format, w
 # Links
 - [Sourdough Bagels](https://www.theclevercarrot.com/2021/06/easy-homemade-sourdough-bagels/)
 - [Binging with Babish Sourdough](https://www.youtube.com/watch?v=bSYdABrPrtM&ab_channel=BabishCulinaryUniverse)
+- [Ratio](../Books/Book%20Reviews/Mich/Ratio.md)
 
 # Thoughts 
 - Levain bread is actually used a lot in Sweden, which I found interesting. 

@@ -1,14 +1,20 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:54
-Pages: 
-Author: 
+updated: 2025-09-09T19:28
+Pages:
+Author:
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
+  - agriculture
   - book-review
+  - books
+  - chemistry
+  - digital-garden
+  - history
+  - non-fiction
+  - science
+  - world-war
 ---
 # The Alchemy of Air
 
@@ -24,7 +30,7 @@ The Haber-Bosch process consumes about 1 % of all energy worldwide.
 
 The evilness of the nazi regime continues to astonish me. Their hatred and their pettyness.  
 
-The issues that the nazi war machine encountered within the logistics and industry, as described in this book, i highly relative to the main arguments of [How the War was Won](History/Europe/How%20the%20War%20was%20Won.md).
+The issues that the nazi war machine encountered within the logistics and industry, as described in this book, i highly relative to the main arguments of [How the War was Won](../../History/Europe/How%20the%20War%20was%20Won.md).
 
 
 # ✍️ My Top  Quotes

@@ -1,14 +1,18 @@
 ---
 created: 2023-12-04T13:14
-updated: 2024-12-18T16:41
+updated: 2025-10-27T10:30
 tags:
   - article
+  - development
   - digital-garden
-  - vim
-  - neovim
-  - unix
-  - shell
   - grep
+  - neovim
+  - productivity
+  - programming
+  - shell
+  - tools
+  - unix
+  - vim
 Finished: false
 ---
 # Unix
@@ -35,7 +39,7 @@ I have not delved down that rabbit hole, and I do not think I intend to.
 
 Cults are cool if you are in them, so maybe it is worth it. Who am I to know. 
 # Links
-- 
+-  
 
 # Thoughts 
 - Ubuntu is zulu for: "A person is a person through (other) persons." ([97 Things Every Programmer Should Know](../../Books/Book%20Reviews/Programming/97%20Things%20Every%20Programmer%20Should%20Know.md))

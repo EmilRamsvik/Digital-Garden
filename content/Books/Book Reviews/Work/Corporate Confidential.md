@@ -1,14 +1,21 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-14T12:19
+updated: 2025-09-02T10:07
 Pages: 224
 Author: Cynthia Shapiro
 finished: false
-Date Finished: 
+Date Finished:
 tags:
-  - books
-  - digital-garden
   - book-review
+  - books
+  - business
+  - career-advice
+  - corporate
+  - digital-garden
+  - leadership
+  - management
+  - work
+  - workplace
 ---
 # Corporoate Confidential
 

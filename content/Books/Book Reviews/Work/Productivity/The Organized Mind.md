@@ -3,17 +3,22 @@ Pages: 544
 Date Finished: Jun 17, 2023
 Author: Daniel J. Levitvin
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:09
 tags:
   - books
-  - productivity
   - brain
+  - cognitive-science
+  - decision-making
   - deep-work
-  - non-fiction
-  - performance
   - habits
-  - productivity-hack
+  - memory
   - mind
+  - non-fiction
+  - organization
+  - performance
+  - productivity
+  - productivity-hack
+  - system-thinking
 ---
 # The Organized Mind
 

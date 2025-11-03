@@ -1,20 +1,24 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-08-13T14:55
+updated: 2025-09-09T19:30
 Pages: 240
 Author: Edward Demming
 finished: true
 Date Finished: 2024-12-12
 tags:
-  - books
-  - digital-garden
   - book-review
-  - system-thinking
-  - economics
+  - books
+  - collaboration
   - complexity
+  - digital-garden
+  - economics
+  - education
   - industry
-  - processes
+  - management
   - manufacturing
+  - processes
+  - quality
+  - system-thinking
 ---
 # A New Economics
 
@@ -26,7 +30,7 @@ A bit of a challenge to the old way of thinking of economics. Edward Demming is 
 
 A very interesting book, I found Edward Demming thoughts to be repeated a lot in other sources, so this was intersting. 
 
-I had some flashback to [Zen & The Art of Motorcycle Maintenance](Mich/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance.md)
+I had some flashback to [Zen & The Art of Motorcycle Maintenance](../../Mich/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance.md)
 and Robert Pirzigs reflections on quality. 
 # ✍️ My Top  Quotes
 

@@ -1,15 +1,20 @@
 ---
 tags:
-  - politics
-  - philosophy
-  - article
-  - socialism
-  - facism
   - Capitalism
+  - article
   - communism
+  - facism
+  - history
+  - marxism
+  - philosophy
+  - political-science
+  - political-theory
+  - politics
+  - revolution
+  - socialism
 Finished: false
 created: 2023-06-21T09:25
-updated: 2025-08-04T15:03
+updated: 2025-09-02T10:13
 ---
 
 # Politics

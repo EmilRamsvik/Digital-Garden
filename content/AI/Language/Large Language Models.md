@@ -1,17 +1,24 @@
 ---
 Date Started: Jun 16, 2023
 tags:
+  - AI
+  - LLM
+  - ai
   - article
-  - nlp
+  - data-science
+  - development
+  - gpt
   - machine-learning
   - natural-language
-  - gpt
+  - nlp
+  - programming
+  - python
+  - technology
+  - tools
   - transformers
-  - LLM
-  - AI
-finished: 
+finished:
 created: 2024-01-06T15:04
-updated: 2025-06-11T08:37
+updated: 2025-09-02T10:15
 ---
 # Large Language Models and Their Applications
 

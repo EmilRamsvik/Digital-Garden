@@ -4,16 +4,21 @@ Date Finished: May 07, 2023
 Author: David Rock
 tags:
   - books
-  - non-fiction
   - brain
-  - performance
-  - studying
+  - cognitive-science
+  - decision-making
+  - habits
   - motivation
+  - neuroscience
+  - non-fiction
+  - performance
   - productivity
   - programming
+  - psychology
   - self-improvement
+  - studying
 created: 2024-01-06T15:04
-updated: 2025-08-14T14:59
+updated: 2025-09-02T10:08
 ---
 # Your Brain at Work
 

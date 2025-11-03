@@ -1,15 +1,20 @@
 ---
 tags:
+  - api
   - article
-  - programming
-  - computers
+  - code-quality
   - computer-science
+  - computers
+  - dart
+  - development
+  - programming
   - python
   - rust
-  - dart
+  - software-engineering
+  - system-thinking
 Finished: true
-created: 2023-06-09T13:30:00
-updated: 2025-07-02T09:03
+created: 2023-06-09 13:30:00
+updated: 2025-09-29T09:53
 ---
 # Programming
 
@@ -17,16 +22,22 @@ updated: 2025-07-02T09:03
 
 # Computers
 An underrated aspect of programming is understanding computers; for engineers and self-taught programmers, it might be challenging to understand the intricacies of computers. 
-[CPU course, what is a CPU]( https://cpu.land/ ) It is written by high-schoolers, so it is an exciting read. 
-
-
+[CPU course, what is a CPU](https://cpu.land/ ) It is written by high-schoolers, so it is an exciting read. 
 
 # API
-How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The Python programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
+How does one explain an API in a good way? It is quite a broad subject. On the one hand, what I first thought of as an API is just how you can talk with other computers through the internet; when people said there is an API for that, they meant that someone had made a database or service that you could get the data for. However, an API is more than that; it is a method of interfacing with other programs. The [Python](Python/Python.md) programming language is an API, and when I use a library from Microsoft or AWS, I use their API.
 
 To me, thinking of an API as a contract is a useful metaphor. This 'contract' ensures that if you make a request in a specific, agreed-upon format, you will receive a predictable response. An API is a structurally agreed-upon way for two programs to interact with each other. 
 - [Free Public API that are tested every day](https://www.freepublicapis.com/)
 
+
+## On code Quality
+As i am remindend of in [Zen & The Art of Motorcycle Maintenance](../Books/Book%20Reviews/Mich/Zen%20&%20The%20Art%20of%20Motorcycle%20Maintenance.md), quality is a very abstract term. However, in code, there is a strong emphasis on quality as a fundamental pillar of performance. What you write matters. 
+Here are some numbers on code quality. 
+- **Defects** — low quality code contains _15 times more defects_ than high quality code.
+- **Development time** — resolving issues in low quality code takes on average _124% more time_ in development.
+- **Uncertainty** — issue resolutions in low quality code involve higher uncertainty manifested as _9 times longer_ maximum cycle times.
+In your average codebase, you can usually find around **~5% of the code that gets 90% of the activity**. This means that the pareto principle governs code bases and maintainability as well. 
 
 # Links
 - [Uncle Bob sessions on Clean Code](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj) Interesting high-level talks on code and code writing and programming. Robert C Martin is very well known for the clean code standard, etc. 
@@ -49,6 +60,7 @@ To me, thinking of an API as a contract is a useful metaphor. This 'contract' en
 - [Videoes with Crash Courses and other Guides](https://www.youtube.com/@NetNinja/playlists?view=1&sort=lad&flow=grid)
 - [10k Hours of coding lessons](https://sotergreco.com/what-10000-hours-of-coding-taught-me-dont-ship-fast)
 - [Good Software Development Habits](https://zarar.dev/good-software-development-habits/)
+- [Good "Taste" in software engineering.](https://www.seangoedecke.com/taste/)
 
 # Thoughts 
 - My old boss said there are usually two roads to learning programming: the syntax and the underlying principles of programming. Switching languages after learning the latter is usually much more straightforward.  I agree with this statement to an extent, but I feel like it is more of the transitory phase where you first learn programming syntax and make the language do the heavy lifting, and then you become more proficient. With the concepts and logic, I become more into the latter category. 

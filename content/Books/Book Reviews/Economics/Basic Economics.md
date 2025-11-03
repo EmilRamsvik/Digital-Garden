@@ -3,17 +3,21 @@ Pages: 704
 Date Finished: 2023-02-21
 Author: Thomas Sowel
 tags:
-  - books
   - book-list
   - book-review
+  - books
+  - capitalism
+  - communism
   - economics
+  - free-market
+  - money
+  - political-science
   - politics
-  - taxes
   - price-controls
   - prices
-  - money
+  - taxes
 created: 2024-01-06T15:04
-updated: 2024-10-13T13:10
+updated: 2025-09-02T10:10
 ---
 # Basic Economics
 

@@ -1,15 +1,18 @@
 ---
 tags:
   - article
-  - programming
-  - javascript
-  - web-development
-  - react
   - computer-science
+  - development
   - front-end
+  - javascript
+  - learning
+  - programming
+  - react
+  - typescript
+  - web-development
 finished: false
-created: 2023-06-07T13:30:00
-updated: 2024-09-22T09:00
+created: 2023-06-07 13:30:00
+updated: 2025-09-09T18:13
 ---
 
 # Javascript
@@ -33,5 +36,6 @@ React is built with two main concepts in mind: it's state-driven and it is capab
 
 # Thoughts 
 - Javascript was created in 10 days!!!
+- It is so unbelievably funny that Oracle has a 
 
 

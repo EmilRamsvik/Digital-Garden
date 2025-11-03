@@ -3,10 +3,15 @@ Pages: 304
 Author: Lesley Newson, Peter Richerson
 finished: true
 tags:
+  - biology
   - books
+  - evolution
+  - history
+  - psychology
+  - science
 Date Finished: 2023-10-21
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:54
+updated: 2025-09-02T10:05
 ---
 # A Story of Us
 

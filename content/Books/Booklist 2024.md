@@ -1,12 +1,18 @@
 ---
 tags:
-  - books
   - book-list
+  - books
+  - data-science
+  - history
+  - machine-learning
+  - management
+  - non-fiction
+  - programming
 Finished: true
-Pages: 
-Books-read: 
+Pages:
+Books-read:
 created: 2024-01-06T15:04
-updated: 2025-04-10T13:33
+updated: 2025-10-24T09:40
 ---
 # Booklist 2024 
 
@@ -203,7 +209,7 @@ _Author:_ Marty Seldman
 _Pages:_ 320
 _Language:_ English
 
-#### [Pro Git](Book%20Reviews/Programming/Pro%20Git.md)
+#### [Pro Git](Book%20Reviews/Programming/DevOps/Pro%20Git.md)
 _Author:_ Scott Chacon
 _Pages:_ 440
 _Language:_ English

@@ -1,16 +1,21 @@
 ---
 tags:
-  - books
-  - fiction
-  - classics
-  - norwegian-language
   - absurdism
+  - book-review
+  - books
+  - classics
   - fatalism
+  - fiction
+  - literature
+  - norwegian-language
+  - personal-development
+  - philosophy
+  - relationships
 Date Finished: 2022-12-27
 Author: John Williams
 Pages: 270
 created: 2024-01-06T15:04
-updated: 2025-08-13T14:55
+updated: 2025-09-02T10:12
 ---
 # Stoner
 

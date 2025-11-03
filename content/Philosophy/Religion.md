@@ -1,14 +1,19 @@
 ---
 Date Started: 2023-05-29
 tags:
-  - religion
-  - philosophy
-  - atheism
-  - science
   - article
+  - atheism
+  - belief-systems
+  - christianity
+  - history
+  - islam
+  - philosophy
+  - politics
+  - religion
+  - science
 Finished: false
 created: 2023-06-12T09:05
-updated: 2024-04-17T07:58
+updated: 2025-09-02T10:16
 ---
 # Religion
 

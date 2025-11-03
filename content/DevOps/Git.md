@@ -2,16 +2,20 @@
 finished: true
 tags:
   - article
+  - career
+  - collaboration
+  - developing
+  - development
   - digital-garden
   - git
   - github
-  - version-control
+  - merge-conflicts
   - programming
-  - developing
   - teams
-  - career
+  - tools
+  - version-control
 created: 2024-01-06T15:01
-updated: 2025-08-13T10:37
+updated: 2025-10-24T09:40
 ---
 # Git
 Git was developed by Linus Torvalds, who also developed the operating system Linux.  He jokingly said he named both tools after himself. Git was made because making changes and collaborating on Linux had become too challenging and a new way of doing version control was needed.  
@@ -59,7 +63,7 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - [Only need plaintext](https://www.youtube.com/watch?v=WgV6M1LyfNY&ab_channel=NoBoilerplate) Argues against anything other than Git and GitHub for software teams. 
 - [BFG Repo Cleaner](https://rtyley.github.io/bfg-repo-cleaner/)
 - [Learn Git and Branching](https://learngitbranching.js.org/)
-- [Pro Git](../Books/Book%20Reviews/Programming/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
+- [Pro Git](../Books/Book%20Reviews/Programming/DevOps/Pro%20Git.md) Book review and notes from the open source book on git.  It will help explain the rationale and intricacies of git. 
 - [Idiot Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases)
 - [Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [How I use Git](https://registerspill.thorstenball.com/p/how-i-use-git)
@@ -68,6 +72,7 @@ Both Git blame and Git biscet are fantastisc commands when you do not know the c
 - [How Thorsten uses Git](https://registerspill.thorstenball.com/p/how-i-use-git)
 - [Beej´s Guide to Git](https://beej.us/guide/bggit/html/split/)
 - [Worktrees in Git](https://www.tomups.com/posts/git-worktrees/)
+- [Git Hooks pro´s and con´s](https://yeldirium.de/2025/10/09/pre-commit-hooks/index.html)
 
 
 # Thoughts 

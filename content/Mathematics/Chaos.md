@@ -1,17 +1,22 @@
 ---
 tags:
   - article
-  - mathematics
-  - science
-  - non-linearities
   - chaos
-  - taleb
-  - uncertainty
+  - complexity
   - conway
   - entropy
+  - mathematics
+  - mental-models
+  - nature
+  - non-linearities
+  - predictability
+  - science
+  - system-thinking
+  - taleb
+  - uncertainty
 Finished: false
-created: 2023-08-08T12:52:00
-updated: 2024-07-13T18:32
+created: 2023-08-08 12:52:00
+updated: 2025-09-02T09:59
 ---
 
 
