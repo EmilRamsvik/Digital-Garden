@@ -1,0 +1,192 @@
+@use "../../styles/variables.scss" as *;
+
+.featured-content {
+  margin: 2rem 0;
+
+  .featured-title {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--dark);
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+
+  .featured-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin: 0 auto;
+    max-width: 1200px;
+
+    @media #{$mobile} {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+      padding: 0 1rem;
+    }
+
+    @media #{$tablet} {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media #{$desktop} {
+      grid-template-columns: repeat(3, 1fr);
+    }
+
+    @media all and (min-width: 1400px) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  .featured-card {
+    background: var(--light);
+    border: 2px solid var(--lightgray);
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-decoration: none;
+    color: inherit;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    min-height: 160px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    &:hover {
+      transform: translateY(-4px);
+      border-color: var(--secondary);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+      background: linear-gradient(135deg, var(--light) 0%, var(--lightgray) 100%);
+    }
+
+    &:before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+      opacity: 0;
+      transition: opacity 0.3s ease;
+    }
+
+    &:hover:before {
+      opacity: 1;
+    }
+
+    &[data-category="technical"] {
+      &:hover {
+        border-color: #357b8d;
+      }
+      &:before {
+        background: linear-gradient(90deg, #357b8d, #38b6ff);
+      }
+    }
+
+    &[data-category="business"] {
+      &:hover {
+        border-color: #6ec6ca;
+      }
+      &:before {
+        background: linear-gradient(90deg, #6ec6ca, #00bfae);
+      }
+    }
+
+    &[data-category="personal"] {
+      &:hover {
+        border-color: #227c9d;
+      }
+      &:before {
+        background: linear-gradient(90deg, #227c9d, #38b6ff);
+      }
+    }
+
+    &[data-category="knowledge"] {
+      &:hover {
+        border-color: #17445e;
+      }
+      &:before {
+        background: linear-gradient(90deg, #17445e, #357b8d);
+      }
+    }
+
+    &[data-category="thinking"] {
+      &:hover {
+        border-color: #d0f4f7;
+      }
+      &:before {
+        background: linear-gradient(90deg, #6ec6ca, #d0f4f7);
+      }
+    }
+
+    &[data-category="professional"] {
+      &:hover {
+        border-color: #38b6ff;
+      }
+      &:before {
+        background: linear-gradient(90deg, #227c9d, #38b6ff);
+      }
+    }
+  }
+
+  .featured-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.8rem;
+    line-height: 1;
+  }
+
+  .featured-card-title {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: var(--dark);
+    margin: 0 0 0.5rem 0;
+    line-height: 1.3;
+  }
+
+  .featured-description {
+    font-size: 0.9rem;
+    color: var(--darkgray);
+    line-height: 1.4;
+    margin: 0;
+    flex-grow: 1;
+  }
+
+  .featured-category {
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: var(--gray);
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--lightgray);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .featured-content {
+    .featured-card {
+      background: var(--dark);
+      border-color: var(--darkgray);
+
+      &:hover {
+        background: linear-gradient(135deg, var(--dark) 0%, var(--darkgray) 100%);
+        box-shadow: 0 8px 25px rgba(255, 255, 255, 0.1);
+      }
+    }
+
+    .featured-card-title {
+      color: var(--light);
+    }
+
+    .featured-description {
+      color: var(--gray);
+    }
+
+    .featured-category {
+      color: var(--lightgray);
+      border-top-color: var(--darkgray);
+    }
+  }
+}

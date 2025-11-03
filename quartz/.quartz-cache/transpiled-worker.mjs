@@ -9628,6 +9628,303 @@ var QuickLinks_default = /* @__PURE__ */ __name((userOpts) => {
   return QuickLinks;
 }, "default");
 
+// quartz/components/styles/featuredContent.scss
+var featuredContent_default = "";
+
+// quartz/components/FeaturedContent.tsx
+import { jsx as jsx37, jsxs as jsxs21 } from "preact/jsx-runtime";
+var defaultOptions19 = {
+  title: "Core Knowledge",
+  items: [
+    {
+      title: "Artificial Intelligence",
+      description: "Machine learning, LLMs, and AI applications",
+      link: "AI/AI",
+      icon: "\u{1F9E0}",
+      category: "Technical"
+    },
+    {
+      title: "Data Science",
+      description: "End-to-end project lifecycle and analytics",
+      link: "AI/Data Science/Data Science",
+      icon: "\u{1F4CA}",
+      category: "Technical"
+    },
+    {
+      title: "Programming",
+      description: "Python, cloud, and software engineering",
+      link: "Programming/Programming",
+      icon: "\u{1F4BB}",
+      category: "Technical"
+    },
+    {
+      title: "Books & Learning",
+      description: "Knowledge base and reading insights",
+      link: "Books/Books",
+      icon: "\u{1F4DA}",
+      category: "Knowledge"
+    },
+    {
+      title: "Business Strategy",
+      description: "Strategic thinking and consulting",
+      link: "Books/Book Reviews/Strategy/",
+      icon: "\u{1F3AF}",
+      category: "Business"
+    },
+    {
+      title: "Productivity",
+      description: "Systems and efficiency optimization",
+      link: "Productivity/Productivity",
+      icon: "\u26A1",
+      category: "Personal"
+    },
+    {
+      title: "Systems Thinking",
+      description: "Mental models for complex problems",
+      link: "Thinking/Systems",
+      icon: "\u{1F504}",
+      category: "Thinking"
+    },
+    {
+      title: "Economics & Finance",
+      description: "Market analysis and financial systems",
+      link: "Books/Book Reviews/Economics/",
+      icon: "\u{1F4B0}",
+      category: "Business"
+    },
+    {
+      title: "Cloud & DevOps",
+      description: "AWS, Azure, GCP infrastructure",
+      link: "Cloud/Cloud",
+      icon: "\u2601\uFE0F",
+      category: "Technical"
+    },
+    {
+      title: "Career Development",
+      description: "Professional growth and leadership",
+      link: "Working/Career",
+      icon: "\u{1F680}",
+      category: "Professional"
+    },
+    {
+      title: "Health & Fitness",
+      description: "Training philosophy and wellness",
+      link: "Exercise/Exercise",
+      icon: "\u{1F4AA}",
+      category: "Personal"
+    },
+    {
+      title: "Travel & Culture",
+      description: "Destinations and cultural insights",
+      link: "Travel/Travel",
+      icon: "\u{1F30D}",
+      category: "Personal"
+    }
+  ]
+};
+var FeaturedContent_default = /* @__PURE__ */ __name((userOpts) => {
+  const FeaturedContent = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
+    const opts = { ...defaultOptions19, ...userOpts };
+    return /* @__PURE__ */ jsxs21("div", { class: classNames(displayClass, "featured-content"), children: [
+      /* @__PURE__ */ jsx37("h2", { class: "featured-title", children: opts.title }),
+      /* @__PURE__ */ jsx37("div", { class: "featured-grid", children: opts.items.map((item) => /* @__PURE__ */ jsxs21(
+        "a",
+        {
+          href: resolveRelative(fileData.slug, item.link),
+          class: "featured-card internal",
+          "data-category": item.category.toLowerCase(),
+          children: [
+            /* @__PURE__ */ jsx37("div", { class: "featured-icon", children: item.icon }),
+            /* @__PURE__ */ jsx37("h3", { class: "featured-card-title", children: item.title }),
+            /* @__PURE__ */ jsx37("p", { class: "featured-description", children: item.description }),
+            /* @__PURE__ */ jsx37("div", { class: "featured-category", children: item.category })
+          ]
+        }
+      )) })
+    ] });
+  }, "FeaturedContent");
+  FeaturedContent.css = featuredContent_default;
+  return FeaturedContent;
+}, "default");
+
+// quartz/components/styles/professionalFocus.scss
+var professionalFocus_default = "";
+
+// quartz/components/ProfessionalFocus.tsx
+import { jsx as jsx38, jsxs as jsxs22 } from "preact/jsx-runtime";
+var defaultOptions20 = {
+  title: "Professional Focus",
+  sections: [
+    {
+      title: "Data Science & Analytics",
+      items: [
+        {
+          title: "Data Engineering",
+          description: "Pipeline design, data warehousing, ETL processes",
+          link: "Data-Engineering/Data-Engineering",
+          icon: "\u{1F527}"
+        },
+        {
+          title: "Statistical Analysis",
+          description: "Hypothesis testing, experimental design",
+          link: "Mathematics/Statistics",
+          icon: "\u{1F4C8}"
+        }
+      ]
+    },
+    {
+      title: "Strategy & Business",
+      items: [
+        {
+          title: "Consulting",
+          description: "Client engagement, problem-solving frameworks",
+          link: "Working/Consulting",
+          icon: "\u{1F4BC}"
+        },
+        {
+          title: "Career Development",
+          description: "Professional growth, leadership transition",
+          link: "Working/Career",
+          icon: "\u{1F4CA}"
+        }
+      ]
+    }
+  ]
+};
+var ProfessionalFocus_default = /* @__PURE__ */ __name((userOpts) => {
+  const ProfessionalFocus = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
+    const opts = { ...defaultOptions20, ...userOpts };
+    return /* @__PURE__ */ jsxs22("div", { class: classNames(displayClass, "professional-focus"), children: [
+      /* @__PURE__ */ jsx38("h2", { class: "professional-title", children: opts.title }),
+      /* @__PURE__ */ jsx38("div", { class: "professional-sections", children: opts.sections.map((section) => /* @__PURE__ */ jsxs22("div", { class: "professional-section", children: [
+        /* @__PURE__ */ jsx38("h3", { class: "section-title", children: section.title }),
+        /* @__PURE__ */ jsx38("div", { class: "section-cards", children: section.items.map((item) => /* @__PURE__ */ jsxs22(
+          "a",
+          {
+            href: resolveRelative(fileData.slug, item.link),
+            class: "professional-card internal",
+            children: [
+              /* @__PURE__ */ jsx38("div", { class: "card-icon", children: item.icon }),
+              /* @__PURE__ */ jsxs22("div", { class: "card-content", children: [
+                /* @__PURE__ */ jsx38("h4", { class: "card-title", children: item.title }),
+                /* @__PURE__ */ jsx38("p", { class: "card-description", children: item.description })
+              ] })
+            ]
+          }
+        )) })
+      ] })) })
+    ] });
+  }, "ProfessionalFocus");
+  ProfessionalFocus.css = professionalFocus_default;
+  return ProfessionalFocus;
+}, "default");
+
+// quartz/components/styles/personalInterests.scss
+var personalInterests_default = "";
+
+// quartz/components/PersonalInterests.tsx
+import { jsx as jsx39, jsxs as jsxs23 } from "preact/jsx-runtime";
+var defaultOptions21 = {
+  title: "Personal Interests",
+  items: [
+    {
+      title: "Health & Fitness",
+      description: "Training philosophy, strength building, and wellness optimization",
+      link: "Exercise/Exercise",
+      icon: "\u{1F4AA}"
+    },
+    {
+      title: "Culinary Arts",
+      description: "Recipe development, cooking techniques, and food culture exploration",
+      link: "Food/Food",
+      icon: "\u{1F468}\u200D\u{1F373}"
+    },
+    {
+      title: "Travel & Culture",
+      description: "Destination guides, cultural observations, and travel optimization",
+      link: "Travel/Travel",
+      icon: "\u2708\uFE0F"
+    },
+    {
+      title: "Philosophy & Thinking",
+      description: "Mental frameworks, ethical considerations, and worldview development",
+      link: "Philosophy/Philosophy",
+      icon: "\u{1F914}"
+    }
+  ]
+};
+var PersonalInterests_default = /* @__PURE__ */ __name((userOpts) => {
+  const PersonalInterests = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
+    const opts = { ...defaultOptions21, ...userOpts };
+    return /* @__PURE__ */ jsxs23("div", { class: classNames(displayClass, "personal-interests"), children: [
+      /* @__PURE__ */ jsx39("h2", { class: "personal-title", children: opts.title }),
+      /* @__PURE__ */ jsx39("div", { class: "personal-grid", children: opts.items.map((item) => /* @__PURE__ */ jsxs23(
+        "a",
+        {
+          href: resolveRelative(fileData.slug, item.link),
+          class: "personal-card internal",
+          children: [
+            /* @__PURE__ */ jsx39("div", { class: "personal-icon", children: item.icon }),
+            /* @__PURE__ */ jsxs23("div", { class: "personal-content", children: [
+              /* @__PURE__ */ jsx39("h3", { class: "personal-card-title", children: item.title }),
+              /* @__PURE__ */ jsx39("p", { class: "personal-description", children: item.description })
+            ] })
+          ]
+        }
+      )) })
+    ] });
+  }, "PersonalInterests");
+  PersonalInterests.css = personalInterests_default;
+  return PersonalInterests;
+}, "default");
+
+// quartz/components/styles/quickLinks.scss
+var quickLinks_default = "";
+
+// quartz/components/QuickLinks.tsx
+import { jsx as jsx40, jsxs as jsxs24 } from "preact/jsx-runtime";
+var defaultOptions22 = {
+  title: "Quick Links",
+  items: [
+    {
+      title: "About Me",
+      description: "Professional background and personal interests",
+      link: "About/About",
+      icon: "\u{1F468}\u200D\u{1F4BC}"
+    },
+    {
+      title: "Recent Updates",
+      description: "Latest insights and discoveries",
+      link: "DailyNotes/",
+      icon: "\u{1F4DD}"
+    }
+  ]
+};
+var QuickLinks_default = /* @__PURE__ */ __name((userOpts) => {
+  const QuickLinks = /* @__PURE__ */ __name(({ fileData, displayClass }) => {
+    const opts = { ...defaultOptions22, ...userOpts };
+    return /* @__PURE__ */ jsxs24("div", { class: classNames(displayClass, "quick-links"), children: [
+      /* @__PURE__ */ jsx40("h2", { class: "quick-links-title", children: opts.title }),
+      /* @__PURE__ */ jsx40("div", { class: "quick-links-grid", children: opts.items.map((item) => /* @__PURE__ */ jsxs24(
+        "a",
+        {
+          href: resolveRelative(fileData.slug, item.link),
+          class: "quick-link-card internal",
+          children: [
+            /* @__PURE__ */ jsx40("div", { class: "quick-link-icon", children: item.icon }),
+            /* @__PURE__ */ jsxs24("div", { class: "quick-link-content", children: [
+              /* @__PURE__ */ jsx40("h3", { class: "quick-link-title", children: item.title }),
+              /* @__PURE__ */ jsx40("p", { class: "quick-link-description", children: item.description })
+            ] })
+          ]
+        }
+      )) })
+    ] });
+  }, "QuickLinks");
+  QuickLinks.css = quickLinks_default;
+  return QuickLinks;
+}, "default");
+
 // quartz.layout.ts
 var sharedPageComponents = {
   head: Head_default(),
