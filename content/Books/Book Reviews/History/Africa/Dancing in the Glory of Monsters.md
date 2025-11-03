@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 Pages: 416
 Author: Jason Stearns
 finished: true
@@ -86,7 +86,7 @@ My notes from this book are quite extensive, and I think one reason for that is 
  
 - Women had other problems, as well. The aid organizations running the camps didn’t provide sanitary napkins, and women had to use rags or tear up sheets to use instead. As there was little soap, these scraps of cloth became hard and caked with blood. To their humiliation, women had no choice but to try to wash these in the same pots they used for cooking. “The bloodied water snaked in rivulets between the tents and little puddles of blood formed here and there.”
  
-- In late 1994, the UN High Commissioner for Refugees (UNHCR) spent $1 million each day on operations in the camps. Its effort was effective: Within weeks of deployment, mortality dropped steeply, saving thousands of lives. At the same time, however, it became obvious that the aid was also sustaining the perpetrators of the genocide
+- In late 1994, the UN High Commissioner for Refugees (UNHCR) spent USD 1 million each day on operations in the camps. Its effort was effective: Within weeks of deployment, mortality dropped steeply, saving thousands of lives. At the same time, however, it became obvious that the aid was also sustaining the perpetrators of the genocide
  
 - Doctors Without Borders, put it: “How can physicians continue to assist Rwandan refugees when by doing so they are also supporting killers?” And they were supporting killers. Camp leaders refused to allow UNHCR to count the refugees for over half a year, inflating their numbers so as to pocket the surplus food, blankets, and clothes for themselves.
  
@@ -144,7 +144,7 @@ My notes from this book are quite extensive, and I think one reason for that is 
  
 - Nevertheless, Che’s experience, as well as the insurrection, ended in disaster. The beginning words of his Congo journal were: “This is the history of a failure.”
  
-- The nadir was perhaps reached in 1975, when Kabila’s forces snuck into Jane Goodall’s chimpanzee research camp in western Tanzania and kidnapped four American and Dutch students. They subjected their captives to lectures on Marxism and Leninism while demanding a ransom of $500,000. This was the last straw for Tanzanian president Julius Nyerere, who had been tolerating the rebels out of disdain for Mobutu.
+- The nadir was perhaps reached in 1975, when Kabila’s forces snuck into Jane Goodall’s chimpanzee research camp in western Tanzania and kidnapped four American and Dutch students. They subjected their captives to lectures on Marxism and Leninism while demanding a ransom of USD 500,000. This was the last straw for Tanzanian president Julius Nyerere, who had been tolerating the rebels out of disdain for Mobutu.
  
 - According to accounts that filtered out from his commanders, Kabila would resort to a Mobutist subterfuge, regularly sleeping with his commanders’ wives as a display of power and humiliation.
  
@@ -191,7 +191,7 @@ My notes from this book are quite extensive, and I think one reason for that is 
  
 - Every time you send us into battle, we get attacked!’ “‘But that’s what war is about!’ “‘You are a sadist!’”
  
-- Internal tensions also hampered operations. The French, mostly former soldiers from the Foreign Legion, were better connected and paid up to five times as much as the Serbs—up to $10,000 per month for the officers. But the Serbs controlled most of the aircraft and heavy weaponry, old machines leased at inflated prices from the Yugoslav army. The French accused their counterparts of amateurism; the Serbs retorted that the last time the French had won a serious battle was at Austerlitz in 1805.
+- Internal tensions also hampered operations. The French, mostly former soldiers from the Foreign Legion, were better connected and paid up to five times as much as the Serbs—up to USD 10,000 per month for the officers. But the Serbs controlled most of the aircraft and heavy weaponry, old machines leased at inflated prices from the Yugoslav army. The French accused their counterparts of amateurism; the Serbs retorted that the last time the French had won a serious battle was at Austerlitz in 1805.
  
 - It is easy to make a mockery of Mobutu’s army and government, to reduce the events that led to his demise to a comedy of errors carried on by a bunch of incompetent, bumbling generals in Kinshasa. But it was not for lack of training or expertise that the Zairian army lost the war. The security forces included a legion of intelligent officers trained at some of the world’s best military academies. The problem was the decaying, corrupt structures within which they worked. Lacking proper institutions since independence, Mobutu had corroded his own state in order to prevent any challengers to his power from emerging, eroding that very power in the process.
  
@@ -225,7 +225,7 @@ My notes from this book are quite extensive, and I think one reason for that is 
  
 - “It was like what the Americans did with the Baath Party in Iraq,” one official in the Ministry of Mines told me. “From one day to the next, everybody was gone.”
  
-- Two of the new ministers had had run-ins with the law abroad. Thomas Kanza, who was in charge of regional cooperation and aid, was unable to deal with the U.S. government because he was wanted in Tennessee for fleeing a $300,000 fine for fraud. Celestin Lwangy’s nomination for justice minister elicited some chuckles in the Belgian press, as he had served eight months in prison in Belgium for illegally hooking up his electricity supply to the power grid.
+- Two of the new ministers had had run-ins with the law abroad. Thomas Kanza, who was in charge of regional cooperation and aid, was unable to deal with the U.S. government because he was wanted in Tennessee for fleeing a USD 300,000 fine for fraud. Celestin Lwangy’s nomination for justice minister elicited some chuckles in the Belgian press, as he had served eight months in prison in Belgium for illegally hooking up his electricity supply to the power grid.
  
 - Head of state, the refugee crisis dominated discussions. Immediately after he was sworn in, all contacts with the Congo’s traditional donors—Belgium, the United States, the United Kingdom, and France—focused on the alleged massacres.
  
@@ -251,7 +251,7 @@ My notes from this book are quite extensive, and I think one reason for that is 
  
 - A Congolese friend once described the curse of Congolese politics as “the reverse Midas effect.” “Anything touched by politics in the Congo turns to shit,” he told me. “It doesn’t matter if the Holy Father himself decides to run for president, he will inevitably come out corrupt, power-hungry, and guilty of breaking all ten of the holy commandments.”
  
-- According to François Mwamba, the head of their finances, they rarely got more than $50,000 a month. “Once, I had to spend ten hours on the back of a motorcycle, hanging on to a kid with an AK-47 strapped on his back, just to collect $2,000 from a bank in the jungle town of Banalia,” Mwamba told me. “Do you think I would be doing that if we were flush with cash?”
+- According to François Mwamba, the head of their finances, they rarely got more than USD 50,000 a month. “Once, I had to spend ten hours on the back of a motorcycle, hanging on to a kid with an AK-47 strapped on his back, just to collect USD 2,000 from a bank in the jungle town of Banalia,” Mwamba told me. “Do you think I would be doing that if we were flush with cash?”
  
 - Swahili saying: Shukrani ya punda ni teke (The gratitude of a donkey is a kick).
  

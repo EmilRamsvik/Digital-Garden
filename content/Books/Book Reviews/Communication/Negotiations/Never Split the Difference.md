@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-09T19:26
+updated: 2025-11-03T15:18
 Pages: 288
 Author: Chris Voss
 finished: true
@@ -109,7 +109,7 @@ It might have some similarities to [Nonviolent Communication](../Nonviolent%20Co
 	2. ​Set your first offer at 65 percent of your target price.
 	3. ​Calculate three raises of decreasing increments (to 85, 95, and 100 percent).
 	4. ​Use lots of empathy and different ways of saying “No” to get the other side to counter before you increase your offer.
-	5. ​When calculating the final amount, use precise, nonround numbers like, say, $37,893 rather than $38,000. It gives the number credibility and weight. 6.​On your final number, throw in a nonmonetary item (that they probably don’t want) to show you’re at your limit.
+	5. ​When calculating the final amount, use precise, nonround numbers like, say, USD 37,893 rather than USD 38,000. It gives the number credibility and weight. 6.​On your final number, throw in a nonmonetary item (that they probably don’t want) to show you’re at your limit.
  
 - Identify your counterpart’s negotiating style. Once you know whether they are Accommodator, Assertive, or Analyst, you’ll know the correct way to approach them. 
 	- Prepare, prepare, prepare. When the pressure is on, you don’t rise to the occasion; you fall to your highest level of preparation. So design an ambitious but legitimate goal and then game out the labels, calibrated questions, and responses you’ll use to get there. That way, once you’re at the bargaining table, you won’t have to wing it. 

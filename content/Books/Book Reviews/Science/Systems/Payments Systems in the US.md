@@ -3,7 +3,7 @@ Pages: 202
 Date Finished: Jul 05, 2023
 Author: Carol Coye Benson
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:05
+updated: 2025-11-03T15:18
 tags:
   - banking
   - banking-history
@@ -76,7 +76,7 @@ I was quite astonished at how immensely profitable the credit card industry is f
  
 - For funds received, prior to collecting from the paying bank. (Historically, the Fed has done this as a way to manage, on behalf of the presenting bank, uncertainties in check collection.) Often float is more a matter of perception: “disbursement float” is a term used to describe the gap between when a corporation mails a check (and presumably discharges its obligation to a vendor) and the time that the check is actually presented to its bank for payment. Float is often discussed in relative terms: if a bank has been collecting deposited checks on an average of 1.5 days after receipt, and it reduces that to an average of 1.25 days, it has improved float. If a bank makes good funds available to a depositing customer prior to receiving payment on the check in question, it is incurring a float expense—which may be theoretical, rather than actual, if the customer in question leaves the balances in the account. Confused? Here’s one thing to remember about float.
  
-- In the U.S., bank exposure to check fraud is generally believed to be less than $1 billion annually.
+- In the U.S., bank exposure to check fraud is generally believed to be less than USD 1 billion annually.
  
 - The third party in the example above is at extreme risk if the consumer transaction is fraudulent—e.g., if the consumer has given someone else’s bank account information. To manage this risk, PayPal early on developed a “micro deposit” scheme designed to verify account ownership. By making two small, random deposits in the consumer’s bank account, and then asking the consumer to report the amounts, PayPal can verify that the consumer is the valid owner of that bank
  
@@ -100,7 +100,7 @@ I was quite astonished at how immensely profitable the credit card industry is f
  
 - The revenue models for the card networks consist of processing fees and brand-use service fees assessed on all transactions made with a card carrying the network brand.
  
-- The credit card has been called “the most profitable product in banking history” in the United States. With industry revenues estimated at more than $140 billion annually (accruing to MasterCard and Visa bank issuers, for credit cards alone), it is clearly an attractive business.
+- The credit card has been called “the most profitable product in banking history” in the United States. With industry revenues estimated at more than USD 140 billion annually (accruing to MasterCard and Visa bank issuers, for credit cards alone), it is clearly an attractive business.
  
 - Near-universal acceptance. Almost all retail establishments in the U.S. accept credit cards, as do many non-retail enterprises, including billers, B2B manufacturers, distributors and wholesalers, governments, nonprofits, and educational institutions. A saturated marketplace. Almost 80% of American households—more than 90 million households or about 175 million individuals—had one or more credit cards at the end of 2008. Many Americans without access to credit have debit or prepaid cards. Multiple cards. Of Americans who have a credit card, most have more than five cards each. They are used to choosing between those cards at the point of sale based on a wide variety of factors, including available credit lines, rewards, and purpose of the purchase.
  

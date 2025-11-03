@@ -1,6 +1,6 @@
 ---
 created: 2024-03-01T17:32
-updated: 2025-10-23T16:19
+updated: 2025-11-03T15:13
 tags:
   - books
   - business
@@ -680,7 +680,7 @@ The third best indicator of success in the Navy Seal training was being on the w
 - *When Albert Einstein arrived at Princeton, he was not legally qualified to teach high school physics.*
 - *The best predictor of governmental regulation of an industry is the size and position of the professional association for that industry.*
 - *Obama's first spending bill had over 9000 earmarks for special interest groups.*
-- *A lasting and successful marriage is estimated to be worth $100,000 a year.*
+- *A lasting and successful marriage is estimated to be worth USD 100,000 a year.*
 - *In most post-WW2 recessions, Congress did not pass legislation in response to the downturn until after it had ended.*
 - *Okum´s law: GDP of 3% will be unemployment unchanged.*
 - *Fiat currency is just a fancy way of saying paper money.*

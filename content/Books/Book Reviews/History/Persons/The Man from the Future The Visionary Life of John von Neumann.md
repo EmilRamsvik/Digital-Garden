@@ -18,7 +18,7 @@ tags:
   - science
   - world-war-2
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 ---
 # The Man from the Future The Visionary Life of John von Neumann
 
@@ -134,7 +134,7 @@ Reading this and seeing the movie [Oppenheimer](https://www.imdb.com/title/tt153
  
 - ‘Johnny preferred admirals to generals, because the generals drank iced water for lunch, while the admirals when ashore drank liquor,’ said Leslie Simon, a director of the BRL.
  
-- The massive effort to build the atom bomb, codenamed Project Y, would cost the US $ billion (more than $ billion today) and at its height employ more than 100, people. In September 1942, the forty-six-year-old Army engineer Leslie Groves was appointed to lead it. The very next month, Groves chose Oppenheimer to head the top-secret laboratory that would develop the bomb.
+- The massive effort to build the atom bomb, codenamed Project Y, would cost the US USD  billion (more than USD  billion today) and at its height employ more than 100, people. In September 1942, the forty-six-year-old Army engineer Leslie Groves was appointed to lead it. The very next month, Groves chose Oppenheimer to head the top-secret laboratory that would develop the bomb.
  
 - Worst of all, from the military’s standpoint, he was a left-winger whose closest associates – his girlfriend, wife, brother and sister-in-law – had been, and perhaps still were, members of the Communist Party. Even Oppenheimer’s landlady in Berkeley was a communist.
  

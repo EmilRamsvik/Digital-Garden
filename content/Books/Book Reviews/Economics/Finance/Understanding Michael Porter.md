@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:10
+updated: 2025-11-03T15:18
 Pages: 245
 Author: Joan Magretta
 finished: true
@@ -113,7 +113,7 @@ The missing middle phenomenon is important, where companies either tend to diffe
  
 - In industrial markets, value to the customer (which Porter calls buyer value) can usually be quantified and described in economic terms. A manufacturer might pay more for a piece of machinery because, compared with lower-priced alternatives, it will produce offsetting labor costs that exceed the higher price.
  
-- I once calculated, for example, that consumers were effectively paying well over $100 an hour for the unskilled labor involved in grating cheese.
+- I once calculated, for example, that consumers were effectively paying well over USD 100 an hour for the unskilled labor involved in grating cheese.
  
 - Strategy choices aim to shift relative price or relative cost in a company’s favor.
  

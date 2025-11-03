@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:03
+updated: 2025-11-03T15:18
 Pages: 288
 Author: Paul Schwartz
 finished: true
@@ -173,7 +173,7 @@ I think this was a good book, and a must for all that works within digitalizatio
  
 - Rework: Because no-sayers and reviewers arrive late in a process and their job is not to improve the work but to return it for changes, rework tends to be maximized. If the pharaoh reviews the pyramid after it’s built and decides that he doesn’t like the view from his tomb—or wants more room for his harem in the next life—then the slaves will have a lot of rework ahead of them.
  
-- Overspecification: You know the story of the $3,000 military coffee pot from Chapter 1. If you write specifications for a product before you know how much each requirement will add to the cost, then you’re making decisions with incomplete information, and it will cost you. This often happens with requirements given to an IT organization—somewhere embedded in those requirements is a feature that is enormously but not obviously expensive—only IT will know it, upon deeper analysis, but not the requestor.
+- Overspecification: You know the story of the USD 3,000 military coffee pot from Chapter 1. If you write specifications for a product before you know how much each requirement will add to the cost, then you’re making decisions with incomplete information, and it will cost you. This often happens with requirements given to an IT organization—somewhere embedded in those requirements is a feature that is enormously but not obviously expensive—only IT will know it, upon deeper analysis, but not the requestor.
  
 - The commentators tell us: the correct understanding of a matter and misunderstanding the matter are not mutually exclusive. —Franz Kafka, The Trial
  

@@ -3,7 +3,7 @@ Pages: 464
 Date Finished: May 31, 2023
 Author: Chris Miller
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 tags:
   - asia
   - books
@@ -40,7 +40,7 @@ I got more insight into how the companies that have seamless technology, such as
  
 - Apple sold over 100 million iPhone 12s, each powered by an A processor chip with 11 billion tiny transistors carved into its silicon. In a matter of months, in other words, for just one of the dozen chips in an iPhone, TSMC’s Fab 18 fabricated well over 1 quintillion transistors—
  
-- In 1970, the second company Moore founded, Intel, unveiled a memory chip that could remember 1, pieces of information (“bits”). It cost around $, roughly two cents per bit. Today, $ can buy a thumb drive that can remember well over a billion bits.
+- In 1970, the second company Moore founded, Intel, unveiled a memory chip that could remember 1, pieces of information (“bits”). It cost around USD , roughly two cents per bit. Today, USD  can buy a thumb drive that can remember well over a billion bits.
  
 - Chips from Taiwan provide 37 percent of the world’s new computing power each year. Two Korean companies produce 44 percent of the world’s memory chips. The Dutch company ASML builds 100 percent of the world’s extreme ultraviolet lithography machines, without which cutting-edge chips are simply impossible to make. OPEC’s 40 percent share of world oil production looks unimpressive by comparison.
  
@@ -142,7 +142,7 @@ I got more insight into how the companies that have seamless technology, such as
  
 - Western spies were shocked at just how much the Soviets stole.
  
-- The French quickly shared information about Vetrov with U.S. and other allied intelligence services. The Reagan administration responded by launching Operation Exodus, which tightened customs checks on advanced technology. By 1985, the program had seized around $ million worth of goods and resulted in around one thousand arrests.
+- The French quickly shared information about Vetrov with U.S. and other allied intelligence services. The Reagan administration responded by launching Operation Exodus, which tightened customs checks on advanced technology. By 1985, the program had seized around USD  million worth of goods and resulted in around one thousand arrests.
  
 - The USSR’s “copy it” strategy had actually benefitted the United States, guaranteeing the Soviets faced a continued technological lag. In 1985, the CIA conducted a study of Soviet microprocessors and found that the USSR produced replicas of Intel and Motorola chips like clockwork. They were always half a decade behind.
  
@@ -180,7 +180,7 @@ I got more insight into how the companies that have seamless technology, such as
  
 - In the 1990s, when Microsoft Office introduced an animated, paperclip called Clippy that sat at the side of the screen and dispensed advice, it represented a leap forward in graphics—and often caused computers to freeze.
  
-- Nvidia released CUDA, software that lets GPUs be programmed in a standard programming language, without any reference to graphics at all. Even as Nvidia was churning out top-notch graphics chips, Huang spent lavishly on this software effort, at least $ billion, according to a company estimate in 2017, to let any programmer—not just graphics experts—work with Nvidia’s chips.
+- Nvidia released CUDA, software that lets GPUs be programmed in a standard programming language, without any reference to graphics at all. Even as Nvidia was churning out top-notch graphics chips, Huang spent lavishly on this software effort, at least USD  billion, according to a company estimate in 2017, to let any programmer—not just graphics experts—work with Nvidia’s chips.
  
 - For each generation of cell phone technology after 2G, Qualcomm contributed key ideas about how to transmit more data via the radio spectrum and sold specialized chips with the computing power capable of deciphering this cacophony of signals. The company’s patents are so fundamental it’s impossible to make a cell phone without them.
  
@@ -216,7 +216,7 @@ I got more insight into how the companies that have seamless technology, such as
  
 - According to the American Automotive Policy Council, an industry group, the world’s biggest auto companies can use over a thousand chips in each car.
  
-- These firms are estimated to have produced 7. million fewer cars in 2021 than would have been possible had they not faced chip shortages, which implies a $ billion collective revenue loss, according to industry estimates.
+- These firms are estimated to have produced 7. million fewer cars in 2021 than would have been possible had they not faced chip shortages, which implies a USD  billion collective revenue loss, according to industry estimates.
  
 - But the world produced more chips in 2021 than ever before—over 1. trillion semiconductor devices, according to research firm IC Insights. This was a 13 percent increase compared to 2020.
  

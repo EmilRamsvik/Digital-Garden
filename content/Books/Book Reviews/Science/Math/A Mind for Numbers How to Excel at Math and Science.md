@@ -2,7 +2,7 @@
 Pages: 336
 Author: Barbara Oakley
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:04
+updated: 2025-11-03T15:11
 tags:
   - books
   - brain
@@ -134,7 +134,7 @@ I will try to be more mindful of my work when it comes to diffuse and active mod
  
 - 30/30—combines timers with a task list: http://3030.binaryhammer.com/
  
-- Freedom—many people swear by this program, available for MacOS, Windows, and Android ($10):
+- Freedom—many people swear by this program, available for MacOS, Windows, and Android (USD 10):
  
 - 43 Things—a goal-setting site: http://www.43things.com/ StickK—a goal-setting site: http://www.stickk.com/ Coffitivity—modest background noise similar to a coffee shop: http://coffitivity.com/
  

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:13
+updated: 2025-11-03T15:18
 Pages: 272
 Author: Timothy Galpin
 finished: true
@@ -112,7 +112,7 @@ Execution is everything.
  
 - CAGE Distance Framework. An alternative to the market entry profile map is the CAGE Distance Framework (Ghemawat and Siegel, 2011), which can be used to ascertain differences or “distances” between countries across four dimensions that companies should address when identifying and implementing international strategies. The four dimensions of the framework are: cultural, which includes language, customs, values, norms, work systems, traditions, religion administrative, including trade agreements, colonial ties, currency, legal system, governmental policies, political hostility, visa and work permit requirements, and corruption geographic, involving physical distance, common land borders, time zones, transportation, and communication economic, composed of per capita income, cost of labor, availability of human resources, and economic size.
  
-- For example, a survey of senior executives from 197 companies worldwide, with sales exceeding $500 million, found that companies typically lose well over a third (37 percent) of their strategies’ potential value because of poor execution.
+- For example, a survey of senior executives from 197 companies worldwide, with sales exceeding USD 500 million, found that companies typically lose well over a third (37 percent) of their strategies’ potential value because of poor execution.
  
 - Consequently, the process of strategy execution needs to be a management priority. To make this point, Oxford Professor Thomas Powell compares strategy execution to climbers of Mount Everest who, “must consider strategy execution, both during the climb and while planning the climb … Success in climbing Everest does not depend on choosing the right path, but on the climber’s capacity to deal with the conditions of the actual climb”
  

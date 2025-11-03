@@ -3,7 +3,7 @@ Pages: 544
 Date Finished: Jun 17, 2023
 Author: Daniel J. Levitvin
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 tags:
   - books
   - brain
@@ -110,7 +110,7 @@ I think that it is an interesting read and that people who want to get better at
  
 - Sleepiness was responsible for 250, traffic accidents in 2009, and is one of the leading causes of friendly fire—soldiers mistakenly shooting people on their own side.
  
-- Sleep deprivation is estimated to cost U.S. businesses more than $ billion a year in absences, accidents, and lost productivity—for comparison, that’s roughly the same as the annual revenue of Apple Corporation.
+- Sleep deprivation is estimated to cost U.S. businesses more than USD  billion a year in absences, accidents, and lost productivity—for comparison, that’s roughly the same as the annual revenue of Apple Corporation.
  
 - Westward travel finds us having to delay our bedtime, which is not so difficult to do. Eastward travel finds us arriving in a city where it’s bedtime and we’re not yet tired. Traveling east is difficult even for people who do it all the time.
  
@@ -198,7 +198,7 @@ I think that it is an interesting read and that people who want to get better at
  
 - “Social media isn’t journalism, it’s information. Journalism is what you do with it.”
   
-- Because the homeopatic industry is unregulated, figures are hard to come by, but The Economist estimates that it is a $ billion business worldwide. Forty percent of Americans report using alternative medicines and therapies;
+- Because the homeopatic industry is unregulated, figures are hard to come by, but The Economist estimates that it is a USD  billion business worldwide. Forty percent of Americans report using alternative medicines and therapies;
  
 - Pseudoscience often uses the terminology of science and observation but does not use the full rigor of controlled experiments and falsifiable hypotheses.
  

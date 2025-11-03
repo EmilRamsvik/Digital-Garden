@@ -15,7 +15,7 @@ tags:
   - work
 Date Finished: 2023-11-12
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:10
+updated: 2025-11-03T15:18
 ---
 # The Capitalist Manifesto
 
@@ -109,7 +109,7 @@ Not much, it is a positive and chill book to read.
  
 - In the world as a whole, the amount of energy required to produce a unit of GDP decreased by 36 per cent between 1990 and 2018.
  
-- The world’s states spent a total of $440 billion on fossil fuel subsidies in 2021, mainly involving large developing countries such as China, India and Iran. That’s almost ten billion every day.
+- The world’s states spent a total of USD 440 billion on fossil fuel subsidies in 2021, mainly involving large developing countries such as China, India and Iran. That’s almost ten billion every day.
  
 - The problem with assessing our level of loneliness is that we tend to interpret the difficulties we all experience with relationships and relatives as a sign that such connections have fallen into disrepair, and that there must have been a better time or place when we all lived in more harmonious relationships.
  

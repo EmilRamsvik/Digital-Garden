@@ -17,7 +17,7 @@ tags:
   - prices
   - taxes
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:10
+updated: 2025-11-03T15:12
 ---
 # Basic Economics
 
@@ -95,7 +95,7 @@ However, I am not completely convinced that this is a black-and-white matter, co
 
 - It is also true that unemployed Americans spend more time per day looking for work—more than four times as much time as unemployed workers in Germany, Britain or Sweden.
 
-- A tourist in New York’s Greenwich Village decided to have his portrait sketched by a sidewalk artist. He received a very fine sketch, for which he was charged $100. “That’s expensive,” he said to the artist, “but I’ll pay it, because it is a great sketch. But, really, it took you only five minutes.” “Twenty years and five minutes,” the artist replied.
+- A tourist in New York’s Greenwich Village decided to have his portrait sketched by a sidewalk artist. He received a very fine sketch, for which he was charged USD 100. “That’s expensive,” he said to the artist, “but I’ll pay it, because it is a great sketch. But, really, it took you only five minutes.” “Twenty years and five minutes,” the artist replied.
 
 - Risk-taking is the mother’s milk of capitalism.
 
@@ -133,7 +133,7 @@ However, I am not completely convinced that this is a black-and-white matter, co
 
 - Politicians lack the courage to privatize the huge, loss-making public sector because they are afraid to lose the vote of organized labor. They resist dismantling subsidies for power, fertilizers, and water because they fear the crucial farm vote. They won’t touch food subsidies because of the massive poor vote. They will not remove thousands of inspectors in the state governments, who continuously harass private businesses, because they don’t want to alienate government servants’ vote bank. Meanwhile, these giveaways play havoc with state finances and add to our disgraceful fiscal deficit. Unless the deficit comes under control, the nation will not be more competitive; nor will the growth rate rise further to 8 and 9 percent, which is what is needed to create jobs and improve the chances of the majority of our people to actualize their capabilities in a reasonably short time.
 
-- In 2002, the Congress of the United States passed a farm subsidy bill—with bipartisan support—that has been estimated to cost the average American family more than $4,000 over the next decade in inflated food prices.
+- In 2002, the Congress of the United States passed a farm subsidy bill—with bipartisan support—that has been estimated to cost the average American family more than USD 4,000 over the next decade in inflated food prices.
 
 - Facts are stubborn things; and whatever may be our wishes, our inclinations, or the dictates of our passions, they cannot alter the state of facts and evidence. John Adams
 

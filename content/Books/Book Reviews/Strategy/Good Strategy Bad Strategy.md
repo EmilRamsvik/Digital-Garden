@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:13
+updated: 2025-11-03T15:18
 Pages:
 Author:
 finished: false
@@ -43,7 +43,7 @@ After reading this book in late 2023, i do find it quite facinating in retrospec
  
 - Bad strategy is more than just the absence of good strategy. Bad strategy has a life and logic of its own, a false edifice built on mistaken foundations.
  
-- Jobs about his approach to turning Apple around. He explained both the substance and coherence of his insight with a few sentences: The product lineup was too complicated and the company was bleeding cash. A friend of the family asked me which Apple computer she should buy. She couldn’t figure out the differences among them and I couldn’t give her clear guidance, either. I was appalled that there was no Apple consumer computer priced under $2,000. We are replacing all of those desktop computers with one, the Power Mac G3. We are dropping five of six national retailers—meeting their demand has meant too many models at too many price points and too much markup.
+- Jobs about his approach to turning Apple around. He explained both the substance and coherence of his insight with a few sentences: The product lineup was too complicated and the company was bleeding cash. A friend of the family asked me which Apple computer she should buy. She couldn’t figure out the differences among them and I couldn’t give her clear guidance, either. I was appalled that there was no Apple consumer computer priced under USD 2,000. We are replacing all of those desktop computers with one, the Power Mac G3. We are dropping five of six national retailers—meeting their demand has meant too many models at too many price points and too much markup.
  
 - Most complex organizations spread rather than concentrate resources, acting to placate and pay off internal and external interests. Thus, we are surprised when a complex organization, such as Apple or the U.S. Army, actually focuses its actions. Not because of secrecy, but because good strategy itself is unexpected.
  

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:05
+updated: 2025-11-03T15:18
 Pages: 317
 Author: Jennifer Pahlka
 finished: true
@@ -50,7 +50,7 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - Joe Soss, a professor of political science at the University of Minnesota, found in the 1990s that participating in means-tested programs—benefits that you must prove that you are poor enough to qualify for—significantly reduces the chance you will vote.
  
-- By July 2020, the state’s unemployment insurance had paid out about $50 billion since the lockdowns began, and about 4.4 million Californians were receiving benefits.
+- By July 2020, the state’s unemployment insurance had paid out about USD 50 billion since the lockdowns began, and about 4.4 million Californians were receiving benefits.
  
 - Applicants were calling the EDD in record numbers, but only a tiny fraction of the calls were even being answered (I would later learn it was about one in a thousand) and when calls did get picked up it was by newly hired staffers who had no training or access to EDD systems and could only encourage the callers to continue to wait.
  
@@ -133,7 +133,7 @@ I am getting more and more convinced that waterfall and agile are not about team
  
 - The family members, unsurprisingly, experienced all of this supposed “support” as surveillance and control.
  
-- Dave Guarino, one of the three creators of GetCalFresh, says that technocrats’ desire for a comprehensive screener is a misunderstanding of client needs. The way he recommends screening clients instead is very simple: “Made less than $X last month? You may be eligible.”
+- Dave Guarino, one of the three creators of GetCalFresh, says that technocrats’ desire for a comprehensive screener is a misunderstanding of client needs. The way he recommends screening clients instead is very simple: “Made less than USD X last month? You may be eligible.”
  
 - “You know what high-precision accuracy requires?” Dave asks. “A really high-burden, complex form that starts to resemble a full application.”
  

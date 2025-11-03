@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-09T19:24
+updated: 2025-11-03T15:18
 Pages: 320
 Author: Marty Seldman
 finished: true
@@ -171,11 +171,11 @@ Being nice to people and listening to their worries and their problems is crucia
  
 - Barron’s “Executive Excess 2003” study found that the highest-paid CEOs had the most mediocre performance and greatest pay inequity. Among fifty companies with the most layoffs and underfunded pensions, CEOs earned paychecks that surged 44 percent the next year, compared with a median 6 percent pay increase in other organizations.
  
-- Jim Hightower’s Thieves in High Places reports that the twenty-five companies with the highest-paid CEOs, COOs, and CFOs in the years from 1999 to 2003 (with salaries totaling $23 billion) saw their stock plummet 75 percent, prompting Fortune magazine to call the list “the twenty-five companies with the greediest executives.”
+- Jim Hightower’s Thieves in High Places reports that the twenty-five companies with the highest-paid CEOs, COOs, and CFOs in the years from 1999 to 2003 (with salaries totaling USD 23 billion) saw their stock plummet 75 percent, prompting Fortune magazine to call the list “the twenty-five companies with the greediest executives.”
  
 - You may incredulously ask, “Why do these people think it’s OK to break the rules?” The answer is—because they can! Some people cynically believe that breaking rules is resourceful, enterprising, and creative.
  
-- David Geffen, now worth almost $4 billion through his DreamWorks brainchild, falsely told William Morris Agency he’d graduated UCLA after discovering that a college degree was required for advancement. He then intercepted and destroyed a letter sent by UCLA to set the record straight.
+- David Geffen, now worth almost USD 4 billion through his DreamWorks brainchild, falsely told William Morris Agency he’d graduated UCLA after discovering that a college degree was required for advancement. He then intercepted and destroyed a letter sent by UCLA to set the record straight.
  
 - Someone once asked Willie Sutton, the famous bank robber, why he robbed banks. Willie replied, “That’s where the money is.”
  

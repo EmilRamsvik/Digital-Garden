@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-09T19:30
+updated: 2025-11-03T15:11
 Pages: 240
 Author: Edward Demming
 finished: true
@@ -38,7 +38,7 @@ and Robert Pirzigs reflections on quality.
  
 - Have we been living on fat? Some countries live in part by export of nonrenewable materials such as oil, coal, iron ore, copper, aluminum, scrap metal. These are temporary blessings: they can not last forever. To live on gifts, credit, or borrowed money is not a long-term solution, either.
  
-- One of our best exports, one that brings in dollars, is materials for war. We could greatly expand this income but for moral reasons. American aircraft have about 70 per cent of the world market, and bring in huge amounts of dollars. Another important export is scrap metal. We can't use it, so we sell it. The Japanese paid us about 18 cents for the metal in the microphone that I use in lectures. We buy the metal back from them in the form of a microphone for $2000, possibly $1800—value added!
+- One of our best exports, one that brings in dollars, is materials for war. We could greatly expand this income but for moral reasons. American aircraft have about 70 per cent of the world market, and bring in huge amounts of dollars. Another important export is scrap metal. We can't use it, so we sell it. The Japanese paid us about 18 cents for the metal in the microphone that I use in lectures. We buy the metal back from them in the form of a microphone for 2000, possibly 1800—value added!
  
 - People are asking for better schools, with no clear idea how to improve education, nor even how to define improvement of education.
  

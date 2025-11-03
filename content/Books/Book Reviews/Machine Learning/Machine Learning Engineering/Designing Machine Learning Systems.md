@@ -17,7 +17,7 @@ tags:
   - system-thinking
 finished: true
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:01
+updated: 2025-11-03T15:18
 ---
 # Designing Machine Learning Systems
 
@@ -48,7 +48,7 @@ Data scientists in small companies, preferably before you get too much experienc
  
 - Deciding how much to charge for your product or service is probably one of the hardest business decisions; why not let ML do it for you? Price optimization is the process of estimating a price at a certain time period to maximize a defined objective function, such as the company’s margin, revenue, or growth rate. ML-based pricing optimization is most suitable for cases with a large number of transactions where demand fluctuates and consumers are willing to pay a dynamic price—
  
-- Acquiring a new user is expensive. As of 2019, the average cost for an app to acquire a user who’ll make an in-app purchase is $86.61.9 The acquisition cost for Lyft is estimated at $158/rider. This cost is so much higher for enterprise customers. Customer acquisition cost is hailed by investors as a startup killer.
+- Acquiring a new user is expensive. As of 2019, the average cost for an app to acquire a user who’ll make an in-app purchase is USD 86.61.9 The acquisition cost for Lyft is estimated at USD 158/rider. This cost is so much higher for enterprise customers. Customer acquisition cost is hailed by investors as a startup killer.
  
 - Typically, the percentiles you’ll want to look at are p90, p95, and p99. The 90th percentile (p90) for the 10 requests above is 3,000 ms, which is an outlier.
  

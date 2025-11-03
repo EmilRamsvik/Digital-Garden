@@ -20,7 +20,7 @@ tags:
   - trading
   - wall-street
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:10
+updated: 2025-11-03T15:18
 ---
 # The Quants
 
@@ -68,7 +68,7 @@ I did think the random walk vs. chaos theory models of the market was quite inte
  
 - Griffin started trading, and calling everyone on Wall Street who would speak with him. A typical reaction: “You’re running two hundred grand out of your dorm room? Don’t ever call me again.” Slam.
  
-- Griffin set up shop in Chicago in late 1989 with his $1 million in play dough, and was quickly making money hand over fist trading convertibles with his handcrafted software program. In his first year of trading, Griffin posted a whopping 70 percent return. Impressed, Meyer decided to help Griffin launch his own fund. He thought about other funds with similar strategies, and that’s when Ed Thorp came to mind.
+- Griffin set up shop in Chicago in late 1989 with his USD 1 million in play dough, and was quickly making money hand over fist trading convertibles with his handcrafted software program. In his first year of trading, Griffin posted a whopping 70 percent return. Impressed, Meyer decided to help Griffin launch his own fund. He thought about other funds with similar strategies, and that’s when Ed Thorp came to mind.
  
 - Before the interview, Muller made a pit stop in the men’s bathroom and was horrified by what he saw: a cigarette butt. A compulsive neat freak and health nut, Muller despised cigarettes. The butt was nearly a deal killer. He thought about canceling the interview. There was simply no way he would work in an office where people smoked.
  
@@ -128,7 +128,7 @@ I did think the random walk vs. chaos theory models of the market was quite inte
  
 - The SEC complied. It also decided to rely on the banks’ own quantitative models to determine how risky their investments were. In essence, in a move that would come to haunt not just the agency but the entire economy, the SEC outsourced oversight of the nation’s largest financial firms to the banks’ quants.
  
-- All the bad news made it clear that many CDOs were worth far less than most had thought. The losses proved jaw-droppingly large. Later that year, Morgan took a loss of $7.8 billion, much of it from Hubler’s desk.
+- All the bad news made it clear that many CDOs were worth far less than most had thought. The losses proved jaw-droppingly large. Later that year, Morgan took a loss of USD 7.8 billion, much of it from Hubler’s desk.
  
 - Citadel, AQR, and Saba believed they were the smart guys in the room and had either hedged against losses or were on the right side of the trade and were poised to cash in.
  
@@ -146,7 +146,7 @@ I did think the random walk vs. chaos theory models of the market was quite inte
  
 - Someone raised a hand. “We hear everything you’re saying, Dick. But talk is cheap. Acting is louder than words. When are you going to buy a million shares?” Fuld didn’t miss a beat. “When Kathy sells some art.” Fuld was referring to his wife, Kathy Fuld, known for her expensive art collection. Was he joking? Some wondered. Fuld wasn’t laughing. There was the classic furrowed brow. It was a moment when some of Lehman’s top lieutenants started to wonder in earnest whether Lehman was in fact doomed. Their CEO seemed detached from reality. When Kathy sells some art?
  
-- For more than a year, Greenspan had argued time and again that he wasn’t to blame for the meltdown. Several weeks earlier, President George W. Bush had signed a $700 billion government bailout plan for a financial industry devastated by the housing market’s collapse. In July, Bush had delivered a blunt diagnosis for the troubles in the financial system. “Wall Street got drunk,” Bush said at a Republican fund-raiser in Houston. “It got drunk, and now it’s got a hangover. The question is, how long will it sober up and not try to do all these fancy financial instruments?” The credit meltdown of late 2008 had shocked the world with its intensity. The fear spread far beyond Wall Street, triggering sharp downturns in global trade and battering the world’s economic engine. On Capitol Hill, the government’s finger-pointing machinery cranked up to full throttle. Among the first called to account: Greenspan. Greenspan, many in Congress believed, had been
+- For more than a year, Greenspan had argued time and again that he wasn’t to blame for the meltdown. Several weeks earlier, President George W. Bush had signed a USD 700 billion government bailout plan for a financial industry devastated by the housing market’s collapse. In July, Bush had delivered a blunt diagnosis for the troubles in the financial system. “Wall Street got drunk,” Bush said at a Republican fund-raiser in Houston. “It got drunk, and now it’s got a hangover. The question is, how long will it sober up and not try to do all these fancy financial instruments?” The credit meltdown of late 2008 had shocked the world with its intensity. The fear spread far beyond Wall Street, triggering sharp downturns in global trade and battering the world’s economic engine. On Capitol Hill, the government’s finger-pointing machinery cranked up to full throttle. Among the first called to account: Greenspan. Greenspan, many in Congress believed, had been
  
 - Greenspan’s confession was stunning. It marked a dramatic shift for the eighty-two-year-old banker who for so long had been hailed variously as the most powerful man on the planet and the wise central banker with a Midas touch. In a May 2005 speech he’d hailed the system he now doubted.
  

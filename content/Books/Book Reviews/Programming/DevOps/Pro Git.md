@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-10-24T09:40
+updated: 2025-11-03T15:18
 Pages: 440
 Author: Scott Chacon
 finished: true
@@ -116,7 +116,7 @@ Leanring git well helps a lot when it comes to project management, debugging and
  
 - Stashing takes the dirty state of your working directory - that is, your modified tracked files and staged changes - and saves it on a stack of unfinished changes that you can reapply at any time.
  
-- You only want to modify your last commit message, it's very simple: $ git commit --amend
+- You only want to modify your last commit message, it's very simple: USD  git commit --amend
  
 - So, if you see that a method in your code is buggy, you can annotate the file with git blame to see when each line of the method was last edited and by whom. This
  

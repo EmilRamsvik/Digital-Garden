@@ -16,7 +16,7 @@ tags:
   - software-development
   - tools
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:06
+updated: 2025-11-03T15:18
 ---
 # Learn Google Flutter Fast
 
@@ -43,5 +43,5 @@ None
  
 - [This is an excellent article on creating application icons](https://medium.com/@psyanite/how-to-add-app-launcher-icons-in-flutter-bdbea) This article shows how you can setup a development dependency to a package that generates the required images for your project.
  
-- [I used this article as my guide when I published my first Flutter Android App](https://flutter.dev/docs/deployment/android) Below are some notes from my experience. Cost Before doing anything, you need to pay Google $ to publish to the Google Play store. Flutter Build Apks I had many issues building a bundle, so I ended up building two apks for two different architectures. The article above tells the user to build different apks for different target platforms using the command below. However, I could not get this to work until I changed the Flutter channel to ‘master’.
+- [I used this article as my guide when I published my first Flutter Android App](https://flutter.dev/docs/deployment/android) Below are some notes from my experience. Cost Before doing anything, you need to pay Google USD  to publish to the Google Play store. Flutter Build Apks I had many issues building a bundle, so I ended up building two apks for two different architectures. The article above tells the user to build different apks for different target platforms using the command below. However, I could not get this to work until I changed the Flutter channel to ‘master’.
  

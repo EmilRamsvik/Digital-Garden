@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:03
+updated: 2025-11-03T15:18
 Pages: 294
 Author: Robert Jackall
 finished: true
@@ -88,7 +88,7 @@ The jokes are a way of enlightening hypocrisy.
 - Many managers also note with irony that they work hardest, that is, put in the most hours, when economic times are bad, when even they see few practical results for their efforts. They do not do so because they actually expect their hours of work to produce an economic boom; rather, they know that, unless they are seen toiling with other managers, they might not be around when the good times start to roll.
 - A managerial commonplace says: “In the corporate world, 1,000 ‘Attaboys’ are wiped away with one ‘Oh, shit!’”
  
-- The total bill, including lawsuits and now federally mandated repairs to the battery, exceeded $100 million. I have heard figures as high as $150 million, but because of “creative accounting,” no one is sure of the exact amount.
+- The total bill, including lawsuits and now federally mandated repairs to the battery, exceeded USD 100 million. I have heard figures as high as USD 150 million, but because of “creative accounting,” no one is sure of the exact amount.
  
 - American managers seem regularly to look to the short term rather than the long run. There are several reasons for this. First, in the last few decades, there has been an ascendancy of professional managers in the corporate world whose habit of mind, honed by MBA programs, scores of managerial seminars, and a voluminous and ever-growing literature, stresses the quick turnaround of ailing businesses, deal-making both to unload businesses slow to respond to such ministrations and to acquire “winners,” and, of course, the concomitant rapid prospering of one’s own career.
  

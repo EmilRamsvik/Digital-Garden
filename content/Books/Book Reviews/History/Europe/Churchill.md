@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-10-23T14:53
+updated: 2025-11-03T15:18
 Pages: 1150
 Author: Andrew Roberts
 finished: true
@@ -317,7 +317,7 @@ Churchill was an imperialist, leave no doubt about that. He lived for the Britis
  
 - It was hard to see how British strategic interests were served by aiding Greece, but on being informed that Athens had been bombed Churchill replied without hesitation, ‘Then we must bomb Rome.’ (‘Rome will not be unbuilt in a day,’ he told a Tory MP.
  
-- With Roosevelt safely re-elected, Churchill sent him a telegram on 16 November that he later described as ‘one of the most important I ever wrote’, asking for arms to be lent or leased to Britain under a programme whereby Britain would repay the United States over the very long term. (Even he would probably not have guessed that the final instalment of the loan, of $83.25 million, would only be repaid in 2006.
+- With Roosevelt safely re-elected, Churchill sent him a telegram on 16 November that he later described as ‘one of the most important I ever wrote’, asking for arms to be lent or leased to Britain under a programme whereby Britain would repay the United States over the very long term. (Even he would probably not have guessed that the final instalment of the loan, of USD 83.25 million, would only be repaid in 2006.
  
 - Cripps could not be moved from Moscow as ‘He is a lunatic in a country of lunatics, and it would be a pity to move him.’
  

@@ -15,7 +15,7 @@ tags:
   - world-war-II
   - world-war-ii
 created: 2024-01-06T15:04
-updated: 2025-09-09T19:27
+updated: 2025-11-03T15:18
 ---
 
 # How the war was Won
@@ -78,7 +78,7 @@ One thing I learned later in [Turn the Ship Around](../../Communication/Leadersh
 
 - During 1943, the construction of anti-aircraft guns made up 28 % of German weapons production, or almost 3 % of overall munitions output. These weapons also consumed a massive amount of German ammunition production, which was the second highest category of munitions production in Germany after aircraft. Between January 1943 and September 1944, antiaircraft ammunition made up about 17 % of overall German ammunition production. As ammunition production made up approximately 30 % of German munitions output, producing ammunition for anti-aircraft guns in 1943 would have been almost 5 % of overall output – so that building and arming anti-aircraft weaponry in 1943 would have been approximately 7 % of overall German munitions output. This would have put it almost exactly on a par with German AFV production (not including ammunition) for the year.
 
-- Beyond that, the damage wrought by a small number of German submarines in early 1942, much of which was the result of conscious choices, resulted in many billions of dollars being spent on both escort vessels and merchant ships in late 1942 and 1943 Spending on each was increased by at least a combined figure of $3 billion in late 1942 ($1.8 billion extra for merchant ships and $1 billion extra for small naval vessels). These billions, especially for the huge number of new escort vessels, were to a large degree wasted, even if that wasn’t realized when they were allocated. By the summer of 1943, it was clear that a drastic over-production of escort vessels had been undertaken.
+- Beyond that, the damage wrought by a small number of German submarines in early 1942, much of which was the result of conscious choices, resulted in many billions of dollars being spent on both escort vessels and merchant ships in late 1942 and 1943 Spending on each was increased by at least a combined figure of USD 3 billion in late 1942 (USD 1.8 billion extra for merchant ships and USD 1 billion extra for small naval vessels). These billions, especially for the huge number of new escort vessels, were to a large degree wasted, even if that wasn’t realized when they were allocated. By the summer of 1943, it was clear that a drastic over-production of escort vessels had been undertaken.
 
 - This simple fact of speed differential should also help correct one of the other misunderstandings about the war at sea, and that is the relative uniformity of merchant tonnage The tonnage that the Germans were able to sink for much of the war was older, unescorted vessels or ships that were taking part in slower convoys. The loss of such vessels, while serious, was being made up by new construction that was considerably faster, such as the Liberty ships. The tonnage of these newer, faster vessels was worth considerably more than the tonnage of older, slower ships. Not only could they bring goods and supplies across the Atlantic more quickly, they were inherently safer. For instance, between October 1942 and May 1943, the faster convoys (those averaging around 9 knots) suffered a 50 % smaller casualty rate than slower convoys (those averaging around 7 knots), even when they were attacked at approximately the same rate.
 

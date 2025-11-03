@@ -21,7 +21,7 @@ tags:
   - sustainability
   - technology
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:04
+updated: 2025-11-03T15:18
 ---
 # How the World Really Works
 
@@ -168,7 +168,7 @@ I did not think it was such a huge scale everything, and how insanely important 
  
 - Tension is a different matter: a pulling force of just 2 to 5 megapascals (less than it takes to tear human skin) can break concrete apart.
  
-- But during the second decade of the 21st century, China averaged about $230 billion of foreign direct investment a year, compared to less than $50 billion for India and just around $40 billion for all of sub-Saharan Africa (excluding South Africa).
+- But during the second decade of the 21st century, China averaged about USD 230 billion of foreign direct investment a year, compared to less than USD 50 billion for India and just around USD 40 billion for all of sub-Saharan Africa (excluding South Africa).
  
 - Cassius Dio wrote in 116 CE how the emperor Trajan, during his temporary occupation of Mesopotamia, stood at the Persian Gulf’s shore watching a ship leaving for India and wishing that he were as young as Alexander, who had led his armies to that faraway country.
  

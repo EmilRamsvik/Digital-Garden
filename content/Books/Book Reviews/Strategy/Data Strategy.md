@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:13
+updated: 2025-11-03T15:18
 Pages:
 Author:
 finished: false
@@ -38,7 +38,7 @@ Execution is to practice, as strategy is to theory.
  
 - In 2012 Cynthia Montgomery published a book anyone interested in strategy should know well as a great starting point to understand its purpose – The Strategist.
  
-- IBM has estimated that bad data costs US companies $3.1 trillion a year, equating to 12 per cent of revenue.
+- IBM has estimated that bad data costs US companies USD 3.1 trillion a year, equating to 12 per cent of revenue.
  
 - ‘Data is great, but strategy is better!’ Steven Sinofsky
  

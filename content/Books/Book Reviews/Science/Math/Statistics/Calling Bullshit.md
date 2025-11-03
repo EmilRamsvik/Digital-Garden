@@ -18,7 +18,7 @@ tags:
   - scepticism
   - science
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:04
+updated: 2025-11-03T15:13
 ---
 # Calling Bullshit
 
@@ -108,7 +108,7 @@ I have seen their course already, but it was a good refresher.
  
 - “The point of modern propaganda isn’t only to misinform or push an agenda. It is to exhaust your critical thinking, to annihilate truth.”
  
-- In the final days of the 2016 US election, Barack Obama talked extensively about the fake news factories in Macedonia. The people running these factories—often teenagers—created at least 140 popular fake news websites during the election. When a story went viral, it generated huge advertising revenues for the site owners. Some of them were making in excess of $5,000 per month, compared with the average Macedonian monthly salary of $371.
+- In the final days of the 2016 US election, Barack Obama talked extensively about the fake news factories in Macedonia. The people running these factories—often teenagers—created at least 140 popular fake news websites during the election. When a story went viral, it generated huge advertising revenues for the site owners. Some of them were making in excess of USD 5,000 per month, compared with the average Macedonian monthly salary of USD 371.
  
 - By 2018, Facebook had over two billion legitimate users—but in the same year deleted even more fake accounts: nearly three billion
  
@@ -183,7 +183,7 @@ I have seen their course already, but it was a good refresher.
  
 - We should stress that a sample does not need to be completely random in order to be useful. It just needs to be random with respect to whatever we are asking about.
  
-- The ad copy could equivalently read, “Some people will see their insurance premiums go up if they switch to GEICO. Other people will see their premiums stay about the same. Yet others will see their premiums drop. Of these, a few people will see their premiums drop a lot. Of those who see a substantial drop, the average savings is $500.”
+- The ad copy could equivalently read, “Some people will see their insurance premiums go up if they switch to GEICO. Other people will see their premiums stay about the same. Yet others will see their premiums drop. Of these, a few people will see their premiums drop a lot. Of those who see a substantial drop, the average savings is USD 500.”
  
 - One of the most important rules for spotting bullshit: If something seems too good or too bad to be true, it probably is.
  

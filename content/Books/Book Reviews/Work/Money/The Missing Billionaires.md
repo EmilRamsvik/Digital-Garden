@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:08
+updated: 2025-11-03T15:18
 Pages: 416
 Author: Victor Haghani
 finished: true
@@ -62,7 +62,7 @@ Another interesting aspect is risk in relation to your happiness. If you are dee
  
 - The optimal bet size, expressed as a fraction of wealth, is directly proportional to the gamble's expected return, and inversely proportional to its variance and to your personal degree of risk‐aversion.
  
-- Kelly was thinking about the optimal amount of wealth to bet on a binary gamble and concluded, as we did at the beginning of this chapter, that optimizing expected wealth makes no sense. Instead, he proposed optimizing the rate of growth of wealth. He wrote a mathematical expression for the wealth growth rate as a function of the terms of the bet and from that derived a formula for the optimal bet size that maximizes it, which has since become known as the Kelly criterion: where “edge” is the ratio of expected gain to potential loss, and “odds” is the ratio of potential gain to potential loss.g For example, risking $10 to make $30 represents “odds” of 3.
+- Kelly was thinking about the optimal amount of wealth to bet on a binary gamble and concluded, as we did at the beginning of this chapter, that optimizing expected wealth makes no sense. Instead, he proposed optimizing the rate of growth of wealth. He wrote a mathematical expression for the wealth growth rate as a function of the terms of the bet and from that derived a formula for the optimal bet size that maximizes it, which has since become known as the Kelly criterion: where “edge” is the ratio of expected gain to potential loss, and “odds” is the ratio of potential gain to potential loss.g For example, risking USD 10 to make USD 30 represents “odds” of 3.
  
 - Standard deviation captures risk relative to an expected return, not risk of loss, which some believe is the main type of risk investors should care about.
  

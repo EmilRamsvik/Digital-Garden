@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:01
+updated: 2025-11-03T15:18
 Pages:
 Author:
 finished: true
@@ -39,7 +39,7 @@ I found 2 things quite interesting in this topic.
  
 - Perhaps the common “because . . . just because” response of children asked to explain their behavior can be traced to their shrewd recognition of the unusual amount of power adults appear to assign to the word because.
  
-- In marketing lore, the classic case of this phenomenon is that of Chivas Regal Scotch Whiskey, which had been a struggling brand until its managers decided to raise its price to a level far above its competitors. Sales skyrocketed, even though nothing was changed in the product itself (Aaker, 1991). A recent brain-scan study helps explain why. When tasting the same wine, participants not only rated themselves as experiencing more pleasure if they thought it cost $45 versus $5, their brain centers associated with pleasure became more activated by the experience as well .
+- In marketing lore, the classic case of this phenomenon is that of Chivas Regal Scotch Whiskey, which had been a struggling brand until its managers decided to raise its price to a level far above its competitors. Sales skyrocketed, even though nothing was changed in the product itself (Aaker, 1991). A recent brain-scan study helps explain why. When tasting the same wine, participants not only rated themselves as experiencing more pleasure if they thought it cost USD 45 versus USD 5, their brain centers associated with pleasure became more activated by the experience as well .
 - Japanese proverb makes this point eloquently: “There’s nothing more expensive than that which comes for free.”
  
 - Termed judgmental heuristics, these shortcuts operate in much the same fashion as the expensive = good rule, allowing for simplified thinking that works well most of the time but leaves us open to occasional, costly mistakes. Especially relevant to this book are those heuristics that tell us when to believe or do what we are told.

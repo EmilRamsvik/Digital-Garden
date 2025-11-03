@@ -1,6 +1,6 @@
 ---
 created: 2025-10-23 16:06
-updated: 2025-10-24T09:22
+updated: 2025-11-03T15:11
 Pages:
 Author: " Nick Maggiulli"
 tags:
@@ -56,7 +56,7 @@ All these things are financial toolsl such as debt, stocks, bond. We need to und
  
 - The first tip is what I call The 2x Rule. The 2x Rule works like this: Anytime I want to splurge on something, I have to take the same amount of money and invest it as well. 
  
-- If we also assume that each investor needs 25x of their annual spending to retire comfortably, then Annie requires $1.25 million, while Bobby will require $2.25 million to retire. 
+- If we also assume that each investor needs 25x of their annual spending to retire comfortably, then Annie requires 1.25 million, while Bobby will require 2.25 million to retire. 
  
 - Despite all the complicated theory, assumptions, and analysis shown above, I suggest that you save 50% of your raises simply because this is what will work for most people most of the time. 
  
@@ -76,7 +76,7 @@ All these things are financial toolsl such as debt, stocks, bond. We need to und
  
 - Individuals who saw the older versions of themselves allocated about 2% more of their pay (on average) to retirement than people who didn’t see such photos.⁶¹ This suggests that seeing a realistic older version of yourself may be helpful in encouraging long-term investing behavior. 
  
-- “Americans are getting stronger. Twenty years ago, it took two people to carry $10 worth of groceries. Today, a five-year old could do it.” 
+- “Americans are getting stronger. Twenty years ago, it took two people to carry USD 10 worth of groceries. Today, a five-year old could do it.” 
  
 - Despite all the praise that I have just given to stocks, they are not for the faint of heart. In fact, you should expect to see a 50%+ price decline a couple times a century, a 30% decline once every four to five years, and a 10% price decline at least every other year. 
  

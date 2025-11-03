@@ -17,7 +17,7 @@ tags:
   - shipping
   - trade
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:06
+updated: 2025-11-03T15:18
 ---
 # The Box 
 ### How the Shipping Container Made the World Smaller and the World Economy Bigger
@@ -54,7 +54,7 @@ I was particularly astonished by the fact that the longshoremen union was such a
 - The second problem arising from dockworkers’ intense suspicion of employers was resistance to anything that might eliminate jobs.
 - After four months of hearings in 1931, the commission ruled weight-based rates illegal. Although it found the container to be “a commendable piece of equipment,” the commission said that the railroads could not charge less to carry a container than to carry the equivalent weight of the most expensive commodity inside the container. With that ruling, containers no longer made economic sense on the rails.
 - The entire merchant fleet had been commandeered by the government when the United States entered the war, and many ships did not revert to private control until July 1947, almost two years after the war ended.
-- Loading loose cargo on a medium-size cargo ship cost $5.83 per ton in 1956. McLean’s experts pegged the cost of loading the Ideal-X at 15.8 cents per ton. With numbers like that, the container seemed to have a future.
+- Loading loose cargo on a medium-size cargo ship cost USD 5.83 per ton in 1956. McLean’s experts pegged the cost of loading the Ideal-X at 15.8 cents per ton. With numbers like that, the container seemed to have a future.
 - Malcom McLean’s fundamental insight, commonplace today but quite radical in the 1950s, was that the shipping industry’s business was moving cargo, not sailing ships.
 - It offered to eliminate one or two longshoremen from each gang. In return, it sought a six-hour workday and a requirement that every container, whatever its origin, be “stripped and stuffed”—that is, emptied and then reloaded—by ILA members on the pier. Stripping and stuffing, of course, were entirely make-work, and would have eliminated any cost savings from containerization.
 - The United States Maritime Administration decided in 1958 to put an end to this incipient anarchy. Marad, as it was known, was an obscure government agency, but it held enormous power over the maritime industry.
@@ -62,6 +62,6 @@ I was particularly astonished by the fact that the longshoremen union was such a
 - Piggyback, like almost every innovation in transportation during that era, faced a very large obstacle: the Interstate Commerce Commission.
 - The costliest merchant ships ever built were also the thirstiest, each burning five hundred tons of fuel per day. At full speed, they consumed three times as much fuel per container as competitors’ vessels.
 - When American President Lines studied the matter a few years later, it concluded that freight rates from Asia to North America had fallen 40 to 60 percent because of the container.
-- In 2004, nonfarm inventories in the United States were about $1 trillion lower than they would have been had they stayed at the level of the 1980s, relative to sales. Assume that the money needed to finance those inventories would have to be borrowed at 8 or 9 percent, and inventory reductions are saving U.S. businesses $80-$90 billion per year.
+- In 2004, nonfarm inventories in the United States were about USD 1 trillion lower than they would have been had they stayed at the level of the 1980s, relative to sales. Assume that the money needed to finance those inventories would have to be borrowed at 8 or 9 percent, and inventory reductions are saving U.S. businesses USD 80-USD 90 billion per year.
 - Conversely, African countries with inefficient ports and little containership service are at such a transport-cost disadvantage that even rock-bottom labor costs will not attract investment in manufacturing.
 - When New York longshore leader Teddy Gleason warned in 1959 that the container would eliminate 30 percent of his union’s jobs in New York, he was simply wrong: between 1963 and 1976, longshore hours worked in New York City fell by three-quarters.

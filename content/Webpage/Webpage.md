@@ -1,6 +1,6 @@
 ---
 created: 2023-12-04T13:14
-updated: 2025-09-02T10:19
+updated: 2025-11-03T15:18
 tags:
   - "#vercel"
   - article
@@ -58,7 +58,7 @@ I use react for creating components and therefore it seemed like a good choice t
 After I made the list, which was a text file, I had issues parsing the file in the react component (Also made quickly with LLM support). I then thought, why not use JSON instead. I also then could add a title. The script for making the list in JSON ended up looking like this: 
 ```bash
 #! /bin/bash
-find docs -type f -name "*.md" | sed 's/\.md$//' | awk -F/ -v q='"' 'BEGIN {
+find docs -type f -name "*.md" | sed 's/\.mdUSD //' | awk -F/ -v q='"' 'BEGIN {
     print "["
 }
 function join(array, start, end, sep,    result, i) {
@@ -70,10 +70,10 @@ function join(array, start, end, sep,    result, i) {
 }
 {
     # Replace spaces with %20 (URL encoding).
-    gsub(/ /, "%20", $0);
+    gsub(/ /, "%20", USD 0);
 
     # Split the path into parts.
-    n = split($0, parts, "/");
+    n = split(USD 0, parts, "/");
 
     # Determine the title.
     title = parts[n];
@@ -83,7 +83,7 @@ function join(array, start, end, sep,    result, i) {
     if (n > 1 && parts[n] == parts[n-1]) {
         path = join(parts, 1, n-1, "/");
     } else {
-        path = $0;
+        path = USD 0;
     }
 
     # Print the JSON object line.

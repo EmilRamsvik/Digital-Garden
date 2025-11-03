@@ -11,7 +11,7 @@ tags:
   - strategy
 Date Finished: 2023-10-22
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:02
+updated: 2025-11-03T15:18
 ---
 # Pricing and Revenue Optimization
 
@@ -36,7 +36,7 @@ Optimization problems related to pricing have in hindsight been quite an interes
  
 - For example, one article estimated that in 2018 Amazon changed 2.5 million prices every day*.
  
-- “Traditional price-sensitivity research can cost up to $300,000 for each product category and take anywhere from six to ten weeks to complete. . . . On the Internet, however, prices can be tested continually in real time, and customers’ responses can be instantly received”
+- “Traditional price-sensitivity research can cost up to USD 300,000 for each product category and take anywhere from six to ten weeks to complete. . . . On the Internet, however, prices can be tested continually in real time, and customers’ responses can be instantly received”
  
 - Because of this success, machine learning is often offered as a panacea for any complex business decision*.
  

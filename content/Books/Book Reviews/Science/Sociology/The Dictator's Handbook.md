@@ -17,7 +17,7 @@ tags:
   - strategy
   - system-thinking
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:03
+updated: 2025-11-03T15:18
 ---
 # The Dictator's Handbook
 
@@ -66,7 +66,7 @@ A good book to also consider is the [Seeing Like a State](Bureaucracy/Seeing%20L
 
 - Indeed, the word kleptocrat, meaning rule by theft, was coined to describe Mobutu’s style of governance.
 
-- Mr. Suharto, referred to by The Economist magazine as the king of kleptocrats, is alleged by Transparency International to have stolen up to $35 billion from his country. His late wife, Madame Tien, was often known as “Madame Tien percent.”
+- Mr. Suharto, referred to by The Economist magazine as the king of kleptocrats, is alleged by Transparency International to have stolen up to USD 35 billion from his country. His late wife, Madame Tien, was often known as “Madame Tien percent.”
 
 - The truth is, foreign aid deals have a logic of their own. Aid is decidedly not given primarily to alleviate poverty or misery; it is given to make the constituents in donor states better off. Aid’s
 

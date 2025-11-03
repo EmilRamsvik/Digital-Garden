@@ -17,7 +17,7 @@ tags:
   - time-management
   - work-life-balance
 created: 2024-01-06T15:04
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 ---
 # Four Thousand Weeks Time Management for Mortals
 
@@ -98,7 +98,7 @@ I have become a lot less attracted to optimizing my life, and instead being a bi
  
 - Philosopher Kieran Setiya calls an “atelic activity,” meaning that its value isn’t derived from its telos, or ultimate aim.
  
-- It has been calculated that if Amazon’s front page loaded one second more slowly, the company would lose $1.6 billion in annual sales.
+- It has been calculated that if Amazon’s front page loaded one second more slowly, the company would lose USD 1.6 billion in annual sales.
  
 - People complain that they no longer have “time to read,” but the reality, as the novelist Tim Parks has pointed out, is rarely that they literally can’t locate an empty half hour in the course of the day.
  

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:09
+updated: 2025-11-03T15:18
 Pages: 416
 Author: Jack Farthy
 finished: true
@@ -39,7 +39,7 @@ Not surprised by the lack of women in this field.
 - One thing there is not much of in the commodity trading industry is women.
 - As Jim Daley, a former head of oil trading at Marc Rich + Co, puts it: ‘Oil is just a form of money.’
  
-- In dollar terms, the world’s trade in manufactured goods and natural resources rose from less than $60 billion just after the Second World War to more than $17 trillion in 2017, a quarter of which was made up by commodities.
+- In dollar terms, the world’s trade in manufactured goods and natural resources rose from less than USD 60 billion just after the Second World War to more than USD 17 trillion in 2017, a quarter of which was made up by commodities.
  
 - The dominance of the large oil companies, known as the ‘Seven Sisters’, was loosened by the wave of nationalisations that swept the countries of the Middle East in the 1970s.
  
@@ -77,7 +77,7 @@ Not surprised by the lack of women in this field.
  
 - The naval fleet was sold for scrap, leading PepsiCo’s chairman to joke to the White House: ‘We’re disarming the Soviet Union faster than you are.’
  
-- Doing business in a collapsing economy forced the traders to improvise. They would hire whole jets for $20 an hour, loading up with cases of cigarettes and Johnnie Walker whisky, the only currency they could use to buy fuel at remote airports in struggling Siberian towns. They’d arrive at vast mines and smelters where the Soviet-era bosses – known as ‘red directors’ – would start morning meetings with a glass of vodka, or several.
+- Doing business in a collapsing economy forced the traders to improvise. They would hire whole jets for USD 20 an hour, loading up with cases of cigarettes and Johnnie Walker whisky, the only currency they could use to buy fuel at remote airports in struggling Siberian towns. They’d arrive at vast mines and smelters where the Soviet-era bosses – known as ‘red directors’ – would start morning meetings with a glass of vodka, or several.
  
 - The Russian press counted dozens of murders connected to the metal trade, and dubbed the struggle the ‘Great Patriotic Aluminium War’. The victims included both allies and competitors of Trans-World, though Reuben has always denied any hint that he or his partners had any role in the violence.
  
@@ -85,11 +85,11 @@ Not surprised by the lack of women in this field.
  
 - The amount of commodities that a country consumes is, for the most part, a function of two factors: the number of people in the country, and their income. The relationship with commodity demand isn’t a straight line, however.
  
-- As long as a country remains relatively poor, with annual per capita income below about $4,000, people spend most of their income on the basics they need to survive: food, clothes and housing.
+- As long as a country remains relatively poor, with annual per capita income below about USD 4,000, people spend most of their income on the basics they need to survive: food, clothes and housing.
  
-- As long as a country remains relatively poor, with annual per capita income below about $4,000, people spend most of their income on the basics they need to survive: food, clothes and housing. What’s more, the governments of poor countries don’t have the money to make major investments in commodity-intensive public infrastructure, such as power plants and railways.
+- As long as a country remains relatively poor, with annual per capita income below about USD 4,000, people spend most of their income on the basics they need to survive: food, clothes and housing. What’s more, the governments of poor countries don’t have the money to make major investments in commodity-intensive public infrastructure, such as power plants and railways.
  
-- Once a nation’s income rises above roughly $18,000–$20,000 per capita, households spend any extra income on services that require relatively small amounts of commodities: better education and health, recreation and entertainment.
+- Once a nation’s income rises above roughly USD 18,000–USD 20,000 per capita, households spend any extra income on services that require relatively small amounts of commodities: better education and health, recreation and entertainment.
  
 - Commodity trading would soon supplant sports as the main focus of Glasenberg’s time and energy. Still, he ran the New York marathon in 1994, aged thirty-seven, in the respectable time of 3 hours, 34 minutes, and continued to compete in triathlons in Switzerland into his fifties.
  

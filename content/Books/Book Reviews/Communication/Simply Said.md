@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:11
+updated: 2025-11-03T15:18
 Pages:
 Author:
 finished: false
@@ -78,7 +78,7 @@ We are at work to get things done.
  
 - Ask questions that can’t be answered in one word. I avoid: “How many . . .” “How much . . .” and I ask very few “When’s.”  Instead, I ask: “What was it like?” “What did you think of. . . ?” “How did you decide to. . .?” and “Then, what happened?” I listen and respond with whatever comes naturally like: “Wow.” “Really!” “That sounds (tough, exciting, terrible, challenging).” and I follow up with another question.
  
-- Read the heading: “Acme’s Performance” Identify the type of graph: “Here we have a bar chart showing our sales performance compared to goal for last year.” Define the parameters: “Along the vertical, we have the sales in millions from $0 to $50 million. Along the horizontal, we have each month. The shaded bars represent our sales goals for each month. The solid bars represent our actual sales.” Explain the most important data points: “For the first six months, we exceeded our goals. In the second six months, we had mixed results.” Tell me the “so what” of your slide.
+- Read the heading: “Acme’s Performance” Identify the type of graph: “Here we have a bar chart showing our sales performance compared to goal for last year.” Define the parameters: “Along the vertical, we have the sales in millions from USD 0 to USD 50 million. Along the horizontal, we have each month. The shaded bars represent our sales goals for each month. The solid bars represent our actual sales.” Explain the most important data points: “For the first six months, we exceeded our goals. In the second six months, we had mixed results.” Tell me the “so what” of your slide.
  
 - Being a better communicator is about being present for and helpful to others.
  

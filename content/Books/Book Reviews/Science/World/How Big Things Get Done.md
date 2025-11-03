@@ -1,6 +1,6 @@
 ---
 created: 2023-10-29T15:52
-updated: 2025-09-02T10:04
+updated: 2025-11-03T15:18
 Pages: 304
 Author: Bent Flyvbjerg, Dan Gardner
 finished: true
@@ -53,7 +53,7 @@ Finally, the most significant reason projects fail is because the ones responsib
  
 - “When we were in full swing going up the main tower,” Lamb’s partner Richmond Shreve recalled, “things clicked with such precision that once we erected fourteen and a half floors in ten working days—steel, concrete, stone and all.”
  
-- The Empire State Building had been estimated to cost $50 million. It acually cost $41 million ($679 million in 2021). That’s 17 percent under budget, or $141 million in 2021 dollars. Construction finished several weeks before the opening ceremony.
+- The Empire State Building had been estimated to cost USD 50 million. It acually cost USD 41 million (USD 679 million in 2021). That’s 17 percent under budget, or USD 141 million in 2021 dollars. Construction finished several weeks before the opening ceremony.
  
 - I call the pattern followed by the Empire State Building and other successful projects “Think slow, act fast.”
  
@@ -147,11 +147,11 @@ Finally, the most significant reason projects fail is because the ones responsib
  
 - But the state decided not to go that way. Instead, it hired a large number of mostly inexperienced, mostly US contractors and oversaw them with managers who also had little or no experience with high-speed rail. That’s a terrible way to run a project. But it’s common—because it’s good politics.
  
-- A Canadian example is arguably even more egregious. When the Canadian government decided it wanted to buy two icebreakers, it didn’t buy them from manufacturers in other countries that were more experienced with building icebreakers, deciding instead to give the contracts to Canadian companies. That’s national politics. But rather than give the contracts to one company so that it could build one ship, learn from the experience, and deliver the second ship more efficiently, it gave one contract to one company and the other to another company. Splitting the contract “will not lead to these natural learning improvements,” noted a report by the parliamentary budget officer, Yves Giroux—a report that found that the estimated cost of the icebreakers had soared from $2.6 billion (Canadian) to $7.25 billion.
+- A Canadian example is arguably even more egregious. When the Canadian government decided it wanted to buy two icebreakers, it didn’t buy them from manufacturers in other countries that were more experienced with building icebreakers, deciding instead to give the contracts to Canadian companies. That’s national politics. But rather than give the contracts to one company so that it could build one ship, learn from the experience, and deliver the second ship more efficiently, it gave one contract to one company and the other to another company. Splitting the contract “will not lead to these natural learning improvements,” noted a report by the parliamentary budget officer, Yves Giroux—a report that found that the estimated cost of the icebreakers had soared from USD 2.6 billion (Canadian) to USD 7.25 billion.
  
 - But the first-mover advantage is greatly overstated. In a watershed study, researchers compared the fates of “pioneer” companies that had been the first to exploit a market and “settlers” that had followed the pioneers into the market.
  
-- Seattle placed a custom order and the machine was duly designed, built, and delivered. That cost $80 million, which is more than double the price of a standard boring machine. After boring a thousand feet of a tunnel that would be nine thousand feet long, the borer broke down and became the world’s biggest cork in a bottle. Extracting it from the tunnel, repairing it, and getting it back to work took two years and cost another $143 million. Seattle’s new underground highway, needless to say, was completed late and over budget, with pending litigation making further overruns likely. If the city had instead chosen to drill two standard-sized tunnels, it could have used off-the-shelf drilling equipment that had already been widely used and was therefore more reliable, and they could have hired teams experienced at running these machines. But politicians wouldn’t have been able to brag about the size of the tunnel.
+- Seattle placed a custom order and the machine was duly designed, built, and delivered. That cost USD 80 million, which is more than double the price of a standard boring machine. After boring a thousand feet of a tunnel that would be nine thousand feet long, the borer broke down and became the world’s biggest cork in a bottle. Extracting it from the tunnel, repairing it, and getting it back to work took two years and cost another USD 143 million. Seattle’s new underground highway, needless to say, was completed late and over budget, with pending litigation making further overruns likely. If the city had instead chosen to drill two standard-sized tunnels, it could have used off-the-shelf drilling equipment that had already been widely used and was therefore more reliable, and they could have hired teams experienced at running these machines. But politicians wouldn’t have been able to brag about the size of the tunnel.
  
 - The German philosopher Friedrich von Schelling called architecture “frozen music.”
  
@@ -261,9 +261,9 @@ Finally, the most significant reason projects fail is because the ones responsib
  
 - The technical term for this property is “scale free,” meaning that the thing is basically the same no matter what size it is. This gives you the magic of what I call “scale-free scalability,” meaning you can scale up or down following the same principles independently of where you are scalewise, which is exactly what you want in order to build something huge with ease.
  
-- Back in 2017, before it really ramped up, I estimated that between $6 trillion and $9 trillion per year would be spent globally on giant projects in the following decade. That estimate was conservative compared to others, which went as high as $22 trillion per year.
+- Back in 2017, before it really ramped up, I estimated that between USD 6 trillion and USD 9 trillion per year would be spent globally on giant projects in the following decade. That estimate was conservative compared to others, which went as high as USD 22 trillion per year.
  
-- If the dismal record of big projects were improved even a little—by cutting the cost by a mere 5 percent, say—$300 billion to $400 billion would be saved per year.
+- If the dismal record of big projects were improved even a little—by cutting the cost by a mere 5 percent, say—USD 300 billion to USD 400 billion would be saved per year.
  
 - Whereas a turbine in 2000 might have been a little taller than the Statue of Liberty and able to power 1,500 homes, a turbine in 2017 was almost double that height and capable of powering 7,100 homes.
  
