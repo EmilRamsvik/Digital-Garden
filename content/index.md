@@ -23,88 +23,45 @@ Welcome to my personal knowledge repository where I document insights, learnings
 
 ## Core Knowledge
 
-<div class="card-grid">
-  <a href="AI/AI.md" class="card">
-    <div class="card-icon">🧠</div>
-    <div class="card-title">Artificial Intelligence & Machine Learning</div>
-    <div class="card-description">Data science lifecycle, NLP, computer vision, and ML model development</div>
-  </a>
-  
-  <a href="Books/Books.md" class="card">
-    <div class="card-icon">📚</div>
-    <div class="card-title">Knowledge & Learning</div>
-    <div class="card-description">My book reviews and my learnings on books and literature</div>
-  </a>
-  
-  <a href="Programming/Programming.md" class="card">
-    <div class="card-icon">💻</div>
-    <div class="card-title">Software Engineering</div>
-    <div class="card-description">Python development, cloud platforms, database systems, and DevOps practices</div>
-  </a>
-  
-  <a href="Productivity/Productivity.md" class="card">
-    <div class="card-icon">⚡</div>
-    <div class="card-title">Productivity & Systems</div>
-    <div class="card-description">Tools, habits, and frameworks for efficient being a productive asset both at work and in life</div>
-  </a>
-</div>
+### [Artificial Intelligence & Machine Learning](AI/AI.md)
+- [Data Science](AI/Data%20Science/Data%20Science.md) - End-to-end project lifecycle, feature engineering, model evaluation
+- [Natural Language Processing](AI/Language/NLP.md) - LLMs, fine-tuning, and language model applications  
+- [Computer Vision](AI/Data%20Science/Computer%20Vision.md) - Image processing and visual recognition systems
+
+### [Knowledge & Learning](Books/Books.md)
+- [Technical Books](Books/Book%20Reviews/Programming/) - Software engineering, data systems, cloud architecture
+- [Business & Strategy](Books/Book%20Reviews/Strategy/) - Strategic thinking, consulting, organizational behavior
+- [Communication & Leadership](Books/Book%20Reviews/Communication/) - Management, negotiation, interpersonal skills
+- [Economics & Finance](Books/Book%20Reviews/Economics/) - Market analysis, financial systems, economic theory
+
+### [Software Engineering](Programming/Programming.md)
+- [Python](Programming/Python/Python.md) - FastAPI, testing frameworks, data processing
+- [Cloud & DevOps](Cloud/Cloud.md) - AWS, Azure, GCP, infrastructure as code
+- [Database Systems](Database/Database.md) - SQL, NoSQL, data warehousing
+
+### [Productivity & Systems](Productivity/Productivity.md)
+- [Productivity Theory](Productivity/Productivity%20Theory.md) - Evidence-based approaches to efficiency
+- [Tool Mastery](Mac/Mac.md) - Mac automation, Alfred workflows, terminal optimization
+- [Systems Thinking](Thinking/Systems.md) - Mental models for complex problem solving
 
 ## Professional Focus
 
-<div class="card-grid">
-  <a href="Data%20Engineering/Data%20Engineering.md" class="card">
-    <div class="card-icon">🔧</div>
-    <div class="card-title">Data Science & Analytics</div>
-    <div class="card-description">Pipeline design, data warehousing, ETL processes, and statistical analysis</div>
-  </a>
-  
-  <a href="Working/Consulting.md" class="card">
-    <div class="card-icon">💼</div>
-    <div class="card-title">Strategy & Business</div>
-    <div class="card-description">Client engagement, problem-solving frameworks, and career development</div>
-  </a>
-</div>
+### Data Science & Analytics
+- [Data Engineering](Data%20Engineering/Data%20Engineering.md) - Pipeline design, data warehousing, ETL processes
+- [Statistical Analysis](Mathematics/Statistics.md) - Hypothesis testing, experimental design
+
+### Strategy & Business
+- [Consulting](Working/Consulting.md) - Client engagement, problem-solving frameworks
+- [Career Development](Working/Career.md) - Professional growth, leadership transition
 
 ## Personal Interests
 
-<div class="card-grid">
-  <a href="Exercise/Exercise.md" class="card">
-    <div class="card-icon">💪</div>
-    <div class="card-title">Health & Fitness</div>
-    <div class="card-description">Training philosophy, strength building, and wellness optimization</div>
-  </a>
-  
-  <a href="Food/Food.md" class="card">
-    <div class="card-icon">👨‍🍳</div>
-    <div class="card-title">Culinary Arts</div>
-    <div class="card-description">Recipe development, cooking techniques, and food culture exploration</div>
-  </a>
-  
-  <a href="Travel/Travel.md" class="card">
-    <div class="card-icon">✈️</div>
-    <div class="card-title">Travel & Culture</div>
-    <div class="card-description">Destination guides, cultural observations, and travel optimization</div>
-  </a>
-  
-  <a href="Philosophy/Philosophy.md" class="card">
-    <div class="card-icon">🤔</div>
-    <div class="card-title">Philosophy & Thinking</div>
-    <div class="card-description">Mental frameworks, ethical considerations, and worldview development</div>
-  </a>
-</div>
+- [Health & Fitness](Exercise/Exercise.md) - Training philosophy, strength building, and wellness optimization
+- [Culinary Arts](Food/Food.md) - Recipe development, cooking techniques, and food culture exploration
+- [Travel & Culture](Travel/Travel.md) - Destination guides, cultural observations, and travel optimization
+- [Philosophy & Thinking](Philosophy/Philosophy.md) - Mental frameworks, ethical considerations, and worldview development
 
 ## Quick Links
 
-<div class="card-grid">
-  <a href="About/About.md" class="card">
-    <div class="card-icon">👨‍💼</div>
-    <div class="card-title">About Me</div>
-    <div class="card-description">Professional background and personal interests</div>
-  </a>
-  
-  <a href="Articles/Notes/Notes.md" class="card">
-    <div class="card-icon">📝</div>
-    <div class="card-title">Notes & Articles</div>
-    <div class="card-description">Latest insights and article notes</div>
-  </a>
-</div>
+- [About Me](About/About.md) - Professional background and personal interests
+- [Recent Updates](../DailyNotes/) - Latest insights and discoveries
