@@ -4,7 +4,8 @@ updated: 2025-10-24T08:41
 Pages:
 Author:
 tags:
-  - apache-spark
+  - books
+  - digital-garden
   - book-review
   - technology
   - big-data
