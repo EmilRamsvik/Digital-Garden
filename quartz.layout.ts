@@ -5,7 +5,23 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // Giscus comments (backed by GitHub Discussions) — themed by the CSS in
+    // quartz/static/giscus/. Disable per note with `comments: false` frontmatter.
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "EmilRamsvik/Digital-Garden",
+        repoId: "R_kgDOJqKhOw",
+        category: "General",
+        categoryId: "DIC_kwDOJqKhO84DAWsj",
+        mapping: "url",
+        strict: false,
+        reactionsEnabled: true,
+        inputPosition: "bottom",
+      },
+    }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/emilramsvik/Digital-Garden",
