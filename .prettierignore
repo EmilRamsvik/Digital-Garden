@@ -1,0 +1,10 @@
+# Obsidian-synced notes — scripts/migrate.sh overwrites these from the vault,
+# so formatting them creates perpetual churn. Never format content/.
+content/
+
+# Generated output and caches
+public/
+.quartz-cache/
+prof/
+tsconfig.tsbuildinfo
+package-lock.json

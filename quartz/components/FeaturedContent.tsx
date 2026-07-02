@@ -24,86 +24,86 @@ const defaultOptions: FeaturedContentOptions = {
       description: "Machine learning, LLMs, and AI applications",
       link: "AI/AI" as SimpleSlug,
       icon: "🧠",
-      category: "Technical"
+      category: "Technical",
     },
     {
-      title: "Data Science", 
+      title: "Data Science",
       description: "End-to-end project lifecycle and analytics",
       link: "AI/Data Science/Data Science" as SimpleSlug,
       icon: "📊",
-      category: "Technical"
+      category: "Technical",
     },
     {
       title: "Programming",
       description: "Python, cloud, and software engineering",
       link: "Programming/Programming" as SimpleSlug,
-      icon: "💻", 
-      category: "Technical"
+      icon: "💻",
+      category: "Technical",
     },
     {
       title: "Books & Learning",
       description: "Knowledge base and reading insights",
       link: "Books/Books" as SimpleSlug,
       icon: "📚",
-      category: "Knowledge"
+      category: "Knowledge",
     },
     {
       title: "Business Strategy",
       description: "Strategic thinking and consulting",
       link: "Books/Book Reviews/Strategy/" as SimpleSlug,
       icon: "🎯",
-      category: "Business"
+      category: "Business",
     },
     {
       title: "Productivity",
-      description: "Systems and efficiency optimization", 
+      description: "Systems and efficiency optimization",
       link: "Productivity/Productivity" as SimpleSlug,
       icon: "⚡",
-      category: "Personal"
+      category: "Personal",
     },
     {
       title: "Systems Thinking",
       description: "Mental models for complex problems",
       link: "Thinking/Systems" as SimpleSlug,
       icon: "🔄",
-      category: "Thinking"
+      category: "Thinking",
     },
     {
       title: "Economics & Finance",
       description: "Market analysis and financial systems",
       link: "Books/Book Reviews/Economics/" as SimpleSlug,
       icon: "💰",
-      category: "Business"
+      category: "Business",
     },
     {
-      title: "Cloud & DevOps", 
+      title: "Cloud & DevOps",
       description: "AWS, Azure, GCP infrastructure",
       link: "Cloud/Cloud" as SimpleSlug,
       icon: "☁️",
-      category: "Technical"
+      category: "Technical",
     },
     {
       title: "Career Development",
       description: "Professional growth and leadership",
       link: "Working/Career" as SimpleSlug,
       icon: "🚀",
-      category: "Professional"
+      category: "Professional",
     },
     {
       title: "Health & Fitness",
       description: "Training philosophy and wellness",
       link: "Exercise/Exercise" as SimpleSlug,
       icon: "💪",
-      category: "Personal"
+      category: "Personal",
     },
     {
       title: "Travel & Culture",
       description: "Destinations and cultural insights",
       link: "Travel/Travel" as SimpleSlug,
       icon: "🌍",
-      category: "Personal"
-    }
-  ]
+      category: "Personal",
+    },
+  ],
 }
 
 export default ((userOpts?: Partial<FeaturedContentOptions>) => {
@@ -115,8 +115,8 @@ export default ((userOpts?: Partial<FeaturedContentOptions>) => {
         <h2 class="featured-title">{opts.title}</h2>
         <div class="featured-grid">
           {opts.items.map((item) => (
-            <a 
-              href={resolveRelative(fileData.slug!, item.link)} 
+            <a
+              href={resolveRelative(fileData.slug!, item.link)}
               class="featured-card internal"
               data-category={item.category.toLowerCase()}
             >
