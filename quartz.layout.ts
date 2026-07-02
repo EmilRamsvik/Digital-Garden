@@ -40,6 +40,16 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.QuickLinks(),
       condition: (page) => page.fileData.slug === "index",
     }),
+    Component.ConditionalRender({
+      component: Component.RecentNotes({
+        title: "Recently tended",
+        limit: 5,
+        showTags: true,
+        // only real notes: skip the homepage and folder index pages
+        filter: (f) => f.slug !== "index" && !f.slug!.endsWith("/index"),
+      }),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
   left: [
     Component.PageTitle(),
@@ -57,7 +67,12 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    Component.Graph({
+      localGraph: {
+        depth: 2,
+        focusOnHover: true,
+      },
+    }),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
