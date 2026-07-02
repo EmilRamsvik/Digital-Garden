@@ -1,0 +1,19 @@
+.growth-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  width: fit-content;
+  padding: 0.15rem 0.6rem;
+  margin: 0.5rem 0;
+  border-radius: 999px;
+  border: 1px solid var(--lightgray);
+  background-color: var(--highlight);
+  color: var(--darkgray);
+  font-size: 0.8rem;
+  line-height: 1.4;
+  cursor: help;
+
+  .growth-badge-icon {
+    font-size: 0.9rem;
+  }
+}

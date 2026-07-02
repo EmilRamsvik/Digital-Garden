@@ -27,6 +27,7 @@ import FeaturedContent from "./FeaturedContent"
 import ProfessionalFocus from "./ProfessionalFocus"
 import PersonalInterests from "./PersonalInterests"
 import QuickLinks from "./QuickLinks"
+import GrowthBadge from "./GrowthBadge"
 
 export {
   ArticleTitle,
@@ -58,4 +59,5 @@ export {
   ProfessionalFocus,
   PersonalInterests,
   QuickLinks,
+  GrowthBadge,
 }
