@@ -1,0 +1,41 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "$CLAUDE_PROJECT_DIR/.claude/hooks/session-start.sh"
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(npm ci)",
+      "Bash(npm run check)",
+      "Bash(npm run test)",
+      "Bash(npm test)",
+      "Bash(npm run format)",
+      "Bash(npm run build)",
+      "Bash(npm run dev)",
+      "Bash(npx quartz build:*)",
+      "Bash(npx tsc --noEmit)",
+      "Bash(npx prettier:*)",
+      "Bash(tsx --test:*)",
+      "Bash(python3 scripts/check-links.py:*)",
+      "Bash(bash scripts/check-links-summary.sh)"
+    ],
+    "deny": [
+      "Bash(./scripts/migrate.sh:*)",
+      "Bash(scripts/migrate.sh:*)",
+      "Bash(bash scripts/migrate.sh:*)",
+      "Bash(sh scripts/migrate.sh:*)",
+      "Bash(./scripts/push.sh:*)",
+      "Bash(scripts/push.sh:*)",
+      "Bash(bash scripts/push.sh:*)",
+      "Bash(sh scripts/push.sh:*)"
+    ]
+  }
+}

@@ -4,6 +4,11 @@
 SOURCE_DIR="$HOME/Dropbox/Emil/Personal"
 TARGET_DIR="content"
 
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "ERROR: source vault $SOURCE_DIR not found. This script only runs on the owner's machine." >&2
+    exit 1
+fi
+
 echo "🔄 Starting migration from Obsidian to Digital Garden..."
 
 # Backup the current index.md file to preserve our custom card layout
