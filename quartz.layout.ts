@@ -5,7 +5,27 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    // Giscus comments (backed by GitHub Discussions). Disabled until the
+    // one-time GitHub setup is done — see docs/plans/2026-07-02-giscus-comments.md:
+    //  1. Enable Discussions on EmilRamsvik/Digital-Garden (Settings → Features)
+    //  2. Install the giscus app for the repo: https://github.com/apps/giscus
+    //  3. On https://giscus.app select the repo + the Announcements category,
+    //     copy the generated data-category-id, and paste it below
+    //  4. Uncomment this block (repo and repoId are already correct)
+    // Component.Comments({
+    //   provider: "giscus",
+    //   options: {
+    //     repo: "EmilRamsvik/Digital-Garden",
+    //     repoId: "R_kgDOJqKhOw",
+    //     category: "Announcements",
+    //     categoryId: "REPLACE_WITH_CATEGORY_ID",
+    //     mapping: "pathname",
+    //     reactionsEnabled: true,
+    //     inputPosition: "bottom",
+    //   },
+    // }),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/emilramsvik/Digital-Garden",
