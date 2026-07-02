@@ -23,6 +23,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
+    Component.GrowthBadge(),
     Component.TagList(),
     Component.ConditionalRender({
       component: Component.FeaturedContent(),

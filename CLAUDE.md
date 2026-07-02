@@ -44,6 +44,8 @@ Implementation plans live in `docs/plans/`, named `YYYY-MM-DD-short-slug.md`, ba
 
 `content/` is organized by topic (AI, Books, Programming, Working, Food, Travel, …), each area with its own index file and subdirectories. Quartz ignores `private`, `templates`, and `.obsidian` (see `ignorePatterns` in `quartz.config.ts`).
 
+Notes may declare a `growth` frontmatter field (`seedling` | `budding` | `evergreen`); the `GrowthBadge` component renders it as a maturity badge under the note title. Notes without the field show no badge. The field is authored in the Obsidian vault like all other content.
+
 ## Content workflow (owner-only, for context)
 
 Obsidian vault (`$HOME/Dropbox/Emil/Personal`) → `scripts/migrate.sh` → `content/` → `scripts/push.sh` (commit + push `main`) → Vercel deploy. `scripts/install-git-hooks.sh` installs a pre-commit hook running the link checker.
