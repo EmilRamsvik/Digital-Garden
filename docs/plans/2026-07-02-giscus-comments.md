@@ -1,6 +1,6 @@
 ---
 title: Enable giscus comments on all note pages
-status: approved # draft | approved | in-progress | done | abandoned
+status: done # draft | approved | in-progress | done | abandoned
 created: 2026-07-02
 author: Claude Code (cloud session, requested by Emil)
 ---
@@ -9,7 +9,7 @@ author: Claude Code (cloud session, requested by Emil)
 
 ## Context
 
-Quartz ships a `Comments` component (`quartz/components/Comments.tsx`) backed by [giscus](https://giscus.app), which stores comments as GitHub Discussions — no database or third-party service. The component is wired into `quartz.layout.ts` (`sharedPageComponents.afterBody`) but left commented out, because activating it requires one-time GitHub setup that only the repo owner can do. The giscus theme CSS already exists at `quartz/static/giscus/{light,dark}.css`, and the component's default `themeUrl` resolves to `https://www.tinyknowledge.com/static/giscus`, so theming works out of the box.
+Quartz ships a `Comments` component (`quartz/components/Comments.tsx`) backed by [giscus](https://giscus.app), which stores comments as GitHub Discussions — no database or third-party service. The component is wired into `quartz.layout.ts` (`sharedPageComponents.afterBody`). The giscus theme CSS lives at `quartz/static/giscus/{light,dark}.css`, and the component's default `themeUrl` resolves to `https://www.tinyknowledge.com/static/giscus`, so theming follows the site's light/dark mode.
 
 Readers can disable comments on a specific note by adding `comments: false` to its frontmatter (handled by the component).
 
@@ -23,24 +23,25 @@ Readers can disable comments on a specific note by adding `comments: false` to i
 
 ## Implementation steps
 
-Steps 1–3 are owner-only (GitHub UI); step 4 is a code edit any session can do once the ID is known.
+Steps 1–3 are owner-only (GitHub UI); step 4 is a code edit.
 
-1. [ ] Enable Discussions: GitHub → `EmilRamsvik/Digital-Garden` → Settings → Features → check **Discussions**. Create (or keep) a category named **Announcements** with the "announcement" format, so only giscus can open new threads.
-2. [ ] Install the giscus GitHub App for this repository: https://github.com/apps/giscus
-3. [ ] On https://giscus.app, select repo `EmilRamsvik/Digital-Garden` and category `Announcements`. From the generated `<script>` snippet, copy the `data-category-id` value.
-4. [ ] In `quartz.layout.ts`, uncomment the `Component.Comments(...)` block in `sharedPageComponents.afterBody` and replace `REPLACE_WITH_CATEGORY_ID` with the copied value. `repo` and `repoId` (`R_kgDOJqKhOw`) are already filled in.
+1. [x] Enable Discussions: GitHub → `EmilRamsvik/Digital-Garden` → Settings → Features → check **Discussions** (done by owner; category: **General**).
+2. [x] Install the giscus GitHub App for this repository: https://github.com/apps/giscus (done by owner).
+3. [x] On https://giscus.app, select repo `EmilRamsvik/Digital-Garden` and copy the generated IDs (owner provided: category `General`, categoryId `DIC_kwDOJqKhO84DAWsj`).
+4. [x] Activate the `Component.Comments(...)` block in `quartz.layout.ts` with `repo: EmilRamsvik/Digital-Garden`, `repoId: R_kgDOJqKhOw`, `category: General`, `categoryId: DIC_kwDOJqKhO84DAWsj`, `mapping: url`, `strict: false` (matching the owner's generated giscus snippet).
 
 ## Verification
 
-- [ ] `npm run check` passes.
-- [ ] `npm run dev`, open any note page: the giscus comment box renders below the content, follows dark/light mode toggling, and posting a test comment creates a thread in the repo's Discussions.
-- [ ] A page with `comments: false` in frontmatter shows no comment box.
+- [x] `npm run check` passes.
+- [x] `npm run build` succeeds and note pages contain the `.giscus` container with the correct repo/category data attributes.
+- [ ] Post-deploy: open a note on tinyknowledge.com, post a test comment, and confirm a thread appears in the repo's Discussions. A page with `comments: false` frontmatter shows no comment box. (Needs the live site; do after merge.)
 
 ## Risks / gotchas
 
-- If `categoryId` is wrong, pages still render but the giscus widget shows an error — verify with a real comment before considering it done.
-- The `mapping: "pathname"` setting keys threads to the URL path, so threads survive a domain change; renaming/moving a note orphans its thread.
+- `mapping: "url"` keys threads to the full page URL, so moving to a different domain would orphan existing threads (giscus's own generated default; acceptable for a personal site).
+- If the widget errors on the live site, re-check the category ID on https://giscus.app.
 
 ## Worklog
 
-- 2026-07-02 (Claude Code cloud session): wired the commented-out Comments block into `quartz.layout.ts` with `repo`/`repoId` pre-filled (repoId fetched from the GitHub API; Discussions currently disabled on the repo). Steps 1–4 pending owner.
+- 2026-07-02 (Claude Code cloud session): wired the commented-out Comments block into `quartz.layout.ts` with `repo`/`repoId` pre-filled (repoId fetched from the GitHub API; Discussions disabled on the repo at the time).
+- 2026-07-02 (Claude Code cloud session, later): owner completed the GitHub setup and provided the giscus snippet (category General, not Announcements). Activated the component with the owner's exact settings (`mapping: url`, `strict: false`). Remaining: post-deploy live-comment check (last verification box).
