@@ -22,27 +22,27 @@ const defaultOptions: PersonalInterestsOptions = {
       title: "Health & Fitness",
       description: "Training philosophy, strength building, and wellness optimization",
       link: "Exercise/Exercise" as SimpleSlug,
-      icon: "💪"
+      icon: "💪",
     },
     {
       title: "Culinary Arts",
       description: "Recipe development, cooking techniques, and food culture exploration",
       link: "Food/Food" as SimpleSlug,
-      icon: "👨‍🍳"
+      icon: "👨‍🍳",
     },
     {
       title: "Travel & Culture",
       description: "Destination guides, cultural observations, and travel optimization",
       link: "Travel/Travel" as SimpleSlug,
-      icon: "✈️"
+      icon: "✈️",
     },
     {
       title: "Philosophy & Thinking",
       description: "Mental frameworks, ethical considerations, and worldview development",
       link: "Philosophy/Philosophy" as SimpleSlug,
-      icon: "🤔"
-    }
-  ]
+      icon: "🤔",
+    },
+  ],
 }
 
 export default ((userOpts?: Partial<PersonalInterestsOptions>) => {
@@ -54,10 +54,7 @@ export default ((userOpts?: Partial<PersonalInterestsOptions>) => {
         <h2 class="personal-title">{opts.title}</h2>
         <div class="personal-grid">
           {opts.items.map((item) => (
-            <a 
-              href={resolveRelative(fileData.slug!, item.link)} 
-              class="personal-card internal"
-            >
+            <a href={resolveRelative(fileData.slug!, item.link)} class="personal-card internal">
               <div class="personal-icon">{item.icon}</div>
               <div class="personal-content">
                 <h3 class="personal-card-title">{item.title}</h3>

@@ -3,8 +3,8 @@
 # Get current date in YYYY-MM-DD format
 CURRENT_DATE=$(date +"%Y-%m-%d")
 
-# Add all changes
-git add .
+# Stage content changes only
+git add content/
 
 # Commit with the specified message format
 git commit -m "updated content: $CURRENT_DATE"

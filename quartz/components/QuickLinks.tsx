@@ -22,15 +22,15 @@ const defaultOptions: QuickLinksOptions = {
       title: "About Me",
       description: "Professional background and personal interests",
       link: "About/About" as SimpleSlug,
-      icon: "👨‍💼"
+      icon: "👨‍💼",
     },
     {
       title: "Recent Updates",
       description: "Latest insights and discoveries",
       link: "DailyNotes/" as SimpleSlug,
-      icon: "📝"
-    }
-  ]
+      icon: "📝",
+    },
+  ],
 }
 
 export default ((userOpts?: Partial<QuickLinksOptions>) => {
@@ -42,10 +42,7 @@ export default ((userOpts?: Partial<QuickLinksOptions>) => {
         <h2 class="quick-links-title">{opts.title}</h2>
         <div class="quick-links-grid">
           {opts.items.map((item) => (
-            <a 
-              href={resolveRelative(fileData.slug!, item.link)} 
-              class="quick-link-card internal"
-            >
+            <a href={resolveRelative(fileData.slug!, item.link)} class="quick-link-card internal">
               <div class="quick-link-icon">{item.icon}</div>
               <div class="quick-link-content">
                 <h3 class="quick-link-title">{item.title}</h3>

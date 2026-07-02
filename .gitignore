@@ -1,25 +1,20 @@
-# Dependency directories
-node_modules/*
+# Dependencies
+node_modules/
 
-# Production build files
-build/*
+# Build output and caches
+public/
+.quartz-cache/
+tsconfig.tsbuildinfo
+prof/
 
-# Docusaurus local development
-/.docusaurus/*
-
-
-# System files
+# OS / editor
 .DS_Store
 Thumbs.db
 
-# Logs
+# Logs and env
 *.log
-
-# Optional: Environment files
 .env
 .env.local
-.docusaurus/*
-.docusaurus
-node_modules
-node_modules/.cache/webpack/client-development-en/0.pack
-public/
+
+# Local Claude Code overrides
+.claude/settings.local.json

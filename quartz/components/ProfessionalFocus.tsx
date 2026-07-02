@@ -28,15 +28,15 @@ const defaultOptions: ProfessionalFocusOptions = {
           title: "Data Engineering",
           description: "Pipeline design, data warehousing, ETL processes",
           link: "Data-Engineering/Data-Engineering" as SimpleSlug,
-          icon: "🔧"
+          icon: "🔧",
         },
         {
-          title: "Statistical Analysis", 
+          title: "Statistical Analysis",
           description: "Hypothesis testing, experimental design",
           link: "Mathematics/Statistics" as SimpleSlug,
-          icon: "📈"
-        }
-      ]
+          icon: "📈",
+        },
+      ],
     },
     {
       title: "Strategy & Business",
@@ -45,17 +45,17 @@ const defaultOptions: ProfessionalFocusOptions = {
           title: "Consulting",
           description: "Client engagement, problem-solving frameworks",
           link: "Working/Consulting" as SimpleSlug,
-          icon: "💼"
+          icon: "💼",
         },
         {
           title: "Career Development",
           description: "Professional growth, leadership transition",
           link: "Working/Career" as SimpleSlug,
-          icon: "📊"
-        }
-      ]
-    }
-  ]
+          icon: "📊",
+        },
+      ],
+    },
+  ],
 }
 
 export default ((userOpts?: Partial<ProfessionalFocusOptions>) => {
@@ -71,8 +71,8 @@ export default ((userOpts?: Partial<ProfessionalFocusOptions>) => {
               <h3 class="section-title">{section.title}</h3>
               <div class="section-cards">
                 {section.items.map((item) => (
-                  <a 
-                    href={resolveRelative(fileData.slug!, item.link)} 
+                  <a
+                    href={resolveRelative(fileData.slug!, item.link)}
                     class="professional-card internal"
                   >
                     <div class="card-icon">{item.icon}</div>
